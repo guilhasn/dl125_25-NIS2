@@ -4,7 +4,7 @@ layout: default
 nav_order: 1
 ---
 
-# Formação NIS2 — DL 125/2025 nas autarquias locais
+# A CIBERSEGURANÇA NAS AUTARQUIAS LOCAIS E A DIRETIVA NIS2
 
 Roteiro prático de implementação do **Decreto-Lei 125/2025** (regime jurídico da ciberseguranca, em vigor desde 3 de Abril de 2026) e do **Aviso n.º 5146/2026/2** (regulamentação do CNCS) aplicado a **autarquias locais portuguesas**.
 
