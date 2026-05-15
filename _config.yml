@@ -1,0 +1,52 @@
+title: "Formação NIS2 — DL 125/2025 nas autarquias"
+description: "Roteiro de implementação do DL 125/2025 e Aviso 5146/2026 para autarquias locais portuguesas. Formação de 15 de Junho de 2026."
+url: "https://guilhasn.github.io"
+baseurl: "/dl125_25-NIS2"
+lang: pt-PT
+
+theme: just-the-docs
+color_scheme: light
+
+# Search
+search_enabled: true
+search:
+  heading_level: 2
+  previews: 3
+  preview_words_before: 5
+  preview_words_after: 10
+  tokenizer_separator: /[\s/]+/
+  rel_url: true
+  button: false
+
+# Footer
+footer_content: "Formação NIS2 © 2026 Nuno Salvador. Conteúdo licenciado sob <a href='https://creativecommons.org/licenses/by/4.0/'>CC BY 4.0</a>."
+last_edit_timestamp: true
+last_edit_time_format: "%d %b %Y às %H:%M"
+
+# External nav links
+nav_external_links:
+  - title: "DL 125/2025 (DRE)"
+    url: "https://files.dre.pt/1s/2025/12/23400/0000200110.pdf"
+    hide_icon: false
+  - title: "CNCS — Regime Jurídico"
+    url: "https://www.cncs.gov.pt/pt/regime-juridico/"
+    hide_icon: false
+
+# Aux links
+aux_links:
+  "Repo GitHub":
+    - "https://github.com/guilhasn/dl125_25-NIS2"
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Exclude
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - README.md
+  - LICENSE
+  - vendor
+  - tools
