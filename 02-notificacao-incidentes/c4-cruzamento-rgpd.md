@@ -76,4 +76,4 @@ A decisão é do **Encarregado de Protecção de Dados (DPO)** da câmara, em ar
 
 ## Próximo passo
 
-[C.5 Demos: simulador e plataforma CNCS →]({% link 02-notificacao-incidentes/c5-demos.md %})
+[C.5 Demo: plataforma CNCS →]({% link 02-notificacao-incidentes/c5-demos.md %})

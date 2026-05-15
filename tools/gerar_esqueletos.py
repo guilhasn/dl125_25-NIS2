@@ -39,7 +39,7 @@ ESTRUTURA = {
             ("c2-prazos-pt-vs-nis2", "C.2 Prazos PT vs NIS2"),
             ("c3-conteudo-notificacao", "C.3 Conteúdo de cada notificação"),
             ("c4-cruzamento-rgpd", "C.4 Cruzamento RGPD"),
-            ("c5-demos", "C.5 Demos: simulador e plataforma CNCS"),
+            ("c5-demos", "C.5 Demo: plataforma CNCS"),
             ("c6-cenarios-exercicio", "C.6 Cartões de cenário do exercício A4"),
         ],
     ),

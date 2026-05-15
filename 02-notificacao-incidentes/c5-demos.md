@@ -1,24 +1,13 @@
 ---
-title: "C.5 Demos: simulador e plataforma CNCS"
+title: "C.5 Demo: plataforma CNCS"
 layout: default
 parent: "C. Notificação de incidentes"
 nav_order: 5
 ---
 
-# C.5 Demos: simulador e plataforma CNCS
+# C.5 Demo: plataforma CNCS
 
-Este slot de 10 minutos é a parte mais visual do bloco. Mostram-se **duas ferramentas** que vos vão acompanhar no terreno: o **simulador da `nis2-portugal.com`** (não oficial, para prática e pré-trabalho) e a **plataforma electrónica do CNCS** (oficial, canal único de submissão). Na sessão presencial, a demo é navegada ao vivo; aqui ficam as referências e o resumo do *workflow*.
-
-## Simulador — `nis2-portugal.com`
-
-Ferramenta independente desenvolvida pela comunidade de profissionais de ciberseguranca portugueses. **Não tem valor oficial** — não substitui submissões à plataforma do CNCS — mas serve dois propósitos práticos:
-
-- **Calculadora de qualificação**: introduz-se o número de trabalhadores e o sector, e obtém-se a qualificação aplicável (Grupo A/B/fora; entidade essencial/importante quando aplicável).
-- **Simulador de notificação inicial**: preenche-se um formulário equivalente ao do art. 42.º e o sistema produz um PDF de rascunho, útil para treino sem submeter de facto. **Particularmente útil** para o exercício A4 (ver [C.6]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %})), e para que cada formando faça uma simulação em sua casa antes da formação.
-- **Audit/checklist de conformidade Anexo IV**: questionário guiado, gera relatório com pontos verdes/amarelos/vermelhos.
-- **Registo de incidentes** simulado, sem comunicação real à autoridade.
-
-**Uso recomendado**: como ferramenta de pré-trabalho e de treino interno; **não** como canal de submissão real, **não** como solução de registo permanente (sem garantias de protecção de dados).
+Este slot de 10 minutos é a parte mais visual do bloco. Mostra-se a **plataforma electrónica do CNCS** — o canal único e oficial de submissão de notificações, autoidentificação, qualificação e comunicações com a autoridade. Na sessão presencial, a demo é navegada ao vivo; aqui ficam as referências e o resumo do *workflow*.
 
 ## Plataforma electrónica do CNCS — canal oficial
 
