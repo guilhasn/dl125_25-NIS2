@@ -26,7 +26,7 @@ A subtileza para Grupo A e Grupo B é esta: o **Anexo IV do Aviso 5146/2026/2 n�
 
 > «GR.PL-2 — O Plano de Resposta a Incidentes é definido, comunicado, mantido e melhorado.» — Anexo III do Aviso 5146/2026/2 (essenciais e importantes)
 
-**Constatação**: o **art. 27.º, al. a)** (tratamento de incidentes) é uma medida para essenciais e importantes — o art. 33.º remete a definição para o regulamento, e o Anexo IV apenas concretiza a medida **O.CRI** (Grupo B). A obrigação formal de ter um **Plano de Resposta a Incidentes** consta do Anexo III (GR.PL-2 e RS.MI-2) e dirige-se a essenciais e importantes. Para autarquias, o plano não é exigido nominalmente — mas o **cumprimento dos prazos de notificação** dos arts. 42.º a 44.º **exige** organização prévia equivalente a um plano.
+**Constatação**: o *art. 27.º, al. a)*{:.legal} (tratamento de incidentes) é uma medida para essenciais e importantes — o art. 33.º remete a definição para o regulamento, e o Anexo IV apenas concretiza a medida **O.CRI** (Grupo B). A obrigação formal de ter um **Plano de Resposta a Incidentes** consta do Anexo III (GR.PL-2 e RS.MI-2) e dirige-se a essenciais e importantes. Para autarquias, o plano não é exigido nominalmente — mas o **cumprimento dos prazos de notificação** dos arts. 42.º a 44.º **exige** organização prévia equivalente a um plano.
 
 ## Estrutura mínima de um plano — cinco peças
 

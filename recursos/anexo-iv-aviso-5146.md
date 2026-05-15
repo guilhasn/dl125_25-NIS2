@@ -239,7 +239,7 @@ Para tornar a leitura mais fluida, no resto do hub:
 
 | Sigla | Significado |
 |---|---|
-| **RJC** | Regime Jurídico da Ciberseguranca (anexo ao DL 125/2025) |
+| *RJC*{:.legal} | Regime Jurídico da Ciberseguranca (anexo ao DL 125/2025) |
 | **Aviso 5146** | Aviso n.º 5146/2026/2 — regulamento de execução do RJC |
 | **CNCS** | Centro Nacional de Ciberseguranca |
 | **CNPD** | Comissão Nacional de Protecção de Dados |

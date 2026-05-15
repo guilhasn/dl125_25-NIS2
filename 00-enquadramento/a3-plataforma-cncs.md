@@ -65,7 +65,7 @@ Adicionalmente, sempre que haja alteração relevante (mudança do ponto de cont
 
 ## Falência do sistema — quando a plataforma não está disponível
 
-O Aviso prevê expressamente esta situação no **art. 17.º**: se a plataforma estiver tecnicamente indisponível, a comunicação faz-se por meios alternativos do CNCS — **e-mail** e/ou **telefone** indicados na página institucional do CNCS, com o registo posterior no sistema assim que volte a estar acessível.
+O Aviso prevê expressamente esta situação no *art. 17.º*{:.legal}: se a plataforma estiver tecnicamente indisponível, a comunicação faz-se por meios alternativos do CNCS — **e-mail** e/ou **telefone** indicados na página institucional do CNCS, com o registo posterior no sistema assim que volte a estar acessível.
 
 Para uma autarquia, na prática isto significa:
 

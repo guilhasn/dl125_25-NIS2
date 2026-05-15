@@ -112,7 +112,7 @@ Recomendação prática para Grupo B: **revisão anual** + as três janelas acim
 
 ## Sidebar — dupla qualificação
 
-Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, a matriz de risco do **Anexo II do Aviso** aplica-se directamente, com os três níveis de conformidade do art. 28.º:
+Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, a matriz de risco do *Anexo II do Aviso*{:.legal} aplica-se directamente, com os três níveis de conformidade do art. 28.º:
 
 - **Básico**: medidas mínimas do nível B do Anexo III.
 - **Substancial**: medidas do nível B + medidas adicionais S.

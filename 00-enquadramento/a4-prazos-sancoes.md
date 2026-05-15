@@ -12,7 +12,7 @@ nav_order: 4
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-Este é o slot que costuma despertar a sala: **quanto custa não cumprir**, **quando começa a custar**, e **se há margem de manobra durante o período de adaptação**. A resposta tem três peças: uma **linha do tempo** de marcos, uma **tabela de coimas** por grupo, e a leitura cuidadosa do **art. 65.º** sobre a chamada "amnistia" — que, como veremos, **não é uma amnistia**.
+Este é o slot que costuma despertar a sala: **quanto custa não cumprir**, **quando começa a custar**, e **se há margem de manobra durante o período de adaptação**. A resposta tem três peças: uma **linha do tempo** de marcos, uma **tabela de coimas** por grupo, e a leitura cuidadosa do *art. 65.º*{:.legal} sobre a chamada "amnistia" — que, como veremos, **não é uma amnistia**.
 
 ## Linha do tempo até Abril de 2027
 
@@ -65,7 +65,7 @@ A diferença é considerável — mas 350.000 € não é "simbólico" para o or
 
 ## Negligência — limites reduzidos a metade
 
-O **art. 64.º** do RJC reduz a metade os limites mínimos e máximos quando a infracção é praticada por **negligência** (e não por dolo). Para o Grupo B muito graves, isto significa que o intervalo aplicável passa de 8.000–350.000 € para **4.000–175.000 €**. Continua a não ser pequeno.
+O *art. 64.º*{:.legal} do RJC reduz a metade os limites mínimos e máximos quando a infracção é praticada por **negligência** (e não por dolo). Para o Grupo B muito graves, isto significa que o intervalo aplicável passa de 8.000–350.000 € para **4.000–175.000 €**. Continua a não ser pequeno.
 
 Esta cláusula importa em dois sentidos:
 

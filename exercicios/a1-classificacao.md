@@ -34,7 +34,7 @@ Não é exercício teórico. O conteúdo que produzirem aqui é o que **levam de
    - Tipo (Câmara / SMAS / Empresa municipal / Fundação / Agência).
    - **Número actual de trabalhadores** no quadro de pessoal.
    - Sector de actividade — em especial, verificar se opera serviço listado no Anexo I (energia, transportes, banca, infraestruturas digitais, água potável, águas residuais, etc.) ou Anexo II.
-5. Aplique o critério do **art. 7.º RJC**:
+5. Aplique o critério do *art. 7.º RJC*{:.legal}:
    - **≥ 250 trabalhadores** → Grupo A (entidade pública relevante).
    - **75 a 249** → Grupo B (entidade pública relevante).
    - **< 75** → fora do regime obrigatório.

@@ -12,7 +12,7 @@ nav_order: 4
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-Respostas curtas às perguntas que aparecem repetidamente em autarquias sobre o **DL 125/2025**, o **Aviso n.º 5146/2026/2** e a plataforma **MyCiber**. Cada resposta termina, sempre que aplicável, com uma ligação ao bloco do hub onde o tema é tratado em profundidade.
+Respostas curtas às perguntas que aparecem repetidamente em autarquias sobre o *DL 125/2025*{:.legal}, o *Aviso n.º 5146/2026/2*{:.legal} e a plataforma **MyCiber**. Cada resposta termina, sempre que aplicável, com uma ligação ao bloco do hub onde o tema é tratado em profundidade.
 
 ## Sumário
 
@@ -101,7 +101,7 @@ O art. 17.º do Aviso prevê esta situação: comunicação por **e-mail** ou **
 
 ### 3.1 Que medidas é que a minha autarquia tem mesmo de implementar?
 
-Para uma autarquia (entidade pública relevante), aplicam-se as medidas do **art. 33.º do RJC** + **Anexo IV do Aviso 5146/2026/2** — **não** os arts. 26.º a 32.º + Anexo III, que se aplicam apenas a essenciais e importantes. O Anexo IV tem:
+Para uma autarquia (entidade pública relevante), aplicam-se as medidas do *art. 33.º do RJC*{:.legal} + **Anexo IV do Aviso 5146/2026/2** — **não** os arts. 26.º a 32.º + Anexo III, que se aplicam apenas a essenciais e importantes. O Anexo IV tem:
 
 - **14 medidas** para Grupo B (75–249 trabalhadores).
 - **~24 medidas** para Grupo A (≥ 250).

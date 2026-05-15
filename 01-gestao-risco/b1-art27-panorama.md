@@ -43,7 +43,7 @@ Esta é a leitura crítica de todo o bloco B, e é a leitura que distingue o dir
 
 > «As medidas de ciberseguranca a adotar pelas entidades **essenciais e importantes** (...)» — art. 27.º, n.º 1, alínea de abertura
 
-O art. 27.º **dirige-se exclusivamente a entidades essenciais e importantes**. Para as autarquias, que (como vimos em [A.2]({% link 00-enquadramento/a2-quem-esta-abrangido.md %})) são **entidades públicas relevantes**, a norma aplicável é o **art. 33.º do RJC**:
+O art. 27.º **dirige-se exclusivamente a entidades essenciais e importantes**. Para as autarquias, que (como vimos em [A.2]({% link 00-enquadramento/a2-quem-esta-abrangido.md %})) são **entidades públicas relevantes**, a norma aplicável é o *art. 33.º do RJC*{:.legal}:
 
 > «As entidades públicas relevantes devem cumprir com as medidas de ciberseguranca estabelecidas pelo CNCS (...) através de regulamento, (...) em termos proporcionais e adequados ao grupo a que pertencem.» — art. 33.º, n.os 1-2 do RJC
 
@@ -87,7 +87,7 @@ Para o **Grupo B**, o Anexo IV define **5 medidas O + 11 medidas T + 2 medidas H
 
 ## Sidebar — dupla qualificação
 
-Se a vossa autarquia opera **SMAS ou empresa municipal em sector Anexo I** (água potável, águas residuais), essa entidade operacional **é classificada como essencial** e aplica-se-lhe o **Anexo III** completo, com os **três níveis Básico/Substancial/Elevado** definidos no art. 28.º do Aviso. As 9 alíneas do art. 27.º **aplicam-se directamente** a essa entidade — e o regulamento que decompõe cada uma delas em medidas mínimas é o Anexo III, não o Anexo IV.
+Se a vossa autarquia opera **SMAS ou empresa municipal em sector Anexo I** (água potável, águas residuais), essa entidade operacional **é classificada como essencial** e aplica-se-lhe o *Anexo III*{:.legal} completo, com os **três níveis Básico/Substancial/Elevado** definidos no art. 28.º do Aviso. As 9 alíneas do art. 27.º **aplicam-se directamente** a essa entidade — e o regulamento que decompõe cada uma delas em medidas mínimas é o Anexo III, não o Anexo IV.
 
 Em termos práticos, isto significa para uma autarquia com SMAS:
 

@@ -37,7 +37,7 @@ A consequência prática é decisiva:
 |---|---|---|
 | Entidade essencial | arts. 26.º–32.º do RJC | Anexo III do Aviso (níveis B/S/E) |
 | Entidade importante | arts. 26.º–32.º do RJC (mais leves) | Anexo III do Aviso |
-| **Entidade pública relevante** | **art. 33.º do RJC** | **Anexo IV do Aviso (Grupo A/B)** |
+| **Entidade pública relevante** | *art. 33.º do RJC*{:.legal} | **Anexo IV do Aviso (Grupo A/B)** |
 
 **Não tentem aplicar os arts. 26.º a 32.º a uma autarquia**. Esses artigos exigem coisas que a lei especificamente **não pede** a uma entidade pública relevante: um Responsável de Cibersegurança formalmente designado nos termos do art. 31.º, um Ponto de Contacto Permanente nos termos do art. 32.º, ou as 9 alíneas de medidas técnicas do art. 27.º. Mais à frente (Bloco B) veremos que **alguma coisa muito parecida** aparece no Anexo IV — mas a fonte legal e o grau de exigência são diferentes. Aplicar acriticamente templates desenhados para essenciais cria **sobre-conformidade**, que é dispendiosa e desnecessária.
 

@@ -123,7 +123,7 @@ Cada activo crítico tem **um nome** associado (responsável funcional na câmar
 
 ## Sidebar — dupla qualificação
 
-Para SMAS qualificado como **entidade essencial**, aplicam-se as medidas equivalentes do **Anexo III** (não Anexo IV), com nível Básico/Substancial/Elevado conforme atribuído pelo CNCS. O inventário é mais exigente — exige tipicamente identificação de todos os componentes SCADA, sensores de telemetria, sistemas de bombagem, etc. O template [`checklist-setor-agua-potavel-nis2.docx`]({{ '/templates/checklist-setor-agua-potavel-nis2.docx' | relative_url }}) cobre estas especificidades. A lista do art. 32.º cumpre-se nos mesmos termos da câmara, mas separadamente para a entidade SMAS.
+Para SMAS qualificado como **entidade essencial**, aplicam-se as medidas equivalentes do *Anexo III*{:.legal} (não Anexo IV), com nível Básico/Substancial/Elevado conforme atribuído pelo CNCS. O inventário é mais exigente — exige tipicamente identificação de todos os componentes SCADA, sensores de telemetria, sistemas de bombagem, etc. O template [`checklist-setor-agua-potavel-nis2.docx`]({{ '/templates/checklist-setor-agua-potavel-nis2.docx' | relative_url }}) cobre estas especificidades. A lista do art. 32.º cumpre-se nos mesmos termos da câmara, mas separadamente para a entidade SMAS.
 
 ## Templates aplicáveis
 

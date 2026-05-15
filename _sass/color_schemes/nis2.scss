@@ -19,3 +19,14 @@ $border-color: #DDE3EA;
 // Nav links
 $nav-list-link-color: #2C3E50;
 $nav-child-link-color: #1F4E78;
+
+// --- Estilos custom para referências à legislação --------------------
+// Aplicado via Kramdown attribute list: `*art. 27.º RJC*{:.legal}` → <em class="legal">
+em.legal,
+.legal {
+  font-style: italic;
+  background-color: #f1f3f5;
+  padding: 0.05em 0.35em;
+  border-radius: 0.25em;
+  color: #1F4E78;
+}
