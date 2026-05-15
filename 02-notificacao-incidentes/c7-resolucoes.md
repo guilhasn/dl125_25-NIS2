@@ -8,7 +8,8 @@ nav_exclude: true
 
 # C.7 Resoluções modelo do exercício A4
 
-> ⚠️ **Aviso — consultar APÓS o exercício.** Esta página contém as resoluções modelo das 4 fichas de cenário. Se ainda não fez o exercício, **pare aqui** e abra primeiro [C.6 Fichas de cenário]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}). As resoluções não são respostas únicas — são pontos de comparação. Há decisões intermédias defensáveis. O propósito é validar o **raciocínio**, não copiar o resultado.
+{: .warning }
+> **Aviso — consultar APÓS o exercício.** Esta página contém as resoluções modelo das 4 fichas de cenário. Se ainda não fez o exercício, **pare aqui** e abra primeiro [C.6 Fichas de cenário]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}). As resoluções não são respostas únicas — são pontos de comparação. Há decisões intermédias defensáveis. O propósito é validar o **raciocínio**, não copiar o resultado.
 
 Para cada ficha apresentam-se: **decisão de notificação + cronograma + canais + notificação 24h preenchida + comunicação externa + ponto sensível**. As notificações usam o template [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}).
 

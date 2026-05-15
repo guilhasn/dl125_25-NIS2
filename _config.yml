@@ -5,7 +5,25 @@ baseurl: "/dl125_25-NIS2"
 lang: pt-PT
 
 theme: just-the-docs
-color_scheme: light
+color_scheme: nis2
+
+# Callouts — caixas visuais coloridas
+callouts:
+  note:
+    title: "Nota"
+    color: blue
+  important:
+    title: "Importante"
+    color: yellow
+  warning:
+    title: "Aviso"
+    color: red
+  spoiler:
+    title: "Resoluções — após o exercício"
+    color: purple
+  highlight:
+    title: "Estado actual"
+    color: green
 
 # Search
 search_enabled: true

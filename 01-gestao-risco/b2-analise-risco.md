@@ -7,7 +7,8 @@ nav_order: 2
 
 # B.2 Análise e gestão de risco
 
-> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+{: .note }
+> **Grupo A** = autarquia com ≥ 250 trabalhadores  
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 

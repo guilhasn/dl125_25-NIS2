@@ -77,7 +77,8 @@ Não há classificação numérica. Os critérios qualitativos para *feedback* n
 
 ## Resoluções modelo
 
-> ⚠️ **Spoiler — só APÓS o exercício.** Resoluções completas das 4 fichas (decisões, cronograma, notificação 24h preenchida, canais, pontos sensíveis) disponíveis em [**C.7 Resoluções modelo**]({% link 02-notificacao-incidentes/c7-resolucoes.md %}). Não consulte antes de tentar — o valor do exercício está no raciocínio, não na resposta. (Página excluída do menu lateral; só acessível por este *link*.)
+{: .warning }
+> **Spoiler — só APÓS o exercício.** Resoluções completas das 4 fichas (decisões, cronograma, notificação 24h preenchida, canais, pontos sensíveis) disponíveis em [**C.7 Resoluções modelo**]({% link 02-notificacao-incidentes/c7-resolucoes.md %}). Não consulte antes de tentar — o valor do exercício está no raciocínio, não na resposta. (Página excluída do menu lateral; só acessível por este *link*.)
 
 ## Próximo passo
 
