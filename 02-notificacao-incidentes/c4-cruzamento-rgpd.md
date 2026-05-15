@@ -70,9 +70,9 @@ A decisão é do **Encarregado de Protecção de Dados (DPO)** da câmara, em ar
 
 | Template | Etiqueta | Notas |
 |---|---|---|
-| `playbook-data-breach-nis2.docx` | Referência | Playbook específico para violação de dados — articula NIS2 e RGPD, com checklist dupla. |
-| `aipd-nis2.docx` | Referência | Avaliação de Impacto sobre a Protecção de Dados — não é resposta a incidente, mas ajuda a fundamentar o risco prévio. |
-| `politica-violacoes-dados-nis2.docx` | Adaptar | Política interna que liga a notificação NIS2 à notificação RGPD; define quem decide o quê. |
+| [`playbook-data-breach-nis2.docx`]({{ '/templates/playbook-data-breach-nis2.docx' | relative_url }}) | Referência | Playbook específico para violação de dados — articula NIS2 e RGPD, com checklist dupla. |
+| [`aipd-nis2.docx`]({{ '/templates/aipd-nis2.docx' | relative_url }}) | Referência | Avaliação de Impacto sobre a Protecção de Dados — não é resposta a incidente, mas ajuda a fundamentar o risco prévio. |
+| [`politica-violacoes-dados-nis2.docx`]({{ '/templates/politica-violacoes-dados-nis2.docx' | relative_url }}) | Adaptar | Política interna que liga a notificação NIS2 à notificação RGPD; define quem decide o quê. |
 
 ## Próximo passo
 

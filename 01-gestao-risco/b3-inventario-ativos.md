@@ -38,7 +38,7 @@ Categorias-padrão a percorrer:
 - **Serviços externos**: alojamento web/cloud, fornecedor de e-mail (se Microsoft 365 ou Google Workspace), DNS gerido, certificados.
 - **Equipamentos especiais**: servidores SCADA se aplicável (raro em câmaras puras; típico em SMAS), terminais de cobrança, equipamentos de vigilância vídeo integrados em rede.
 
-Para cada activo crítico, registar minimamente: nome/identificador, tipo, responsável funcional na câmara, fornecedor (se externo), serviço/processo que suporta, dependências de outros activos. O template `inventario-ativos-tic-nis2.xlsx` traz estas colunas pré-formatadas.
+Para cada activo crítico, registar minimamente: nome/identificador, tipo, responsável funcional na câmara, fornecedor (se externo), serviço/processo que suporta, dependências de outros activos. O template [`inventario-ativos-tic-nis2.xlsx`]({{ '/templates/inventario-ativos-tic-nis2.xlsx' | relative_url }}) traz estas colunas pré-formatadas.
 
 ## Grupo A — inventário completo + classificação
 
@@ -56,7 +56,7 @@ Esta é uma medida adicional do Grupo A que estabelece um pivot importante: o in
 
 A medida O.PSI/classificação (Grupo A) — **Processo de Classificação da Informação** — exige que a entidade defina **critérios e níveis de sensibilidade** para os dados organizacionais. Tipicamente quatro níveis: público, interno, confidencial, restrito. Cada activo que armazena dados é classificado pelo nível mais elevado da informação que contém. Isto orienta depois as medidas de cifragem, controlo de acessos, retenção e destruição.
 
-O template `politica-classificacao-dados-nis2.docx` traz a estrutura típica de níveis e regras; o template `politica-gestao-ativos-nis2.docx` consagra a política mais ampla de gestão do ciclo de vida dos activos.
+O template [`politica-classificacao-dados-nis2.docx`]({{ '/templates/politica-classificacao-dados-nis2.docx' | relative_url }}) traz a estrutura típica de níveis e regras; o template [`politica-gestao-ativos-nis2.docx`]({{ '/templates/politica-gestao-ativos-nis2.docx' | relative_url }}) consagra a política mais ampla de gestão do ciclo de vida dos activos.
 
 ## A lista de activos publicamente acessíveis (art. 32.º do Aviso) — uma obrigação separada
 
@@ -118,23 +118,23 @@ Cada activo crítico tem **um nome** associado (responsável funcional na câmar
 
 ## Sidebar — dupla qualificação
 
-Para SMAS qualificado como **entidade essencial**, aplicam-se as medidas equivalentes do **Anexo III** (não Anexo IV), com nível Básico/Substancial/Elevado conforme atribuído pelo CNCS. O inventário é mais exigente — exige tipicamente identificação de todos os componentes SCADA, sensores de telemetria, sistemas de bombagem, etc. O template `checklist-setor-agua-potavel-nis2.docx` cobre estas especificidades. A lista do art. 32.º cumpre-se nos mesmos termos da câmara, mas separadamente para a entidade SMAS.
+Para SMAS qualificado como **entidade essencial**, aplicam-se as medidas equivalentes do **Anexo III** (não Anexo IV), com nível Básico/Substancial/Elevado conforme atribuído pelo CNCS. O inventário é mais exigente — exige tipicamente identificação de todos os componentes SCADA, sensores de telemetria, sistemas de bombagem, etc. O template [`checklist-setor-agua-potavel-nis2.docx`]({{ '/templates/checklist-setor-agua-potavel-nis2.docx' | relative_url }}) cobre estas especificidades. A lista do art. 32.º cumpre-se nos mesmos termos da câmara, mas separadamente para a entidade SMAS.
 
 ## Templates aplicáveis
 
 | Template | Grupo / Etiqueta | Notas |
 |---|---|---|
-| `inventario-ativos-tic-nis2.xlsx` | **Aplicar tal-qual** | Folha Excel com colunas activo / tipo / responsável / fornecedor / criticidade / publicamente acessível / dependências. Cobre Grupo B; estender para Grupo A. |
-| `registo-ativos-nis2.xlsx` | Referência | Variante mais detalhada do inventário, com colunas adicionais (modelo, versão, data de aquisição, fim de vida útil). Útil para Grupo A. |
-| `politica-classificacao-dados-nis2.docx` | **Adaptar para Grupo A** | Política que define os 4 níveis de sensibilidade. Obrigatória para Grupo A (medida O.PSI/classificação). |
-| `politica-gestao-ativos-nis2.docx` | **Adaptar para Grupo A** | Política mais ampla — ciclo de vida dos activos, papéis e responsabilidades, ferramentas. Obrigatória para Grupo A. |
+| [`inventario-ativos-tic-nis2.xlsx`]({{ '/templates/inventario-ativos-tic-nis2.xlsx' | relative_url }}) | **Aplicar tal-qual** | Folha Excel com colunas activo / tipo / responsável / fornecedor / criticidade / publicamente acessível / dependências. Cobre Grupo B; estender para Grupo A. |
+| [`registo-ativos-nis2.xlsx`]({{ '/templates/registo-ativos-nis2.xlsx' | relative_url }}) | Referência | Variante mais detalhada do inventário, com colunas adicionais (modelo, versão, data de aquisição, fim de vida útil). Útil para Grupo A. |
+| [`politica-classificacao-dados-nis2.docx`]({{ '/templates/politica-classificacao-dados-nis2.docx' | relative_url }}) | **Adaptar para Grupo A** | Política que define os 4 níveis de sensibilidade. Obrigatória para Grupo A (medida O.PSI/classificação). |
+| [`politica-gestao-ativos-nis2.docx`]({{ '/templates/politica-gestao-ativos-nis2.docx' | relative_url }}) | **Adaptar para Grupo A** | Política mais ampla — ciclo de vida dos activos, papéis e responsabilidades, ferramentas. Obrigatória para Grupo A. |
 | Lista de activos publicamente acessíveis (art. 32.º) | A criar | Lacuna activa — formato pendente de instrução técnica do CNCS. Produção interna do hub até 8 Junho com modelo provisório. |
 
 Todos os templates disponíveis para *download* na página de [recursos]({% link recursos/templates.md %}) a partir de 8 de Junho.
 
 ## Exercício associado
 
-[Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-inventario.md %}) (10 min) — cada par lista os 5 activos críticos da sua autarquia, com responsável e dependência principal. Output: cinco linhas preenchidas no `inventario-ativos-tic-nis2.xlsx`. Combinado com o Exercício A2 (matriz de risco) e com o Exercício A5 (fornecedores, à tarde), constitui o **núcleo do diagnóstico inicial** que sai convosco no fim do dia.
+[Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-inventario.md %}) (10 min) — cada par lista os 5 activos críticos da sua autarquia, com responsável e dependência principal. Output: cinco linhas preenchidas no [`inventario-ativos-tic-nis2.xlsx`]({{ '/templates/inventario-ativos-tic-nis2.xlsx' | relative_url }}). Combinado com o Exercício A2 (matriz de risco) e com o Exercício A5 (fornecedores, à tarde), constitui o **núcleo do diagnóstico inicial** que sai convosco no fim do dia.
 
 ## Próximo passo
 

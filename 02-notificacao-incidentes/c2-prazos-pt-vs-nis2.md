@@ -78,7 +78,7 @@ Esta página é principalmente conceptual; os templates relevantes estão na pá
 
 | Template | Grupo / Etiqueta | Notas |
 |---|---|---|
-| `registo-incidentes-nis2.xlsx` | Aplicar | Registo interno de incidentes — com colunas para horas-chave: detecção, verificação significativa (início do relógio), notificação inicial submetida, fim de impacto, relatório final. Permite demonstrar cumprimento dos prazos. |
+| [`registo-incidentes-nis2.xlsx`]({{ '/templates/registo-incidentes-nis2.xlsx' | relative_url }}) | Aplicar | Registo interno de incidentes — com colunas para horas-chave: detecção, verificação significativa (início do relógio), notificação inicial submetida, fim de impacto, relatório final. Permite demonstrar cumprimento dos prazos. |
 
 ## Próximo passo
 

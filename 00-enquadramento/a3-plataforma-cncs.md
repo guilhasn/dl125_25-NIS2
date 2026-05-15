@@ -82,7 +82,7 @@ Durante o bloco A, faremos uma **demo navegada** da plataforma. Se à data estiv
 
 | Template | Etiqueta | Notas |
 |---|---|---|
-| `formulario-registo-cncs-nis2.docx` | Aplicar tal-qual | Versão imprimível do formulário de auto-identificação (preenche-se antes para depois passar à plataforma). Download disponível a partir de 8 Junho. |
+| [`formulario-registo-cncs-nis2.docx`]({{ '/templates/formulario-registo-cncs-nis2.docx' | relative_url }}) | Aplicar tal-qual | Versão imprimível do formulário de auto-identificação (preenche-se antes para depois passar à plataforma). Download disponível a partir de 8 Junho. |
 
 ## Próximo passo
 

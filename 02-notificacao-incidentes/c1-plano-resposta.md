@@ -78,11 +78,11 @@ Para a parte autárquica (câmara em sentido estrito), a O.CRI do Anexo IV basta
 
 | Template | Grupo / Etiqueta | Notas |
 |---|---|---|
-| `plano-resposta-incidentes-nis2.docx` | **Adaptar Grupo B** | Documento-base com as cinco peças. Versão Grupo B simplifica funções acumuladas; versão Grupo A separa decisor / executor / comunicador. |
-| `matriz-escalacao-incidentes-nis2.docx` | **Adaptar** | Quadro de uma página com nomes, telemóveis, horários, suplentes. Imprimir e afixar no gabinete TIC e na recepção do edifício principal. |
-| `playbook-ransomware-nis2.docx` | Referência | Playbook específico para o cenário mais provável. Recomendado mesmo para Grupo B. |
-| `playbook-data-breach-nis2.docx` | Referência | Playbook para violação de dados pessoais — articula NIS2 + RGPD. |
-| `template-post-incident-review-nis2.docx` | Adaptar | Revisão pós-incidente. Aplicar quando se fecha qualquer incidente acima do limiar de significativo. |
+| [`plano-resposta-incidentes-nis2.docx`]({{ '/templates/plano-resposta-incidentes-nis2.docx' | relative_url }}) | **Adaptar Grupo B** | Documento-base com as cinco peças. Versão Grupo B simplifica funções acumuladas; versão Grupo A separa decisor / executor / comunicador. |
+| [`matriz-escalacao-incidentes-nis2.docx`]({{ '/templates/matriz-escalacao-incidentes-nis2.docx' | relative_url }}) | **Adaptar** | Quadro de uma página com nomes, telemóveis, horários, suplentes. Imprimir e afixar no gabinete TIC e na recepção do edifício principal. |
+| [`playbook-ransomware-nis2.docx`]({{ '/templates/playbook-ransomware-nis2.docx' | relative_url }}) | Referência | Playbook específico para o cenário mais provável. Recomendado mesmo para Grupo B. |
+| [`playbook-data-breach-nis2.docx`]({{ '/templates/playbook-data-breach-nis2.docx' | relative_url }}) | Referência | Playbook para violação de dados pessoais — articula NIS2 + RGPD. |
+| [`template-post-incident-review-nis2.docx`]({{ '/templates/template-post-incident-review-nis2.docx' | relative_url }}) | Adaptar | Revisão pós-incidente. Aplicar quando se fecha qualquer incidente acima do limiar de significativo. |
 
 Todos os templates ficam disponíveis a partir de 8 de Junho na página de [recursos]({% link recursos/templates.md %}).
 

@@ -48,8 +48,8 @@ Esta página é demonstrativa; os templates relevantes ao preenchimento das noti
 
 | Template | Etiqueta | Notas |
 |---|---|---|
-| `notificacao-24h-nis2.docx` | Adaptar | Rascunho a preencher offline se a plataforma falhar; copiar conteúdo para o e-mail ao CNCS. |
-| `registo-incidentes-nis2.xlsx` | Aplicar | Registar IDs das notificações submetidas (ou IDs internos se submissão por e-mail). |
+| [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) | Adaptar | Rascunho a preencher offline se a plataforma falhar; copiar conteúdo para o e-mail ao CNCS. |
+| [`registo-incidentes-nis2.xlsx`]({{ '/templates/registo-incidentes-nis2.xlsx' | relative_url }}) | Aplicar | Registar IDs das notificações submetidas (ou IDs internos se submissão por e-mail). |
 
 ## Próximo passo
 

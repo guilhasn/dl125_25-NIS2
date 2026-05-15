@@ -21,7 +21,7 @@ Esta página apresenta os cenários e as instruções. Os cartões físicos (PDF
 
 1. **Decisão de notificação**: este incidente atinge o limiar de «significativo» (art. 40.º, n.º 3 do RJC)? Justificar com 2-3 parâmetros concretos. Ver [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
 2. **Canais accionados**: CNCS? CNPD? Ministério Público? Comunicação a destinatários (art. 48.º)? Ver [C.4]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}).
-3. **Notificação inicial dos 24h** parcialmente preenchida no template `notificacao-24h-nis2.docx` — pelo menos: identificação, hora de verificação, descrição sumária, estimativa de impacto (ver [C.3]({% link 02-notificacao-incidentes/c3-conteudo-notificacao.md %})).
+3. **Notificação inicial dos 24h** parcialmente preenchida no template [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) — pelo menos: identificação, hora de verificação, descrição sumária, estimativa de impacto (ver [C.3]({% link 02-notificacao-incidentes/c3-conteudo-notificacao.md %})).
 4. **Decisão de comunicação externa**: comunicado público? Sim/não, e quando.
 
 **Apresentação**: cada par tem **1 minuto** para apresentar:
@@ -36,10 +36,10 @@ Esta página apresenta os cenários e as instruções. Os cartões físicos (PDF
 
 | Template | Etiqueta | Quando |
 |---|---|---|
-| `notificacao-24h-nis2.docx` | Preencher | Notificação inicial — saída do exercício. |
-| `registo-incidentes-nis2.xlsx` | Registar | Linha de registo posterior — opcional dentro do exercício, recomendado para casa. |
-| `playbook-ransomware-nis2.docx` | Referência | Útil para o Cartão 1 e para complementar o Cartão 4. |
-| `playbook-data-breach-nis2.docx` | Referência | Útil para os Cartões 1, 2 e 4 (todos com dimensão de violação de dados pessoais). |
+| [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) | Preencher | Notificação inicial — saída do exercício. |
+| [`registo-incidentes-nis2.xlsx`]({{ '/templates/registo-incidentes-nis2.xlsx' | relative_url }}) | Registar | Linha de registo posterior — opcional dentro do exercício, recomendado para casa. |
+| [`playbook-ransomware-nis2.docx`]({{ '/templates/playbook-ransomware-nis2.docx' | relative_url }}) | Referência | Útil para o Cartão 1 e para complementar o Cartão 4. |
+| [`playbook-data-breach-nis2.docx`]({{ '/templates/playbook-data-breach-nis2.docx' | relative_url }}) | Referência | Útil para os Cartões 1, 2 e 4 (todos com dimensão de violação de dados pessoais). |
 
 ## Cartão 1 — Ransomware
 

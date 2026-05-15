@@ -48,23 +48,23 @@ Para uma autarquia de Grupo B, a gestão de risco materializa-se em **três entr
    - **Impacto**: 1 (insignificante, perda de algumas horas de produtividade) a 5 (catastrófico, paralisação de serviço público crítico, prejuízo financeiro substancial, dano reputacional grave).
    - **Risco bruto** = Probabilidade × Impacto. Resultados de 1 a 25; valores ≥ 15 exigem tratamento prioritário; valores 8–14 exigem plano de tratamento documentado; valores ≤ 7 são habitualmente aceites com monitorização.
 
-Estes três entregáveis cabem num ficheiro Excel de uma só folha — é exactamente o que o template `matriz-risco-nis2.xlsx` faz.
+Estes três entregáveis cabem num ficheiro Excel de uma só folha — é exactamente o que o template [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}) faz.
 
 ## Tradução para Grupo A — requisitos adicionais
 
 Para autarquias do Grupo A, o regime cumula (art. 30.º, n.º 3 do Aviso) e exige adicionalmente:
 
-1. **Metodologia documentada** — política escrita que descreve **como** se faz a análise (escalas, critérios, periodicidade, intervenientes). Materializa-se num documento próprio, do tipo `metodologia-avaliacao-riscos-nis2.docx`, aprovado pelo executivo. Sem este documento, a matriz parece arbitrária.
+1. **Metodologia documentada** — política escrita que descreve **como** se faz a análise (escalas, critérios, periodicidade, intervenientes). Materializa-se num documento próprio, do tipo [`metodologia-avaliacao-riscos-nis2.docx`]({{ '/templates/metodologia-avaliacao-riscos-nis2.docx' | relative_url }}), aprovado pelo executivo. Sem este documento, a matriz parece arbitrária.
 
 2. **Identificação de funções e activos críticos** (Anexo IV medida **O.ID**) — não basta inventariar; é preciso identificar **as funções ou actividades críticas** (atendimento ao munícipe, processo de licenciamento, gestão de águas, etc.) e a sua dependência das TIC. A análise de risco passa a estruturar-se por **processo de negócio**, não só por activo.
 
 3. **Revisão periódica** — pelo menos anual, e adicionalmente nas três janelas previstas no art. 31.º, n.º 2 do Aviso (ver "Periodicidade", abaixo). Cada revisão produz registo datado.
 
-4. **Aceitação formal do risco residual** — o **risco residual** é o que sobra depois de implementadas as medidas de tratamento. Tem de existir documento — tipicamente `aceitacao-riscos-residuais-nis2.docx` — assinado pelo dirigente máximo, que declara que a entidade aceita conscientemente o risco que permanece. Esta assinatura é a contraparte explícita do art. 25.º para essenciais; em autarquias, o Anexo IV Grupo A consagra-a indirectamente pela exigência de **Política de Ciberseguranca (O.PSI)** aprovada pela gestão de topo.
+4. **Aceitação formal do risco residual** — o **risco residual** é o que sobra depois de implementadas as medidas de tratamento. Tem de existir documento — tipicamente [`aceitacao-riscos-residuais-nis2.docx`]({{ '/templates/aceitacao-riscos-residuais-nis2.docx' | relative_url }}) — assinado pelo dirigente máximo, que declara que a entidade aceita conscientemente o risco que permanece. Esta assinatura é a contraparte explícita do art. 25.º para essenciais; em autarquias, o Anexo IV Grupo A consagra-a indirectamente pela exigência de **Política de Ciberseguranca (O.PSI)** aprovada pela gestão de topo.
 
 ## Metodologia recomendada — 5 passos
 
-Independentemente do grupo, recomendamos a sequência que se segue. É essencialmente a abordagem do template `metodologia-avaliacao-riscos-nis2.docx`, simplificada para o nível autárquico.
+Independentemente do grupo, recomendamos a sequência que se segue. É essencialmente a abordagem do template [`metodologia-avaliacao-riscos-nis2.docx`]({{ '/templates/metodologia-avaliacao-riscos-nis2.docx' | relative_url }}), simplificada para o nível autárquico.
 
 ### Passo 1 — Identificar activos
 
@@ -113,23 +113,23 @@ Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, a 
 - **Substancial**: medidas do nível B + medidas adicionais S.
 - **Elevado**: as anteriores + medidas adicionais E.
 
-A atribuição do nível é feita pelo CNCS em função do sector (águas) e da dimensão da entidade. Para um SMAS pequeno (até 50 trabalhadores) tendencialmente nível B; SMAS médios (50–150) frequentemente S; grandes ou multimunicipais E. **Importante**: para o SMAS, o template **`matriz-risco-setor-agua-potavel-nis2.xlsx`** já vem pré-preenchido com os cenários típicos do sector — usar como ponto de partida e não reinventar a roda.
+A atribuição do nível é feita pelo CNCS em função do sector (águas) e da dimensão da entidade. Para um SMAS pequeno (até 50 trabalhadores) tendencialmente nível B; SMAS médios (50–150) frequentemente S; grandes ou multimunicipais E. **Importante**: para o SMAS, o template **[`matriz-risco-setor-agua-potavel-nis2.xlsx`]({{ '/templates/matriz-risco-setor-agua-potavel-nis2.xlsx' | relative_url }})** já vem pré-preenchido com os cenários típicos do sector — usar como ponto de partida e não reinventar a roda.
 
 ## Templates aplicáveis
 
 | Template | Grupo / Etiqueta | Notas |
 |---|---|---|
-| `matriz-risco-nis2.xlsx` | **Adaptar para Grupo B** | Folha base com colunas activo / ameaça / P / I / risco / tratamento. Aplicar tal-qual para Grupo B; estender para Grupo A. |
-| `metodologia-avaliacao-riscos-nis2.docx` | **Adaptar para Grupo A** | Documento descritivo da metodologia. Obrigatório para Grupo A; recomendado para Grupo B. |
-| `aceitacao-riscos-residuais-nis2.docx` | **Adaptar para Grupo A** | Termo de aceitação formal assinado pelo dirigente. Grupo A: obrigatório. Grupo B: recomendado. |
-| `analise-impacto-negocio-nis2.xlsx` | Referência | Análise de Impacto no Negócio (BIA). Complemento à matriz de risco — quantifica o impacto operacional e financeiro da indisponibilidade de cada activo. Útil sobretudo para Grupo A. |
-| `matriz-risco-setor-agua-potavel-nis2.xlsx` | **Para SMAS** | Matriz pré-preenchida com cenários do sector águas. Usar apenas para a entidade SMAS, não para a câmara. |
+| [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}) | **Adaptar para Grupo B** | Folha base com colunas activo / ameaça / P / I / risco / tratamento. Aplicar tal-qual para Grupo B; estender para Grupo A. |
+| [`metodologia-avaliacao-riscos-nis2.docx`]({{ '/templates/metodologia-avaliacao-riscos-nis2.docx' | relative_url }}) | **Adaptar para Grupo A** | Documento descritivo da metodologia. Obrigatório para Grupo A; recomendado para Grupo B. |
+| [`aceitacao-riscos-residuais-nis2.docx`]({{ '/templates/aceitacao-riscos-residuais-nis2.docx' | relative_url }}) | **Adaptar para Grupo A** | Termo de aceitação formal assinado pelo dirigente. Grupo A: obrigatório. Grupo B: recomendado. |
+| [`analise-impacto-negocio-nis2.xlsx`]({{ '/templates/analise-impacto-negocio-nis2.xlsx' | relative_url }}) | Referência | Análise de Impacto no Negócio (BIA). Complemento à matriz de risco — quantifica o impacto operacional e financeiro da indisponibilidade de cada activo. Útil sobretudo para Grupo A. |
+| [`matriz-risco-setor-agua-potavel-nis2.xlsx`]({{ '/templates/matriz-risco-setor-agua-potavel-nis2.xlsx' | relative_url }}) | **Para SMAS** | Matriz pré-preenchida com cenários do sector águas. Usar apenas para a entidade SMAS, não para a câmara. |
 
 Todos os templates ficam disponíveis para *download* a partir de 8 de Junho na página de [recursos]({% link recursos/templates.md %}).
 
 ## Exercício associado
 
-[Exercício A2 — Matriz de risco da entidade]({% link exercicios/a2-matriz-risco.md %}) (15 min) — cada par identifica 3 riscos da sua autarquia, atribui P × I, decide o tratamento. Output: 3 linhas preenchidas na `matriz-risco-nis2.xlsx`. Este é o exercício mais importante da manhã, e o output sai convosco — ficareis com o **embrião da matriz de risco da vossa entidade**.
+[Exercício A2 — Matriz de risco da entidade]({% link exercicios/a2-matriz-risco.md %}) (15 min) — cada par identifica 3 riscos da sua autarquia, atribui P × I, decide o tratamento. Output: 3 linhas preenchidas na [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}). Este é o exercício mais importante da manhã, e o output sai convosco — ficareis com o **embrião da matriz de risco da vossa entidade**.
 
 ## Próximo passo
 

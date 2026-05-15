@@ -121,8 +121,8 @@ Se não trouxeram estes dados, façam o exercício com aproximações e complete
 | Template | Etiqueta | Notas |
 |---|---|---|
 | `WS1_v2_Classificacao_Obrigacoes_H1_ComLegislacao.docx` | Aplicar tal-qual | Worksheet do exercício A1. Download disponível a partir de 8 Junho. |
-| `avaliacao-maturidade-nis2.xlsx` | Adaptar Grupo A/B | Autodiagnóstico inicial. Download disponível a partir de 8 Junho. |
-| `gap-analysis-nis2.xlsx` | Adaptar Grupo A/B | Comparação entre estado actual e Anexo IV. Download disponível a partir de 8 Junho. |
+| [`avaliacao-maturidade-nis2.xlsx`]({{ '/templates/avaliacao-maturidade-nis2.xlsx' | relative_url }}) | Adaptar Grupo A/B | Autodiagnóstico inicial. Download disponível a partir de 8 Junho. |
+| [`gap-analysis-nis2.xlsx`]({{ '/templates/gap-analysis-nis2.xlsx' | relative_url }}) | Adaptar Grupo A/B | Comparação entre estado actual e Anexo IV. Download disponível a partir de 8 Junho. |
 
 ## Próximo passo
 

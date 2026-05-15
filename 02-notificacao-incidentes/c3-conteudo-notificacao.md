@@ -29,7 +29,7 @@ Submetida na plataforma electrónica do CNCS «**sem demora injustificada e até
 - **Distinção entre início e detecção** — campos diferentes, datas diferentes. Em incidentes longos (compromisso de fornecedor há semanas, descoberto hoje), os valores divergem muito.
 - **Categoria da causa** segundo a taxonomia — até à publicação da instrução técnica do CNCS, usar as cinco categorias-padrão do art. 31.º, n.º 4 do Aviso: «falha de sistema, fenómeno natural, erro humano, ataque malicioso, falha de fornecedor».
 
-**Template**: `notificacao-24h-nis2.docx` — preencher offline em rascunho (especialmente útil quando a plataforma estiver indisponível, ver art. 17.º do Aviso) e depois transcrever para a plataforma. Manter o rascunho como evidência de cumprimento atempado.
+**Template**: [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) — preencher offline em rascunho (especialmente útil quando a plataforma estiver indisponível, ver art. 17.º do Aviso) e depois transcrever para a plataforma. Manter o rascunho como evidência de cumprimento atempado.
 
 ## 2. Actualização da notificação inicial — art. 42.º, n.º 3 (72h, facultativa)
 
@@ -45,7 +45,7 @@ Submetida na plataforma electrónica do CNCS «**sem demora injustificada e até
 
 - A situação não evoluiu materialmente — a actualização passa a ser ruído.
 
-**Template**: `notificacao-72h-nis2.docx` — mais leve que a inicial, focado em **delta** (o que mudou).
+**Template**: [`notificacao-72h-nis2.docx`]({{ '/templates/notificacao-72h-nis2.docx' | relative_url }}) — mais leve que a inicial, focado em **delta** (o que mudou).
 
 ## 3. Notificação de fim de impacto significativo — art. 43.º (24h após cessação)
 
@@ -84,7 +84,7 @@ Submetido «**no prazo de 30 dias úteis a contar da data da notificação do fi
 - **Medidas correctivas adoptadas** (já feitas) e **preventivas planeadas** (com prazos). Sem prazos, é wishlist.
 - **Indicação de notificações cruzadas** — se houve violação de dados pessoais e notificou-se a CNPD, **referir explicitamente**. Articula com art. 40.º, n.º 5 do RJC.
 
-**Template**: `notificacao-30d-nis2.docx`.
+**Template**: [`notificacao-30d-nis2.docx`]({{ '/templates/notificacao-30d-nis2.docx' | relative_url }}).
 
 ## 5. Relatório intercalar — art. 44.º, n.º 3 (semanal se persistir)
 
@@ -96,23 +96,23 @@ Aplica-se em incidentes longos (compromisso persistente, recuperação muito pro
 
 Em paralelo às notificações ao CNCS, o art. 48.º do RJC impõe **comunicação aos destinatários dos serviços** (munícipes) «**sem demora injustificada**» quando o incidente seja susceptível de os afectar negativamente. Esta é uma **obrigação distinta** da notificação ao CNCS e materializa-se em comunicado público, posts em sítio institucional, ou comunicações individualizadas se aplicável. A informação «deve ser prestada de forma gratuita e em linguagem facilmente compreensível» (art. 48.º, n.º 4) — sem juridiquês.
 
-**Template**: `notificacao-incidente-destinatarios-nis2.docx` — modelo de comunicado público para incidente com impacto a munícipes (exemplo: indisponibilidade prolongada do portal, comprometimento de dados pessoais).
+**Template**: [`notificacao-incidente-destinatarios-nis2.docx`]({{ '/templates/notificacao-incidente-destinatarios-nis2.docx' | relative_url }}) — modelo de comunicado público para incidente com impacto a munícipes (exemplo: indisponibilidade prolongada do portal, comprometimento de dados pessoais).
 
 ## Templates aplicáveis
 
 | Template | Etiqueta | Quando usar |
 |---|---|---|
-| `notificacao-24h-nis2.docx` | Adaptar | Notificação inicial (e como rascunho durante o incidente). |
-| `notificacao-72h-nis2.docx` | Adaptar | Actualização facultativa às 72h. |
-| `notificacao-30d-nis2.docx` | Adaptar | Relatório final aos 30 dias úteis. |
-| `notificacao-incidente-destinatarios-nis2.docx` | Referência | Comunicação a munícipes (art. 48.º). |
-| `registo-incidentes-nis2.xlsx` | Aplicar | Registo interno de horas-chave e estado de cada notificação submetida. |
+| [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) | Adaptar | Notificação inicial (e como rascunho durante o incidente). |
+| [`notificacao-72h-nis2.docx`]({{ '/templates/notificacao-72h-nis2.docx' | relative_url }}) | Adaptar | Actualização facultativa às 72h. |
+| [`notificacao-30d-nis2.docx`]({{ '/templates/notificacao-30d-nis2.docx' | relative_url }}) | Adaptar | Relatório final aos 30 dias úteis. |
+| [`notificacao-incidente-destinatarios-nis2.docx`]({{ '/templates/notificacao-incidente-destinatarios-nis2.docx' | relative_url }}) | Referência | Comunicação a munícipes (art. 48.º). |
+| [`registo-incidentes-nis2.xlsx`]({{ '/templates/registo-incidentes-nis2.xlsx' | relative_url }}) | Aplicar | Registo interno de horas-chave e estado de cada notificação submetida. |
 
 Todos os templates estão disponíveis a partir de 8 de Junho na página de [recursos]({% link recursos/templates.md %}).
 
 ## Exercício associado
 
-[Exercício A4 — Notificação 24h]({% link exercicios/a4-notificacao.md %}) (25 min, em C.6) — cada par preenche, num cartão de cenário, a notificação inicial usando `notificacao-24h-nis2.docx`. Ver [C.6]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}).
+[Exercício A4 — Notificação 24h]({% link exercicios/a4-notificacao.md %}) (25 min, em C.6) — cada par preenche, num cartão de cenário, a notificação inicial usando [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}). Ver [C.6]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}).
 
 ## Próximo passo
 
