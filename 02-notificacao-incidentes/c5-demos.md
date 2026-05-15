@@ -5,13 +5,17 @@ parent: "C. Notificação de incidentes"
 nav_order: 5
 ---
 
-# C.5 Demo: plataforma CNCS
+# C.5 Demo: plataforma CNCS — MyCiber
 
-Este slot de 10 minutos é a parte mais visual do bloco. Mostra-se a **plataforma electrónica do CNCS** — o canal único e oficial de submissão de notificações, autoidentificação, qualificação e comunicações com a autoridade. Em sessão (online, partilha de ecrã), a demo é navegada ao vivo se a plataforma estiver acessível à data; aqui ficam as referências e o resumo do *workflow*.
+Este slot de 10 minutos é a parte mais visual do bloco. Mostra-se a plataforma electrónica do CNCS, designada **MyCiber** — disponível em **[myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}**. É o canal único e oficial de submissão de notificações, autoidentificação, qualificação e comunicações com a autoridade. Em sessão (online, partilha de ecrã), a demo é navegada ao vivo se a plataforma estiver acessível à data; aqui ficam as referências e o resumo do *workflow*.
+
+> **Estado actual (15 de Junho de 2026):** o MyCiber já está acessível em [myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}, com o **Simulador** funcional. As funcionalidades de **registo formal, qualificação e notificação de incidentes** aguardam a publicação da versão final do Aviso 5146/2026/2 (em consulta pública até 22 de Abril de 2026). Ver [A.3 — Plataforma electrónica do CNCS]({% link 00-enquadramento/a3-plataforma-cncs.md %}) para o detalhe sobre o que já está disponível.
 
 ## Plataforma electrónica do CNCS — canal oficial
 
 Definida no **Cap. II do Aviso 5146/2026/2** (arts. 4.º a 19.º). É o **único canal oficial** de comunicação com a autoridade de ciberseguranca para autoidentificação, registo, comunicação de RC/PCP (não aplicável a autarquias), notificação de incidentes, relatório anual e recepção de notificações electrónicas do CNCS.
+
+Endereço: **[https://myciber.gov.pt/](https://myciber.gov.pt/){:target="_blank"}**.
 
 **Autenticação**: Cartão de Cidadão ou Chave Móvel Digital, com perfil de utilizador associado à entidade. Para autarquias, o secretário-geral ou o presidente designam por escrito quem pode actuar em nome da entidade.
 
