@@ -9,7 +9,7 @@ nav_order: 5
 
 Este slot de 10 minutos é a parte mais visual do bloco. Mostra-se a plataforma electrónica do CNCS, designada **MyCiber** — disponível em **[myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}**. É o canal único e oficial de submissão de notificações, autoidentificação, qualificação e comunicações com a autoridade. Em sessão (online, partilha de ecrã), a demo é navegada ao vivo se a plataforma estiver acessível à data; aqui ficam as referências e o resumo do *workflow*.
 
-> **Estado actual (15 de Junho de 2026):** o MyCiber já está acessível em [myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}, com o **Simulador** funcional. As funcionalidades de **registo formal, qualificação e notificação de incidentes** aguardam a publicação da versão final do Aviso 5146/2026/2 (em consulta pública até 22 de Abril de 2026). Ver [A.3 — Plataforma electrónica do CNCS]({% link 00-enquadramento/a3-plataforma-cncs.md %}) para o detalhe sobre o que já está disponível.
+> **Estado actual (15 de Junho de 2026):** o MyCiber já está acessível em [myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}, com o **Simulador** funcional. As funcionalidades de **registo formal, qualificação e notificação de incidentes** aguardam a publicação da versão final do Aviso 5146/2026/2 — a **consulta pública terminou em 22 de Abril de 2026** e está em fase de redacção da versão final. Ver [A.3 — Plataforma electrónica do CNCS]({% link 00-enquadramento/a3-plataforma-cncs.md %}) para o detalhe sobre o que já está disponível.
 
 ## Plataforma electrónica do CNCS — canal oficial
 
@@ -31,7 +31,7 @@ Endereço: **[https://myciber.gov.pt/](https://myciber.gov.pt/){:target="_blank"
 
 ### Se a plataforma estiver indisponível em 15 de Junho de 2026
 
-O Aviso 5146/2026/2 entrou em consulta pública em 10 de Março de 2026; a versão final e a entrada efectiva em funcionamento da plataforma podem não estar concluídas em meados de Junho. **Plano B na sessão**: usam-se **capturas de ecrã** das versões intermédias divulgadas e um **vídeo gravado** previamente (pré-trabalho da Fase 6 da produção do hub). O conteúdo conceptual — campos, fluxos, prazos — é o mesmo.
+O Aviso 5146/2026/2 entrou em consulta pública em 10 de Março de 2026 e terminou-a em 22 de Abril; está agora em fase de análise dos contributos e redacção da versão final pelo CNCS. A entrada efectiva em funcionamento das funcionalidades de registo, qualificação e notificação depende da publicação no Diário da República — pode não estar concluída em meados de Junho. **Plano B na sessão**: usam-se **capturas de ecrã** das versões intermédias divulgadas e um **vídeo gravado** previamente (pré-trabalho da Fase 6 da produção do hub). O conteúdo conceptual — campos, fluxos, prazos — é o mesmo.
 
 ### Falência da plataforma — art. 17.º do Aviso
 

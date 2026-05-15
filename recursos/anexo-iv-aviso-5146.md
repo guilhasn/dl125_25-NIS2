@@ -8,7 +8,7 @@ search_exclude: false
 
 # Anexo IV do Aviso 5146/2026/2 — Medidas O / T / H
 
-> ⚠️ **Preliminar.** O Aviso 5146/2026/2 está em **consulta pública** (até 22 de Abril de 2026). Os códigos e nomes apresentados aqui reflectem o **projecto** posto a consulta — a **versão final** pode introduzir alterações terminológicas. Esta página será actualizada quando o diploma for publicado em definitivo.
+> ⚠️ **Preliminar.** A **consulta pública** do Aviso 5146/2026/2 **terminou em 22 de Abril de 2026**. O CNCS está agora na **fase de análise dos contributos e redacção da versão final**, que será publicada no Diário da República em data ainda não anunciada. Os códigos e nomes apresentados aqui reflectem o **projecto** posto a consulta — podem sofrer alterações terminológicas na versão final. Esta página será actualizada quando o diploma for publicado em definitivo.
 
 O Anexo IV organiza as medidas obrigatórias em **três famílias**, identificadas pela primeira letra do código:
 
