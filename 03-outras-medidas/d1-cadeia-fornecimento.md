@@ -23,7 +23,7 @@ O art. 28.º dirige-se literalmente a entidades essenciais e importantes, mas a 
 
 Uma câmara média portuguesa depende, na prática, de **uma mão-cheia de fornecedores TIC** para tudo o que é digital:
 
-- **Software de gestão municipal**: tipicamente **Medidata** (contabilidade, recursos humanos, gestão documental) ou **AIRC** ou **Glintt** ou **Sciencephere**. Frequentemente **fornecedor único** sem alternativa funcional a curto prazo.
+- **Software de gestão municipal**: tipicamente **Medidata** (contabilidade, recursos humanos, gestão documental) ou **AIRC** ou **Glintt**. Frequentemente **fornecedor único** sem alternativa funcional a curto prazo.
 - **Portal do munícipe + balcão único**: o mesmo fornecedor da gestão municipal, ou um especializado (Visionware, **AMA**).
 - **Microsoft 365**: e-mail, identidade, OneDrive, Teams — base operacional indispensável.
 - **SIG cadastral**: ESRI, QGIS+Geomedia, ou fornecedor especializado.
