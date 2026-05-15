@@ -36,6 +36,6 @@ Saem com **três peças concretas em mãos**: classificação correcta (Bloco A)
 - [Exercício A2 — Matriz de risco da entidade]({% link exercicios/a2-matriz-risco.md %}) (15 min, dentro de B.2)
 - [Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-inventario.md %}) (10 min, dentro de B.3)
 
-## Trilho paralelo
+## Roteiro paralelo
 
-Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): o regime de gestão de risco da entidade essencial é diferente — matriz de risco do Anexo II do Aviso, medidas mínimas do Anexo III com nível Básico/Substancial/Elevado. Acompanhar [Anexo III vs Anexo IV]({% link trilho-essencial/anexo-iii-vs-anexo-iv.md %}) em paralelo. O template [`matriz-risco-setor-agua-potavel-nis2.xlsx`]({{ '/templates/matriz-risco-setor-agua-potavel-nis2.xlsx' | relative_url }}) está disponível para SMAS.
+Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): o regime de gestão de risco da entidade essencial é diferente — matriz de risco do Anexo II do Aviso, medidas mínimas do Anexo III com nível Básico/Substancial/Elevado. Acompanhar [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}) em paralelo. O template [`matriz-risco-setor-agua-potavel-nis2.xlsx`]({{ '/templates/matriz-risco-setor-agua-potavel-nis2.xlsx' | relative_url }}) está disponível para SMAS.

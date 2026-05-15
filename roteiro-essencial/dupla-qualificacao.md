@@ -1,7 +1,7 @@
 ---
 title: "Dupla qualificação: como identificar"
 layout: default
-parent: "Trilho essencial (dupla qualificação)"
+parent: "Roteiro essencial (dupla qualificação)"
 nav_order: 1
 ---
 

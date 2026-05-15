@@ -62,5 +62,5 @@ Se houver linhas marcadas como **"Em dúvida"**, traga-as à discussão em plen�
 ## Ver também
 
 - [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}) — base teórica.
-- [Trilho essencial — Dupla qualificação]({% link trilho-essencial/dupla-qualificacao.md %}) — para SMAS / empresas municipais em sectores Anexo I/II.
+- [Roteiro essencial — Dupla qualificação]({% link roteiro-essencial/dupla-qualificacao.md %}) — para SMAS / empresas municipais em sectores Anexo I/II.
 - [FAQ §1 — Quem está abrangido]({% link recursos/faq.md %}#1-quem-está-abrangido) — casos práticos.

@@ -39,9 +39,9 @@ Saem com **três peças concretas**: o esboço do plano de resposta da entidade 
 
 - [Exercício A4 — Simulação de notificação 24h]({% link exercicios/a4-notificacao.md %}) (25 min, dentro de C.6).
 
-## Trilho paralelo
+## Roteiro paralelo
 
-Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): os prazos são iguais, mas a notificação de fim de impacto significativo, o plano de resposta formal e os papéis RC/PCP (arts. 31.º e 32.º) aplicam-se com mais rigor à parte essencial. Acompanhar [Anexo III vs Anexo IV]({% link trilho-essencial/anexo-iii-vs-anexo-iv.md %}) em paralelo. **Importante**: uma só pessoa pode submeter as notificações de ambas as qualificações na plataforma electrónica, mas as notificações são **distintas** se ambas as entidades forem afectadas.
+Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): os prazos são iguais, mas a notificação de fim de impacto significativo, o plano de resposta formal e os papéis RC/PCP (arts. 31.º e 32.º) aplicam-se com mais rigor à parte essencial. Acompanhar [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}) em paralelo. **Importante**: uma só pessoa pode submeter as notificações de ambas as qualificações na plataforma electrónica, mas as notificações são **distintas** se ambas as entidades forem afectadas.
 
 ## Aviso final
 

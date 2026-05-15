@@ -35,6 +35,6 @@ Saberão identificar a vossa qualificação, os artigos que vos aplicam, os praz
 
 [Exercício A1 — Classificação da vossa autarquia]({% link exercicios/a1-classificacao.md %}) (10 min, individual) — cada formando lista as entidades operacionais da sua autarquia e classifica-as.
 
-## Trilho paralelo
+## Roteiro paralelo
 
-Se durante o Exercício A1 identificaram **dupla qualificação** (SMAS, empresas municipais em sectores Anexo I/II), sigam também o [trilho essencial]({% link trilho-essencial/index.md %}) — em particular a [comparação Anexo III vs Anexo IV]({% link trilho-essencial/anexo-iii-vs-anexo-iv.md %}).
+Se durante o Exercício A1 identificaram **dupla qualificação** (SMAS, empresas municipais em sectores Anexo I/II), sigam também o [roteiro essencial]({% link roteiro-essencial/index.md %}) — em particular a [comparação Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).

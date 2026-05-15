@@ -1,7 +1,7 @@
 ---
 title: "Anexo III vs Anexo IV"
 layout: default
-parent: "Trilho essencial (dupla qualificação)"
+parent: "Roteiro essencial (dupla qualificação)"
 nav_order: 2
 ---
 

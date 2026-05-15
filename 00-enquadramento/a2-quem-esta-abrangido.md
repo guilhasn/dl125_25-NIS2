@@ -127,5 +127,5 @@ Se não trouxeram estes dados, façam o exercício com aproximações e complete
 ## Próximo passo
 
 - [Exercício A1 — Classificação da vossa autarquia →]({% link exercicios/a1-classificacao.md %})
-- Para quem identificou dupla qualificação: [Trilho essencial →]({% link trilho-essencial/index.md %})
+- Para quem identificou dupla qualificação: [Roteiro essencial →]({% link roteiro-essencial/index.md %})
 - [A.3 Plataforma electrónica do CNCS →]({% link 00-enquadramento/a3-plataforma-cncs.md %})

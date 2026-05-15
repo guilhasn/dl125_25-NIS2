@@ -89,7 +89,7 @@ Em termos práticos, isto significa para uma autarquia com SMAS:
 - **A câmara** segue o regime desta página: Anexo IV, Grupo B ou A.
 - **O SMAS** segue um regime paralelo: art. 27.º do RJC + Anexo III com o nível B/S/E que lhe for atribuído pelo CNCS em função da matriz de risco do sector águas (art. 28.º do Aviso).
 
-Ver [Anexo III vs Anexo IV]({% link trilho-essencial/anexo-iii-vs-anexo-iv.md %}) para o detalhe comparado das medidas que se acumulam.
+Ver [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}) para o detalhe comparado das medidas que se acumulam.
 
 ## Próximo passo
 

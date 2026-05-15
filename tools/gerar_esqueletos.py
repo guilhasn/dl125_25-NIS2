@@ -73,8 +73,8 @@ ESTRUTURA = {
             ("a5-fornecedores", "A5. Top 5 fornecedores críticos"),
         ],
     ),
-    "trilho-essencial": (
-        "Trilho essencial (dupla qualificação)",
+    "roteiro-essencial": (
+        "Roteiro essencial (dupla qualificação)",
         8,
         [
             ("dupla-qualificacao", "Dupla qualificação: como identificar"),

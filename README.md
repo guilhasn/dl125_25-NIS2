@@ -20,7 +20,7 @@ O hub espelha a agenda. Cada bloco tem a estrutura **O QUE A LEI DIZ → O QUE F
 | D | Outras medidas (fornecedores, continuidade, acessos, formação) |
 | E | Supervisão, sanções, roadmap |
 
-Para autarquias que operam **serviços de água, resíduos ou outros sectores do Anexo I** do DL, existe um **Trilho essencial** paralelo.
+Para autarquias que operam **serviços de água, resíduos ou outros sectores do Anexo I** do DL, existe um **Roteiro essencial** paralelo.
 
 ## Templates protegidos
 

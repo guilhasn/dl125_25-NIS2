@@ -44,7 +44,7 @@ Cada **entidade jurídica autónoma** qualifica-se separadamente:
 - A **câmara em sentido próprio** qualifica como entidade pública relevante (Grupo A ou B, pelo número de trabalhadores da câmara).
 - O **SMAS / empresa municipal** qualifica em função do **sector em que opera** (Anexos I ou II do DL) e da sua **dimensão**.
 
-Se operar serviços do Anexo I (água potável, águas residuais, energia, transportes, banca, infraestruturas digitais) e exceder os limiares de média empresa, qualifica como **entidade essencial** — regime mais exigente (Anexo III do Aviso, em vez do IV). Esta é a chamada **dupla qualificação**, tratada no [Trilho essencial]({% link trilho-essencial/dupla-qualificacao.md %}) e na sidebar do [Bloco A]({% link 00-enquadramento/index.md %}).
+Se operar serviços do Anexo I (água potável, águas residuais, energia, transportes, banca, infraestruturas digitais) e exceder os limiares de média empresa, qualifica como **entidade essencial** — regime mais exigente (Anexo III do Aviso, em vez do IV). Esta é a chamada **dupla qualificação**, tratada no [Roteiro essencial]({% link roteiro-essencial/dupla-qualificacao.md %}) e na sidebar do [Bloco A]({% link 00-enquadramento/index.md %}).
 
 ### 1.4 E se somos uma junta de freguesia ou câmara muito pequena (< 75 trabalhadores)?
 

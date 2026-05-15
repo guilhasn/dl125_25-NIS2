@@ -124,7 +124,7 @@ Para autarquias com **SMAS** ou empresas municipais a operar sectores Anexo I (�
 | Muito graves (essencial) | até **10.000.000 €** ou 2 % do volume de negócios mundial anual |
 | Graves (essencial) | até **7.000.000 €** ou 1,4 % do volume de negócios mundial anual |
 
-O SMAS responde como entidade essencial pelo serviço que opera; a câmara responde como pública relevante. O risco financeiro acumula. Ver [trilho essencial]({% link trilho-essencial/index.md %}) e [Anexo III vs Anexo IV]({% link trilho-essencial/anexo-iii-vs-anexo-iv.md %}) para o detalhe das obrigações cumuladas.
+O SMAS responde como entidade essencial pelo serviço que opera; a câmara responde como pública relevante. O risco financeiro acumula. Ver [roteiro essencial]({% link roteiro-essencial/index.md %}) e [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}) para o detalhe das obrigações cumuladas.
 
 ## Templates aplicáveis
 

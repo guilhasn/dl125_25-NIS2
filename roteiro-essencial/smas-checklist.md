@@ -1,7 +1,7 @@
 ---
 title: "Checklist específica SMAS"
 layout: default
-parent: "Trilho essencial (dupla qualificação)"
+parent: "Roteiro essencial (dupla qualificação)"
 nav_order: 3
 ---
 
