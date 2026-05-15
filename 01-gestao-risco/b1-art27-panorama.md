@@ -7,6 +7,10 @@ nav_order: 1
 
 # B.1 Panorama do art. 27.º
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 O art. 27.º do RJC é o **catálogo nuclear das medidas de gestão de riscos de ciberseguranca** previstas pela transposição portuguesa da NIS2. É também a origem de uma confusão recorrente: lê-se na lei, copia-se para o caderno de encargos da câmara, e em poucas semanas os fornecedores estão a propor implementações desenhadas para entidades essenciais a uma autarquia que **não está obrigada a aplicá-lo directamente**. Esta página resolve essa confusão e prepara o terreno para os 90 minutos do bloco: o que o art. 27.º exige, **a quem**, e **como se traduz** no Anexo IV do Aviso — o regulamento que efectivamente vincula as autarquias.
 
 ## O que a lei diz

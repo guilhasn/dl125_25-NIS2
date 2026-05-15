@@ -7,6 +7,10 @@ nav_order: 4
 
 # D.4 Formação e sensibilização — meta-ironia
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 **Duração**: 10 min · **Base legal**: art. 27.º al. g) RJC + Anexo IV **H.PF** (Práticas e Formação).
 
 A meta-ironia: estamos numa formação a discutir a obrigação de fazer formação. Mas a ironia é apropriada — esta é uma das medidas com **maior retorno relativo** do Anexo IV. Os utilizadores formados clicam menos em phishing, escolhem senhas melhores, comunicam incidentes mais cedo, fazem menos erros de configuração. Sem formação, nenhuma das outras medidas técnicas resiste ao primeiro clique errado.

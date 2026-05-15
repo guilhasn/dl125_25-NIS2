@@ -7,6 +7,10 @@ nav_order: 1
 
 # D.1 Cadeia de fornecimento
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 **Duração**: 20 min · **Base legal**: art. 27.º al. c) RJC + art. 28.º RJC + Anexo IV **O.PSF** (Política de Segurança da cadeia de Fornecimento).
 
 Esta é a medida que mais directamente toca a realidade quotidiana de qualquer câmara portuguesa: uma autarquia média **não opera os seus próprios sistemas**. Opera-os através de **fornecedores** — Medidata, AIRC, Glintt, Visionware, AMA, Microsoft, ISP, alojamento, fornecedor de segurança de rede. Quando um deles é comprometido, o problema é vosso. Quando um deles altera silenciosamente uma cláusula contratual, o risco vem para o vosso colo. O Anexo IV exige que a câmara **conheça**, **classifique** e **monitorize** esta dependência — não que a elimine (seria irrealista), mas que a torne **gerível**.

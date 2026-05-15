@@ -7,6 +7,10 @@ nav_order: 3
 
 # A3. Top 5 activos críticos
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 **Duração**: 10 min · **Bloco**: B.3 · **Materiais**: [`a3-inventario-top5.xlsx`]({{ '/templates/a3-inventario-top5.xlsx' | relative_url }})
 
 ## Objectivo

@@ -7,6 +7,10 @@ nav_order: 5
 
 # A5. Top 5 fornecedores TIC críticos
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 **Duração**: 10 min · **Bloco**: D.1 · **Materiais**: [`a5-top5-fornecedores.xlsx`]({{ '/templates/a5-top5-fornecedores.xlsx' | relative_url }})
 
 ## Objectivo

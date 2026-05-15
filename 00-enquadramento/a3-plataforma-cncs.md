@@ -7,6 +7,10 @@ nav_order: 3
 
 # A.3 Plataforma electrónica do CNCS — MyCiber
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 Quase tudo o que vocês vão ter de comunicar ao Centro Nacional de Cibersegurança (CNCS) passa por **uma só plataforma electrónica**, chamada **MyCiber** ([myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}). Não há e-mails, não há ofícios em papel, não há balcão presencial: o canal é digital, único, e identificado por Cartão de Cidadão ou Chave Móvel Digital. Esta página explica o que é a plataforma, o que se faz lá, os prazos críticos e o que fazer quando ela está em baixo.
 
 ## O que a lei diz

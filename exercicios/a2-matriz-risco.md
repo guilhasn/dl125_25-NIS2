@@ -7,6 +7,10 @@ nav_order: 2
 
 # A2. Matriz de risco da entidade
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 **Duração**: 15 min · **Bloco**: B.2 · **Materiais**: [`a2-matriz-risco-simplificada.xlsx`]({{ '/templates/a2-matriz-risco-simplificada.xlsx' | relative_url }})
 
 ## Objectivo

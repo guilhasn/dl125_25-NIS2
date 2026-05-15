@@ -7,6 +7,10 @@ nav_order: 1
 
 # Índice de templates
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 Biblioteca de **76 templates** (ficheiros Word e Excel) que apoiam o cumprimento operacional do DL 125/2025 e do Aviso 5146/2026/2 para uma autarquia local. Estão organizados pelo bloco da formação em que se aplicam, com indicação de **aplicabilidade**.
 
 ## Como descarregar e usar

@@ -7,6 +7,10 @@ nav_order: 3
 
 # B.3 Inventário e classificação de ativos
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 O inventário de activos é o **primeiro entregável tangível** que uma autarquia produz no caminho de conformidade — e o mais difícil de evitar. Sem inventário não há matriz de risco (vimos em [B.2]({% link 01-gestao-risco/b2-analise-risco.md %})), não há gestão de fornecedores, não há plano de continuidade, não há classificação de informação. E, peculiaridade portuguesa: existe ainda um inventário paralelo — a **lista de activos publicamente acessíveis** — que tem prazo apertado (20 dias úteis após qualificação) e é **transversal** a essenciais, importantes e públicas relevantes. Esta página percorre as três peças: o inventário interno do Grupo B, o inventário ampliado do Grupo A, e a lista pública do art. 32.º do Aviso.
 
 ## O que a lei diz

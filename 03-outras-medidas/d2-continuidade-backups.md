@@ -7,6 +7,10 @@ nav_order: 2
 
 # D.2 Continuidade, *backups* e recuperação
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 **Duração**: 15 min · **Base legal**: art. 27.º al. b) RJC + Anexo IV **T.CS** (Continuidade e Salvaguarda).
 
 A maior parte dos incidentes que afectam uma autarquia não é exfiltração espectacular de dados — é **indisponibilidade**: o portal cai, a base de dados fica encriptada, o servidor de e-mail bloqueia. Quando isso acontece, a diferença entre **6 horas paradas** e **6 semanas paradas** está em **duas coisas**: ter *backups* que **funcionam** e ter um **plano de continuidade** que toda a gente saiba executar. Nenhuma destas duas é técnica — são organizacionais. O Anexo IV exige ambas.

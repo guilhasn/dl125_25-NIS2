@@ -7,6 +7,10 @@ nav_order: 1
 
 # C.1 Plano de resposta a incidentes
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 A tarde abre com a questão que mais ansiedade gera em qualquer câmara: **quando acontecer um incidente — e vai acontecer —, quem faz o quê, em que ordem, com que prazos**. Esta página fixa a estrutura mínima de um plano de resposta a incidentes adaptado à dimensão e ao regime das autarquias. Não pretende substituir um manual técnico de tratamento de incidentes (esse é o trabalho da equipa de TIC); pretende garantir que, no momento em que o relógio dos 24 horas começa a contar, ninguém na vossa autarquia ficar parado por não saber se é a si que cabe agir.
 
 A subtileza para Grupo A e Grupo B é esta: o **Anexo IV do Aviso 5146/2026/2 não exige formalmente um Plano de Resposta a Incidentes** com a estrutura desenvolvida que se exige a entidades essenciais. A única medida explícita do Anexo IV nesta matéria, para Grupo B, é a **O.CRI** — identificação de um ponto de contacto para resposta a incidentes. Para Grupo A nem essa medida figura nominalmente. **Mas isto é uma armadilha**: sem plano formal, é impossível cumprir os deveres de notificação dos arts. 40.º a 44.º do RJC dentro do prazo, e qualquer auditoria do CNCS ao abrigo do art. 55.º (supervisão *ex post*) vai pedi-lo. Recomendamos construir um plano proporcional **em todos os casos**.

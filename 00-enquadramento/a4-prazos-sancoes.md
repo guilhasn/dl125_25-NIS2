@@ -7,6 +7,10 @@ nav_order: 4
 
 # A.4 Prazos, sanções e amnistia
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 Este é o slot que costuma despertar a sala: **quanto custa não cumprir**, **quando começa a custar**, e **se há margem de manobra durante o período de adaptação**. A resposta tem três peças: uma **linha do tempo** de marcos, uma **tabela de coimas** por grupo, e a leitura cuidadosa do **art. 65.º** sobre a chamada "amnistia" — que, como veremos, **não é uma amnistia**.
 
 ## Linha do tempo até Abril de 2027

@@ -7,6 +7,10 @@ nav_order: 2
 
 # B.2 Análise e gestão de risco
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 Este é **o coração da manhã**. Quarenta e cinco minutos de exposição porque é aqui que se decide se a vossa autarquia tem uma postura defensável perante o CNCS ou apenas uma colecção de boas intenções. A análise de risco é o instrumento que **organiza todas as outras decisões** — qual o fornecedor mais crítico, que sistema merece backup duplicado, onde aplicar MFA primeiro, que formação é prioritária. Sem análise de risco, todas as escolhas a seguir são arbitrárias.
 
 A subtileza para uma autarquia é esta: ao contrário do que acontece com entidades essenciais — que têm um artigo (o 26.º) e um anexo (o Anexo II do Aviso) integralmente dedicados ao tema —, **o Anexo IV não tem uma medida explícita "análise de risco"**. A gestão de risco para o Grupo B e Grupo A emerge **transversalmente** das medidas O, sobretudo do inventário de activos críticos. Esta página explica como construir, mesmo sem essa medida explícita, um processo de gestão de risco proporcional, documentado e defensável.

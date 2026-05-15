@@ -7,6 +7,10 @@ nav_order: 4
 
 # Perguntas frequentes
 
+> 💡 **Grupo A** = autarquia com ≥ 250 trabalhadores  
+> **Grupo B** = autarquia com 75-249 trabalhadores  
+> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
+
 Respostas curtas às perguntas que aparecem repetidamente em autarquias sobre o **DL 125/2025**, o **Aviso n.º 5146/2026/2** e a plataforma **MyCiber**. Cada resposta termina, sempre que aplicável, com uma ligação ao bloco do hub onde o tema é tratado em profundidade.
 
 ## Sumário
