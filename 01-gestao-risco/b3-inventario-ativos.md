@@ -102,7 +102,7 @@ Quem faz: serviço de informática da câmara, com apoio dos fornecedores chave.
 
 ### Passo 2 — Identificar dependências (quem presta o quê)
 
-Para cada activo, qual o **fornecedor** responsável (Medidata, AIRC, Glintt, Visionware, Microsoft, fornecedor local de hosting, etc.). Esta etapa cria o cruzamento com o futuro [inventário de fornecedores]({% link 03-outras-medidas/d1-fornecedores.md %}) (Bloco D).
+Para cada activo, qual o **fornecedor** responsável (Medidata, AIRC, Glintt, Visionware, Microsoft, fornecedor local de hosting, etc.). Esta etapa cria o cruzamento com o futuro [inventário de fornecedores]({% link 03-outras-medidas/d1-cadeia-fornecimento.md %}) (Bloco D).
 
 ### Passo 3 — Classificar criticidade
 
@@ -134,7 +134,7 @@ Todos os templates disponíveis para *download* na página de [recursos]({% link
 
 ## Exercício associado
 
-[Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-ativos.md %}) (10 min) — cada par lista os 5 activos críticos da sua autarquia, com responsável e dependência principal. Output: cinco linhas preenchidas no `inventario-ativos-tic-nis2.xlsx`. Combinado com o Exercício A2 (matriz de risco) e com o Exercício A5 (fornecedores, à tarde), constitui o **núcleo do diagnóstico inicial** que sai convosco no fim do dia.
+[Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-inventario.md %}) (10 min) — cada par lista os 5 activos críticos da sua autarquia, com responsável e dependência principal. Output: cinco linhas preenchidas no `inventario-ativos-tic-nis2.xlsx`. Combinado com o Exercício A2 (matriz de risco) e com o Exercício A5 (fornecedores, à tarde), constitui o **núcleo do diagnóstico inicial** que sai convosco no fim do dia.
 
 ## Próximo passo
 

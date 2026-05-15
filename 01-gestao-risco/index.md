@@ -34,7 +34,7 @@ Saem com **três peças concretas em mãos**: classificação correcta (Bloco A)
 ## Exercícios associados
 
 - [Exercício A2 — Matriz de risco da entidade]({% link exercicios/a2-matriz-risco.md %}) (15 min, dentro de B.2)
-- [Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-ativos.md %}) (10 min, dentro de B.3)
+- [Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-inventario.md %}) (10 min, dentro de B.3)
 
 ## Trilho paralelo
 
