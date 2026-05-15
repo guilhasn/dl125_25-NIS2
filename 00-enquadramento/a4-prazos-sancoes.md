@@ -19,9 +19,9 @@ Este é o slot que costuma despertar a sala: **quanto custa não cumprir**, **qu
 |---|---|---|
 | **4 de Dezembro de 2025** | Publicação do DL 125/2025 no DR | — |
 | **10 de Março de 2026** | Publicação do Aviso 5146/2026/2 (projecto, consulta pública) | — |
-| ~9 de Abril de 2026 | Fim provisório da consulta pública do Aviso | — |
 | **3 de Abril de 2026** | **Entrada em vigor do DL 125/2025** | art. 11.º do articulado preambular |
-| A definir | Publicação da versão final do Aviso (após apreciação de contributos) | — |
+| **22 de Abril de 2026** | Fim da consulta pública do Aviso 5146/2026/2 | — |
+| (sem data anunciada) | Publicação da versão final do Aviso (após análise dos contributos) | — |
 | **60 dias após** disponibilização da plataforma | Prazo de auto-identificação obrigatória | art. 8.º, n.º 1 do RJC |
 | **20 dias úteis após** qualificação | Comunicação da 1.ª lista de activos publicamente acessíveis | art. 32.º do Aviso |
 | **6 meses** (prorrogáveis até 1 ano) | Adaptação a nova qualificação | art. 8.º do RJC |

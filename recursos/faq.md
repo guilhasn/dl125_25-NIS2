@@ -72,7 +72,7 @@ Sim, em casos excepcionais. O art. 6.º, n.º 1, al. d) do RJC permite ao CNCS q
 
 ### 2.2 Já posso registar-me?
 
-**Ainda não.** À data de 15 de Junho de 2026, o MyCiber tem **só o Simulador** disponível — uma ferramenta indicativa, não vinculativa, para testar a categoria aplicável. As funcionalidades de **auto-identificação formal, qualificação, designação de pontos de contacto, comunicações e notificações** aguardam a publicação da versão final do Aviso 5146/2026/2 (em consulta pública até 22 de Abril). O prazo de 60 dias só começa a contar **depois** da abertura formal do registo, anunciada pelo CNCS.
+**Ainda não.** À data de 15 de Junho de 2026, o MyCiber tem **só o Simulador** disponível — uma ferramenta indicativa, não vinculativa, para testar a categoria aplicável. As funcionalidades de **auto-identificação formal, qualificação, designação de pontos de contacto, comunicações e notificações** aguardam a publicação da versão final do Aviso 5146/2026/2 — a **consulta pública terminou em 22 de Abril de 2026** e o CNCS está em fase de redacção da versão final, sem data anunciada. O prazo de 60 dias só começa a contar **depois** da abertura formal do registo, anunciada pelo CNCS.
 
 ### 2.3 O resultado do Simulador é vinculativo?
 
