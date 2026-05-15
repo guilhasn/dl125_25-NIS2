@@ -127,9 +127,17 @@ A atribuição do nível é feita pelo CNCS em função do sector (águas) e da 
 
 Todos os templates ficam disponíveis para *download* a partir de 8 de Junho na página de [recursos]({% link recursos/templates.md %}).
 
+## Recurso externo de consulta — EduRisk (guia ISO 27005)
+
+A norma **ISO/IEC 27005** é a referência metodológica internacional para gestão de riscos de segurança da informação e está implícita na abordagem do Anexo IV. Para aprofundar a teoria por trás dos passos que aqui se propõem — categorias de ameaça, escalas de probabilidade, técnicas de avaliação — existe um **guia interactivo ISO 27005** acessível em:
+
+> [edurisk-guia-iso-27005-…run.app](https://edurisk-guia-iso-27005-632691460370.us-west1.run.app/){:target="_blank"}
+
+**Plataforma educacional de terceiros**, gratuita e aberta. Útil como **leitura complementar** ou como segunda opinião na construção da matriz de risco da vossa entidade. Não é exigida pela formação nem substitui os templates do hub — é apenas um recurso adicional para quem queira ir mais a fundo na metodologia.
+
 ## Exercício associado
 
-[Exercício A2 — Matriz de risco da entidade]({% link exercicios/a2-matriz-risco.md %}) (15 min) — cada par identifica 3 riscos da sua autarquia, atribui P × I, decide o tratamento. Output: 3 linhas preenchidas na [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}). Este é o exercício mais importante da manhã, e o output sai convosco — ficareis com o **embrião da matriz de risco da vossa entidade**.
+[Exercício A2 — Matriz de risco da entidade]({% link exercicios/a2-matriz-risco.md %}) (15 min, individual) — cada formando identifica 3 riscos da sua autarquia, atribui P × I, decide o tratamento. Output: 3 linhas preenchidas na [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}). Este é o exercício mais importante da manhã, e o output fica convosco — ficareis com o **embrião da matriz de risco da vossa entidade**.
 
 ## Próximo passo
 

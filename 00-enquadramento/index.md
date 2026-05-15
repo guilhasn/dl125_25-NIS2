@@ -33,7 +33,7 @@ Saberão identificar a vossa qualificação, os artigos que vos aplicam, os praz
 
 ## Exercício associado
 
-[Exercício A1 — Classificação da vossa autarquia]({% link exercicios/a1-classificacao.md %}) (10 min) — cada par lista as entidades operacionais da sua autarquia e classifica-as.
+[Exercício A1 — Classificação da vossa autarquia]({% link exercicios/a1-classificacao.md %}) (10 min, individual) — cada formando lista as entidades operacionais da sua autarquia e classifica-as.
 
 ## Trilho paralelo
 

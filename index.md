@@ -12,6 +12,7 @@ Roteiro prático de implementação do **Decreto-Lei 125/2025** (regime jurídic
 
 **Formador**: Nuno Salvador
 **Data**: 15 de Junho de 2026 — 09h30 às 17h00
+**Formato**: online (Zoom/Teams), com partilha de ecrã do formador e trabalho individual dos formandos no respectivo computador
 **Público**: dirigentes e técnicos superiores de autarquias locais
 
 ## Agenda do dia

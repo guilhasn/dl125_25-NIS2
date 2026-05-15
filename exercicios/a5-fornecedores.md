@@ -13,13 +13,13 @@ nav_order: 5
 
 Mapear os 5 fornecedores TIC mais críticos da autarquia e classificá-los por **criticidade** e **risco de cadeia de abastecimento** — base da medida **O.PSF** do Anexo IV. Para autarquias, este é provavelmente o exercício mais útil de todos: uma câmara depende, na prática, de **uma mão-cheia de fornecedores** para tudo o que é digital. Saber quais são, saber o que falha primeiro se um deles cair, e ter cláusulas contratuais alinhadas, é metade do trabalho.
 
-## Instruções (em pares, 10 minutos)
+## Instruções (individual, 10 minutos)
 
-1. Abram [`a5-top5-fornecedores.xlsx`]({{ '/templates/a5-top5-fornecedores.xlsx' | relative_url }}) (password da formação).
-2. Apaguem a linha de exemplo.
-3. Listem os **5 fornecedores TIC mais críticos** da câmara. Critério: aquele cuja falha ou compromisso afecta **directamente** o serviço público.
+1. Abra [`a5-top5-fornecedores.xlsx`]({{ '/templates/a5-top5-fornecedores.xlsx' | relative_url }}) (password da formação).
+2. Apague a linha de exemplo.
+3. Liste os **5 fornecedores TIC mais críticos** da câmara. Critério: aquele cuja falha ou compromisso afecta **directamente** o serviço público.
    - Suspeitos habituais em autarquias: Medidata, AIRC, Glintt, Visionware, Microsoft (M365), AMA, alojamento/cloud, ISP/operador de telecomunicações, fornecedor de segurança de rede, fornecedor de SIG, fornecedor de contabilidade.
-4. Para cada fornecedor, preencham:
+4. Para cada fornecedor, preencha:
    - **Serviço prestado** — o que faz para a câmara, em linguagem concreta.
    - **Acesso a dados pessoais?** — sim/não/não sei. Se sim, há implicações RGPD (subcontratante de tratamento, art. 28.º RGPD).
    - **Criticidade** — Alta / Média / Baixa, em função do impacto no serviço público.

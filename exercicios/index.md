@@ -8,13 +8,22 @@ permalink: /exercicios/
 
 # Exercícios A1–A5
 
-Cinco exercícios práticos curtos (10–25 minutos cada) distribuídos pelos blocos da formação. Cada exercício produz uma **peça concreta** que cada par leva consigo para a entidade real — o **embrião** da matriz de risco, do inventário, da lista de fornecedores e do plano de notificação.
+Cinco exercícios práticos curtos (10–25 minutos cada) distribuídos pelos blocos da formação. Cada exercício produz uma **peça concreta** que cada formando termina e leva consigo para a entidade real — o **embrião** da matriz de risco, do inventário, da lista de fornecedores e do plano de notificação.
+
+## Formato — sessão online
+
+A formação é **online via Zoom/Teams**. Cada exercício corre em **dois tempos**:
+
+1. **Trabalho individual** (5–15 min, conforme exercício): cada formando trabalha sozinho no seu computador, sobre dados reais da sua autarquia. Câmara opcional.
+2. **Discussão em plenária** (5–10 min): o formador convida 2-4 formandos voluntários a partilhar brevemente o que produziram. Debate breve. Sem nota.
+
+Não há *breakout rooms* nem trabalho em grupos pequenos — a dinâmica é **eu sozinho com os meus dados → discussão aberta com a turma**.
 
 ## Princípios
 
-- **Em pares**, sentados juntos — preferencialmente da mesma autarquia ou de autarquias próximas.
+- **Trabalho individual**, sobre dados reais da própria entidade.
 - **Sobre a entidade real**, não sobre cenário fictício. Os dados a usar foram pedidos no pré-trabalho (1 semana antes).
-- **Output em mão** — cada exercício termina com uma folha preenchida (papel ou Excel) que sai convosco no fim do dia.
+- **Output em mão** — cada exercício termina com um ficheiro Excel preenchido (ou rascunho de notificação, no A4) que fica no computador do formando.
 - **Sem nota** — ninguém é avaliado pelo resultado. O propósito é ensaio supervisionado.
 
 ## Os cinco exercícios
@@ -29,18 +38,18 @@ Cinco exercícios práticos curtos (10–25 minutos cada) distribuídos pelos bl
 
 ## Tempo total
 
-**70 minutos** distribuídos pelo dia. Não há slot dedicado contínuo de exercícios — cada um corre **dentro do bloco** a que pertence, imediatamente a seguir à exposição do conceito.
+**70 minutos** distribuídos pelo dia. Não há *slot* dedicado contínuo de exercícios — cada um corre **dentro do bloco** a que pertence, imediatamente a seguir à exposição do conceito.
 
 ## Materiais necessários
 
-- **Excel** (Microsoft 365 ou LibreOffice Calc) instalado em pelo menos um portátil por par.
-- **Ficha A5 impressa** do cenário para o A4 (entregue em sala).
-- **Dados internos da autarquia** trazidos pelos formandos: número de trabalhadores, top fornecedores TIC, lista informal dos sistemas críticos.
+- **Excel** (Microsoft 365 ou LibreOffice Calc) instalado no computador do formando.
+- **Dados internos da autarquia** trazidos pelo formando: número de trabalhadores, top fornecedores TIC, lista informal dos sistemas críticos.
+- **Acesso ao hub** para descarregar worksheets e fichas de cenário durante a sessão.
 
-## Materiais entregues no início do dia
+## Materiais descarregáveis
 
-Cada par recebe um **kit em pen USB** com:
+Todos os materiais ficam disponíveis no hub e podem ser descarregados a qualquer momento — antes, durante ou depois da sessão:
 
-- Os 4 worksheets em Excel (A1, A2, A3, A5) protegidos com a password da formação.
-- As 4 fichas de cenário do A4 em PDF (4 ficheiros separados — em sala, cada par recebe uma).
-- Cópia offline do hub para consulta sem internet.
+- **4 worksheets em Excel** (A1, A2, A3, A5) protegidos com a password da formação — disponíveis em [recursos/templates]({% link recursos/templates.md %}).
+- **4 fichas de cenário do A4 em PDF** — descarregadas individualmente. Em sessão, o formador atribui uma a cada formando por sorteio (referência apenas — todos podem aceder a todas).
+- **Cópia integral do hub** continua acessível em `guilhasn.github.io/dl125_25-NIS2/` para consulta posterior.

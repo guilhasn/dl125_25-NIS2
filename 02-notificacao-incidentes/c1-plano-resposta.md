@@ -88,7 +88,7 @@ Todos os templates ficam disponíveis a partir de 8 de Junho na página de [recu
 
 ## Exercício associado
 
-[Exercício A4 — Notificação 24h]({% link exercicios/a4-notificacao.md %}) (25 min, dentro de C.6) — cada par recebe uma ficha de cenário e simula a activação do plano + preenchimento da notificação inicial. As fichas e as instruções estão em [C.6 — Fichas de cenário]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}).
+[Exercício A4 — Notificação 24h]({% link exercicios/a4-notificacao.md %}) (25 min, dentro de C.6) — cada formando recebe uma ficha de cenário sorteada e simula, individualmente, a activação do plano + preenchimento da notificação inicial. As fichas e as instruções estão em [C.6 — Fichas de cenário]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}).
 
 ## Próximo passo
 

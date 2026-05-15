@@ -15,21 +15,21 @@ Identificar **todas as entidades operacionais** que dependem da câmara e classi
 
 Não é exercício teórico. O conteúdo que produzirem aqui é o que **levam de volta** para a câmara e usam, sem alterações de fundo, no acto formal de registo quando a funcionalidade estiver aberta.
 
-## Instruções (em pares, 10 minutos)
+## Instruções (individual, 10 minutos)
 
-1. Abram o ficheiro [`a1-classificacao-autarquia.xlsx`]({{ '/templates/a1-classificacao-autarquia.xlsx' | relative_url }}) (password da formação).
-2. Apaguem a linha de exemplo.
-3. Listem **todas** as entidades operacionais da vossa autarquia, uma por linha:
+1. Abra o ficheiro [`a1-classificacao-autarquia.xlsx`]({{ '/templates/a1-classificacao-autarquia.xlsx' | relative_url }}) (password da formação).
+2. Apague a linha de exemplo.
+3. Liste **todas** as entidades operacionais da sua autarquia, uma por linha:
    - Câmara em sentido próprio.
    - SMAS (se existir).
    - Empresa(s) municipal(ais).
    - Fundação(ões) municipais.
    - Agências regionais com participação.
-4. Para cada entidade, preencham:
+4. Para cada entidade, preencha:
    - Tipo (Câmara / SMAS / Empresa municipal / Fundação / Agência).
    - **Número actual de trabalhadores** no quadro de pessoal.
    - Sector de actividade — em especial, verificar se opera serviço listado no Anexo I (energia, transportes, banca, infraestruturas digitais, água potável, águas residuais, etc.) ou Anexo II.
-5. Apliquem o critério do **art. 7.º RJC**:
+5. Aplique o critério do **art. 7.º RJC**:
    - **≥ 250 trabalhadores** → Grupo A (entidade pública relevante).
    - **75 a 249** → Grupo B (entidade pública relevante).
    - **< 75** → fora do regime obrigatório.
@@ -39,7 +39,7 @@ Não é exercício teórico. O conteúdo que produzirem aqui é o que **levam de
 
 Folha Excel com 1–4 linhas preenchidas (média típica: câmara + SMAS = 2 linhas; câmaras maiores podem ter 4+). Cada linha tem **uma qualificação clara**: Grupo A, Grupo B, fora do regime, essencial, ou importante.
 
-Se houver linhas marcadas como **"Em dúvida"**, são candidatas a discussão durante a sessão e a verificação adicional com o resultado do [Simulador do MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}#o-simulador--primeira-funcionalidade-já-disponível).
+Se houver linhas marcadas como **"Em dúvida"**, traga-as à discussão em plenária e verifique adicionalmente com o resultado do [Simulador do MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}#o-simulador--primeira-funcionalidade-já-disponível).
 
 ## Validação rápida (formador)
 

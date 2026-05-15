@@ -7,7 +7,7 @@ nav_order: 4
 
 # A4. Simulação de notificação 24h
 
-**Duração**: 25 min · **Bloco**: C.6 · **Materiais**: 4 fichas de cenário em PDF (impressas, uma por par) + [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }})
+**Duração**: 25 min · **Bloco**: C.6 · **Materiais**: 4 fichas de cenário em PDF (descarregáveis, uma sorteada por formando em sessão) + [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }})
 
 ## Objectivo
 
@@ -15,7 +15,7 @@ Exercitar **uma vez** o que deve ser automático no dia em que acontecer a séri
 
 ## As 4 fichas de cenário
 
-Cada par recebe uma ficha A5 impressa, distribuída por sorteio (ou por escolha justificada). As 4 fichas estão também em PDF na biblioteca:
+Em sessão, o formador atribui uma ficha por sorteio a cada formando (ou a um subconjunto, se a turma for grande). Os PDFs estão acessíveis a todos no hub — depois do exercício pode consultar os outros três:
 
 | Nº | Cenário | PDF |
 |---|---|---|
@@ -24,15 +24,15 @@ Cada par recebe uma ficha A5 impressa, distribuída por sorteio (ou por escolha 
 | 3 | **DDoS contra o Portal do Munícipe** — portal inacessível há 90 min, prazos legais a expirar, pressão política | [`a4-ficha-cenario-3-ddos.pdf`]({{ '/templates/a4-ficha-cenario-3-ddos.pdf' | relative_url }}) |
 | 4 | **Phishing com fraude ao Vereador** — caixa de e-mail comprometida, 200 e-mails fraudulentos, tentativas de transferência bancária | [`a4-ficha-cenario-4-phishing.pdf`]({{ '/templates/a4-ficha-cenario-4-phishing.pdf' | relative_url }}) |
 
-## Instruções (em pares, 25 minutos)
+## Instruções (individual, 25 minutos)
 
-**Fase 1 — Decisão (5 min).** Lendo a ficha, em pares:
+**Fase 1 — Decisão (5 min).** Lendo a ficha, sozinho, responda mentalmente (ou em notas) a:
 
-1. Este incidente atinge o **limiar de significativo** (art. 40.º, n.º 3 do RJC)? Justifiquem com 2-3 parâmetros concretos.
+1. Este incidente atinge o **limiar de significativo** (art. 40.º, n.º 3 do RJC)? Justifique com 2-3 parâmetros concretos.
 2. **Quando** começa a contar o prazo dos 24h — a hora de detecção ou a hora de verificação?
 3. **Que canais** se accionam? CNCS sempre. CNPD se houver dados pessoais. MP se houver crime informático (Lei 109/2009). Art. 48.º (comunicação a destinatários) se aplicável.
 
-**Fase 2 — Preenchimento (10 min).** Abram [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) (password da formação) e preencham pelo menos:
+**Fase 2 — Preenchimento (10 min).** Abra [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) (password da formação) e preencha pelo menos:
 
 - Identificação da entidade.
 - Hora de verificação (não hora de detecção genérica).
@@ -40,7 +40,7 @@ Cada par recebe uma ficha A5 impressa, distribuída por sorteio (ou por escolha 
 - Estimativa de impacto (serviços afectados, número aproximado de munícipes).
 - Outras informações relevantes (suspeita de violação de dados, crime informático, etc.).
 
-**Fase 3 — Apresentação (10 min, 4 pares × ~2 min).** Cada par apresenta:
+**Fase 3 — Discussão em plenária (10 min).** O formador convida **4 voluntários** — idealmente um de cada cenário — a partilhar brevemente (≈2 min cada):
 
 - Decisão de notificação (sim/não) e justificação.
 - Canais accionados.
@@ -49,7 +49,7 @@ Cada par recebe uma ficha A5 impressa, distribuída por sorteio (ou por escolha 
 
 ## Output esperado
 
-Cada par sai com **um rascunho de notificação inicial** parcialmente preenchido. Não tem de estar completo — o que importa é que **as decisões fundamentais estejam tomadas**. O documento sai convosco como ponto de partida do **registo interno de incidentes** da entidade.
+Cada formando termina com **um rascunho de notificação inicial** parcialmente preenchido no seu computador. Não tem de estar completo — o que importa é que **as decisões fundamentais estejam tomadas**. O documento sai convosco como ponto de partida do **registo interno de incidentes** da entidade.
 
 ## Validação rápida (formador) — armadilhas comuns
 

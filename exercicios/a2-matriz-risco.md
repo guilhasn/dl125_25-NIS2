@@ -15,19 +15,19 @@ Construir o **embrião** da matriz de risco da vossa entidade — 3 riscos ident
 
 Não procuramos exaustividade. Procuramos **três decisões fundamentadas**. A versão exaustiva constrói-se em câmara, nas semanas seguintes, usando o template [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}).
 
-## Instruções (em pares, 15 minutos)
+## Instruções (individual, 15 minutos)
 
-1. Abram [`a2-matriz-risco-simplificada.xlsx`]({{ '/templates/a2-matriz-risco-simplificada.xlsx' | relative_url }}) (password da formação).
-2. Apaguem a linha de exemplo.
-3. Identifiquem **3 riscos reais** da vossa autarquia. Não inventem cenários — pensem nas coisas que vos tiram o sono.
+1. Abra [`a2-matriz-risco-simplificada.xlsx`]({{ '/templates/a2-matriz-risco-simplificada.xlsx' | relative_url }}) (password da formação).
+2. Apague a linha de exemplo.
+3. Identifique **3 riscos reais** da sua autarquia. Não invente cenários — pense nas coisas que lhe tiram o sono.
    - Categorias típicas em autarquias: ransomware, indisponibilidade do portal do munícipe, exfiltração de dados de munícipes, fornecedor único comprometido, perda total do datacenter por incêndio/inundação, phishing bem-sucedido contra vereador ou tesouraria.
-4. Para cada, indiquem:
-   - **Activo afectado** (cruzar com [Exercício A3]({% link exercicios/a3-inventario.md %}) ou com a vossa noção informal).
+4. Para cada, indique:
+   - **Activo afectado** (cruzar com [Exercício A3]({% link exercicios/a3-inventario.md %}) ou com a sua noção informal).
    - **Probabilidade** (1=raro, 5=quase certo).
    - **Impacto** (1=irrelevante, 5=paralisação prolongada do serviço público).
    - **Nível P × I** (calculado automaticamente — 1-6 baixo, 8-12 médio, 15-25 alto).
    - **Tratamento**: Mitigar, Transferir, Aceitar ou Evitar.
-   - **Acção concreta**: uma frase que descreva o que vão fazer. Sem isto, a decisão fica em papel.
+   - **Acção concreta**: uma frase que descreva o que vai fazer. Sem isto, a decisão fica em papel.
 
 ## Output esperado
 
@@ -57,6 +57,10 @@ A maior parte das equipas tende a:
 - [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}) — versão completa (folha-mestra a usar em câmara).
 - [`plano-tratamento-riscos-nis2.docx`]({{ '/templates/plano-tratamento-riscos-nis2.docx' | relative_url }}) — formaliza acções decididas.
 - [`matriz-risco-setor-agua-potavel-nis2.xlsx`]({{ '/templates/matriz-risco-setor-agua-potavel-nis2.xlsx' | relative_url }}) — para SMAS com dupla qualificação.
+
+## Recurso externo opcional
+
+Para aprofundar a metodologia ISO 27005 (base teórica da gestão de riscos): [**EduRisk — Guia ISO 27005**](https://edurisk-guia-iso-27005-632691460370.us-west1.run.app/){:target="_blank"}. Plataforma educacional de terceiros, gratuita, útil como leitura complementar enquanto constrói a sua matriz.
 
 ## Ver também
 

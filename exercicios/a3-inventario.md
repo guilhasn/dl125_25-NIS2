@@ -15,14 +15,14 @@ Construir o **núcleo** do inventário de activos críticos exigido pela medida 
 
 Este exercício também serve para **identificar candidatos à lista do art. 32.º** (activos publicamente acessíveis) — coluna específica no worksheet.
 
-## Instruções (em pares, 10 minutos)
+## Instruções (individual, 10 minutos)
 
-1. Abram [`a3-inventario-top5.xlsx`]({{ '/templates/a3-inventario-top5.xlsx' | relative_url }}) (password da formação).
-2. Apaguem a linha de exemplo.
-3. Identifiquem os **5 activos críticos** da vossa autarquia: sistemas, aplicações, equipamentos sem os quais a câmara deixa de cumprir a sua missão de serviço público.
+1. Abra [`a3-inventario-top5.xlsx`]({{ '/templates/a3-inventario-top5.xlsx' | relative_url }}) (password da formação).
+2. Apague a linha de exemplo.
+3. Identifique os **5 activos críticos** da sua autarquia: sistemas, aplicações, equipamentos sem os quais a câmara deixa de cumprir a sua missão de serviço público.
    - Exemplos típicos: Portal do Munícipe, Balcão Único on-line, sistema de contabilidade, GED, SIG cadastral, e-mail institucional, controlador de domínio, servidor de ficheiros, sistemas SCADA do SMAS.
-   - **Não confundam com "tudo o que tem importância"**. Crítico = compromete serviço público obrigatório se cair.
-4. Para cada activo, indiquem:
+   - **Não confunda com "tudo o que tem importância"**. Crítico = compromete serviço público obrigatório se cair.
+4. Para cada activo, indique:
    - **Tipo** (Servidor / Aplicação web / Base de dados / Equipamento de rede / Serviço cloud / Equipamento OT/SCADA).
    - **Serviço público** que suporta — descrição concreta ("emissão de certidões on-line", "pagamento de água").
    - **Responsável funcional interno** — pessoa da câmara que responde por esse activo (não o fornecedor!).

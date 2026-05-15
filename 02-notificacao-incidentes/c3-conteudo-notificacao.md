@@ -112,7 +112,7 @@ Todos os templates estão disponíveis a partir de 8 de Junho na página de [rec
 
 ## Exercício associado
 
-[Exercício A4 — Notificação 24h]({% link exercicios/a4-notificacao.md %}) (25 min, em C.6) — cada par preenche, numa ficha de cenário, a notificação inicial usando [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}). Ver [C.6]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}).
+[Exercício A4 — Notificação 24h]({% link exercicios/a4-notificacao.md %}) (25 min, em C.6) — cada formando preenche, individualmente para a ficha de cenário sorteada, a notificação inicial usando [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}). Ver [C.6]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}).
 
 ## Próximo passo
 

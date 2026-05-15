@@ -7,30 +7,30 @@ nav_order: 6
 
 # C.6 Fichas de cenário do exercício A4
 
-Os 25 minutos finais do bloco C são **prática**. Quatro fichas de cenário, distribuídos pelos pares de formandos: a tarefa é, em **15 minutos**, decidir se notifica o CNCS, preencher a notificação inicial dos 24h, identificar canais paralelos (RGPD? MP?) e justificar as decisões. Os restantes 10 minutos são para apresentação rápida (≈1 min/par) das decisões-chave e debate.
+Os 25 minutos finais do bloco C são **prática**. Quatro fichas de cenário, sorteadas entre os formandos: a tarefa é, em **15 minutos** individuais, decidir se notifica o CNCS, preencher a notificação inicial dos 24h, identificar canais paralelos (RGPD? MP?) e justificar as decisões. Os restantes 10 minutos são para discussão em plenária, com 4 formandos voluntários (idealmente um de cada cenário) a partilharem as decisões-chave.
 
-Esta página apresenta os cenários e as instruções. As fichas físicas (PDF A5, uma por par, plastificadas) são gerados na **Fase 4** da produção do hub e ficam disponíveis para *download* na página de [recursos]({% link recursos/templates.md %}) antes do dia 15.
+Esta página apresenta os cenários e as instruções. As 4 fichas em PDF A5 estão disponíveis para *download* em [recursos / templates]({% link recursos/templates.md %}) e ficam acessíveis a todos os formandos durante e depois da sessão.
 
 ## Instruções gerais
 
-**Formação dos pares**: na sessão presencial, os formandos trabalham em pares com colega da própria autarquia sempre que possível (ou da mesma dimensão se vierem sozinhos).
+**Formato online (Zoom/Teams)**: cada formando trabalha **sozinho** no seu computador, sobre dados da sua própria autarquia. Sem *breakout rooms*. A discussão final acontece em plenária com câmara/microfone aberto.
 
-**Distribuição das fichas**: 4 fichas, atribuídas por sorteio ou por escolha das autarquias (uma autarquia que tenha sofrido recentemente um incidente análogo pode escolher um cenário distinto para evitar replicar a experiência).
+**Distribuição das fichas**: o formador atribui uma ficha por formando, idealmente por sorteio para garantir distribuição uniforme dos 4 cenários. Quem tenha sofrido recentemente um incidente análogo pode pedir cenário distinto para evitar replicar a experiência.
 
-**Tarefa**: 15 minutos para cada par produzir:
+**Tarefa**: 15 minutos para cada formando produzir:
 
 1. **Decisão de notificação**: este incidente atinge o limiar de «significativo» (art. 40.º, n.º 3 do RJC)? Justificar com 2-3 parâmetros concretos. Ver [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
 2. **Canais accionados**: CNCS? CNPD? Ministério Público? Comunicação a destinatários (art. 48.º)? Ver [C.4]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}).
 3. **Notificação inicial dos 24h** parcialmente preenchida no template [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) — pelo menos: identificação, hora de verificação, descrição sumária, estimativa de impacto (ver [C.3]({% link 02-notificacao-incidentes/c3-conteudo-notificacao.md %})).
 4. **Decisão de comunicação externa**: comunicado público? Sim/não, e quando.
 
-**Apresentação**: cada par tem **1 minuto** para apresentar:
+**Discussão em plenária**: 4 voluntários (idealmente um de cada cenário) têm **≈2 minutos cada** para partilhar:
 
 - Decisão de notificação (sim/não, prazo).
 - Canais accionados.
 - A decisão mais difícil que tomou.
 
-**Output esperado**: cada par sai com **um rascunho de notificação inicial** parcialmente preenchido — material levado para casa, ponto de partida do registo de incidentes da entidade.
+**Output esperado**: cada formando termina com **um rascunho de notificação inicial** parcialmente preenchido no seu computador — ponto de partida do registo de incidentes da entidade.
 
 ## Templates a usar
 

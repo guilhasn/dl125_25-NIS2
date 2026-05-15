@@ -7,7 +7,7 @@ nav_order: 2
 
 # A.2 Quem está abrangido
 
-A pergunta nuclear de qualquer dirigente municipal ao ler o DL 125/2025 é simples: **"isto aplica-se à minha autarquia?"**. A resposta tem duas dimensões — **categoria** e **dimensão** — e em algumas autarquias multiplica-se (**dupla qualificação**). Esta página resolve a primeira pergunta e prepara o terreno para o **Exercício A1**, em que cada par vai classificar a sua própria entidade.
+A pergunta nuclear de qualquer dirigente municipal ao ler o DL 125/2025 é simples: **"isto aplica-se à minha autarquia?"**. A resposta tem duas dimensões — **categoria** e **dimensão** — e em algumas autarquias multiplica-se (**dupla qualificação**). Esta página resolve a primeira pergunta e prepara o terreno para o **Exercício A1**, em que cada formando vai classificar a sua própria entidade.
 
 ## O que a lei diz
 
@@ -107,7 +107,7 @@ Há ainda uma porta aberta para que o CNCS qualifique uma autarquia como **entid
 
 ## Pré-trabalho — informação que deveriam ter convosco
 
-Para fazer o Exercício A1 com proveito, cada par precisa de ter à mão:
+Para fazer o Exercício A1 com proveito, cada formando precisa de ter à mão:
 
 1. **Número de trabalhadores actuais do quadro de pessoal** da câmara (recursos humanos sabe).
 2. **Lista completa das entidades operacionais autónomas** dependentes ou tuteladas pela câmara: SMAS, empresas municipais (EM, EIM), fundações municipais, agrupamentos.

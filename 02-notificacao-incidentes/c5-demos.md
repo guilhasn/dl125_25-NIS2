@@ -7,7 +7,7 @@ nav_order: 5
 
 # C.5 Demo: plataforma CNCS
 
-Este slot de 10 minutos é a parte mais visual do bloco. Mostra-se a **plataforma electrónica do CNCS** — o canal único e oficial de submissão de notificações, autoidentificação, qualificação e comunicações com a autoridade. Na sessão presencial, a demo é navegada ao vivo; aqui ficam as referências e o resumo do *workflow*.
+Este slot de 10 minutos é a parte mais visual do bloco. Mostra-se a **plataforma electrónica do CNCS** — o canal único e oficial de submissão de notificações, autoidentificação, qualificação e comunicações com a autoridade. Em sessão (online, partilha de ecrã), a demo é navegada ao vivo se a plataforma estiver acessível à data; aqui ficam as referências e o resumo do *workflow*.
 
 ## Plataforma electrónica do CNCS — canal oficial
 

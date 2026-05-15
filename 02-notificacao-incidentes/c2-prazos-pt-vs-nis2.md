@@ -68,9 +68,9 @@ Para autarquias com **SMAS ou empresa municipal essencial**, os prazos são **ex
 - **Critério de "significativo" mais apertado** para a parte essencial — o sector águas tem instruções técnicas próprias do CNCS (em desenvolvimento) que podem baixar o limiar.
 - **Plano de Resposta a Incidentes formal exigido** pelo Anexo III GR.PL-2 (Plano de Resposta a Incidentes) — ver [C.1]({% link 02-notificacao-incidentes/c1-plano-resposta.md %}).
 
-## Folha-resumo plastificada
+## Folha-resumo dos prazos (PDF imprimível)
 
-A folha-resumo "Prazos PT vs NIS2" (A4 colorido, plastificado) será **entregue em mão a cada formando à entrada do bloco C** no dia 15 de Junho. Contém esta tabela em formato de cartão, mais o telefone e e-mail de emergência do CNCS. Imprimir e afixar no gabinete TIC.
+A folha-resumo "Prazos PT vs NIS2" será disponibilizada como **PDF descarregável** antes do bloco C (formato A4 colorido, pronto a imprimir). Contém esta tabela em formato compacto, mais o telefone e o e-mail de emergência do CNCS. **Recomenda-se imprimir e afixar no gabinete TIC** — é a peça que mais difícil é ler de cabeça quando o incidente está em curso.
 
 ## Templates aplicáveis
 
