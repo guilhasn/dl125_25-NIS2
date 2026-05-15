@@ -15,7 +15,7 @@ nav_order: 5
 
 ## Objectivo
 
-Mapear os 5 fornecedores TIC mais críticos da autarquia e classificá-los por **criticidade** e **risco de cadeia de abastecimento** — base da medida **O.PSF** do Anexo IV. Para autarquias, este é provavelmente o exercício mais útil de todos: uma câmara depende, na prática, de **uma mão-cheia de fornecedores** para tudo o que é digital. Saber quais são, saber o que falha primeiro se um deles cair, e ter cláusulas contratuais alinhadas, é metade do trabalho.
+Mapear os 5 fornecedores TIC mais críticos da autarquia e classificá-los por **criticidade** e **risco de cadeia de abastecimento** — base da medida [<abbr title="Política de Segurança da cadeia de Fornecimento">**O.PSF**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-psf) do Anexo IV. Para autarquias, este é provavelmente o exercício mais útil de todos: uma câmara depende, na prática, de **uma mão-cheia de fornecedores** para tudo o que é digital. Saber quais são, saber o que falha primeiro se um deles cair, e ter cláusulas contratuais alinhadas, é metade do trabalho.
 
 ## Instruções (individual, 10 minutos)
 

@@ -35,7 +35,7 @@ O conjunto de normas relevante distribui-se por cinco artigos, três do DL e doi
 
 Para uma autarquia de Grupo B, a gestão de risco materializa-se em **três entregáveis** mínimos, todos cobríveis em ficheiros simples (uma folha Excel é suficiente):
 
-1. **Inventário dos activos críticos** — Anexo IV medida **O.IAC**. Lista dos sistemas, equipamentos e aplicações sem os quais a câmara deixa de prestar serviço público (portal do munícipe, balcão único, SIG cadastral, contabilidade, GED, e-mail). Esta é a entrada do processo e tratamo-la em detalhe em [B.3]({% link 01-gestao-risco/b3-inventario-ativos.md %}).
+1. **Inventário dos activos críticos** — Anexo IV medida [<abbr title="Inventariação de Activos Críticos">**O.IAC**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac). Lista dos sistemas, equipamentos e aplicações sem os quais a câmara deixa de prestar serviço público (portal do munícipe, balcão único, SIG cadastral, contabilidade, GED, e-mail). Esta é a entrada do processo e tratamo-la em detalhe em [B.3]({% link 01-gestao-risco/b3-inventario-ativos.md %}).
 
 2. **Identificação das ameaças relevantes** — para cada activo crítico, quais os cenários plausíveis que podem comprometer a sua disponibilidade, integridade ou confidencialidade. O art. 31.º, n.º 4 do Aviso enumera as cinco categorias-padrão (válidas como guia mesmo não aplicáveis literalmente à autarquia):
 
@@ -60,7 +60,7 @@ Para autarquias do Grupo A, o regime cumula (art. 30.º, n.º 3 do Aviso) e exig
 
 1. **Metodologia documentada** — política escrita que descreve **como** se faz a análise (escalas, critérios, periodicidade, intervenientes). Materializa-se num documento próprio, do tipo [`metodologia-avaliacao-riscos-nis2.docx`]({{ '/templates/metodologia-avaliacao-riscos-nis2.docx' | relative_url }}), aprovado pelo executivo. Sem este documento, a matriz parece arbitrária.
 
-2. **Identificação de funções e activos críticos** (Anexo IV medida **O.ID**) — não basta inventariar; é preciso identificar **as funções ou actividades críticas** (atendimento ao munícipe, processo de licenciamento, gestão de águas, etc.) e a sua dependência das TIC. A análise de risco passa a estruturar-se por **processo de negócio**, não só por activo.
+2. **Identificação de funções e activos críticos** (Anexo IV medida [<abbr title="Identificação de funções e activos críticos">**O.ID**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-id)) — não basta inventariar; é preciso identificar **as funções ou actividades críticas** (atendimento ao munícipe, processo de licenciamento, gestão de águas, etc.) e a sua dependência das TIC. A análise de risco passa a estruturar-se por **processo de negócio**, não só por activo.
 
 3. **Revisão periódica** — pelo menos anual, e adicionalmente nas três janelas previstas no art. 31.º, n.º 2 do Aviso (ver "Periodicidade", abaixo). Cada revisão produz registo datado.
 

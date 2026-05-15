@@ -15,7 +15,7 @@ nav_order: 3
 
 ## Objectivo
 
-Construir o **núcleo** do inventário de activos críticos exigido pela medida **O.IAC** do Anexo IV (Grupo B e A). Cinco linhas — não cinquenta — é o mínimo viável para começar. A versão completa exige 20-40 activos numa câmara média e constrói-se em workshop dedicado, depois.
+Construir o **núcleo** do inventário de activos críticos exigido pela medida [<abbr title="Inventariação de Activos Críticos">**O.IAC**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac) do Anexo IV (Grupo B e A). Cinco linhas — não cinquenta — é o mínimo viável para começar. A versão completa exige 20-40 activos numa câmara média e constrói-se em workshop dedicado, depois.
 
 Este exercício também serve para **identificar candidatos à lista do art. 32.º** (activos publicamente acessíveis) — coluna específica no worksheet.
 

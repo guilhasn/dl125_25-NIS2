@@ -11,7 +11,7 @@ nav_order: 3
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-**Duração**: 15 min · **Base legal**: art. 27.º al. h), i), j) RJC + Anexo IV **O.PAP** (Política de Acessos e Privilégios), **O.PP** (Política de Palavras-Passe), **T.AM** (Tecnologias de Autenticação Multi-factor).
+**Duração**: 15 min · **Base legal**: art. 27.º al. h), i), j) RJC + Anexo IV [<abbr title="Política de Acessos e Privilégios">**O.PAP**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-pap) (Política de Acessos e Privilégios), [<abbr title="Política de Palavras-Passe">**O.PP**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-pp) (Política de Palavras-Passe), [<abbr title="Autenticação Multi-factor">**T.AM**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#t-am) (Tecnologias de Autenticação Multi-factor).
 
 A maior parte dos incidentes graves em câmaras portuguesas começa por um **acesso comprometido**. Phishing que captura credenciais, password fraca exposta numa fuga pública, conta de prestador de serviços nunca desactivada que continua activa anos depois da rescisão do contrato. As três medidas desta página — **controlo de acessos**, **MFA** e **palavras-passe** — são as **medidas técnicas de maior retorno por euro investido** em todo o Anexo IV.
 

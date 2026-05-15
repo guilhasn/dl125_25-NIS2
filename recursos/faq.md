@@ -111,8 +111,8 @@ Distribuídas em três famílias: **O**rganizacionais, **T**écnicas, **H**umana
 
 **Não explicitamente.** Ao contrário do regime das essenciais/importantes (arts. 26.º e 27.º + Anexo II do Aviso), o Anexo IV **não enumera literalmente** uma medida «análise de risco». Mas:
 
-- A medida **O.IAC** (Inventariação de Activos Críticos) pressupõe identificação de dependências.
-- A medida **O.ID** (Identificação de funções e activos críticos, Grupo A) implica análise sistémica.
+- A medida [<abbr title="Inventariação de Activos Críticos">**O.IAC**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac) (Inventariação de Activos Críticos) pressupõe identificação de dependências.
+- A medida [<abbr title="Identificação de funções e activos críticos">**O.ID**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-id) (Identificação de funções e activos críticos, Grupo A) implica análise sistémica.
 - **Sem análise de risco** é metodologicamente impossível justificar as restantes medidas.
 
 Recomendação: **tratar como se fosse exigida** e produzir uma matriz simples documentada. Ver [B.2]({% link 01-gestao-risco/b2-analise-risco.md %}).
