@@ -5,9 +5,9 @@ parent: "A. Enquadramento legal"
 nav_order: 3
 ---
 
-# A.3 Plataforma electrónica do CNCS
+# A.3 Plataforma electrónica do CNCS — MyCiber
 
-Quase tudo o que vocês vão ter de comunicar ao Centro Nacional de Cibersegurança (CNCS) passa por **uma só plataforma electrónica**. Não há e-mails, não há ofícios em papel, não há balcão presencial: o canal é digital, único, e identificado por Cartão de Cidadão ou Chave Móvel Digital. Esta página explica o que é a plataforma, o que se faz lá, os prazos críticos e o que fazer quando ela está em baixo.
+Quase tudo o que vocês vão ter de comunicar ao Centro Nacional de Cibersegurança (CNCS) passa por **uma só plataforma electrónica**, chamada **MyCiber** ([myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}). Não há e-mails, não há ofícios em papel, não há balcão presencial: o canal é digital, único, e identificado por Cartão de Cidadão ou Chave Móvel Digital. Esta página explica o que é a plataforma, o que se faz lá, os prazos críticos e o que fazer quando ela está em baixo.
 
 ## O que a lei diz
 
@@ -70,9 +70,23 @@ Para uma autarquia, na prática isto significa:
 
 Esta cláusula vale também ao contrário: **a plataforma estar disponível é responsabilidade do CNCS**; vocês não podem ser penalizados por não conseguir comunicar quando o sistema falha, desde que demonstrem ter tentado e ter usado o canal de contingência.
 
+## O Simulador — primeira funcionalidade já disponível
+
+Antes mesmo da abertura do registo formal, o CNCS disponibilizou em **Abril de 2026** uma primeira funcionalidade no MyCiber: o **Simulador**. É uma ferramenta **não vinculativa** que permite à entidade testar, de forma indicativa, se está abrangida pelo Regime Jurídico da Cibersegurança e em que categoria.
+
+**O que faz o Simulador**: percorre um conjunto de perguntas — sector de actividade (Anexos I e II), tipo de entidade, número de trabalhadores, volume de negócios — e devolve uma classificação indicativa: entidade essencial, importante, pública relevante (Grupo A ou B) ou fora do regime.
+
+**Limitações importantes**:
+
+- O resultado **não tem valor formal** — o CNCS não tem visibilidade sobre os dados introduzidos e não vincula a decisão de qualificação.
+- O Simulador **não cobre todos os critérios** do art. 3.º do DL: ficam de fora as alíneas b), c), d) e e) do n.º 2 e o n.º 5 — casos especiais de qualificação por integração digital, criticidade, dimensão sectorial, etc.
+- O uso do Simulador **não substitui** o procedimento de auto-identificação formal — esta continua obrigatória uma vez aberta a funcionalidade de registo.
+
+**Recomendação para autarquias**: corram o Simulador agora (não precisam de autenticação para o usar) e guardem o resultado como ponto de partida para a auto-identificação formal. Se o resultado for ambíguo (ex.: câmara perto do limiar de 75 ou 250 trabalhadores), tratem-no como sinal para preparar argumentação que defenda a vossa classificação no acto de registo.
+
 ## Status à data desta formação
 
-> **Nota prática (15 de Junho de 2026):** a plataforma electrónica do CNCS está em fase de disponibilização. Verifiquem o estado actual em [cncs.gov.pt/pt/regime-juridico/](https://www.cncs.gov.pt/pt/regime-juridico/){:target="_blank"}. Se ainda não estiver activa, o prazo de 60 dias **só começa a correr quando o CNCS comunicar a disponibilização**. Não há nada a fazer antes desse momento, excepto preparar a documentação (ver pré-trabalho em [A.2]({% link 00-enquadramento/a2-quem-esta-abrangido.md %})).
+> **Nota prática (15 de Junho de 2026):** o MyCiber **já está disponível com o Simulador**, mas as funcionalidades de **registo formal, qualificação, notificação de incidentes e comunicações** **ainda não estão operacionais** — aguardam a publicação da versão final do Aviso n.º 5146/2026/2 (em consulta pública até 22 de Abril). Enquanto isso, podem usar o Simulador e preparar a documentação. O prazo de 60 dias do art. 8.º **só começa a correr quando o CNCS comunicar a disponibilização do registo formal**.
 
 ## Demo durante a formação
 
