@@ -53,4 +53,4 @@ Esta página é demonstrativa; os templates relevantes ao preenchimento das noti
 
 ## Próximo passo
 
-[C.6 Cartões de cenário do exercício A4 →]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %})
+[C.6 Fichas de cenário do exercício A4 →]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %})

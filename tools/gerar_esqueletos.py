@@ -40,7 +40,7 @@ ESTRUTURA = {
             ("c3-conteudo-notificacao", "C.3 Conteúdo de cada notificação"),
             ("c4-cruzamento-rgpd", "C.4 Cruzamento RGPD"),
             ("c5-demos", "C.5 Demo: plataforma CNCS"),
-            ("c6-cenarios-exercicio", "C.6 Cartões de cenário do exercício A4"),
+            ("c6-cenarios-exercicio", "C.6 Fichas de cenário do exercício A4"),
         ],
     ),
     "03-outras-medidas": (

@@ -29,7 +29,7 @@ Ao final do bloco, cada formando deve ser capaz de:
 3. [C.3 Conteúdo de cada notificação]({% link 02-notificacao-incidentes/c3-conteudo-notificacao.md %}) (15 min) — Manual de preenchimento dos cinco documentos: notificação inicial (24h, art. 42.º), actualização facultativa (72h, art. 42.º, n.º 3), fim de impacto significativo (24h, art. 43.º), relatório final (30 dias úteis, art. 44.º), intercalar (semanal, art. 44.º, n.º 3) + comunicação aos destinatários (art. 48.º).
 4. [C.4 Cruzamento RGPD]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}) (10 min) — Dois canais paralelos (CNCS 24h, CNPD 72h); o mecanismo «uma só notificação» do art. 40.º, n.º 7 pende de protocolo; recomendação prática de **dupla notificação** durante a transição; cenário concreto de ransomware com exfiltração; triângulo NIS2 + RGPD + Lei 109/2009.
 5. [C.5 Demo: plataforma CNCS]({% link 02-notificacao-incidentes/c5-demos.md %}) (10 min) — Demonstração ao vivo (ou capturas) da plataforma electrónica oficial; *workflow* completo de submissão; art. 17.º do Aviso e contactos de emergência se a plataforma falhar.
-6. [C.6 Cartões de cenário do exercício A4]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}) (25 min) — Exercício prático em pares com 4 cartões: ransomware, fornecedor comprometido, DDoS portal, phishing ao vereador. *Output*: notificação inicial preenchida + apresentação de 1 minuto por par.
+6. [C.6 Fichas de cenário do exercício A4]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}) (25 min) — Exercício prático em pares com 4 fichas: ransomware, fornecedor comprometido, DDoS portal, phishing ao vereador. *Output*: notificação inicial preenchida + apresentação de 1 minuto por par.
 
 ## Após este bloco
 

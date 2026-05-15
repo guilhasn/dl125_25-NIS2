@@ -1,21 +1,21 @@
 ---
-title: "C.6 Cartões de cenário do exercício A4"
+title: "C.6 Fichas de cenário do exercício A4"
 layout: default
 parent: "C. Notificação de incidentes"
 nav_order: 6
 ---
 
-# C.6 Cartões de cenário do exercício A4
+# C.6 Fichas de cenário do exercício A4
 
-Os 25 minutos finais do bloco C são **prática**. Quatro cartões de cenário, distribuídos pelos pares de formandos: a tarefa é, em **15 minutos**, decidir se notifica o CNCS, preencher a notificação inicial dos 24h, identificar canais paralelos (RGPD? MP?) e justificar as decisões. Os restantes 10 minutos são para apresentação rápida (≈1 min/par) das decisões-chave e debate.
+Os 25 minutos finais do bloco C são **prática**. Quatro fichas de cenário, distribuídos pelos pares de formandos: a tarefa é, em **15 minutos**, decidir se notifica o CNCS, preencher a notificação inicial dos 24h, identificar canais paralelos (RGPD? MP?) e justificar as decisões. Os restantes 10 minutos são para apresentação rápida (≈1 min/par) das decisões-chave e debate.
 
-Esta página apresenta os cenários e as instruções. Os cartões físicos (PDF A5, um por par, plastificados) são gerados na **Fase 4** da produção do hub e ficam disponíveis para *download* na página de [recursos]({% link recursos/templates.md %}) antes do dia 15.
+Esta página apresenta os cenários e as instruções. As fichas físicas (PDF A5, uma por par, plastificadas) são gerados na **Fase 4** da produção do hub e ficam disponíveis para *download* na página de [recursos]({% link recursos/templates.md %}) antes do dia 15.
 
 ## Instruções gerais
 
 **Formação dos pares**: na sessão presencial, os formandos trabalham em pares com colega da própria autarquia sempre que possível (ou da mesma dimensão se vierem sozinhos).
 
-**Distribuição dos cartões**: 4 cartões, atribuídos por sorteio ou por escolha das autarquias (uma autarquia que tenha sofrido recentemente um incidente análogo pode escolher um cenário distinto para evitar replicar a experiência).
+**Distribuição das fichas**: 4 fichas, atribuídas por sorteio ou por escolha das autarquias (uma autarquia que tenha sofrido recentemente um incidente análogo pode escolher um cenário distinto para evitar replicar a experiência).
 
 **Tarefa**: 15 minutos para cada par produzir:
 
@@ -38,28 +38,28 @@ Esta página apresenta os cenários e as instruções. Os cartões físicos (PDF
 |---|---|---|
 | [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) | Preencher | Notificação inicial — saída do exercício. |
 | [`registo-incidentes-nis2.xlsx`]({{ '/templates/registo-incidentes-nis2.xlsx' | relative_url }}) | Registar | Linha de registo posterior — opcional dentro do exercício, recomendado para casa. |
-| [`playbook-ransomware-nis2.docx`]({{ '/templates/playbook-ransomware-nis2.docx' | relative_url }}) | Referência | Útil para o Cartão 1 e para complementar o Cartão 4. |
-| [`playbook-data-breach-nis2.docx`]({{ '/templates/playbook-data-breach-nis2.docx' | relative_url }}) | Referência | Útil para os Cartões 1, 2 e 4 (todos com dimensão de violação de dados pessoais). |
+| [`playbook-ransomware-nis2.docx`]({{ '/templates/playbook-ransomware-nis2.docx' | relative_url }}) | Referência | Útil para o Ficha 1 e para complementar o Ficha 4. |
+| [`playbook-data-breach-nis2.docx`]({{ '/templates/playbook-data-breach-nis2.docx' | relative_url }}) | Referência | Útil para os Fichas 1, 2 e 4 (todos com dimensão de violação de dados pessoais). |
 
-## Cartão 1 — Ransomware
+## Ficha 1 — Ransomware
 
 > **Hoje, 15h32.** O técnico de informática reporta que três servidores (incluindo o que aloja o registo civil e o aprovisionamento) estão a apresentar mensagem de bloqueio com pedido de resgate em criptomoeda. Cópias de segurança são *offline* mas ainda não testadas. Aproximadamente 40.000 ficheiros afectados. Vereador exige saber em 30 min se notifica imprensa local.
 
 **Pistas para análise**: impacto significativo (sim — vários servidores críticos, dados pessoais provavelmente afectados, paragem de serviços). Canais: CNCS (24h), CNPD (72h — suspeita forte de violação de dados pessoais), MP (Lei 109/2009 — crime informático), comunicação a munícipes (art. 48.º — quando se confirmar âmbito). Decisão sobre imprensa: gestão de comunicação distinta da obrigação legal — coordenar com comunicação interna; **prematuro** ao fim de minutos da detecção.
 
-## Cartão 2 — Fornecedor comprometido
+## Ficha 2 — Fornecedor comprometido
 
 > **Hoje, 09h15.** O fornecedor da aplicação de Gestão Documental envia comunicado a todos os clientes: foram detectados acessos não autorizados a servidores partilhados na semana passada. Não confirma se dados dos vossos munícipes foram acedidos. A empresa investiga.
 
 **Pistas para análise**: o incidente é do fornecedor — mas a entidade pública relevante é **a vossa câmara**, e o responsável pelo tratamento dos dados é a vossa câmara. **Hora de verificação**: a partir do momento em que recebem o comunicado — relógio dos 24h CNCS começa agora. Notificar mesmo sem confirmação de exfiltração («possa vir a existir um incidente significativo» — art. 42.º, n.º 1). RGPD pode aguardar confirmação, mas iniciar análise de impacto desde já. Activar cláusula contratual com o fornecedor (informação detalhada, evidência preservada). Distinção causa próxima (fornecedor) vs responsabilidade legal (a câmara é quem notifica).
 
-## Cartão 3 — DDoS no portal do munícipe
+## Ficha 3 — DDoS no portal do munícipe
 
 > **Hoje, 11h00.** Portal do Munícipe e formulários digitais inacessíveis há 90 min. Tráfego anormal a partir de IPs estrangeiros. Munícipes não conseguem submeter requerimentos urgentes. Vereador da modernização administrativa pergunta «quando volta?».
 
 **Pistas para análise**: indisponibilidade > 90 min — atravessou o limiar conservador das 4h? Ainda não, **mas a tendência é negativa**. Decisão: monitorizar 30-60 min mais — se persistir, **notificar como provavelmente significativo**. Sem dimensão de violação de dados pessoais (DDoS é negação de serviço, não acesso). CNPD: provavelmente não. MP: depende da motivação do atacante — pedido de resgate à parte, dificilmente. Comunicação a munícipes (art. 48.º): **sim**, na 1.ª hora, na página institucional alternativa e nas redes sociais — «portal indisponível, requerimentos urgentes por e-mail para X».
 
-## Cartão 4 — Phishing com fraude ao vereador
+## Ficha 4 — Phishing com fraude ao vereador
 
 > **Hoje, 14h00.** Detectado movimento anómalo na caixa de e-mail de um Vereador: 200 e-mails enviados com pedidos de transferência bancária para fornecedores municipais, falsificando assinatura. Já se sabe que dois fornecedores tentaram efectuar transferências; bancos suspenderam.
 
