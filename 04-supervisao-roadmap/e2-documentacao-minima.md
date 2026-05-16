@@ -12,7 +12,7 @@ nav_order: 2
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-**Duração**: 5 min · **Base**: Anexo IV do *Aviso 5146/2026/2*{:.legal} + síntese das obrigações documentais
+**Duração**: 5 min · **Base**: Anexo IV do [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) + síntese das obrigações documentais
 
 Esta página responde a uma pergunta única e prática: **"se o CNCS me pedir tudo amanhã, o que tenho de mostrar?"** A resposta é uma lista de **peças documentais** mínimas. Não é uma lista de tudo o que se pode fazer; é a **lista do que tem de existir** para o Grupo B básico. Grupo A acumula medidas adicionais marcadas com **(A)**.
 
@@ -32,7 +32,7 @@ Esta página responde a uma pergunta única e prática: **"se o CNCS me pedir tu
 | ☐ **(A) Metodologia da análise de risco documentada** | Documento aprovado | Executivo |
 | ☐ **(A) Acta de aceitação dos riscos residuais** | Documento aprovado por presidente | Secretaria-geral |
 | ☐ **Inventário de activos críticos** ([<abbr title="Inventariação de Activos Críticos">O.IAC</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac)) | Folha Excel | Informática |
-| ☐ **Lista de activos publicamente acessíveis** (*art. 32.º do Aviso*{:.legal}) | Lista submetida no MyCiber | Informática + DPO |
+| ☐ **Lista de activos publicamente acessíveis** ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)) | Lista submetida no MyCiber | Informática + DPO |
 | ☐ **(A) Política de classificação da informação** ([O.PSI]({% link recursos/anexo-iv-aviso-5146.md %}#o-psi)) | Documento aprovado | Executivo |
 | ☐ **(A) Política de gestão de activos** | Documento aprovado | Informática |
 
@@ -104,7 +104,7 @@ Numa câmara de 75-249 trabalhadores, sem pretensões de Grupo A, o que **tem me
 3. **5 políticas escritas** (segurança da informação, *backups*, palavras-passe, controlo de acessos, formação).
 4. **2 planos** (resposta a incidentes + continuidade de negócio).
 5. **1 matriz** (risco).
-6. **Listas vivas** (lista do *art. 32.º do Aviso*{:.legal}; registo cronológico de incidentes; presenças em formação).
+6. **Listas vivas** (lista do [*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32); registo cronológico de incidentes; presenças em formação).
 7. **1 acta anual** (revisão pela gestão).
 
 São cerca de **15 peças**. Quem tiver as 15 pode demonstrar postura defensável; quem não tiver, está exposto a coima na primeira inspecção pós-3-4-2027.

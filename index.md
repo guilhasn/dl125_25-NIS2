@@ -6,7 +6,7 @@ nav_order: 1
 
 # A CIBERSEGURANÇA NAS AUTARQUIAS LOCAIS E A DIRETIVA NIS2
 
-Roteiro prático de implementação do **Decreto-Lei 125/2025** (regime jurídico da ciberseguranca, em vigor desde 3 de Abril de 2026) e do *Aviso n.º 5146/2026/2*{:.legal} (regulamentação do CNCS) aplicado a **autarquias locais portuguesas**.
+Roteiro prático de implementação do **Decreto-Lei 125/2025** (regime jurídico da ciberseguranca, em vigor desde 3 de Abril de 2026) e do [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) (regulamentação do CNCS) aplicado a **autarquias locais portuguesas**.
 
 > ⏳ Hub em construção — conteúdo a publicar até 8 de Junho de 2026.
 

@@ -12,13 +12,13 @@ nav_order: 1
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-**Duração**: 5 min · **Base legal**: *art. 55.º do RJC*{:.legal}
+**Duração**: 5 min · **Base legal**: [*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)
 
 Uma autarquia não é supervisionada como uma entidade essencial. Não há auditoria periódica programada, não há obrigação de relatórios anuais ao CNCS, não há *peer review* sectorial. O que existe é **supervisão *ex post*** — o CNCS pode pedir contas **quando houver motivo**: a seguir a um incidente, perante uma denúncia, ou por amostragem aleatória. Esta página explica em que consiste e como se preparar.
 
 ## O que a lei diz
 
-> «O Centro Nacional de Cibersegurança exerce a supervisão das entidades públicas relevantes em momento posterior ao da prática dos actos ou da ocorrência dos factos, podendo aceder, designadamente: a) Aos sistemas, redes, instalações e equipamentos; b) Aos registos, documentos e demais informação considerada relevante; c) Às pessoas com funções na entidade.» — paráfrase do *art. 55.º do RJC*{:.legal}
+> «O Centro Nacional de Cibersegurança exerce a supervisão das entidades públicas relevantes em momento posterior ao da prática dos actos ou da ocorrência dos factos, podendo aceder, designadamente: a) Aos sistemas, redes, instalações e equipamentos; b) Aos registos, documentos e demais informação considerada relevante; c) Às pessoas com funções na entidade.» — paráfrase do [*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)
 
 A figura distingue-se da **supervisão *ex ante*** (aplicável a essenciais — art. 53.º) em três pontos:
 
@@ -46,7 +46,7 @@ Em qualquer dos três casos, o pedido inicial chega tipicamente por **comunicaç
 O *art. 55.º, n.º 1 do RJC*{:.legal} é abrangente. Em concreto, espere-se um pedido de:
 
 - **Cópia das políticas em vigor** — segurança da informação, *backups*, controlo de acessos, formação. Quem não tem documento escrito, falha aqui.
-- **Inventário de activos** e lista de activos publicamente acessíveis (*art. 32.º do Aviso*{:.legal}).
+- **Inventário de activos** e lista de activos publicamente acessíveis ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)).
 - **Matriz de risco** actualizada (ver [B.2]({% link 01-gestao-risco/b2-analise-risco.md %})).
 - **Registo do(s) incidente(s)** ocorrido(s), incluindo decisões tomadas, horas, responsáveis, comunicações externas.
 - **Registo de presenças em formação** dos últimos 12 meses.
@@ -68,20 +68,20 @@ Não é viável manter uma postura de "estaminé permanente" como entidade essen
 
 A própria supervisão não aplica sanções; aplica-se **a seguir** ao apuramento de incumprimento. O quadro de coimas e sanções acessórias está em [A.4 Prazos, sanções e amnistia]({% link 00-enquadramento/a4-prazos-sancoes.md %}) — recordar:
 
-- Para autarquia **Grupo B**, infracção muito grave (*art. 61.º do RJC*{:.legal}): **8.000 € a 350.000 €**.
+- Para autarquia **Grupo B**, infracção muito grave ([*art. 61.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-61)): **8.000 € a 350.000 €**.
 - Para autarquia **Grupo A**: **16.000 € a 4.000.000 €**.
-- **Dispensa de coima** transitória até ~3 de Abril de 2027 — *art. 65.º do RJC*{:.legal}.
+- **Dispensa de coima** transitória até ~3 de Abril de 2027 — [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65).
 
-A dispensa do *art. 65.º do RJC*{:.legal} é **discricionária** e pressupõe que a entidade tem **plano de adaptação em curso documentado**. Sem evidência de actividade, a dispensa é indeferida.
+A dispensa do [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) é **discricionária** e pressupõe que a entidade tem **plano de adaptação em curso documentado**. Sem evidência de actividade, a dispensa é indeferida.
 
 ## Sidebar — dupla qualificação
 
-Para autarquias com **SMAS** ou empresa municipal qualificada como **entidade essencial**, o regime de supervisão da parte essencial é o do *art. 53.º do RJC*{:.legal} — **supervisão *ex ante***. Implica:
+Para autarquias com **SMAS** ou empresa municipal qualificada como **entidade essencial**, o regime de supervisão da parte essencial é o do [*art. 53.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-53) — **supervisão *ex ante***. Implica:
 
 - Inspecções periódicas programadas pelo CNCS.
 - Obrigação de relatório anual.
 - Acesso facilitado do CNCS aos sistemas e instalações.
-- Designação formal de **RC** (*art. 31.º do RJC*{:.legal}) e **PCP** (*art. 32.º do RJC*{:.legal}).
+- Designação formal de **RC** ([*art. 31.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-31)) e **PCP** ([*art. 32.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-32)).
 
 A vossa câmara pode ser **simultaneamente** sob *ex post* (parte câmara) e *ex ante* (parte SMAS) — duas posturas administrativas distintas, dois canais de comunicação separados no MyCiber.
 

@@ -14,7 +14,7 @@ nav_order: 3
 
 **Duração**: 5 min · **Forma**: *cheatsheet* para imprimir e afixar — uma só página, com a sequência dos primeiros 6 meses
 
-Ao fim deste dia de formação, vocês têm uma matriz de risco em embrião, um *top 5* de activos, um *top 5* de fornecedores e o esboço de uma notificação 24h. **Não chega**, mas é o ponto de partida certo. Este roadmap traduz o resto — o caminho mês-a-mês para chegar a uma **postura defensável** em **6 meses**. Não é o caminho para a perfeição (que demora anos); é o caminho para o **mínimo demonstrável** que se invocará perante o *art. 65.º do RJC*{:.legal} (dispensa de coimas).
+Ao fim deste dia de formação, vocês têm uma matriz de risco em embrião, um *top 5* de activos, um *top 5* de fornecedores e o esboço de uma notificação 24h. **Não chega**, mas é o ponto de partida certo. Este roadmap traduz o resto — o caminho mês-a-mês para chegar a uma **postura defensável** em **6 meses**. Não é o caminho para a perfeição (que demora anos); é o caminho para o **mínimo demonstrável** que se invocará perante o [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) (dispensa de coimas).
 
 ## A sequência
 
@@ -28,7 +28,7 @@ Cada mês tem **um objectivo principal** e **3-5 entregáveis concretos**. O mê
 - ☐ Despacho de designação do **ponto de contacto** (com substituto).
 - ☐ Lista das **entidades operacionais** da autarquia (câmara + SMAS + empresas + fundações) classificadas — usar saída do **Exercício A1**.
 - ☐ Para entidades em dupla qualificação: registo **separado** SMAS / empresa municipal como entidade essencial (se aplicável).
-- ☐ **Lista de activos publicamente acessíveis** (*art. 32.º do Aviso*{:.legal}) — submeter no prazo de **20 dias úteis** após qualificação.
+- ☐ **Lista de activos publicamente acessíveis** ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)) — submeter no prazo de **20 dias úteis** após qualificação.
 
 **Templates a aplicar**: [`formulario-registo-cncs-nis2.docx`]({{ '/templates/formulario-registo-cncs-nis2.docx' | relative_url }}).
 
@@ -99,7 +99,7 @@ Cada mês tem **um objectivo principal** e **3-5 entregáveis concretos**. O mê
 
 | Mês | Foco | Peça-chave |
 |---|---|---|
-| **1** | Qualificação | Registo no MyCiber + ponto de contacto + lista *art. 32.º do Aviso*{:.legal} |
+| **1** | Qualificação | Registo no MyCiber + ponto de contacto + lista [*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32) |
 | **2** | Políticas-base | 5 políticas aprovadas |
 | **3** | Diagnóstico | Inventário (20-40) + Matriz risco (15-25) + Fornecedores (15-25) |
 | **4** | Medidas técnicas | MFA + backups testados + air-gap + SPF/DKIM/DMARC |
@@ -114,7 +114,7 @@ Esta página está pensada para ser **impressa e afixada** no gabinete TIC ou na
 
 Após o mês 6, o ciclo entra em **manutenção anual**:
 
-- **Anual**: revisão pela gestão, actualização do plano de formação, actualização da lista do *art. 32.º do Aviso*{:.legal}.
+- **Anual**: revisão pela gestão, actualização do plano de formação, actualização da lista do [*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32).
 - **Semestral**: revisão das matrizes (risco, activos, fornecedores), teste do PCN.
 - **Trimestral**: teste de *backup*, revisão de contas, *refresher* de formação.
 - **Mensal** (informática): patches, monitorização, *logs*.

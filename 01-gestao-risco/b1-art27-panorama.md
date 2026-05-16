@@ -43,7 +43,7 @@ Esta é a leitura crítica de todo o bloco B, e é a leitura que distingue o dir
 
 > «As medidas de ciberseguranca a adotar pelas entidades **essenciais e importantes** (...)» — art. 27.º, n.º 1, alínea de abertura
 
-O art. 27.º **dirige-se exclusivamente a entidades essenciais e importantes**. Para as autarquias, que (como vimos em [A.2]({% link 00-enquadramento/a2-quem-esta-abrangido.md %})) são **entidades públicas relevantes**, a norma aplicável é o *art. 33.º do RJC*{:.legal}:
+O art. 27.º **dirige-se exclusivamente a entidades essenciais e importantes**. Para as autarquias, que (como vimos em [A.2]({% link 00-enquadramento/a2-quem-esta-abrangido.md %})) são **entidades públicas relevantes**, a norma aplicável é o [*art. 33.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-33):
 
 > «As entidades públicas relevantes devem cumprir com as medidas de ciberseguranca estabelecidas pelo CNCS (...) através de regulamento, (...) em termos proporcionais e adequados ao grupo a que pertencem.» — art. 33.º, n.os 1-2 do RJC
 
