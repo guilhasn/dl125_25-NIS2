@@ -74,7 +74,7 @@ Conselho Superior de Segurança do Ciberespaço (CSSC), Comissão de Acompanhame
 
 ### `art. 25.º` Obrigações dos órgãos de gestão {#art-25}
 
-Apenas para essenciais e importantes. Não se aplica a autarquias.
+Para essenciais e importantes. **Não se aplica directamente à parte câmara** das autarquias; **aplica-se ao conselho de administração do SMAS** ou da empresa municipal em dupla qualificação.
 
 ### `art. 26.º` Sistema de gestão de riscos {#art-26}
 
@@ -100,7 +100,7 @@ Para essenciais e importantes. Obriga a análise documentada e aceitação forma
 
 ### `art. 31.º` Responsável de Cibersegurança (RC) {#art-31}
 
-Apenas para essenciais e importantes. **Não se aplica a autarquias** — para autarquias basta o ponto de contacto na plataforma.
+Para essenciais e importantes. **Não se aplica à parte câmara** das autarquias — basta um ponto de contacto leve. **Aplica-se à parte SMAS ou EM** em dupla qualificação (designação formal obrigatória, pessoa singular com formação e independência funcional).
 
 ### `art. 32.º` Ponto de Contacto Permanente (PCP) {#art-32-rjc}
 

@@ -31,7 +31,7 @@ Termos técnicos: incidente, vulnerabilidade, activo crítico, ponto de contacto
 
 ### `art. 3.º` Níveis de conformidade {#art-3}
 
-Define os níveis **Básico / Substancial / Elevado** aplicáveis a entidades essenciais e importantes (Anexo III). **Não se aplica a autarquias** (que estão sob o Anexo IV, sem níveis B/S/E).
+Define os níveis **Básico / Substancial / Elevado** aplicáveis a entidades essenciais e importantes (Anexo III). **Não se aplica directamente à parte câmara** das autarquias (entidade pública relevante, Grupo A/B — segue o Anexo IV, sem níveis B/S/E). **Aplica-se, contudo, à parte SMAS ou empresa municipal** em dupla qualificação como entidade essencial/importante.
 
 ## Aviso — Capítulo II: Plataforma electrónica MyCiber (arts. 4.º a 19.º) {#cap-2}
 
@@ -61,11 +61,11 @@ Disponibilidade opcional de API para automação por entidades com capacidade t�
 
 ### `art. 14.º` Comunicação do Responsável de Cibersegurança {#art-14}
 
-Apenas para essenciais e importantes — não aplicável a autarquias.
+Para entidades essenciais e importantes. **Não se aplica à parte câmara** das autarquias; **aplica-se à parte SMAS** em dupla qualificação (RC obrigatório nos termos do *art. 31.º RJC*{:.legal}).
 
 ### `art. 15.º` Comunicação do Ponto de Contacto Permanente {#art-15}
 
-Apenas para essenciais e importantes — não aplicável a autarquias.
+Para entidades essenciais e importantes. **Não se aplica à parte câmara**; **aplica-se à parte SMAS** em dupla qualificação (PCP obrigatório nos termos do *art. 32.º RJC*{:.legal}).
 
 ### `art. 17.º` Falência da plataforma {#art-17}
 
@@ -157,7 +157,7 @@ Quadro Nacional de Referência para a Ciberseguranca v2, alinhado com NIST CSF 2
 
 ### Anexo II — Matriz de risco {#anexo-ii-aviso}
 
-Matriz de cenários de risco para entidades essenciais e importantes. **Não aplicável a autarquias.**
+Matriz de cenários de risco para entidades essenciais e importantes. **Não se aplica directamente à parte câmara** (entidade pública relevante, Grupo A/B — essa segue o Anexo IV). **Aplica-se, contudo, à parte SMAS** quando qualificada como entidade essencial por força do sector águas (Anexo I) — e a empresas municipais qualificadas como essenciais ou importantes. Em **dupla qualificação**, a autarquia tem de preencher a matriz do Anexo II para a parte essencial — ver [Roteiro essencial — Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
 
 ### Anexo III — Medidas para essenciais e importantes (níveis B/S/E) {#anexo-iii-aviso}
 
