@@ -12,7 +12,7 @@ has_children: true
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-**Duração**: 15 minutos (16:45–17:00) · **3 sub-páginas**
+**Duração**: 15 minutos · **3 sub-páginas**
 
 O Bloco E é o **fecho operacional do dia**. Quinze minutos curtos para responder a três perguntas finais: **como sou inspeccionado, o que tenho de mostrar, e por onde começo amanhã**. Não é exposição de matéria nova — é **síntese accionável** das obrigações apresentadas ao longo do dia.
 
@@ -38,7 +38,7 @@ A última peça do dia — a **acta de revisão pela gestão** — fecha o ciclo
 
 ## Encerramento do dia
 
-Após o Bloco E, os 15 minutos finais (16:45–17:00) ficam para **Q&A** + qualquer tempo poupado nos blocos anteriores. Cada formando partilha brevemente:
+Após o Bloco E, os minutos finais ficam para **Q&A** + qualquer tempo poupado nos blocos anteriores. Cada formando partilha brevemente:
 
 - O que vai fazer **na próxima segunda-feira** na câmara.
 - Uma dúvida que ficou por esclarecer.

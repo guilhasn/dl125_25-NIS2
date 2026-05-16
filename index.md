@@ -11,19 +11,18 @@ Roteiro prático de implementação do **Decreto-Lei 125/2025** (regime jurídic
 > ⏳ Hub em construção — conteúdo a publicar até 8 de Junho de 2026.
 
 **Formador**: Nuno Salvador
-**Data**: 15 de Junho de 2026 — 09h30 às 17h00
+**Data**: 15 de Junho de 2026
 **Formato**: online (Zoom/Teams), com partilha de ecrã do formador e trabalho individual dos formandos no respectivo computador
 **Público**: dirigentes e técnicos superiores de autarquias locais
 
-## Agenda do dia
+## Estrutura
 
-| Hora | Bloco | Conteúdo |
+| Bloco | Duração | Conteúdo |
 |---|---|---|
-| 09:30–10:45 | **A. Enquadramento legal** | Origem, âmbito, plataforma CNCS, prazos |
-| 10:45–11:00 | ☕ Pausa | |
-| 11:00–12:30 | **B. Art. 27.º — Risco e ativos** | Análise de risco, inventário |
-| 12:30–14:00 | 🍴 Almoço | |
-| 14:00–15:30 | **C. Notificação de incidentes** | 24h+24h+30d, plataforma CNCS |
-| 15:30–15:45 | ☕ Pausa | |
-| 15:45–16:45 | **D. Outras medidas** | Fornecedores, continuidade, acessos, formação |
-| 16:45–17:00 | **E. Supervisão e roadmap** | Sanções, 6 meses |
+| **A. Enquadramento legal** | 75 min | Origem, âmbito, plataforma CNCS (MyCiber), prazos |
+| **B. Art. 27.º — Risco e ativos** | 90 min | Análise de risco, inventário, classificação de activos |
+| **C. Notificação de incidentes** | 90 min | Prazos PT (24h + 24h + 30 dias úteis), plataforma CNCS, articulação RGPD |
+| **D. Outras medidas** | 60 min | Cadeia de fornecimento, continuidade, acessos/MFA, formação |
+| **E. Supervisão e roadmap** | 15 min | Supervisão *ex post*, sanções, roadmap de 6 meses |
+
+**Pausas**: o formador faz pausas curtas entre blocos conforme o ritmo da sessão.

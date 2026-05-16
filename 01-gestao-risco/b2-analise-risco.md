@@ -12,7 +12,7 @@ nav_order: 2
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-Este é **o coração da manhã**. Quarenta e cinco minutos de exposição porque é aqui que se decide se a vossa autarquia tem uma postura defensável perante o CNCS ou apenas uma colecção de boas intenções. A análise de risco é o instrumento que **organiza todas as outras decisões** — qual o fornecedor mais crítico, que sistema merece backup duplicado, onde aplicar MFA primeiro, que formação é prioritária. Sem análise de risco, todas as escolhas a seguir são arbitrárias.
+Este é **o coração do Bloco B**. Quarenta e cinco minutos de exposição porque é aqui que se decide se a vossa autarquia tem uma postura defensável perante o CNCS ou apenas uma colecção de boas intenções. A análise de risco é o instrumento que **organiza todas as outras decisões** — qual o fornecedor mais crítico, que sistema merece backup duplicado, onde aplicar MFA primeiro, que formação é prioritária. Sem análise de risco, todas as escolhas a seguir são arbitrárias.
 
 A subtileza para uma autarquia é esta: ao contrário do que acontece com entidades essenciais — que têm um artigo (o 26.º) e um anexo (o Anexo II do Aviso) integralmente dedicados ao tema —, **o Anexo IV não tem uma medida explícita "análise de risco"**. A gestão de risco para o Grupo B e Grupo A emerge **transversalmente** das medidas O, sobretudo do inventário de activos críticos. Esta página explica como construir, mesmo sem essa medida explícita, um processo de gestão de risco proporcional, documentado e defensável.
 
@@ -142,7 +142,7 @@ A norma **ISO/IEC 27005** é a referência metodológica internacional para gest
 
 ## Exercício associado
 
-[Exercício A2 — Matriz de risco da entidade]({% link exercicios/a2-matriz-risco.md %}) (15 min, individual) — cada formando identifica 3 riscos da sua autarquia, atribui P × I, decide o tratamento. Output: 3 linhas preenchidas na [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}). Este é o exercício mais importante da manhã, e o output fica convosco — ficareis com o **embrião da matriz de risco da vossa entidade**.
+[Exercício A2 — Matriz de risco da entidade]({% link exercicios/a2-matriz-risco.md %}) (15 min, individual) — cada formando identifica 3 riscos da sua autarquia, atribui P × I, decide o tratamento. Output: 3 linhas preenchidas na [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}). Este é um dos exercícios mais importantes da formação, e o output fica convosco — ficareis com o **embrião da matriz de risco da vossa entidade**.
 
 ## Próximo passo
 

@@ -12,9 +12,9 @@ has_children: true
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-**Duração**: 60 minutos (15:45–16:45) · **4 sub-páginas**
+**Duração**: 60 minutos · **4 sub-páginas**
 
-Depois da manhã (Bloco B — risco e activos) e da primeira metade da tarde (Bloco C — notificação), entramos na **operacionalização das restantes medidas** do art. 27.º RJC e do Anexo IV do Aviso 5146/2026/2. Quatro temas, escolhidos por **maior retorno relativo** em câmara: cadeia de fornecimento, continuidade, controlo de acessos e formação. Não é exaustivo do Anexo IV — privilegiamos o que **resolve mais com menos esforço** numa autarquia média.
+Depois dos Blocos B (risco e activos) e C (notificação de incidentes), entramos na **operacionalização das restantes medidas** do art. 27.º RJC e do Anexo IV do Aviso 5146/2026/2. Quatro temas, escolhidos por **maior retorno relativo** em câmara: cadeia de fornecimento, continuidade, controlo de acessos e formação. Não é exaustivo do Anexo IV — privilegiamos o que **resolve mais com menos esforço** numa autarquia média.
 
 ## Objectivos do bloco
 

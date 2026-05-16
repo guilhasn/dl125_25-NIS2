@@ -12,7 +12,7 @@ has_children: true
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-**Duração**: 75 minutos (09:30–10:45) · **4 sub-páginas**
+**Duração**: 75 minutos · **4 sub-páginas**
 
 Este é o primeiro bloco da formação. Antes de discutir qualquer obrigação técnica concreta, fixamos a base: **de onde vem a lei**, **a quem se aplica**, **como se comunica com o CNCS**, e **o que custa não cumprir**. Sem este enquadramento, qualquer leitura posterior do regime corre o risco de ser feita à letra errada — aplicar a uma autarquia obrigações pensadas para entidades essenciais, ou ignorar prazos que já estão a correr.
 

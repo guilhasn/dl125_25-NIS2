@@ -16,7 +16,7 @@ nav_order: 2
 
 ## Objectivo
 
-Construir o **embrião** da matriz de risco da vossa entidade — 3 riscos identificados, classificados por probabilidade × impacto, com tratamento decidido. É a peça mais importante da manhã: tudo o que vem depois (medidas técnicas, prioridade de implementação, alocação de orçamento) decorre desta matriz.
+Construir o **embrião** da matriz de risco da vossa entidade — 3 riscos identificados, classificados por probabilidade × impacto, com tratamento decidido. É uma das peças mais importantes da formação: tudo o que vem depois (medidas técnicas, prioridade de implementação, alocação de orçamento) decorre desta matriz.
 
 Não procuramos exaustividade. Procuramos **três decisões fundamentadas**. A versão exaustiva constrói-se em câmara, nas semanas seguintes, usando o template [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}).
 
@@ -52,7 +52,7 @@ A maior parte das equipas tende a:
 
 ## Como continuar este trabalho na câmara
 
-1. Alargar de 3 para **15-25 riscos** num workshop de meia tarde com a equipa de informática + chefe de gabinete + DPO.
+1. Alargar de 3 para **15-25 riscos** num *workshop* de algumas horas com a equipa de informática + chefe de gabinete + DPO.
 2. Documentar a **metodologia** usada (escala P/I, definição de níveis) com o template [`metodologia-avaliacao-riscos-nis2.docx`]({{ '/templates/metodologia-avaliacao-riscos-nis2.docx' | relative_url }}) (obrigatório para Grupo A).
 3. Para riscos com P × I ≥ 15, exigir **acta de aceitação formal do risco residual** assinada pelo presidente — template [`aceitacao-riscos-residuais-nis2.docx`]({{ '/templates/aceitacao-riscos-residuais-nis2.docx' | relative_url }}).
 4. **Revisão semestral** mínima, ou após qualquer incidente significativo, ou após nova vulnerabilidade comunicada pelo CNCS (art. 31.º Aviso).

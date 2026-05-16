@@ -139,8 +139,8 @@ Todos os templates disponíveis para *download* na página de [recursos]({% link
 
 ## Exercício associado
 
-[Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-inventario.md %}) (10 min, individual) — cada formando lista os 5 activos críticos da sua autarquia, com responsável e dependência principal. Output: cinco linhas preenchidas no [`inventario-ativos-tic-nis2.xlsx`]({{ '/templates/inventario-ativos-tic-nis2.xlsx' | relative_url }}). Combinado com o Exercício A2 (matriz de risco) e com o Exercício A5 (fornecedores, à tarde), constitui o **núcleo do diagnóstico inicial** que fica convosco no fim do dia.
+[Exercício A3 — Top 5 activos críticos]({% link exercicios/a3-inventario.md %}) (10 min, individual) — cada formando lista os 5 activos críticos da sua autarquia, com responsável e dependência principal. Output: cinco linhas preenchidas no [`inventario-ativos-tic-nis2.xlsx`]({{ '/templates/inventario-ativos-tic-nis2.xlsx' | relative_url }}). Combinado com o Exercício A2 (matriz de risco) e com o Exercício A5 (fornecedores, no Bloco D), constitui o **núcleo do diagnóstico inicial** que fica convosco no fim da formação.
 
 ## Próximo passo
 
-[B.4 Síntese da manhã →]({% link 01-gestao-risco/b4-sintese.md %})
+[B.4 Síntese do bloco →]({% link 01-gestao-risco/b4-sintese.md %})

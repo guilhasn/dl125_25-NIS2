@@ -28,7 +28,7 @@ ESTRUTURA = {
             ("b1-art27-panorama", "B.1 Panorama do art. 27.º"),
             ("b2-analise-risco", "B.2 Análise e gestão de risco"),
             ("b3-inventario-ativos", "B.3 Inventário e classificação de ativos"),
-            ("b4-sintese", "B.4 Síntese da manhã"),
+            ("b4-sintese", "B.4 Síntese do bloco"),
         ],
     ),
     "02-notificacao-incidentes": (
