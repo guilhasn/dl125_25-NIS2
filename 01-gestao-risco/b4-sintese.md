@@ -32,7 +32,7 @@ A tarde tem três blocos:
 
 ## Antes de irem para o almoço, certifiquem-se que perceberam três coisas
 
-1. **Qual o vosso grupo** — Grupo A, Grupo B ou fora; e se há dupla qualificação a tratar em paralelo. Se ainda têm dúvida, é a hora de virem ter comigo.
+1. **Qual o vosso grupo** — Grupo A, Grupo B ou fora; e se há dupla qualificação a tratar em paralelo. Se ainda têm dúvida, é a hora de a colocarem no chat ou de pedirem a palavra antes do almoço.
 2. **Onde encontrar a matriz de risco** no hub e a metodologia recomendada. Vão precisar dos ficheiros para continuar o trabalho na semana seguinte.
 3. **Que activos vão classificar**. O exercício A3 listou 5; a versão final terá 20–40 numa câmara média. Comecem agora a mapa mental dos que faltam.
 
@@ -40,7 +40,7 @@ A tarde tem três blocos:
 
 À tarde vamos trabalhar **cadeia de fornecimento**. Quem tiver à mão dados sobre os **fornecedores TIC críticos** — quem presta o software de gestão municipal, quem aloja o portal, quem fornece o e-mail, quem gere a rede — chegará melhor preparado para o exercício A5. Não é pré-requisito; é facilitador.
 
-Bom almoço. Voltamos às 14:00.
+Bom almoço — pausa de 1h30. Voltamos às 14:00 na mesma sala Zoom/Teams.
 
 ## Próximo passo
 
