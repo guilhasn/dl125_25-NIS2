@@ -44,12 +44,14 @@ Conta-se o **quadro de pessoal efectivo da câmara em sentido próprio** à data
 
 ### 1.3 E se temos SMAS ou empresa municipal?
 
-Cada **entidade jurídica autónoma** qualifica-se separadamente:
+Depende da **forma de organização** do serviço — há **4 modelos** com consequências diferentes:
 
-- A **câmara em sentido próprio** qualifica como entidade pública relevante (Grupo A ou B, pelo número de trabalhadores da câmara).
-- O **SMAS / empresa municipal** qualifica em função do **sector em que opera** (Anexos I ou II do DL) e da sua **dimensão**.
+- **SMAS autónomo** (com regulamento próprio aprovado pela assembleia, AD próprio, contabilidade separada) → entidade jurídica autónoma, qualifica **separadamente** como essencial. Dois registos no MyCiber. *Caso típico: Leiria.*
+- **Unidade Orgânica integrada na câmara** (divisão/departamento, AD partilhado, mapa de pessoal único) → não há entidade autónoma; a câmara como um todo pode ser qualificada como essencial pelo *art. 6.º, n.º 1, al. d) RJC*{:.legal}. **A confirmar com o CNCS no acto de auto-identificação.** *Caso típico: Pombal.*
+- **Empresa municipal (EM ou EIM)** → entidade jurídica autónoma, qualifica separadamente. Dois registos.
+- **Adesão a operador multimunicipal** (Águas do Norte, Águas Públicas do Alentejo, etc.) → a entidade essencial é o **operador**; a câmara cinge-se ao seu próprio regime.
 
-Se operar serviços do Anexo I (água potável, águas residuais, energia, transportes, banca, infraestruturas digitais) e exceder os limiares de média empresa, qualifica como **entidade essencial** — regime mais exigente (Anexo III do Aviso, em vez do IV). Esta é a chamada **dupla qualificação**, tratada no [Roteiro essencial]({% link roteiro-essencial/dupla-qualificacao.md %}) e na sidebar do [Bloco A]({% link 00-enquadramento/index.md %}).
+Detalhe completo (incluindo tabela-síntese e como identificar o seu modelo): [Roteiro essencial — Dupla qualificação]({% link roteiro-essencial/dupla-qualificacao.md %}).
 
 ### 1.4 E se somos uma junta de freguesia ou câmara muito pequena (< 75 trabalhadores)?
 

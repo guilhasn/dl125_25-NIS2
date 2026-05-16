@@ -27,6 +27,66 @@ Para isso convergem dois critérios:
 
 Se **sim a ambos**, a entidade qualifica como **essencial** (Anexo I) ou **importante** (Anexo II), independentemente da categoria-mãe da câmara.
 
+## A questão prévia: como está organizada a água/o saneamento na sua autarquia?
+
+**Antes de aplicar o teste da dupla qualificação, é decisivo perceber a forma de organização** dos serviços do sector Anexo I/II. Há **quatro modelos** em Portugal, com consequências diferentes:
+
+### Modelo 1 — Serviço Municipalizado autónomo (SMAS com regulamento próprio)
+
+**Caso típico**: Leiria, Coimbra, Cascais, Sintra (em alguns serviços).
+
+O SMAS é constituído por **regulamento próprio aprovado pela assembleia municipal** e tem **autonomia administrativa e financeira**, com órgãos próprios (conselho de administração) e **identificação fiscal distinta** da câmara. Tem o seu próprio mapa de pessoal, sistemas TIC autónomos (frequentemente AD próprio), e relação contratual própria com fornecedores.
+
+**Consequência NIS2**: o SMAS é **entidade jurídica autónoma** para efeitos do RJC.
+
+- A câmara qualifica como entidade pública relevante (Grupo A/B pelo *art. 7.º RJC*{:.legal}).
+- O SMAS qualifica **separadamente** como entidade essencial (sector águas, Anexo I).
+- **Dois registos no MyCiber**, **dois pontos de contacto**, **dois regimes paralelos**.
+
+### Modelo 2 — Serviço integrado como unidade orgânica da câmara
+
+**Caso típico**: Pombal e muitas câmaras médias do interior. O serviço de águas e saneamento é uma **Unidade Orgânica** (divisão, departamento) **da câmara**, sem autonomia administrativa ou financeira própria. AD partilhado com a câmara, mapa de pessoal único, fornecedores tipicamente partilhados.
+
+**Consequência NIS2**: a unidade orgânica **não tem personalidade jurídica autónoma** — a entidade jurídica é **a câmara**. Mas o serviço prestado (água potável, águas residuais) é do **Anexo I do DL**, sector essencial.
+
+A leitura mais defensável (ainda sem orientação oficial específica do CNCS):
+
+- A **câmara** continua a qualificar como entidade pública relevante (Grupo A/B).
+- **A actividade de águas**, por estar no Anexo I, pode levar o CNCS a **qualificar a câmara como entidade essencial** pelo *art. 6.º, n.º 1, al. d) RJC*{:.legal} — «integração digital elevada na prestação de serviços».
+- Alternativamente, a câmara cumpre o regime do Anexo IV (pública relevante) e **acumula obrigações específicas** para a unidade de águas (matriz de risco sectorial do Anexo II do Aviso, plano sectorial, comunicação à ERSAR, etc.).
+
+Posição prática recomendada: **comunicar a situação ao CNCS no acto de auto-identificação** e pedir orientação. Documentar a estrutura organizacional e seguir, entretanto, o regime mais exigente como precaução.
+
+### Modelo 3 — Empresa municipal (EM) ou intermunicipal (EIM)
+
+**Caso típico**: Aguasmaior (Maia/Trofa), Águas do Vale do Tejo, Águas de Lisboa e Vale do Tejo. Empresa municipal ou intermunicipal sob o regime das **empresas locais** (Lei 50/2012). Personalidade jurídica plena. Mapa de pessoal próprio, AD próprio, contratualização própria.
+
+**Consequência NIS2**: a EM é **entidade jurídica autónoma** — qualifica-se separadamente como entidade essencial (sector águas, Anexo I), independentemente da câmara. A câmara é accionista, mas não responde pelas obrigações NIS2 da EM no mesmo registo.
+
+### Modelo 4 — Adesão a operador multimunicipal
+
+**Caso típico**: câmaras que cederam o serviço de águas a operadores como Águas do Norte, Águas Públicas do Alentejo, Empresa Portuguesa das Águas Livres. A câmara delega a actividade no operador.
+
+**Consequência NIS2**: a entidade essencial é o **operador multimunicipal**. A câmara é só utente/contraente. Obrigação NIS2 da câmara cinge-se à **parte câmara**, sem componente água-essencial.
+
+## Tabela-síntese — qual o seu modelo?
+
+| Modelo | Quem é entidade essencial? | Registos no MyCiber | Regimes a cumular |
+|---|---|---|---|
+| **1 — SMAS autónomo** (Leiria, Coimbra, …) | SMAS (separado da câmara) | 2 (câmara + SMAS) | Anexo IV (câmara) + Anexos II/III (SMAS) |
+| **2 — Unidade Orgânica integrada** (Pombal, …) | A câmara como um todo (provavelmente pelo *art. 6.º, n.º 1, al. d) RJC*{:.legal}) | 1 (câmara) — **a confirmar com CNCS** | Anexo IV + obrigações sectoriais águas (a comunicar ao CNCS) |
+| **3 — Empresa municipal (EM/EIM)** | EM (separada da câmara) | 2 (câmara + EM) | Anexo IV (câmara) + Anexos II/III (EM) |
+| **4 — Operador multimunicipal** | O operador multimunicipal (terceira entidade) | 1 (câmara) | Anexo IV apenas (câmara) |
+
+## Como identificar o seu modelo
+
+1. **Procure o regulamento dos serviços de águas na vossa autarquia**. Se for "Regulamento dos Serviços Municipalizados de Águas e Saneamento de XPTO" aprovado pela assembleia municipal, é Modelo 1.
+2. **Se não houver regulamento próprio** e a água estiver no organograma como "Divisão de Águas e Saneamento" ou similar, é Modelo 2.
+3. **Se houver uma sociedade comercial** controlada pela câmara que opera a água, é Modelo 3.
+4. **Se a água é facturada por empresa não-municipal** (Águas do Norte, Águas Públicas do Alentejo, etc.), é Modelo 4.
+
+Em caso de dúvida ou modelo híbrido (raro mas existe), **documentar a estrutura** e clarificar com o CNCS na fase de auto-identificação.
+
 ## Os sectores com presença frequente em autarquias
 
 ### Anexo I — Sectores essenciais
