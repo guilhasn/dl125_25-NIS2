@@ -200,3 +200,26 @@ em.legal,
 .main-content details summary:hover {
   color: #15395A;
 }
+
+// --- Callout `.caso-pratico` — laranja institucional ------------------
+// Usado via kramdown attribute list: `{: .caso-pratico }` acima de blockquote.
+// Não está registado no array `callouts:` do _config.yml — é estilo próprio
+// para casos práticos narrativos (8 casos espalhados pelo manual).
+.main-content blockquote.caso-pratico {
+  background-color: #FCE4D6;
+  border-left: 4px solid #C55A11;
+  color: #2C3E50;
+  font-style: normal;
+  padding: 1em 1.2em;
+  margin: 1.2em 0;
+  border-radius: 0.2em;
+}
+
+.main-content blockquote.caso-pratico p:first-child strong {
+  color: #7F2F00;
+  font-size: 1.05em;
+}
+
+.main-content blockquote.caso-pratico p strong {
+  color: #7F2F00;
+}
