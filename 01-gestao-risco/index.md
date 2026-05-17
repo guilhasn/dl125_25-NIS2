@@ -47,36 +47,3 @@ Saem com **três peças concretas em mãos**: classificação correcta (Bloco A)
 
 Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): o regime de gestão de risco da entidade essencial é diferente — matriz de risco do Anexo II do Aviso, medidas mínimas do Anexo III com nível Básico/Substancial/Elevado. Acompanhar [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}) em paralelo. O template [`matriz-risco-setor-agua-potavel-nis2.xlsx`]({{ '/templates/matriz-risco-setor-agua-potavel-nis2.xlsx' | relative_url }}) está disponível para SMAS.
 
-## Auto-avaliação
-
-**1.** O *art. 27.º RJC* aplica-se directamente à minha câmara (Grupo B)?
-
-<details markdown="block">
-<summary><strong>Ver resposta</strong></summary>
-
-**Não.** O *art. 27.º RJC* aplica-se a **entidades essenciais e importantes**. Para autarquias (entidade pública relevante, Grupo A/B), aplica-se o *art. 33.º RJC* + **Anexo IV do Aviso**. As medidas concretas estão no Anexo IV organizadas em O / T / H. Ver [B.1 Panorama do art. 27.º]({% link 01-gestao-risco/b1-art27-panorama.md %}).
-</details>
-
-**2.** Risco com **probabilidade 3** e **impacto 5** — em que nível fica (baixo / médio / alto)?
-
-<details markdown="block">
-<summary><strong>Ver resposta</strong></summary>
-
-**Alto** (P × I = 15). Escala: 1-6 baixo · 8-12 médio · 15-25 alto. Riscos de nível alto exigem **tratamento prioritário** e — para Grupo A — **acta de aceitação formal do risco residual** assinada pelo presidente. Ver [B.2 Análise e gestão de risco]({% link 01-gestao-risco/b2-analise-risco.md %}).
-</details>
-
-**3.** Quantos activos críticos típicos numa câmara média de Grupo B?
-
-<details markdown="block">
-<summary><strong>Ver resposta</strong></summary>
-
-**20-40 activos críticos.** Não é o parque informático inteiro (500-2.000 itens), mas sim os sistemas, aplicações e equipamentos **sem os quais a câmara deixa de prestar serviço público**. Para Grupo A, o inventário é alargado a **todos** os activos. Ver [B.3 Inventário e classificação de ativos]({% link 01-gestao-risco/b3-inventario-ativos.md %}).
-</details>
-
-**4.** A lista de activos publicamente acessíveis do *art. 32.º Aviso* aplica-se só a entidades essenciais?
-
-<details markdown="block">
-<summary><strong>Ver resposta</strong></summary>
-
-**Não.** É a **única obrigação verdadeiramente transversal** — aplica-se a **essenciais, importantes E públicas relevantes** (autarquias incluídas). Prazo: **20 dias úteis** após qualificação pelo CNCS. Conteúdo: lista de IPs/FQDNs públicos da entidade, com serviço suportado, modelo, fabricante, dependências. Ver [B.3]({% link 01-gestao-risco/b3-inventario-ativos.md %}).
-</details>

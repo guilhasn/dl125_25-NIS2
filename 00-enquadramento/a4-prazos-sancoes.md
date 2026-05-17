@@ -137,6 +137,78 @@ O SMAS responde como entidade essencial pelo serviço que opera; a câmara respo
 |---|---|---|
 | Modelo de pedido de dispensa de coimas (art. 65.º) | A criar | Lacuna identificada — produção interna até 8 Junho. |
 
+## Auto-avaliação do Bloco A — 8 perguntas
+
+Confirme que captou o essencial do Bloco A. Clique em "Ver resposta" depois de responder mentalmente. Resposta certa em mais de 6 ⇒ está pronto para o Bloco B; menos de 6 ⇒ vale a pena rever A.1 a A.4 antes de avançar.
+
+**1.** A vossa câmara tem **180 trabalhadores** no quadro de pessoal e opera SMAS de águas com 60 trabalhadores. Quantos registos no MyCiber e em que regime?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Dois registos**, em regimes diferentes:
+- **Câmara** = Grupo B (75-249 trab.) → *art. 33.º RJC* + Anexo IV.
+- **SMAS** = entidade essencial (sector águas, Anexo I) → *arts. 26.º-32.º RJC* + Anexo III.
+
+Ressalva: depende da forma de organização do SMAS (autónomo vs unidade orgânica) — ver [Roteiro essencial — dupla qualificação]({% link roteiro-essencial/dupla-qualificacao.md %}).
+</details>
+
+**2.** A "amnistia" do *art. 65.º RJC* — verdadeiro ou falso: "até Abril de 2027 não há risco de coima para autarquias".
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Falso.** O *art. 65.º* prevê **dispensa discricionária** de coima para infracções dos arts. 61.º e 62.º, **mediante pedido fundamentado** e demonstração de **procedimento interno de adaptação activa**. Não é automática nem cobre infracções leves, sanções acessórias ou compulsórias.
+</details>
+
+**3.** Quais os **dois meios de autenticação** aceites no MyCiber?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Cartão de Cidadão (CC)** e **Chave Móvel Digital (CMD)**. Sem login local. Mesma autenticação electrónica usada noutras plataformas da AP (Portal das Finanças, ePortugal). Ver [A.3 Plataforma MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
+</details>
+
+**4.** O prazo de **60 dias** para auto-identificação começa a contar a partir de **quando**?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+A partir da **disponibilização do registo formal no MyCiber** comunicada pelo CNCS. **Não** a partir da entrada em vigor do DL (3 de Abril de 2026) nem da abertura do Simulador. À data de 15 de Junho de 2026, o registo formal ainda não está aberto — só o Simulador funciona.
+</details>
+
+**5.** Qual o **limite máximo de coima** para uma infracção **muito grave** numa autarquia de **Grupo B**?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**350.000 €** (*art. 61.º RJC* — pessoa colectiva). Intervalo: 8.000 € a 350.000 €. Para Grupo A o máximo sobe para **4.000.000 €**. Pessoa singular (titular do cargo) com responsabilidade: até 16.000 €.
+</details>
+
+**6.** Quando a infracção é praticada por **negligência** (e não dolo), a coima é:
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Reduzida a metade** nos limites mínimos e máximos (*art. 64.º RJC*). Implicação prática: em incidente típico de incumprimento (atraso, omissão), invocar sempre a negligência se não houve intenção — divide o valor potencial. A distinção dolo/negligência costuma cair em e-mails e actas — daí a importância de documentar decisões.
+</details>
+
+**7.** Das **sanções acessórias** do art. 67.º, qual é tipicamente a mais penalizante para um executivo municipal?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Privação do direito de participar em concursos públicos** (até 3 anos) e **publicidade da decisão condenatória**. As duas que mais pesam politicamente — frequentemente mais do que o valor da coima em si. Outras: proibição de actividade, suspensão de licenças, interdição temporária de cargos, perda de subsídios.
+</details>
+
+**8.** A cadeia de origem do regime português é:
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Directiva (UE) 2022/2555 (NIS2)** → **Decreto-Lei n.º 125/2025** (transposição PT, aprova o RJC em anexo) → **Aviso n.º 5146/2026/2** (regulamento de execução do CNCS, em fase de redacção da versão final após consulta pública). Ver [A.1 Origem e estrutura dos diplomas]({% link 00-enquadramento/a1-origem-diplomas.md %}).
+</details>
+
 ## Próximo passo
 
 [Bloco B — Gestão de risco e Anexo IV →]({% link 01-gestao-risco/index.md %})

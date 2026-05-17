@@ -99,6 +99,74 @@ Não é exercício formal — é **um arranque** para o plano anual. O que sair 
 | [`registo-presencas-formacao-nis2.xlsx`]({{ '/templates/registo-presencas-formacao-nis2.xlsx' | relative_url }}) | **Aplicar — Grupo B e A** | Registo obrigatório de presenças. |
 | [`guia-ciber-higiene-nis2.docx`]({{ '/templates/guia-ciber-higiene-nis2.docx' | relative_url }}) | **Aplicar — Grupo B e A** | Guia de bolso para distribuir. |
 
+## Auto-avaliação do Bloco D — 8 perguntas
+
+**1.** Em qual destes pontos é que se deve activar MFA com prioridade máxima numa autarquia?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Em todos, sem excepção** — Microsoft 365, VPN, acessos administrativos a servidores/firewall, AD, aplicações financeiras. MFA bloqueia 99% dos ataques baseados em credenciais. A pergunta correcta não é "onde activar primeiro" mas "porque é que ainda não está activo em todos". Ver [D.3 Acessos, MFA e palavras-passe]({% link 03-outras-medidas/d3-acessos-mfa.md %}).
+</details>
+
+**2.** A câmara tem *backups* diários para uma pasta partilhada na rede. Isto é suficiente?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Não.** Dois problemas: (1) **não há registo de testes** — *backups* existentes mas nunca testados frequentemente não funcionam quando precisam; (2) **estão na rede acessível** — ransomware moderno procura *backups* primeiro e encripta-os. Precisam de pelo menos uma cópia ***air-gapped*** (offline). Ver [D.2 Continuidade, backups e recuperação]({% link 03-outras-medidas/d2-continuidade-backups.md %}).
+</details>
+
+**3.** A câmara contrata um fornecedor de gestão documental. O incidente é deles. A notificação ao CNCS é deles?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Não. A notificação é da câmara.** O fornecedor é responsável pelo facto técnico, mas a entidade qualificada perante o CNCS (entidade pública relevante) é a **câmara**. O contrato com o fornecedor **tem de exigir comunicação atempada** (24-72h) para a câmara poder cumprir o prazo de 24h do *art. 42.º RJC*. Ver [D.1 Cadeia de fornecimento]({% link 03-outras-medidas/d1-cadeia-fornecimento.md %}).
+</details>
+
+**4.** Política de palavras-passe moderna (NIST 2017): quanto tempo deve durar uma palavra-passe antes de ser obrigatória rotação?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Não há rotação obrigatória** — excepto após suspeita de compromisso. Rotações forçadas levam os utilizadores a padrões previsíveis (`Verao2025!` → `Verao2026!`). Foco actual: **comprimento ≥ 12 caracteres**, validação contra listas de senhas vazadas, gestores de palavras-passe institucionais. Ver [D.3]({% link 03-outras-medidas/d3-acessos-mfa.md %}).
+</details>
+
+**5.** Um fornecedor TIC acede a dados pessoais de munícipes. Que cláusula contratual mínima é obrigatória?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Contrato escrito com cláusulas do art. 28.º, n.º 3 do RGPD** — o fornecedor é **subcontratante de tratamento**. Mínimo: notificação de violação à câmara em prazo curto, direito de auditoria pela câmara, retenção e devolução/destruição de dados no fim do contrato, sigilo das pessoas envolvidas. Cumulativamente, **cláusula NIS2** de notificação atempada de incidentes (24-72h). Ver [D.1]({% link 03-outras-medidas/d1-cadeia-fornecimento.md %}).
+</details>
+
+**6.** Qual a diferença entre **PCN** e **DRP**?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**PCN — Plano de Continuidade de Negócio**: resposta **organizacional** — como continua a câmara a funcionar com sistemas em baixo (quem dispara, atendimento em modo degradado, comunicação a vereadores). É sobre **pessoas e processos**. <br/>
+**DRP — Disaster Recovery Plan**: resposta **técnica** — como repõem os sistemas (ordem de restauro, RTO/RPO por sistema, procedimentos). <br/>
+Para Grupo B podem fundir num documento único; para Grupo A separam-se. Ver [D.2]({% link 03-outras-medidas/d2-continuidade-backups.md %}).
+</details>
+
+**7.** Para Grupo B, qual a periodicidade mínima de **teste de restauro de backup**?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Trimestral**, com registo escrito. Pelo menos uma sessão anual completa (restauro integral de um sistema crítico). Para Grupo A: **mensal**, com restauro completo semestral. Os testes são a **evidência principal** que o CNCS pede em supervisão pós-incidente — *backups* existentes sem testes documentados não contam. Template: [`procedimento-testes-pcn-nis2.docx`]({{ '/templates/procedimento-testes-pcn-nis2.docx' | relative_url }}).
+</details>
+
+**8.** A medida **H.EC** (exercícios de phishing simulado) é obrigatória para todos os grupos?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Não.** É obrigatória para **Grupo A** (e essenciais/importantes). Para **Grupo B** é boa prática recomendada mas não exigência directa do Anexo IV. Independentemente do grupo, vale a pena fazer **trimestralmente** uma campanha não-punitiva, com página de aprendizagem para quem clica e métrica de taxa de cliques ao longo do tempo. Ferramenta gratuita do M365: Attack Simulator. Ver [D.4 Formação e sensibilização]({% link 03-outras-medidas/d4-formacao.md %}).
+</details>
+
 ## Próximo passo
 
 [Voltar ao índice do Bloco D ←]({% link 03-outras-medidas/index.md %}) ou [Bloco E — Supervisão e roadmap →]({% link 04-supervisao-roadmap/index.md %})

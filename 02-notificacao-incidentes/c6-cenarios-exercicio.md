@@ -80,6 +80,77 @@ Não há classificação numérica. Os critérios qualitativos para *feedback* n
 {: .warning }
 > **Spoiler — só APÓS o exercício.** Resoluções completas das 4 fichas (decisões, cronograma, notificação 24h preenchida, canais, pontos sensíveis) disponíveis em [**C.7 Resoluções modelo**]({% link 02-notificacao-incidentes/c7-resolucoes.md %}). Não consulte antes de tentar — o valor do exercício está no raciocínio, não na resposta. (Página excluída do menu lateral; só acessível por este *link*.)
 
+## Auto-avaliação do Bloco C — 8 perguntas
+
+**1.** Um incidente foi **detectado às 14:00** e **verificado como significativo às 16:30**. Até quando tem de submeter a notificação inicial ao CNCS?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Até às 16:30 do dia seguinte.** O relógio das 24h conta a partir da **verificação** (T1 = 16:30), não da detecção (T0 = 14:00). É a distinção mais importante de todo o regime português. Ver [C.2 Prazos PT vs NIS2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
+</details>
+
+**2.** Um ransomware afecta a câmara com indícios de exfiltração de dados de munícipes. Quantos canais de notificação se acumulam?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Três canais** em paralelo:
+1. **CNCS** (NIS2) — 24h após verificação, *art. 42.º RJC*.
+2. **CNPD** (RGPD) — 72h após conhecimento da violação de dados pessoais, art. 33.º RGPD.
+3. **Ministério Público** (Lei do Cibercrime) — sem prazo legal estrito, geralmente em paralelo.
+
+Não são alternativos — acumulam-se com referência cruzada. Ver [C.4 Cruzamento RGPD]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}).
+</details>
+
+**3.** Verdadeiro ou falso: a câmara tem de notificar **todos** os incidentes ao CNCS.
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Falso.** Só os **incidentes significativos** (*art. 40.º, n.º 3 RJC*) — aqueles que (a) causem perturbação operacional grave dos serviços ou perdas financeiras consideráveis; ou (b) afectem terceiros provocando prejuízos materiais ou imateriais consideráveis. Incidentes resolvidos em **menos de 2 horas dispensam notificação inicial** (*art. 41.º*).
+</details>
+
+**4.** O DL português introduz uma figura adicional face à Directiva NIS2. Qual?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+A **notificação de fim de impacto significativo** (*art. 43.º RJC*) — submetida nas 24h seguintes à **cessação** do impacto. Distinta da actualização opcional de 72h (NIS2) e do relatório final (30 dias úteis em PT, 1 mês em NIS2). Ver [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
+</details>
+
+**5.** Submetida uma notificação ao CNCS sobre incidente com dados pessoais, isso dispensa a notificação à CNPD?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Hoje não dispensa.** O *art. 40.º, n.º 7 RJC* prevê um mecanismo «uma só notificação» mas **depende de protocolo entre autoridades ainda não publicado**. Durante a transição, fazer **duas notificações paralelas** (CNCS 24h + CNPD 72h) com referência cruzada.
+</details>
+
+**6.** Quem decide, na câmara, se um incidente atinge o limiar de "significativo" do *art. 40.º, n.º 3*?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+A **equipa de resposta a incidentes da autarquia**, em articulação com o **ponto de contacto NIS2** e o **DPO** (se houver dimensão de dados pessoais). Decisão registada em **acta interna** — o CNCS pode pedir essa documentação em supervisão posterior. **Em caso de dúvida sobre o limiar, notificar é a opção segura** (não é admissão de culpa). Ver [C.1 Plano de resposta a incidentes]({% link 02-notificacao-incidentes/c1-plano-resposta.md %}).
+</details>
+
+**7.** Um incidente é **resolvido em 90 minutos**. O que se dispensa, e o que se mantém?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Dispensa-se a notificação inicial dos 24h** (*art. 41.º RJC* — resolução em ≤ 2 horas). **Mantém-se** o registo interno cronológico do incidente, que o CNCS pode pedir em supervisão posterior. Boa prática: documentar T0, T1, acções, T-final, lições aprendidas — mesmo sem submeter ao CNCS.
+</details>
+
+**8.** A **comunicação aos destinatários** afectados (art. 48.º) é automática quando há incidente significativo?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Não automática.** O *art. 48.º RJC* prevê que o CNCS **pode determinar** que a entidade informe destinatários, ou fazê-lo directamente. Não é obrigatória por defeito. **Excepção**: quando há violação de dados pessoais com **risco elevado** para os titulares, o *art. 34.º RGPD* obriga a comunicação aos titulares — esse sim, directamente exigível. Cenário típico (ransomware com exfiltração): ambas se aplicam. Ver [C.4 Cruzamento RGPD]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}).
+</details>
+
 ## Próximo passo
 
 Após o exercício, fechamento do bloco e pausa antes do Bloco D. Voltar a [índice do bloco C ←]({% link 02-notificacao-incidentes/index.md %}).
