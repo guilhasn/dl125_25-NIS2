@@ -44,10 +44,10 @@ last_edit_time_format: "%d %b %Y às %H:%M"
 # External nav links
 nav_external_links:
   - title: "DL 125/2025 (DRE)"
-    url: "https://files.dre.pt/1s/2025/12/23400/0000200110.pdf"
+    url: "https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025"
     hide_icon: false
-  - title: "CNCS — Regime Jurídico"
-    url: "https://www.cncs.gov.pt/pt/regime-juridico/"
+  - title: "CNCS — Diretiva NIS2"
+    url: "https://www.cncs.gov.pt/pt/diretiva-nis-2/"
     hide_icon: false
 
 # Aux links
