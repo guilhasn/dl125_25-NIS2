@@ -44,5 +44,5 @@ Saem com **três decisões tomadas mentalmente**: que fornecedores entram primei
 
 ## Roteiro paralelo
 
-Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): o regime das essenciais e importantes é mais exigente em todas as quatro medidas — sobretudo na cadeia de fornecimento (art. 28.º aplica-se directamente, com mecanismos de aceitação e monitorização contínua) e no controlo de acessos OT (segregação rigorosa entre redes TIC e OT). Cada sub-página tem uma sidebar específica. Ver também [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
+Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): o regime das essenciais e importantes é mais exigente em todas as quatro medidas — sobretudo na cadeia de fornecimento (art. 28.º aplica-se directamente, com mecanismos de aceitação e monitorização contínua) e no controlo de acessos OT (segregação rigorosa entre redes TIC e OT). Cada sub-página tem uma secção "Em dupla qualificação" específica. Ver também [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
 

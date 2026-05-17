@@ -76,7 +76,7 @@ Desde o momento da detecção, o executor técnico tem de **registar tudo**: hor
 
 O plano fixa **quando se declara o incidente resolvido** — não é arbitrário. O Anexo III do Aviso (medida RS.MI-2) exige que «o Plano de Resposta a Incidentes deve conter critérios para declarar pela conclusão da resolução do incidente». Isto traduz-se em duas linhas no vosso documento: serviço restabelecido + ausência de actividade anómala confirmada + comunicação de fim de impacto significativo submetida (art. 43.º). Após encerramento, **revisão pós-incidente obrigatória** com lições aprendidas — alimenta a revisão da matriz de risco (ver [B.2]({% link 01-gestao-risco/b2-analise-risco.md %})).
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para autarquias que operam **serviços essenciais** (SMAS, empresa municipal qualificada como essencial), o regime acumula:
 

@@ -70,7 +70,7 @@ Ferramentas: Microsoft Attack Simulator (incluído no M365 Business Premium), Kn
 
 Para Grupo B é boa prática mas não exigência directa do Anexo IV.
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para o **SMAS** qualificado como **entidade essencial**, o regime exige:
 

@@ -74,7 +74,7 @@ A própria supervisão não aplica sanções; aplica-se **a seguir** ao apuramen
 
 A dispensa do [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) é **discricionária** e pressupõe que a entidade tem **plano de adaptação em curso documentado**. Sem evidência de actividade, a dispensa é indeferida.
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para autarquias com **SMAS** ou empresa municipal qualificada como **entidade essencial**, o regime de supervisão da parte essencial é o do [*art. 53.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-53) — **supervisão *ex ante***. Implica:
 

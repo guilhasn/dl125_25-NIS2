@@ -60,7 +60,7 @@ Resposta articulada:
 
 Se o incidente foi causado por **acto doloso** (ataque malicioso), há **terceiro canal**: notificação ao **Ministério Público** ao abrigo da **Lei n.º 109/2009 (Lei do Cibercrime)**. O DL 125/2025 introduziu o **art. 8.º-A** na Lei do Cibercrime, expressamente endereçado a este cruzamento. O art. 40.º, n.º 5 do RJC enumera o MP entre as autoridades cuja obrigação de notificação «não é dispensada» pelo cumprimento do DL.
 
-**Sidebar — dupla qualificação**: para autarquias com SMAS qualificado como entidade essencial, a parte essencial pode ter ainda **obrigações sectoriais específicas** (ERSAR para águas) que se somam. O quadrante de coordenação passa de triângulo a quadrilátero.
+**Em dupla qualificação**: para autarquias com SMAS qualificado como entidade essencial, a parte essencial pode ter ainda **obrigações sectoriais específicas** (ERSAR para águas) que se somam. O quadrante de coordenação passa de triângulo a quadrilátero.
 
 ## Quem decide se o incidente é "violação de dados pessoais"
 

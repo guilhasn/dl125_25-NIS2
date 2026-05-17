@@ -63,7 +63,7 @@ Grupos A acrescentam três peças:
 - **Due diligence pré-contratual** — questionário a enviar ao fornecedor antes de adjudicar um novo contrato. Template [`questionario-due-diligence-fornecedor-nis2.docx`]({{ '/templates/questionario-due-diligence-fornecedor-nis2.docx' | relative_url }}).
 - **Política formal** de gestão da cadeia de fornecimento aprovada por despacho do presidente. Template [`politica-cadeia-fornecimento-nis2.docx`]({{ '/templates/politica-cadeia-fornecimento-nis2.docx' | relative_url }}).
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, o **art. 28.º RJC aplica-se directamente** — não a versão atenuada do Anexo IV. Implicação: gestão activa de risco da cadeia, não apenas inventário. Para fornecedores SCADA do SMAS (telemetria de redes de água, sistemas de bombagem), a obrigação é particularmente rigorosa e pode envolver auditoria pelos serviços, certificação obrigatória do fornecedor, e ligações contínuas de monitorização.
 

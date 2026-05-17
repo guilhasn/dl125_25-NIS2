@@ -85,7 +85,7 @@ O plano de continuidade tem de cobrir, no mínimo, estes três cenários — que
 
 Cada cenário tem **decisões pré-tomadas**: quem chama a quem, em que ordem, qual o discurso de comunicação, quem aprova as decisões. Sem decisões pré-tomadas, o dia do incidente faz-se a improvisar — exactamente o que não se quer.
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para o **SMAS** qualificado como **entidade essencial**, a continuidade exige instrumentos adicionais:
 

@@ -78,7 +78,7 @@ A consequência é decisiva: **não copiem o art. 27.º para o vosso caderno de 
 
 ## Mapa de correspondência — art. 27.º DL → Anexo III (essencial) → Anexo IV (autarquia)
 
-Esta é a tabela mais importante do bloco. Ela diz, para cada alínea do art. 27.º, **qual a medida equivalente que recai sobre a vossa câmara** no Anexo IV — e qual a medida equivalente que recairia se fossem entidade essencial (útil para quem tem dupla qualificação, ver sidebar).
+Esta é a tabela mais importante do bloco. Ela diz, para cada alínea do art. 27.º, **qual a medida equivalente que recai sobre a vossa câmara** no Anexo IV — e qual a medida equivalente que recairia se fossem entidade essencial (útil para quem tem dupla qualificação, ver 'Em dupla qualificação').
 
 📄 **[Mapa art. 27.º → Anexo IV (PDF, A4 paisagem)]({{ '/templates/mapa-art27-anexo-iv.pdf' | relative_url }})** — versão imprimível desta tabela para afixar no gabinete TIC.
 
@@ -110,7 +110,7 @@ O Anexo IV organiza as medidas em três famílias, identificadas por prefixo:
 
 Para o **Grupo B**, o Anexo IV define **5 medidas O + 11 medidas T + 2 medidas H** (16 medidas no total). Para o **Grupo A**, acumulam-se mais medidas O (9 medidas O adicionais), T adicionais e H adicionais. A página [B.3]({% link 01-gestao-risco/b3-inventario-ativos.md %}) trabalha a primeira medida O concreta — o inventário de activos.
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Se a vossa autarquia opera **SMAS ou empresa municipal em sector Anexo I** (água potável, águas residuais), essa entidade operacional **é classificada como essencial** e aplica-se-lhe o *Anexo III*{:.legal} completo, com os **três níveis Básico/Substancial/Elevado** definidos no art. 28.º do Aviso. As 9 alíneas do art. 27.º **aplicam-se directamente** a essa entidade — e o regulamento que decompõe cada uma delas em medidas mínimas é o Anexo III, não o Anexo IV.
 

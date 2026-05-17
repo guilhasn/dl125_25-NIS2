@@ -113,7 +113,7 @@ O art. 31.º, n.º 2 do Aviso, dirigido a essenciais/importantes mas adoptável 
 
 Recomendação prática para Grupo B: **revisão anual** + as três janelas acima. Para Grupo A: o mesmo, mais semestre opcional sempre que mudanças organizacionais materiais o justifiquem.
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, a matriz de risco do *Anexo II do Aviso*{:.legal} aplica-se directamente, com os três níveis de conformidade do art. 28.º:
 

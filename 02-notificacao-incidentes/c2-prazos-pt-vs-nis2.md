@@ -60,7 +60,7 @@ Traduzido para uma autarquia, e na ausência ainda de **instrução técnica do 
 
 Este é um patamar **conservador**. Em caso de dúvida, **notificar**: o art. 40.º, n.º 2 do RJC garante que «o cumprimento da mera notificação não gera responsabilidade acrescida para a entidade notificante», e a notificação tardia configura contraordenação grave (art. 62.º).
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para autarquias com **SMAS ou empresa municipal essencial**, os prazos são **exactamente os mesmos** (arts. 42.º a 44.º aplicam-se transversalmente). A diferença está noutro lado:
 

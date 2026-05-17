@@ -120,7 +120,7 @@ Na ausência destes elementos, qualquer infracção cometida no período transit
 
 Está prevista a publicação no manual digital de um modelo de pedido de dispensa fundamentado — ver [recursos / templates]({% link recursos/templates.md %}). Download disponível a partir de 8 de Junho.
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para autarquias com **SMAS** ou empresas municipais a operar sectores Anexo I (água potável, águas residuais), as coimas como **entidade essencial** são significativamente mais altas:
 

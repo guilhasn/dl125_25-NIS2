@@ -85,7 +85,7 @@ Templates:
 - [`checklist-offboarding-nis2.docx`]({{ '/templates/checklist-offboarding-nis2.docx' | relative_url }}) — **Aplicar tal-qual**.
 - [`termo-confidencialidade-nis2.docx`]({{ '/templates/termo-confidencialidade-nis2.docx' | relative_url }}) — assinatura obrigatória no *onboarding* para todos os trabalhadores e prestadores com acesso a sistemas.
 
-## Sidebar — dupla qualificação
+## Em dupla qualificação
 
 Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, o regime exige:
 
