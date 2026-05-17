@@ -35,6 +35,15 @@ A meta-ironia: estamos numa formação a discutir a obrigação de fazer formaç
 2. **Programa pedagógico** das 3-6 sessões anuais — conteúdos, metodologia, materiais. Template: [`programa-formacao-sensibilizacao-nis2.docx`]({{ '/templates/programa-formacao-sensibilizacao-nis2.docx' | relative_url }}).
 3. **Registo de presenças** com data, conteúdo, formador, lista de participantes assinada — evidência de cumprimento. Template: [`registo-presencas-formacao-nis2.xlsx`]({{ '/templates/registo-presencas-formacao-nis2.xlsx' | relative_url }}).
 
+{: .caso-pratico }
+> **Caso prático 7 — Palestra anual não é programa de formação**
+>
+> Câmara cumpria a "formação anual de cibersegurança" com uma palestra de 30 minutos no início de Janeiro, a cargo do responsável de TIC, com slides preparados na véspera. Os trabalhadores assistiam, faziam algumas perguntas e regressavam aos postos. Não havia programa pedagógico anual, registo formal de presenças, segmentação por perfis de risco, avaliação de aprendizagem nem qualquer campanha durante o ano. Numa auditoria interna, a medida foi considerada frágil: havia uma acção pontual, não um programa de sensibilização sustentado.
+>
+> **Lição:** sensibilização não é uma palestra anual — é um plano com registos, recorrência e adaptação aos perfis de risco.
+>
+> **Como deveria ter sido feito:** definir plano anual com 3-4 acções segmentadas por perfil (utilizadores gerais, atendimento, TIC, dirigentes). Manter registos de presença, avaliação simples e calendarização. A medida H.PF (formação periódica) do Anexo IV exige programa estruturado, não boa intenção.
+
 ## Conteúdos mínimos por perfil
 
 Não basta convocar para uma sessão genérica. **Conteúdos diferenciados** por perfil aumentam a relevância e a retenção:
