@@ -20,8 +20,13 @@ $border-color: #DDE3EA;
 $nav-list-link-color: #2C3E50;
 $nav-child-link-color: #1F4E78;
 
-// --- Estilos custom para referências à legislação --------------------
-// Aplicado via Kramdown attribute list: `*art. 27.º RJC*{:.legal}` → <em class="legal">
+
+// =====================================================================
+// CUSTOMIZAÇÕES VISUAIS (CSS aplicado a todas as páginas)
+// =====================================================================
+
+// --- Referências à legislação (.legal) --------------------------------
+// `*art. 27.º RJC*{:.legal}` → <em class="legal">
 em.legal,
 .legal {
   font-style: italic;
@@ -29,4 +34,162 @@ em.legal,
   padding: 0.05em 0.35em;
   border-radius: 0.25em;
   color: #1F4E78;
+}
+
+// --- Cabeçalhos H2 com bordo lateral azul-marinho ---------------------
+// Realça a estrutura sem ser intrusivo.
+.main-content h2 {
+  border-left: 4px solid #1F4E78;
+  padding-left: 0.75em;
+  margin-top: 2em;
+  color: #1F4E78;
+}
+
+// H3 com bordo cinzento-azulado (segundo nível, mais discreto)
+.main-content h3 {
+  border-left: 3px solid #B8C5D6;
+  padding-left: 0.6em;
+  color: #2C3E50;
+}
+
+// --- Tabelas: zebra-stripe + cabeçalho destacado ----------------------
+.main-content table {
+  border-collapse: collapse;
+  margin: 1em 0;
+  font-size: 0.92em;
+}
+
+.main-content table thead tr {
+  background-color: #1F4E78;
+  color: #FFFFFF;
+}
+
+.main-content table thead th {
+  color: #FFFFFF !important;
+  border: 1px solid #1F4E78;
+  padding: 0.5em 0.7em;
+  font-weight: 600;
+}
+
+.main-content table tbody tr:nth-child(odd) {
+  background-color: #F4F7FA;
+}
+
+.main-content table tbody tr:nth-child(even) {
+  background-color: #FFFFFF;
+}
+
+.main-content table tbody tr:hover {
+  background-color: #E8F0F8;
+  transition: background-color 0.15s ease;
+}
+
+.main-content table tbody td {
+  border: 1px solid #DDE3EA;
+  padding: 0.5em 0.7em;
+  vertical-align: top;
+}
+
+// --- Pills automáticos em texto literal "Aplicar / Adaptar / ..." -----
+// Não invasivo: aplica-se via classes opcionais no markdown.
+.pill {
+  display: inline-block;
+  padding: 0.15em 0.55em;
+  border-radius: 0.7em;
+  font-size: 0.82em;
+  font-weight: 600;
+  line-height: 1.3;
+  vertical-align: baseline;
+  white-space: nowrap;
+}
+
+.pill-aplicar    { background: #D4EDDA; color: #155724; }
+.pill-adaptar    { background: #FFF3CD; color: #856404; }
+.pill-referencia { background: #E2E3E5; color: #383D41; }
+.pill-grupo-a    { background: #D1ECF1; color: #0C5460; }
+.pill-grupo-b    { background: #F4F7FA; color: #1F4E78; }
+.pill-smas       { background: #CCE5FF; color: #004085; }
+.pill-novo       { background: #F8D7DA; color: #721C24; }
+
+// --- Código inline com fundo azul-claro -------------------------------
+.main-content code {
+  background-color: #EEF2F7;
+  color: #1F4E78;
+  padding: 0.1em 0.35em;
+  border-radius: 0.25em;
+  font-size: 0.9em;
+}
+
+// --- Links externos: subtil ícone (just-the-docs já trata) ------------
+// Mantém o styling default; mas links em parágrafo ganham hover suave.
+.main-content a:hover {
+  text-decoration: underline;
+  color: #15395A;
+}
+
+// --- Blockquotes simples (sem ser callout) ---------------------------
+.main-content blockquote {
+  border-left: 4px solid #B8C5D6;
+  background-color: #FAFBFC;
+  padding: 0.8em 1em;
+  color: #4A5568;
+  font-style: italic;
+}
+
+// --- Listas com marca subtil ------------------------------------------
+.main-content ul li::marker {
+  color: #1F4E78;
+}
+
+.main-content ol li::marker {
+  color: #1F4E78;
+  font-weight: 600;
+}
+
+// --- Checklists com ☐ (presentes em E.2/E.3) — sem CSS adicional, já bonito ---
+
+// --- Banda colorida nos "Próximo passo" -------------------------------
+// Detecta-se pelo padrão de markdown `## Próximo passo`. Estilizar o parágrafo seguinte.
+.main-content h2 + p:has(a:only-child) {
+  // Apenas para chrome moderno — graceful fallback noutros.
+}
+
+// --- Frase-slogan em itálico (debaixo do H1) --------------------------
+// Detecta os blockquotes-slogan no topo dos blocos: `> *texto*`
+.main-content h1 + blockquote {
+  border-left: none;
+  background: transparent;
+  font-size: 1.05em;
+  color: #1F4E78;
+  font-style: italic;
+  padding: 0.3em 0;
+  text-align: center;
+  margin-bottom: 1.5em;
+}
+
+// --- <details> (auto-avaliações) --------------------------------------
+.main-content details {
+  background-color: #F4F7FA;
+  border: 1px solid #DDE3EA;
+  border-left: 3px solid #1F4E78;
+  border-radius: 0.3em;
+  padding: 0.6em 0.9em;
+  margin: 0.5em 0 1em;
+}
+
+.main-content details summary {
+  cursor: pointer;
+  color: #1F4E78;
+  font-weight: 600;
+  padding: 0.2em 0;
+}
+
+.main-content details[open] summary {
+  margin-bottom: 0.6em;
+  border-bottom: 1px solid #DDE3EA;
+  padding-bottom: 0.4em;
+}
+
+.main-content details summary:hover {
+  color: #15395A;
 }
