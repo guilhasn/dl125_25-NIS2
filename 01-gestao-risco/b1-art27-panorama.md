@@ -13,7 +13,7 @@ nav_order: 1
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
 {: .highlight }
-> 📚 **Recurso CNCS complementar:** o **QNRCS** (Quadro Nacional de Referência para a Cibersegurança), aprovado pelo Anexo I do Aviso 5146/2026/2, organiza as medidas em 5 funções (Identificar · Proteger · Detectar · Responder · Recuperar) com 3 níveis de capacidade. [**Página oficial**](http://www.cncs.gov.pt/pt/quadro-nacional/){:target="_blank"} · [**PDF**](https://www.cncs.gov.pt/docs/cncs-qnrcs-2019.pdf){:target="_blank"}. Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
+> 📚 **QNRCS v2 — referencial nacional:** aprovado pelo Anexo I do Aviso 5146/2026/2 (art. 23.º). Estrutura em **6 objectivos** (Gerir · Identificar · Proteger · Detectar · Responder · Recuperar) e **3 níveis cumulativos** (Básico ⊂ Substancial ⊂ Elevado). É o referencial de onde o Anexo IV foi derivado para autarquias. Ver [Recursos / QNRCS v2]({% link recursos/qnrcs.md %}) e [auto-avaliação E.2.1]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}).
 
 O art. 27.º do RJC é o **catálogo nuclear das medidas de gestão de riscos de ciberseguranca** previstas pela transposição portuguesa da NIS2. É também a origem de uma confusão recorrente: lê-se na lei, copia-se para o caderno de encargos da câmara, e em poucas semanas os fornecedores estão a propor implementações desenhadas para entidades essenciais a uma autarquia que **não está obrigada a aplicá-lo directamente**. Esta página resolve essa confusão e prepara o terreno para os 90 minutos do bloco: o que o art. 27.º exige, **a quem**, e **como se traduz** no Anexo IV do Aviso — o regulamento que efectivamente vincula as autarquias.
 

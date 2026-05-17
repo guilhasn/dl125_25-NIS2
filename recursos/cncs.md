@@ -49,15 +49,15 @@ Todos os recursos abaixo são **gratuitos e de acesso público**. Não substitue
 >
 > **PDF**: [Modelo de Maturidade IR 2018](https://www.cncs.gov.pt/docs/ir-modelo-maturidade-pt-2018pdf.pdf){:target="_blank"}
 
-### 📋 QNRCS — Quadro Nacional de Referência
+### 📋 QNRCS v2 — Quadro Nacional de Referência
 
-> 📚 [**QNRCS — Quadro Nacional de Referência para a Cibersegurança**](http://www.cncs.gov.pt/pt/quadro-nacional/){:target="_blank"}
+> 📚 **[QNRCS v2]({% link recursos/qnrcs.md %})** — referencial nacional aprovado pelo Anexo I do Aviso n.º 5146/2026/2.
 >
-> Referencial nacional alinhado com NIST CSF e ISO 27001:2022, organizado em **5 funções** (Identificar · Proteger · Detectar · Responder · Recuperar). Cada medida tem **3 níveis de capacidade** (Inicial, Intermédio, Avançado) para permitir adaptação ao contexto e dimensão de cada entidade. **O Anexo I do Aviso 5146/2026/2 aprova o QNRCS como referencial obrigatório**.
+> Estrutura em **6 objectivos** (Gerir · Identificar · Proteger · Detectar · Responder · Recuperar) e **3 níveis cumulativos** (Básico ⊂ Substancial ⊂ Elevado). Alinhado com NIST CSF 2.0, ISO/IEC 27001/27002:2022, CIS v8.1, NIST SP 800-53 Rev.5 e CyberFundamentals.
 >
-> **Onde aplicar no manual digital**: [B.1 Panorama do art. 27.º]({% link 01-gestao-risco/b1-art27-panorama.md %}) · [Anexo IV — medidas O/T/H]({% link recursos/anexo-iv-aviso-5146.md %})
+> **Onde aplicar no manual digital**: [B.1 Panorama do art. 27.º]({% link 01-gestao-risco/b1-art27-panorama.md %}) · [E.2.1 Auto-avaliação QNRCS]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}) · [Anexo IV]({% link recursos/anexo-iv-aviso-5146.md %})
 >
-> **PDF**: [QNRCS 2019](https://www.cncs.gov.pt/docs/cncs-qnrcs-2019.pdf){:target="_blank"} · [Quadro de Avaliação de Capacidades](https://www.cncs.gov.pt/docs/cncs-quadrodeavaliacao.pdf){:target="_blank"}
+> **Documento oficial**: [Anexo I do Aviso (DRE)](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-2){:target="_blank"} (páginas 17-85). QNRCS 2019 (versão anterior, desactualizada): [PDF CNCS](https://www.cncs.gov.pt/docs/cncs-qnrcs-2019.pdf){:target="_blank"}.
 
 ### 🎓 Sensibilização e formação
 

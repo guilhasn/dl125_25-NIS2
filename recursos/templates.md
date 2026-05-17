@@ -146,6 +146,7 @@ A maior parte das autarquias é **Grupo B** (75–249 trabalhadores). As etiquet
 | [`metodologia-medicao-eficacia-nis2.docx`]({{ '/templates/metodologia-medicao-eficacia-nis2.docx' | relative_url }}) | Referência | Metodologia para medição da eficácia dos controlos. |
 | [`gap-analysis-nis2.xlsx`]({{ '/templates/gap-analysis-nis2.xlsx' | relative_url }}) | Aplicar | Análise de gap face ao Anexo IV — ponto de partida útil para o roadmap dos 6 meses. |
 | [`avaliacao-maturidade-nis2.xlsx`]({{ '/templates/avaliacao-maturidade-nis2.xlsx' | relative_url }}) | Aplicar | Auto-avaliação da maturidade de ciberseguranca (5 níveis). |
+| [`avaliacao-maturidade-qnrcs.xlsx`]({{ '/templates/avaliacao-maturidade-qnrcs.xlsx' | relative_url }}) | Aplicar | Auto-avaliação de maturidade QNRCS v2 — 26 controlos seleccionados (6 objectivos, 3 níveis cumulativos B/S/E) com dashboard radar. Ver [E.2.1]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}). |
 | [`dashboard-conformidade-nis2.xlsx`]({{ '/templates/dashboard-conformidade-nis2.xlsx' | relative_url }}) | Aplicar | Dashboard de acompanhamento da conformidade ao longo do tempo. |
 | [`dashboard-kpis-seguranca-nis2.xlsx`]({{ '/templates/dashboard-kpis-seguranca-nis2.xlsx' | relative_url }}) | Aplicar | Dashboard de KPIs operacionais de segurança. |
 | [`matriz-raci-nis2.xlsx`]({{ '/templates/matriz-raci-nis2.xlsx' | relative_url }}) | Adaptar | Matriz RACI de papéis e responsabilidades. |
