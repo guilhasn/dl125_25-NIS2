@@ -99,7 +99,7 @@ Não é exercício formal — é **um arranque** para o plano anual. O que sair 
 | [`registo-presencas-formacao-nis2.xlsx`]({{ '/templates/registo-presencas-formacao-nis2.xlsx' | relative_url }}) | **Aplicar — Grupo B e A** | Registo obrigatório de presenças. |
 | [`guia-ciber-higiene-nis2.docx`]({{ '/templates/guia-ciber-higiene-nis2.docx' | relative_url }}) | **Aplicar — Grupo B e A** | Guia de bolso para distribuir. |
 
-## Auto-avaliação do Bloco D — 8 perguntas
+## Revisão do Bloco D — 8 perguntas
 
 **1.** Em qual destes pontos é que se deve activar MFA com prioridade máxima numa autarquia?
 

@@ -137,7 +137,7 @@ O SMAS responde como entidade essencial pelo serviço que opera; a câmara respo
 |---|---|---|
 | Modelo de pedido de dispensa de coimas (art. 65.º) | A criar | Lacuna identificada — produção interna até 8 Junho. |
 
-## Auto-avaliação do Bloco A — 8 perguntas
+## Revisão do Bloco A — 8 perguntas
 
 Confirme que captou o essencial do Bloco A. Clique em "Ver resposta" depois de responder mentalmente. Resposta certa em mais de 6 ⇒ está pronto para o Bloco B; menos de 6 ⇒ vale a pena rever A.1 a A.4 antes de avançar.
 

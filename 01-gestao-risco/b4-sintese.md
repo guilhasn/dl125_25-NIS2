@@ -40,7 +40,7 @@ Os blocos seguintes:
 
 No Bloco D vamos trabalhar **cadeia de fornecimento**. Quem tiver à mão dados sobre os **fornecedores TIC críticos** — quem presta o software de gestão municipal, quem aloja o portal, quem fornece o e-mail, quem gere a rede — chegará melhor preparado para o Exercício A5. Não é pré-requisito; é facilitador.
 
-## Auto-avaliação do Bloco B — 8 perguntas
+## Revisão do Bloco B — 8 perguntas
 
 **1.** O *art. 27.º RJC* aplica-se directamente à minha câmara (Grupo B)?
 

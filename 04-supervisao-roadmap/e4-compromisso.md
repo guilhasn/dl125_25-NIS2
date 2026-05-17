@@ -76,9 +76,9 @@ Os três compromissos são o **primeiro tijolo** do roadmap de 6 meses (ver [E.3
 
 Uma folha — papel ou digital — com 3 acções concretas, data, e quem se compromete (vocês próprios). É a peça **mais simples** de toda a formação, e **provavelmente** a mais consequente.
 
-## Auto-avaliação do Bloco E — 8 perguntas (fim da formação)
+## Revisão do Bloco E — 8 perguntas (fim da formação)
 
-Esta é a última auto-avaliação. Se ficou com dúvidas, ainda dá tempo de levantar a mão antes de fechar a sessão.
+Esta é a última revisão. Se ficou com dúvidas, ainda dá tempo de levantar a mão antes de fechar a sessão.
 
 **1.** Qual o regime de supervisão aplicável à parte câmara das autarquias?
 
