@@ -16,6 +16,15 @@ nav_order: 1
 
 Uma autarquia não é supervisionada como uma entidade essencial. Não há auditoria periódica programada, não há obrigação de relatórios anuais ao CNCS, não há *peer review* sectorial. O que existe é **supervisão *ex post*** — o CNCS pode pedir contas **quando houver motivo**: a seguir a um incidente, perante uma denúncia, ou por amostragem aleatória. Esta página explica em que consiste e como se preparar.
 
+{: .caso-pratico }
+> **Caso prático 8 — Práticas sem dossier**
+>
+> Após um incidente de baixa gravidade, a entidade pública relevante recebeu pedido formal de informação em sede de supervisão *ex post* (art. 55.º do RJC). A equipa explicou que fazia *backups* regulares, tinha contactos de emergência dos fornecedores, dava orientações verbais aos utilizadores e revia o portal trimestralmente. O CNCS pediu evidência. Não foi possível apresentar matriz de risco aprovada, plano de resposta documentado, registos de testes de restauro, registos de formação ou actas de decisão. O problema não era ausência de práticas — era ausência de prova organizada.
+>
+> **Lição:** em cibersegurança regulada, o que não está documentado pode não existir.
+>
+> **Como deveria ter sido feito:** antes de qualquer pedido de supervisão, manter dossier mínimo de conformidade actualizado — qualificação da entidade, inventário de activos, matriz de risco, plano de resposta, registos de incidentes, registos de formação, testes de restauro, contratos críticos. Evidência é parte da própria conformidade.
+
 ## O que a lei diz
 
 > «O Centro Nacional de Cibersegurança exerce a supervisão das entidades públicas relevantes em momento posterior ao da prática dos actos ou da ocorrência dos factos, podendo aceder, designadamente: a) Aos sistemas, redes, instalações e equipamentos; b) Aos registos, documentos e demais informação considerada relevante; c) Às pessoas com funções na entidade.» — paráfrase do [*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)
