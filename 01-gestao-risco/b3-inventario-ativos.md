@@ -133,7 +133,7 @@ Para SMAS qualificado como **entidade essencial**, aplicam-se as medidas equival
 | [`registo-ativos-nis2.xlsx`]({{ '/templates/registo-ativos-nis2.xlsx' | relative_url }}) | Referência | Variante mais detalhada do inventário, com colunas adicionais (modelo, versão, data de aquisição, fim de vida útil). Útil para Grupo A. |
 | [`politica-classificacao-dados-nis2.docx`]({{ '/templates/politica-classificacao-dados-nis2.docx' | relative_url }}) | **Adaptar para Grupo A** | Política que define os 4 níveis de sensibilidade. Obrigatória para Grupo A (medida O.PSI/classificação). |
 | [`politica-gestao-ativos-nis2.docx`]({{ '/templates/politica-gestao-ativos-nis2.docx' | relative_url }}) | **Adaptar para Grupo A** | Política mais ampla — ciclo de vida dos activos, papéis e responsabilidades, ferramentas. Obrigatória para Grupo A. |
-| Lista de activos publicamente acessíveis (art. 32.º) | A criar | Lacuna activa — formato pendente de instrução técnica do CNCS. Produção interna do hub até 8 Junho com modelo provisório. |
+| Lista de activos publicamente acessíveis (art. 32.º) | A criar | Lacuna activa — formato pendente de instrução técnica do CNCS. Produção interna do manual digital até 8 Junho com modelo provisório. |
 
 Todos os templates disponíveis para *download* na página de [recursos]({% link recursos/templates.md %}) a partir de 8 de Junho.
 

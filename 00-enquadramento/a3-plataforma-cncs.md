@@ -95,7 +95,7 @@ Antes mesmo da abertura do registo formal, o CNCS disponibilizou em **Abril de 2
 
 ## Demo durante a formação
 
-Durante o bloco A, faremos uma **demo navegada** da plataforma. Se à data estiver acessível, fá-la-emos ao vivo (com Cartão de Cidadão de demonstração); se ainda não estiver, usaremos as **capturas de ecrã** publicadas no hub e o vídeo de backup. Em qualquer dos casos, vão sair daqui com a noção de onde clicar para cumprir cada uma das obrigações listadas acima.
+Durante o bloco A, faremos uma **demo navegada** da plataforma. Se à data estiver acessível, fá-la-emos ao vivo (com Cartão de Cidadão de demonstração); se ainda não estiver, usaremos as **capturas de ecrã** publicadas no manual digital e o vídeo de backup. Em qualquer dos casos, vão sair daqui com a noção de onde clicar para cumprir cada uma das obrigações listadas acima.
 
 ## Templates aplicáveis
 

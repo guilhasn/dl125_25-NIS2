@@ -14,7 +14,7 @@ has_children: true
 
 Este roteiro paralelo dirige-se às autarquias que operam serviços de **sectores listados no Anexo I ou II** do DL 125/2025 — tipicamente **água potável e águas residuais** (via SMAS) ou **resíduos** (via empresa municipal). Estas entidades qualificam-se em **duas categorias simultaneamente** com **obrigações cumuláveis** — daí o nome "dupla qualificação".
 
-O conteúdo principal do hub (Blocos A a E) é desenhado para a **parte câmara** (entidade pública relevante, Grupo A ou B). Este roteiro acrescenta o que muda quando há uma **parte essencial** ao lado.
+O conteúdo principal do manual digital (Blocos A a E) é desenhado para a **parte câmara** (entidade pública relevante, Grupo A ou B). Este roteiro acrescenta o que muda quando há uma **parte essencial** ao lado.
 
 ## Quem precisa de seguir este roteiro?
 
@@ -26,7 +26,7 @@ Verifique se a sua entidade tem **qualquer uma destas características**:
 - ☐ A câmara tem empresa municipal de **infraestruturas TIC** prestando serviços a outras entidades.
 - ☐ A câmara tem **outra entidade do Anexo I** com dimensão acima dos limiares de média empresa.
 
-Se respondeu **sim** a qualquer ponto, este roteiro aplica-se. Se respondeu **não a todos**, segue só o conteúdo principal do hub.
+Se respondeu **sim** a qualquer ponto, este roteiro aplica-se. Se respondeu **não a todos**, segue só o conteúdo principal do manual digital.
 
 ## Sub-páginas
 
@@ -56,7 +56,7 @@ As duas qualificações geram **dois processos administrativos paralelos** na pl
 
 ## Calendário de leitura
 
-Sugestão: ler este roteiro **depois** do conteúdo principal do hub. Os princípios das medidas (O/T/H, ciclo de notificação, plano de continuidade) são os mesmos; muda a **intensidade** e a **formalização**.
+Sugestão: ler este roteiro **depois** do conteúdo principal do manual digital. Os princípios das medidas (O/T/H, ciclo de notificação, plano de continuidade) são os mesmos; muda a **intensidade** e a **formalização**.
 
 | Leu antes... | Aprofunde aqui... |
 |---|---|

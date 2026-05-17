@@ -7,7 +7,7 @@ nav_order: 2
 
 # C.2 Prazos PT vs NIS2
 
-Esta é, provavelmente, **a página mais importante de todo o hub** — e o ponto onde mais erros se cometem na prática. Quem leu a Directiva NIS2 em inglês (a maioria das publicações jurídicas internacionais e dos materiais de fornecedores) ficou com um esquema de prazos na cabeça: **24 horas para alerta inicial, 72 horas para notificação detalhada, 1 mês para relatório final**. Esse esquema **não é o esquema português**. O DL 125/2025 transpôs com diferenças materiais. Confundi-los pode significar perder um prazo legal e cair em contraordenação.
+Esta é, provavelmente, **a página mais importante de todo o manual digital** — e o ponto onde mais erros se cometem na prática. Quem leu a Directiva NIS2 em inglês (a maioria das publicações jurídicas internacionais e dos materiais de fornecedores) ficou com um esquema de prazos na cabeça: **24 horas para alerta inicial, 72 horas para notificação detalhada, 1 mês para relatório final**. Esse esquema **não é o esquema português**. O DL 125/2025 transpôs com diferenças materiais. Confundi-los pode significar perder um prazo legal e cair em contraordenação.
 
 > **Aviso prático**: tudo o que se segue refere-se ao regime do DL português. Sempre que dúvida, **olhar para o DL 125/2025, arts. 41.º a 44.º**, não para a Directiva (UE) 2022/2555.
 

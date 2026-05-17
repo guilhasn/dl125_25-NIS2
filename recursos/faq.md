@@ -12,7 +12,7 @@ nav_order: 4
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
-Respostas curtas às perguntas que aparecem repetidamente em autarquias sobre o [*DL 125/2025*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}), o [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) e a plataforma **MyCiber**. Cada resposta termina, sempre que aplicável, com uma ligação ao bloco do hub onde o tema é tratado em profundidade.
+Respostas curtas às perguntas que aparecem repetidamente em autarquias sobre o [*DL 125/2025*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}), o [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) e a plataforma **MyCiber**. Cada resposta termina, sempre que aplicável, com uma ligação ao bloco do manual digital onde o tema é tratado em profundidade.
 
 ## Sumário
 
@@ -165,7 +165,7 @@ Definido no art. 41.º do RJC. Sumariamente, é o que **(a)** causa **perturbaç
 - **24h após cessação** do impacto significativo → notificação de fim de impacto (art. 43.º).
 - **30 dias úteis** após o incidente → relatório final (art. 44.º).
 
-NIS2 directiva: 24h alerta + 72h notificação + 1 mês relatório — **diferente**. A página [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}) é provavelmente a mais importante de todo o hub.
+NIS2 directiva: 24h alerta + 72h notificação + 1 mês relatório — **diferente**. A página [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}) é provavelmente a mais importante de todo o manual digital.
 
 ### 4.3 Quando começa a contar o prazo de 24h?
 
@@ -281,7 +281,7 @@ Roadmap pragmático em 6 meses, detalhado em [E.3]({% link 04-supervisao-roadmap
 4. **Top 5 fornecedores TIC críticos** mapeados (Exercício A5).
 5. **Cheatsheet roadmap 6 meses** + cartão prazos PT vs NIS2 (entregues à saída).
 
-Se sair com isto, e ler o hub nas semanas seguintes, está na pista certa para a auto-identificação atempada.
+Se sair com isto, e ler o manual digital nas semanas seguintes, está na pista certa para a auto-identificação atempada.
 
 ---
 

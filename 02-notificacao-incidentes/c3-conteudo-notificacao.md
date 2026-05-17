@@ -7,7 +7,7 @@ nav_order: 3
 
 # C.3 Conteúdo de cada notificação
 
-Esta página é o **manual de preenchimento** das três notificações obrigatórias (mais a actualização facultativa de 72h) que o DL 125/2025 prevê no Cap. V. Para cada uma, listam-se os **campos mínimos** exigidos pela lei, o que costuma faltar na primeira tentativa, e o template a usar. Os formulários definitivos da plataforma electrónica do CNCS são pendentes de **instrução técnica** prevista no art. 41.º, n.º 4 do RJC; até essa publicação, os templates do hub servem para preparação prévia, num formato ligeiramente mais conservador que o mínimo legal.
+Esta página é o **manual de preenchimento** das três notificações obrigatórias (mais a actualização facultativa de 72h) que o DL 125/2025 prevê no Cap. V. Para cada uma, listam-se os **campos mínimos** exigidos pela lei, o que costuma faltar na primeira tentativa, e o template a usar. Os formulários definitivos da plataforma electrónica do CNCS são pendentes de **instrução técnica** prevista no art. 41.º, n.º 4 do RJC; até essa publicação, os templates do manual digital servem para preparação prévia, num formato ligeiramente mais conservador que o mínimo legal.
 
 ## 1. Notificação inicial — art. 42.º (24h)
 

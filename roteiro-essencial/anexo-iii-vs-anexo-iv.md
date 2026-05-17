@@ -113,7 +113,7 @@ Quando uma autarquia tem dupla qualificação (câmara Grupo B + SMAS essencial)
 ## Aceder ao texto completo dos Anexos
 
 - **Anexo III completo**: [`legislacao-aviso-5146.md`#anexo-iii]({% link recursos/legislacao-aviso-5146.md %}#anexo-iii-aviso) — sumário com remissão para o DRE.
-- **Anexo IV completo** (medidas para autarquias): [`recursos/anexo-iv-aviso-5146.md`]({% link recursos/anexo-iv-aviso-5146.md %}) — todas as 27 medidas com paráfrases e remissão a páginas do hub.
+- **Anexo IV completo** (medidas para autarquias): [`recursos/anexo-iv-aviso-5146.md`]({% link recursos/anexo-iv-aviso-5146.md %}) — todas as 27 medidas com paráfrases e remissão a páginas do manual digital.
 
 ## Templates específicos para SMAS
 

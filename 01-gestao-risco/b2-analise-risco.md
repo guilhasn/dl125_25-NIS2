@@ -138,7 +138,7 @@ A norma **ISO/IEC 27005** é a referência metodológica internacional para gest
 
 > [edurisk-guia-iso-27005-…run.app](https://edurisk-guia-iso-27005-632691460370.us-west1.run.app/){:target="_blank"}
 
-**Plataforma educacional de terceiros**, gratuita e aberta. Útil como **leitura complementar** ou como segunda opinião na construção da matriz de risco da vossa entidade. Não é exigida pela formação nem substitui os templates do hub — é apenas um recurso adicional para quem queira ir mais a fundo na metodologia.
+**Plataforma educacional de terceiros**, gratuita e aberta. Útil como **leitura complementar** ou como segunda opinião na construção da matriz de risco da vossa entidade. Não é exigida pela formação nem substitui os templates do manual digital — é apenas um recurso adicional para quem queira ir mais a fundo na metodologia.
 
 ## Exercício associado
 

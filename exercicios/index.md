@@ -46,12 +46,12 @@ Não há *breakout rooms* nem trabalho em grupos pequenos — a dinâmica é **e
 
 - **Excel** (Microsoft 365 ou LibreOffice Calc) instalado no computador do formando.
 - **Dados internos da autarquia** trazidos pelo formando: número de trabalhadores, top fornecedores TIC, lista informal dos sistemas críticos.
-- **Acesso ao hub** para descarregar worksheets e fichas de cenário durante a sessão.
+- **Acesso ao manual digital** para descarregar worksheets e fichas de cenário durante a sessão.
 
 ## Materiais descarregáveis
 
-Todos os materiais ficam disponíveis no hub e podem ser descarregados a qualquer momento — antes, durante ou depois da sessão:
+Todos os materiais ficam disponíveis no manual digital e podem ser descarregados a qualquer momento — antes, durante ou depois da sessão:
 
 - **4 worksheets em Excel** (A1, A2, A3, A5) protegidos com a password da formação — disponíveis em [recursos/templates]({% link recursos/templates.md %}).
 - **4 fichas de cenário do A4 em PDF** — descarregadas individualmente. Em sessão, o formador atribui uma a cada formando por sorteio (referência apenas — todos podem aceder a todas).
-- **Cópia integral do hub** continua acessível em `guilhasn.github.io/dl125_25-NIS2/` para consulta posterior.
+- **Cópia integral do manual digital** continua acessível em `guilhasn.github.io/dl125_25-NIS2/` para consulta posterior.

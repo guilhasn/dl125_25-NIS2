@@ -169,7 +169,7 @@ Medidas detalhadas com níveis Básico, Substancial e Elevado. Aplica-se a SMAS 
 
 ## Pontos de entrada por bloco da formação
 
-| Bloco do hub | Artigos centrais do Aviso |
+| Bloco do manual digital | Artigos centrais do Aviso |
 |---|---|
 | [A.1]({% link 00-enquadramento/a1-origem-diplomas.md %}) | Estrutura do Aviso, Cap. II–V |
 | [A.3]({% link 00-enquadramento/a3-plataforma-cncs.md %}) | Cap. II completo — em particular *art. 4.º do Aviso*{:.legal}, *art. 8.º do Aviso*{:.legal}, *art. 17.º do Aviso*{:.legal} |

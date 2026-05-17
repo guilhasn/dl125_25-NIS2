@@ -8,7 +8,7 @@ nav_order: 1
 
 Roteiro prático de implementação do **Decreto-Lei 125/2025** (regime jurídico da ciberseguranca, em vigor desde 3 de Abril de 2026) e do [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) (regulamentação do CNCS) aplicado a **autarquias locais portuguesas**.
 
-> ⏳ Hub em construção — conteúdo a publicar até 8 de Junho de 2026.
+> ⏳ Manual digital em construção — conteúdo a publicar até 8 de Junho de 2026.
 
 **Formador**: Nuno Salvador
 **Data**: 15 de Junho de 2026
@@ -25,7 +25,7 @@ Ao final desta formação, cada participante termina com **5 peças concretas** 
 4. **Rascunho de notificação 24h** preenchido sobre um cenário de incidente sorteado em sessão.
 5. **Roadmap de 6 meses** para conformidade demonstrável, com peças a produzir em cada mês.
 
-Tudo isto fica no computador do formando + acessível no hub para revisitar. O hub continua disponível em `guilhasn.github.io/dl125_25-NIS2/` depois da sessão.
+Tudo isto fica no computador do formando + acessível no manual digital para revisitar. O manual digital continua disponível em `guilhasn.github.io/dl125_25-NIS2/` depois da sessão.
 
 ## Estrutura
 

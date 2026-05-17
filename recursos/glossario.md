@@ -7,7 +7,7 @@ nav_order: 4
 
 # Glossário
 
-Termos técnicos, acrónimos e siglas utilizados ao longo do hub, ordenados alfabeticamente. Para os códigos de medidas do Anexo IV (O.IAC, T.AM, H.PF, etc.), consulte [Anexo IV — medidas O/T/H]({% link recursos/anexo-iv-aviso-5146.md %}).
+Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ordenados alfabeticamente. Para os códigos de medidas do Anexo IV (O.IAC, T.AM, H.PF, etc.), consulte [Anexo IV — medidas O/T/H]({% link recursos/anexo-iv-aviso-5146.md %}).
 
 ## A
 
@@ -43,7 +43,7 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do hub, ordenados alfa
 
 **CERT.PT** — *Computer Emergency Response Team* português, integrado no CNCS. Equipa operacional de resposta a incidentes.
 
-***Cheatsheet*** — Folha-resumo de bolso. Neste hub, refere-se sobretudo à folha-resumo de prazos PT vs NIS2 e ao roadmap de 6 meses.
+***Cheatsheet*** — Folha-resumo de bolso. Neste manual digital, refere-se sobretudo à folha-resumo de prazos PT vs NIS2 e ao roadmap de 6 meses.
 
 **CMD** — Chave Móvel Digital. Meio de autenticação electrónica via app no telemóvel, alternativo ao Cartão de Cidadão.
 
@@ -193,7 +193,7 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do hub, ordenados alfa
 
 **RJC** — Regime Jurídico da Ciberseguranca. Aprovado em anexo ao DL 125/2025. Ver [legislação completa]({% link recursos/legislacao-dl-125-2025.md %}).
 
-**Roteiro essencial** — Conjunto de páginas do hub dedicado à dupla qualificação. Ver [Roteiro essencial]({% link roteiro-essencial/index.md %}).
+**Roteiro essencial** — Conjunto de páginas do manual digital dedicado à dupla qualificação. Ver [Roteiro essencial]({% link roteiro-essencial/index.md %}).
 
 **RPO** (*Recovery Point Objective*) — Quanta perda de dados é aceitável após um incidente. Em horas. Define a frequência mínima de *backup*.
 

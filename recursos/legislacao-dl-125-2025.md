@@ -242,7 +242,7 @@ Definição de PME para efeitos do RJC: limiares de trabalhadores (10/50/250) e 
 
 ## Pontos de entrada por bloco da formação
 
-| Bloco do hub | Artigos centrais |
+| Bloco do manual digital | Artigos centrais |
 |---|---|
 | [A.1]({% link 00-enquadramento/a1-origem-diplomas.md %}) | Arts. 1.º, 9.º, 11.º (preambular) |
 | [A.2]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}) | *art. 3.º do RJC*{:.legal}, *art. 6.º do RJC*{:.legal}, *art. 7.º do RJC*{:.legal} |

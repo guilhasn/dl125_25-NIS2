@@ -8,16 +8,16 @@ has_children: true
 
 # Legislação e referências legais
 
-Esta secção reúne **todos os diplomas** invocados ao longo do hub, com:
+Esta secção reúne **todos os diplomas** invocados ao longo do manual digital, com:
 
 - **Mapa estrutural** — sumário dos capítulos e artigos.
 - **Paráfrases dos artigos invocados** — em linguagem operacional para o quotidiano de uma autarquia.
 - **Links directos para o Diário da República** ou outras fontes oficiais.
-- **Âncoras de navegação** — clique numa referência marcada como *art. N.º*{:.legal} no hub e vem directamente para o artigo correspondente nesta secção.
+- **Âncoras de navegação** — clique numa referência marcada como *art. N.º*{:.legal} no manual digital e vem directamente para o artigo correspondente nesta secção.
 
 ## Sub-páginas
 
-1. [DL 125/2025 (Regime Jurídico da Ciberseguranca)]({% link recursos/legislacao-dl-125-2025.md %}) — articulado preambular + 87 artigos do RJC anexo + 3 anexos. Inclui paráfrases dos ~30 artigos invocados no hub.
+1. [DL 125/2025 (Regime Jurídico da Ciberseguranca)]({% link recursos/legislacao-dl-125-2025.md %}) — articulado preambular + 87 artigos do RJC anexo + 3 anexos. Inclui paráfrases dos ~30 artigos invocados no manual digital.
 2. [Aviso n.º 5146/2026/2 (Regulamento CNCS)]({% link recursos/legislacao-aviso-5146.md %}) — 35 artigos + 4 anexos. Foco no Cap. II (plataforma electrónica), Cap. III (notificações), *art. 32.º do Aviso*{:.legal} (lista de activos públicos), Anexo IV (medidas para autarquias).
 3. [Anexo IV — medidas O/T/H]({% link recursos/anexo-iv-aviso-5146.md %}) — já existente, com as 27 medidas obrigatórias para autarquias.
 
@@ -56,11 +56,11 @@ Documento técnico do CNCS, em versão 2 (alinhada com NIST CSF 2.0 e ISO 27001:
 
 ## Como usar esta secção
 
-Sempre que num texto do hub aparecer uma referência marcada como *art. 27.º do RJC*{:.legal} (itálico com fundo cinzento), basta **clicar** para vir directamente à entrada correspondente nas sub-páginas — `[DL 125/2025]({% link recursos/legislacao-dl-125-2025.md %})` ou `[Aviso 5146]({% link recursos/legislacao-aviso-5146.md %})`. Lá encontrará a paráfrase fiel + a citação do texto + link directo ao DRE.
+Sempre que num texto do manual digital aparecer uma referência marcada como *art. 27.º do RJC*{:.legal} (itálico com fundo cinzento), basta **clicar** para vir directamente à entrada correspondente nas sub-páginas — `[DL 125/2025]({% link recursos/legislacao-dl-125-2025.md %})` ou `[Aviso 5146]({% link recursos/legislacao-aviso-5146.md %})`. Lá encontrará a paráfrase fiel + a citação do texto + link directo ao DRE.
 
 ## Aviso sobre versões
 
 - **DL 125/2025**: texto consolidado a 4 de Dezembro de 2025. Sem alterações posteriores.
-- **Aviso 5146/2026/2**: **versão de projecto** publicada a 10 de Março de 2026. A consulta pública terminou a 22 de Abril de 2026; a **versão final ainda não foi publicada**. Este hub reflecte o projecto — atualizaremos quando a versão final sair.
+- **Aviso 5146/2026/2**: **versão de projecto** publicada a 10 de Março de 2026. A consulta pública terminou a 22 de Abril de 2026; a **versão final ainda não foi publicada**. Este manual digital reflecte o projecto — atualizaremos quando a versão final sair.
 - **Directiva NIS2**: texto original UE de 14 de Dezembro de 2022.
 - **RGPD**: texto consolidado em vigor desde 25 de Maio de 2018.

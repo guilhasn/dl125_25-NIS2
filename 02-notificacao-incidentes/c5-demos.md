@@ -31,7 +31,7 @@ Endereço: **[https://myciber.gov.pt/](https://myciber.gov.pt/){:target="_blank"
 
 ### Se a plataforma estiver indisponível em 15 de Junho de 2026
 
-O Aviso 5146/2026/2 entrou em consulta pública em 10 de Março de 2026 e terminou-a em 22 de Abril; está agora em fase de análise dos contributos e redacção da versão final pelo CNCS. A entrada efectiva em funcionamento das funcionalidades de registo, qualificação e notificação depende da publicação no Diário da República — pode não estar concluída em meados de Junho. **Plano B na sessão**: usam-se **capturas de ecrã** das versões intermédias divulgadas e um **vídeo gravado** previamente (pré-trabalho da Fase 6 da produção do hub). O conteúdo conceptual — campos, fluxos, prazos — é o mesmo.
+O Aviso 5146/2026/2 entrou em consulta pública em 10 de Março de 2026 e terminou-a em 22 de Abril; está agora em fase de análise dos contributos e redacção da versão final pelo CNCS. A entrada efectiva em funcionamento das funcionalidades de registo, qualificação e notificação depende da publicação no Diário da República — pode não estar concluída em meados de Junho. **Plano B na sessão**: usam-se **capturas de ecrã** das versões intermédias divulgadas e um **vídeo gravado** previamente (pré-trabalho da Fase 6 da produção do manual digital). O conteúdo conceptual — campos, fluxos, prazos — é o mesmo.
 
 ### Falência da plataforma — art. 17.º do Aviso
 

@@ -1,8 +1,8 @@
 # Formação NIS2 — DL 125/2025
 
-Repositório do hub público da formação sobre o **Decreto-Lei 125/2025** (regime jurídico da ciberseguranca) e o [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) (regulamentação do CNCS) aplicado a **autarquias locais portuguesas**.
+Repositório do manual digital público da formação sobre o **Decreto-Lei 125/2025** (regime jurídico da ciberseguranca) e o [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) (regulamentação do CNCS) aplicado a **autarquias locais portuguesas**.
 
-- **Hub**: https://guilhasn.github.io/dl125_25-NIS2/
+- **Manual digital**: https://guilhasn.github.io/dl125_25-NIS2/
 - **Formador**: Nuno Salvador
 - **Data**: 15 de Junho de 2026
 - **Duração**: 6h (09:30–12:30 + 14:00–17:00)
@@ -10,7 +10,7 @@ Repositório do hub público da formação sobre o **Decreto-Lei 125/2025** (reg
 
 ## Estrutura do dia
 
-O hub espelha a agenda. Cada bloco tem a estrutura **O QUE A LEI DIZ → O QUE FAZER → TEMPLATE**.
+O manual digital espelha a agenda. Cada bloco tem a estrutura **O QUE A LEI DIZ → O QUE FAZER → TEMPLATE**.
 
 | Bloco | Tema |
 |---|---|

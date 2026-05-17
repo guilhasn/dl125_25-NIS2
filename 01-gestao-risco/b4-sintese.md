@@ -33,7 +33,7 @@ Os blocos seguintes:
 ## Três coisas a fixar antes de avançar
 
 1. **Qual o vosso grupo** — Grupo A, Grupo B ou fora; e se há dupla qualificação a tratar em paralelo. Se ainda têm dúvida, é a hora de a colocarem no chat ou de pedirem a palavra.
-2. **Onde encontrar a matriz de risco** no hub e a metodologia recomendada. Vão precisar dos ficheiros para continuar o trabalho na semana seguinte.
+2. **Onde encontrar a matriz de risco** no manual digital e a metodologia recomendada. Vão precisar dos ficheiros para continuar o trabalho na semana seguinte.
 3. **Que activos vão classificar**. O Exercício A3 listou 5; a versão final terá 20-40 numa câmara média. Comecem agora a mapa mental dos que faltam.
 
 ## Preparar o exercício A5 (cadeia de fornecimento)

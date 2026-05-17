@@ -118,7 +118,7 @@ Na ausência destes elementos, qualquer infracção cometida no período transit
 
 ### Modelo de pedido de dispensa
 
-Está prevista a publicação no hub de um modelo de pedido de dispensa fundamentado — ver [recursos / templates]({% link recursos/templates.md %}). Download disponível a partir de 8 de Junho.
+Está prevista a publicação no manual digital de um modelo de pedido de dispensa fundamentado — ver [recursos / templates]({% link recursos/templates.md %}). Download disponível a partir de 8 de Junho.
 
 ## Sidebar — dupla qualificação
 

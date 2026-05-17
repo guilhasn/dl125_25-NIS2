@@ -45,7 +45,7 @@ A última peça do dia — a **acta de revisão pela gestão** — fecha o ciclo
 Depois do compromisso (E.4), tempo restante para **Q&A** + qualquer dúvida que tenha ficado dos blocos anteriores. Encerramento com:
 
 - Recordação dos **prazos críticos** (60 dias para auto-identificação após abertura do registo; 20 dias úteis para a 1.ª lista do art. 32.º).
-- Confirmação que o hub continua acessível em `guilhasn.github.io/dl125_25-NIS2/` para consulta na autarquia.
+- Confirmação que o manual digital continua acessível em `guilhasn.github.io/dl125_25-NIS2/` para consulta na autarquia.
 - Convite para revisitarem o **roadmap dos 6 meses** no fim da primeira semana, para validar os 3 compromissos.
 
 ## Roteiro paralelo

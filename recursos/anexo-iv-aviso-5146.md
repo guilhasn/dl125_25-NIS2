@@ -17,7 +17,7 @@ O Anexo IV organiza as medidas obrigatórias em **três famílias**, identificad
 - **T — Técnicas** — controlos tecnológicos concretos. Configurações, *software*, *hardware* específicos.
 - **H — Humanas** — formação, sensibilização, exercícios. Pessoas.
 
-Cada código tem o formato **`X.YY`** ou **`X.YYY`**. Sempre que um destes códigos aparece num bloco do hub, **passa o cursor por cima** para ver o nome rápido ou **clica** para vir a esta página com a definição completa.
+Cada código tem o formato **`X.YY`** ou **`X.YYY`**. Sempre que um destes códigos aparece num bloco do manual digital, **passa o cursor por cima** para ver o nome rápido ou **clica** para vir a esta página com a definição completa.
 
 ## Como ler a tabela de aplicabilidade
 
@@ -228,9 +228,9 @@ Ver: [D.4 Formação e sensibilização]({% link 03-outras-medidas/d4-formacao.m
 
 ---
 
-## Convenção tipográfica no hub
+## Convenção tipográfica no manual digital
 
-Para tornar a leitura mais fluida, no resto do hub:
+Para tornar a leitura mais fluida, no resto do manual digital:
 
 - A **primeira ocorrência** de cada código numa página é **clicável** e tem **tooltip** (passe o cursor para ver o nome rápido). Exemplo: [<abbr title="Política de Acessos e Privilégios">**O.PAP**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-pap).
 - As **ocorrências seguintes** ficam em **bold** sem link — para evitar poluição visual. Use o botão *back* do *browser* para regressar à página de onde veio.

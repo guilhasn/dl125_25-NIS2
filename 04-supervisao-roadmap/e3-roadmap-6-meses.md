@@ -78,7 +78,7 @@ Cada mês tem **um objectivo principal** e **3-5 entregáveis concretos**. O mê
 - ☐ **Plano de Continuidade de Negócio (PCN)** finalizado, com pelo menos 3 cenários (portal parado, ransomware, indisponibilidade do SIG).
 - ☐ ***Playbooks*** específicos para ransomware e *data breach*.
 - ☐ **Matriz de escalação** afixada no gabinete TIC + na recepção.
-- ☐ **Folha-resumo dos prazos PT vs NIS2** afixada (imprimível a partir do hub).
+- ☐ **Folha-resumo dos prazos PT vs NIS2** afixada (imprimível a partir do manual digital).
 - ☐ ***Tabletop exercise*** interno — 30-60 minutos com gabinete + informática + DPO, usando uma das 4 fichas de cenário do exercício A4.
 
 **Templates a usar**: [`plano-continuidade-negocio-nis2.docx`]({{ '/templates/plano-continuidade-negocio-nis2.docx' | relative_url }}), [`matriz-escalacao-incidentes-nis2.docx`]({{ '/templates/matriz-escalacao-incidentes-nis2.docx' | relative_url }}), [`playbook-ransomware-nis2.docx`]({{ '/templates/playbook-ransomware-nis2.docx' | relative_url }}), [`playbook-data-breach-nis2.docx`]({{ '/templates/playbook-data-breach-nis2.docx' | relative_url }}).

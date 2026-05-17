@@ -15,7 +15,7 @@ Exercitar **uma vez** o que deve ser automático no dia em que acontecer a séri
 
 ## As 4 fichas de cenário
 
-Em sessão, o formador atribui uma ficha por sorteio a cada formando (ou a um subconjunto, se a turma for grande). Os PDFs estão acessíveis a todos no hub — depois do exercício pode consultar os outros três:
+Em sessão, o formador atribui uma ficha por sorteio a cada formando (ou a um subconjunto, se a turma for grande). Os PDFs estão acessíveis a todos no manual digital — depois do exercício pode consultar os outros três:
 
 | Nº | Cenário | PDF |
 |---|---|---|
@@ -80,7 +80,7 @@ Cada formando termina com **um rascunho de notificação inicial** parcialmente 
 
 ## Ver também
 
-- [C.2 Prazos PT vs NIS2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}) — a página mais importante do hub.
+- [C.2 Prazos PT vs NIS2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}) — a página mais importante do manual digital.
 - [C.3 Conteúdo de cada notificação]({% link 02-notificacao-incidentes/c3-conteudo-notificacao.md %}) — campos obrigatórios.
 - [C.4 Cruzamento RGPD]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}) — dois relógios paralelos.
 - [C.6 Fichas de cenário]({% link 02-notificacao-incidentes/c6-cenarios-exercicio.md %}) — versão expandida com análise por ficha.
