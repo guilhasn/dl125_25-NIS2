@@ -94,6 +94,17 @@ Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, o 
 - **Auditoria semestral** das permissões em sistemas SCADA (mais frequente do que para câmara).
 - **FIDO2 (tokens físicos)** preferido a app autenticadora para administradores de SCADA.
 
+## 💬 Check-in (2 min)
+
+Antes de avançar para D.4, momento curto de auto-avaliação. Em quantas das suas **contas privilegiadas** (M365, VPN, administração de servidores, Active Directory, aplicações financeiras) tem **MFA activo neste momento**?
+
+- 🔴 **Nenhuma** — é o ponto mais frequente de incidentes em câmaras. Acção imediata para a próxima semana.
+- 🟠 **1-2** — começou bem; está na altura de alargar a todas as contas privilegiadas.
+- 🟡 **3 ou mais (mas não todas)** — bem; falta finalizar. Identifique as que faltam.
+- 🟢 **Todas** — postura defensável neste ponto. Validar trimestralmente.
+
+O formador pode usar a função de **sondagem** (poll) do Zoom/Teams para recolher anonimamente. O resultado costuma surpreender — mesmo entre dirigentes informados.
+
 ## Templates aplicáveis
 
 | Template | Grupo / Etiqueta | Notas |

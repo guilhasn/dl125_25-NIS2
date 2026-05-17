@@ -14,9 +14,9 @@ has_children: true
 
 > *Documentar é metade do trabalho.*
 
-**Duração**: 15 minutos · **3 sub-páginas**
+**Duração**: 20 minutos · **4 sub-páginas**
 
-O Bloco E é o **fecho operacional do dia**. Quinze minutos curtos para responder a três perguntas finais: **como sou inspeccionado, o que tenho de mostrar, e por onde começo amanhã**. Não é exposição de matéria nova — é **síntese accionável** das obrigações apresentadas ao longo do dia.
+O Bloco E é o **fecho operacional do dia**. Vinte minutos para responder a quatro perguntas finais: **como sou inspeccionado, o que tenho de mostrar, por onde começo, e qual o meu primeiro passo?**. Não é exposição de matéria nova — é **síntese accionável** das obrigações apresentadas ao longo do dia, terminando com um compromisso pessoal de cada formando para a primeira semana.
 
 ## Objectivos do bloco
 
@@ -25,12 +25,14 @@ Ao final do bloco, cada formando deve ser capaz de:
 1. **Saber o que esperar** de uma inspecção do CNCS a uma autarquia (supervisão *ex post* do [*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)).
 2. **Identificar quais peças documentais** tem mesmo de existir para uma postura defensável.
 3. **Sair com um plano mês-a-mês de 6 meses** para colocar a autarquia em conformidade demonstrável.
+4. **Sair com 3 acções concretas** já comprometidas para a primeira semana após a formação.
 
 ## Sub-páginas
 
 1. [E.1 Supervisão *ex post*]({% link 04-supervisao-roadmap/e1-supervisao.md %}) (5 min) — Como o CNCS supervisiona autarquias ([*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)). Quando esperar inspecção. O que pode ser pedido. A postura defensável.
 2. [E.2 Documentação mínima — checklist]({% link 04-supervisao-roadmap/e2-documentacao-minima.md %}) (5 min) — Lista das peças que **têm de existir** para um Grupo B mínimo defensável. Cerca de 15 documentos. Marcação das peças adicionais para Grupo A.
 3. [E.3 Roadmap 6 meses]({% link 04-supervisao-roadmap/e3-roadmap-6-meses.md %}) (5 min) — *Cheatsheet* mês-a-mês: M1 qualificação · M2 políticas-base · M3 inventário+matriz · M4 medidas técnicas · M5 *playbooks*+simulação · M6 auditoria interna + acta anual.
+4. [E.4 Compromisso para a próxima semana]({% link 04-supervisao-roadmap/e4-compromisso.md %}) (5 min) — Exercício final: cada formando escreve 3 acções concretas para a 1.ª semana após a formação. Discussão breve em plenária. O **primeiro tijolo** do roadmap dos 6 meses.
 
 ## Após este bloco
 
@@ -38,14 +40,13 @@ Saem com a noção operacional de **postura defensável** — não é "estaminé
 
 A última peça do dia — a **acta de revisão pela gestão** — fecha o ciclo: assinada pelo presidente, no fim do mês 6, formaliza que a câmara passou de **inexistência de procedimento** para **plano de adaptação em curso**. É exactamente o critério que o [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) pede para dispensa de coimas.
 
-## Encerramento do dia
+## Encerramento da formação
 
-Após o Bloco E, os minutos finais ficam para **Q&A** + qualquer tempo poupado nos blocos anteriores. Cada formando partilha brevemente:
+Depois do compromisso (E.4), tempo restante para **Q&A** + qualquer dúvida que tenha ficado dos blocos anteriores. Encerramento com:
 
-- O que vai fazer **na próxima segunda-feira** na câmara.
-- Uma dúvida que ficou por esclarecer.
-
-Encerramento com entrega das ligações finais ao hub (continua acessível em `guilhasn.github.io/dl125_25-NIS2/`), recordação dos prazos críticos, e referência ao roadmap dos 6 meses.
+- Recordação dos **prazos críticos** (60 dias para auto-identificação após abertura do registo; 20 dias úteis para a 1.ª lista do art. 32.º).
+- Confirmação que o hub continua acessível em `guilhasn.github.io/dl125_25-NIS2/` para consulta na autarquia.
+- Convite para revisitarem o **roadmap dos 6 meses** no fim da primeira semana, para validar os 3 compromissos.
 
 ## Roteiro paralelo
 

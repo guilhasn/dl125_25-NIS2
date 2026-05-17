@@ -60,6 +60,7 @@ ESTRUTURA = {
             ("e1-supervisao", "E.1 Supervisão ex post"),
             ("e2-documentacao-minima", "E.2 Documentação mínima — checklist"),
             ("e3-roadmap-6-meses", "E.3 Roadmap 6 meses"),
+            ("e4-compromisso", "E.4 Compromisso para a próxima semana"),
         ],
     ),
     "exercicios": (

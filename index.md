@@ -35,6 +35,6 @@ Tudo isto fica no computador do formando + acessível no hub para revisitar. O h
 | **B. Art. 27.º — Risco e ativos** | 90 min | Análise de risco, inventário, classificação de activos |
 | **C. Notificação de incidentes** | 90 min | Prazos PT (24h + 24h + 30 dias úteis), plataforma CNCS, articulação RGPD |
 | **D. Outras medidas** | 60 min | Cadeia de fornecimento, continuidade, acessos/MFA, formação |
-| **E. Supervisão e roadmap** | 15 min | Supervisão *ex post*, sanções, roadmap de 6 meses |
+| **E. Supervisão e roadmap** | 20 min | Supervisão *ex post*, sanções, roadmap de 6 meses, compromisso pessoal |
 
 **Pausas**: o formador faz pausas curtas entre blocos conforme o ritmo da sessão.

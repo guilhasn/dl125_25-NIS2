@@ -15,6 +15,12 @@ Este é **o maior bloco do dia** — e o bloco onde, na prática, mais erros sã
 
 Este bloco aborda, portanto, a parte mais operacional do regime: o que fazer **antes** (plano e ponto de contacto), **no momento** (decidir, qualificar, notificar), **a seguir** (comunicar destinatários, articular com RGPD e cibercrime), e **depois** (relatório final, lições aprendidas). Fecha com 25 minutos de exercício prático individual, sobre quatro cenários realistas, seguido de discussão em plenária.
 
+{: .important }
+> **Nota para o formador — densidade do Bloco C.** São 6 sub-páginas em 90 minutos (≈12 min cada nas 4 expositivas + 35 min de exercício e discussão). É **apertado**. Recomenda-se:
+> - **Pausa breve de 1-2 minutos** após C.3 (antes do RGPD) para respirar antes do tema cruzado.
+> - **C.5 pode ser comprimida para 5-7 minutos** se a sessão estiver a atrasar — basta mostrar capturas e referir o art. 17.º do Aviso.
+> - **C.6 não comprimir** — o exercício é o output principal do bloco.
+
 ## Objectivos do bloco
 
 Ao final do bloco, cada formando deve ser capaz de:

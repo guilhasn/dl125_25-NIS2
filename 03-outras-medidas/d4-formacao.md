@@ -80,6 +80,16 @@ A formação não tem de ser organizada inteiramente em casa. Opções económic
 - **Vídeos curtos do CNCS** (Cibersegurança Pessoal, *Stay Safe*) — alimentar *intranet* e e-mail temático.
 - **Esta formação** (DL 125/2025) — cumpre a obrigação para dirigentes e técnicos. Documentar e arquivar o registo de presenças.
 
+## 💬 Micro-exercício (3 min)
+
+Antes de avançar para o Bloco E, **rascunhem 1 perfil** do vosso plano anual de formação. Escolham um dos cinco perfis-tipo da tabela acima (administrativos, técnicos TIC, dirigentes, autarcas, trabalhadores em geral) e respondam, em 3 linhas:
+
+1. **Perfil escolhido**: ________
+2. **Conteúdos prioritários** para este perfil na vossa autarquia: ________
+3. **Cadência sugerida** (anual / semestral / trimestral): ________
+
+Não é exercício formal — é **um arranque** para o plano anual. O que sair pode ser ampliado depois, em câmara, com o template [`plano-formacao-anual-nis2.xlsx`]({{ '/templates/plano-formacao-anual-nis2.xlsx' | relative_url }}).
+
 ## Templates aplicáveis
 
 | Template | Grupo / Etiqueta | Notas |

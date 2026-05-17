@@ -122,4 +122,4 @@ Após o mês 6, o ciclo entra em **manutenção anual**:
 
 ## Próximo passo
 
-[← Voltar ao índice do Bloco E]({% link 04-supervisao-roadmap/index.md %})
+[E.4 Compromisso para a próxima semana →]({% link 04-supervisao-roadmap/e4-compromisso.md %})
