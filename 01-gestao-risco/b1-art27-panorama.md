@@ -19,7 +19,27 @@ O art. 27.º do RJC é o **catálogo nuclear das medidas de gestão de riscos de
 
 ## O que a lei diz
 
-> «As medidas de ciberseguranca a adotar pelas entidades essenciais e importantes, tendo em consideração a matriz de risco em que estiverem inseridas nos termos do artigo anterior, abrangem, designadamente, as seguintes áreas: a) Tratamento de incidentes; b) Continuidade das atividades, como a gestão de cópias de segurança e a recuperação de desastres, e gestão de crises; c) Segurança da cadeia de abastecimento, incluindo aspetos de segurança respeitantes às relações entre cada entidade e os respetivos fornecedores ou prestadores de serviços diretos; d) Segurança na aquisição, desenvolvimento e manutenção das redes e sistemas de informação, incluindo o tratamento e a divulgação de vulnerabilidades; e) Políticas e procedimentos para avaliar a eficácia das medidas de gestão dos riscos de ciberseguranca; f) Práticas básicas de ciber-higiene e formação em ciberseguranca, incluindo os titulares de órgãos máximos de gestão e trabalhadores; g) Políticas e procedimentos relativos à utilização de criptografia e, se for caso disso, de cifragem (...); h) Segurança dos recursos humanos, políticas seguidas em matéria de controlo do acesso e gestão de ativos; i) Utilização de autenticação multifator ou de autenticação contínua, comunicações seguras e sistemas seguros de comunicações de emergência no seio da entidade.» — art. 27.º, n.º 1 do RJC (anexo ao DL 125/2025)
+> «As medidas de ciberseguranca a adotar pelas **entidades essenciais e importantes**, tendo em consideração a matriz de risco em que estiverem inseridas nos termos do artigo anterior, **abrangem, designadamente, as seguintes áreas**:
+>
+> **a)** Tratamento de incidentes;
+>
+> **b)** Continuidade das atividades, como a gestão de cópias de segurança e a recuperação de desastres, e gestão de crises;
+>
+> **c)** Segurança da cadeia de abastecimento, incluindo aspetos de segurança respeitantes às relações entre cada entidade e os respetivos fornecedores ou prestadores de serviços diretos;
+>
+> **d)** Segurança na aquisição, desenvolvimento e manutenção das redes e sistemas de informação, incluindo o tratamento e a divulgação de vulnerabilidades;
+>
+> **e)** Políticas e procedimentos para avaliar a eficácia das medidas de gestão dos riscos de ciberseguranca;
+>
+> **f)** Práticas básicas de ciber-higiene e formação em ciberseguranca, incluindo os titulares de órgãos máximos de gestão e trabalhadores;
+>
+> **g)** Políticas e procedimentos relativos à utilização de criptografia e, se for caso disso, de cifragem (...);
+>
+> **h)** Segurança dos recursos humanos, políticas seguidas em matéria de controlo do acesso e gestão de ativos;
+>
+> **i)** Utilização de autenticação multifator ou de autenticação contínua, comunicações seguras e sistemas seguros de comunicações de emergência no seio da entidade.»
+>
+> — *art. 27.º, n.º 1 do RJC* (anexo ao DL 125/2025)
 
 Nove alíneas, da a) à i). Não dez. **Esta é a primeira diferença operacional a fixar**, porque a directiva NIS2 (art. 21.º) enumera dez medidas — o legislador português optou por **fundir três medidas distintas da directiva numa única alínea h)**: "segurança dos recursos humanos", "controlo do acesso" e "gestão de ativos". Quem citar "as 10 medidas do art. 27.º" está a invocar a directiva, não o decreto-lei. Em audição com o CNCS é o art. 27.º **com 9 alíneas** que vale.
 
