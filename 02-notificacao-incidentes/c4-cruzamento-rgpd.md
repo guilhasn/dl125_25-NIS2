@@ -28,6 +28,15 @@ O legislador português antecipou o problema:
 
 A ideia é elegante: uma só submissão na plataforma electrónica do CNCS encaminharia automaticamente para todas as autoridades relevantes. **Mas há um problema operacional**: o mecanismo **depende do protocolo entre autoridades**, que **ainda não foi publicado** em Maio de 2026. Sem protocolo, a notificação cruzada automática não funciona. Submeter uma notificação NIS2 no CNCS **não é equivalente** a cumprir a obrigação RGPD junto da CNPD.
 
+{: .caso-pratico }
+> **Caso prático 5 — Incidente técnico que era violação de dados**
+>
+> Câmara sofreu indisponibilidade prolongada de um serviço online de atendimento ao munícipe. A equipa TIC tratou-o como incidente técnico clássico, notificou o CNCS no prazo das 24h e considerou o assunto encerrado. Cinco dias depois, ao reconstituir o que tinha acontecido, percebeu que entre os ficheiros expostos durante o incidente estavam anexos de pedidos administrativos com dados pessoais de munícipes — moradas, NIF, fotocópias de documentos. A entidade ficou exposta a dois regimes paralelos de responsabilidade: cibersegurança perante o CNCS e protecção de dados perante a CNPD.
+>
+> **Lição:** notificar o CNCS não substitui avaliar obrigações perante a CNPD — incidente técnico e violação de dados pessoais podem coexistir.
+>
+> **Como deveria ter sido feito:** desde o momento da detecção, envolver o Encarregado de Protecção de Dados na análise. Avaliar separadamente os dois canais (CNCS a 24h após verificação, CNPD a 72h se houver violação de dados pessoais) e manter referência cruzada nas duas comunicações.
+
 ## Recomendação prática durante a transição
 
 Até à publicação do protocolo, **duas notificações paralelas**, na mesma equipa, com timestamps próprios e referência cruzada:
