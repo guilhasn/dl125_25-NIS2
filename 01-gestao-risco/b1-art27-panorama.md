@@ -76,6 +76,15 @@ A consequência é decisiva: **não copiem o art. 27.º para o vosso caderno de 
 2. **Erro de fonte**: o tribunal/CNCS, em fiscalização, pergunta-vos pelo Anexo IV — não pelo art. 27.º. Apresentar evidências que não mapeiam ao Anexo IV é mau sinal.
 3. **Custo desproporcional**: implementar a totalidade das medidas pensadas para essenciais multiplica o orçamento previsível.
 
+{: .caso-pratico }
+> **Caso prático 3 — Caderno de encargos sem análise de risco**
+>
+> Câmara lançou procedimento para nova plataforma interna de gestão documental. O caderno de encargos copiou de forma acrítica um conjunto extenso de medidas de cibersegurança, sem qualificar previamente a entidade, o sistema ou o risco do serviço. O fornecedor respondeu com proposta inflacionada — incluindo Responsável de Cibersegurança formal, Ponto de Contacto Permanente 24/7 e relatório anual de essencial — todas medidas desproporcionadas ao âmbito real. O custo final triplicou em relação ao orçamento estimado. A equipa percebeu tarde que tinha confundido boa conformidade com acumulação indiscriminada de requisitos.
+>
+> **Lição:** sem gestão de risco própria, a entidade não tem critério para distinguir requisito necessário de requisito excessivo — e fica refém do caderno-tipo ou do fornecedor.
+>
+> **Como deveria ter sido feito:** antes do procedimento de contratação, fazer uma análise de risco sumária do sistema a contratar (que dados trata, que serviços suporta, que criticidade tem). Só essa análise dá à entidade base própria para triar requisitos em obrigatórios / recomendáveis / desajustados. Sem ela, o caderno só pode ser maximalista.
+
 ## Mapa de correspondência — art. 27.º DL → Anexo III (essencial) → Anexo IV (autarquia)
 
 Esta é a tabela mais importante do bloco. Ela diz, para cada alínea do art. 27.º, **qual a medida equivalente que recai sobre a vossa câmara** no Anexo IV — e qual a medida equivalente que recairia se fossem entidade essencial (útil para quem tem dupla qualificação, ver 'Em dupla qualificação').
