@@ -51,6 +51,15 @@ Três funções têm de estar atribuídas, nominalmente, antes do incidente:
 
 Em Grupo B com equipa pequena, **uma só pessoa pode acumular funções** — mas tem de estar nominalmente designada como **O.CRI** (ponto de contacto para resposta a incidentes), tem de estar registada na plataforma electrónica do CNCS e tem de ter substituto designado para garantir cobertura fora de horas.
 
+{: .caso-pratico }
+> **Caso prático 4 — Escalação às 17h30**
+>
+> Quinta-feira, 17h30. A equipa TIC detectou instabilidade no serviço de autenticação e sinais de credenciais comprometidas. Sabia o que fazer tecnicamente — isolar contas, rever logs, repor serviço. Mas ninguém sabia quem podia declarar incidente significativo, autorizar comunicação externa ou accionar o fornecedor de cloud com cláusula contratual de emergência. A decisão subiu de técnico para chefe de divisão TIC, depois para vereador, depois para presidente. Cada nível pediu informação adicional. Quando o presidente autorizou contenção e contacto externo, eram 23h30. Seis horas perdidas em escalação, fora do prazo administrativo normal.
+>
+> **Lição:** o plano de resposta não é burocracia — é a diferença entre agir em 30 minutos ou discutir durante seis horas quem pode decidir.
+>
+> **Como deveria ter sido feito:** definir antecipadamente decisor, executor técnico e comunicador, com substitutos nomeados e contactos pessoais testados. A cadeia de decisão tem de estar escrita antes do incidente — durante o incidente já é tarde para discutir competências.
+
 ### 2. Critérios de activação e escalação
 
 Dois patamares: **alerta interno** (suspeita de incidente, equipa TIC analisa) e **activação formal do plano** (incidente confirmado, decisor avisado, relógio do art. 42.º começa). O critério-chave é a chegada ao limiar de **"incidente significativo"** definido no art. 40.º, n.º 3 do RJC — número de utilizadores afectados, duração, gravidade da perturbação, dimensão do impacto. Esta avaliação é detalhada em [C.2 — Critérios de "incidente significativo"]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
