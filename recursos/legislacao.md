@@ -20,6 +20,7 @@ Esta secção reúne **todos os diplomas** invocados ao longo do manual digital,
 1. [DL 125/2025 (Regime Jurídico da Ciberseguranca)]({% link recursos/legislacao-dl-125-2025.md %}) — articulado preambular + 87 artigos do RJC anexo + 3 anexos. Inclui paráfrases dos ~30 artigos invocados no manual digital.
 2. [Aviso n.º 5146/2026/2 (Regulamento CNCS)]({% link recursos/legislacao-aviso-5146.md %}) — 35 artigos + 4 anexos. Foco no Cap. II (plataforma electrónica), Cap. III (notificações), *art. 32.º do Aviso*{:.legal} (lista de activos públicos), Anexo IV (medidas para autarquias).
 3. [Anexo IV — medidas O/T/H]({% link recursos/anexo-iv-aviso-5146.md %}) — já existente, com as 27 medidas obrigatórias para autarquias.
+4. [**Recursos do CNCS**]({% link recursos/cncs.md %}) — catálogo dos guias, referenciais e ferramentas oficiais do CNCS (gestão de risco, comunicação de crise, QNRCS, sensibilização, GTDC, C-Network) mapeados aos blocos do manual digital.
 
 ## Diplomas centrais
 

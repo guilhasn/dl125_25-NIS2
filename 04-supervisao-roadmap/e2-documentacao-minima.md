@@ -12,6 +12,9 @@ nav_order: 2
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
+{: .highlight }
+> 📚 **Recurso CNCS complementar:** o CNCS publica o [**Quadro de Avaliação de Capacidades de Cibersegurança**](https://www.cncs.gov.pt/docs/cncs-quadrodeavaliacao.pdf){:target="_blank"} — ferramenta de auto-avaliação alinhada com o QNRCS, para a câmara medir a sua maturidade nas 5 funções (Identificar · Proteger · Detectar · Responder · Recuperar). Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
+
 **Duração**: 5 min · **Base**: Anexo IV do [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) + síntese das obrigações documentais
 
 Esta página responde a uma pergunta única e prática: **"se o CNCS me pedir tudo amanhã, o que tenho de mostrar?"** A resposta é uma lista de **peças documentais** mínimas. Não é uma lista de tudo o que se pode fazer; é a **lista do que tem de existir** para o Grupo B básico. Grupo A acumula medidas adicionais marcadas com **(A)**.

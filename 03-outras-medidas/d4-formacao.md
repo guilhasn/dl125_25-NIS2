@@ -12,6 +12,13 @@ nav_order: 4
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
+{: .highlight }
+> 📚 **Recursos CNCS complementares — reutilização directa:**
+> - [**Guia para campanha de sensibilização em 5 passos**](https://www.cncs.gov.pt/pt/guia-para-realizar-uma-campanha-de-sensibilizacao/){:target="_blank"} — roteiro para preparar uma campanha interna.
+> - [**Recursos para Sensibilização**](http://www.cncs.gov.pt/pt/recursos-para-sensibilizacao/){:target="_blank"} — **slides, vídeos e conteúdos prontos** para reutilizar no plano anual de formação da câmara.
+>
+> Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
+
 **Duração**: 10 min · **Base legal**: art. 27.º al. g) RJC + Anexo IV [<abbr title="Plano de Formação e Sensibilização">**H.PF**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#h-pf) (Práticas e Formação).
 
 A meta-ironia: estamos numa formação a discutir a obrigação de fazer formação. Mas a ironia é apropriada — esta é uma das medidas com **maior retorno relativo** do Anexo IV. Os utilizadores formados clicam menos em phishing, escolhem senhas melhores, comunicam incidentes mais cedo, fazem menos erros de configuração. Sem formação, nenhuma das outras medidas técnicas resiste ao primeiro clique errado.

@@ -18,6 +18,7 @@ Esta secção reúne todas as **peças de apoio** que sustentam o conteúdo do m
 | 📚 [Legislação]({% link recursos/legislacao.md %}) | Mapa estrutural dos diplomas: DL 125/2025, Aviso 5146/2026/2, Directiva NIS2, RGPD, Lei do Cibercrime. Sub-páginas com paráfrase fiel dos artigos invocados e links directos ao DRE. |
 | 🧭 [Glossário]({% link recursos/glossario.md %}) | **90+ termos** técnicos e acrónimos do manual digital, ordenados A-V, com remissão para páginas onde se aprofundam. |
 | ❓ [Perguntas frequentes (FAQ)]({% link recursos/faq.md %}) | **30 perguntas** em 7 secções, sobre quem está abrangido, plataforma MyCiber, medidas, notificação, sanções, articulação com outros regimes, operacionalização interna. |
+| 🏛️ [Recursos do CNCS]({% link recursos/cncs.md %}) | **11 recursos oficiais** do CNCS (guias, referenciais, programas) mapeados aos blocos da formação. Inclui Guia de Gestão de Riscos, Referencial de Comunicação de Crise, QNRCS, Recursos para Sensibilização, GTDC, C-Network. |
 
 ## Como usar
 

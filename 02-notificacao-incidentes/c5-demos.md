@@ -9,6 +9,9 @@ nav_order: 5
 
 Este slot de 10 minutos é a parte mais visual do bloco. Mostra-se a plataforma electrónica do CNCS, designada **MyCiber** — disponível em **[myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}**. É o canal único e oficial de submissão de notificações, autoidentificação, qualificação e comunicações com a autoridade. Em sessão (online, partilha de ecrã), a demo é navegada ao vivo se a plataforma estiver acessível à data; aqui ficam as referências e o resumo do *workflow*.
 
+{: .highlight }
+> 📚 **Recurso CNCS complementar:** [**Coordenação da Resposta a Incidentes** (CERT.PT)](http://www.cncs.gov.pt/pt/certpt/coordenacao-da-resposta-a-incidentes/){:target="_blank"} — explica como o CNCS coordena a resposta em incidentes de grande escala e quais os canais designados. Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
+
 > **Estado actual (15 de Junho de 2026):** o MyCiber já está acessível em [myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}, com o **Simulador** funcional. As funcionalidades de **registo formal, qualificação e notificação de incidentes** aguardam a publicação da versão final do Aviso 5146/2026/2 — a **consulta pública terminou em 22 de Abril de 2026** e está em fase de redacção da versão final. Ver [A.3 — Plataforma electrónica do CNCS]({% link 00-enquadramento/a3-plataforma-cncs.md %}) para o detalhe sobre o que já está disponível.
 
 ## Plataforma electrónica do CNCS — canal oficial

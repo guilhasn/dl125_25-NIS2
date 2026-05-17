@@ -11,6 +11,9 @@ search_exclude: false
 {: .warning }
 > **Preliminar.** A **consulta pública** do Aviso 5146/2026/2 **terminou em 22 de Abril de 2026**. O CNCS está agora na **fase de análise dos contributos e redacção da versão final**, que será publicada no Diário da República em data ainda não anunciada. Os códigos e nomes apresentados aqui reflectem o **projecto** posto a consulta — podem sofrer alterações terminológicas na versão final. Esta página será actualizada quando o diploma for publicado em definitivo.
 
+{: .highlight }
+> 📚 **Recurso CNCS complementar:** o **QNRCS** (Quadro Nacional de Referência para a Cibersegurança) é aprovado pelo Anexo I do Aviso 5146/2026/2 e enquadra as medidas O/T/H aqui descritas. Para perfis de função associados às medidas, consultar o [**Referencial de Competências em Cibersegurança**](https://www.cncs.gov.pt/pt/referencial-de-competencias/){:target="_blank"}. Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
+
 O Anexo IV organiza as medidas obrigatórias em **três famílias**, identificadas pela primeira letra do código:
 
 - **O — Organizacionais** — políticas, processos, decisões de gestão. Não são tecnologia; são *como a câmara se organiza* para enfrentar a ciberseguranca.
