@@ -45,3 +45,43 @@ Saberão identificar a vossa qualificação, os artigos que vos aplicam, os praz
 ## Roteiro paralelo
 
 Se durante o Exercício A1 identificaram **dupla qualificação** (SMAS, empresas municipais em sectores Anexo I/II), sigam também o [roteiro essencial]({% link roteiro-essencial/index.md %}) — em particular a [comparação Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
+
+## Auto-avaliação
+
+Confirme que captou o essencial deste bloco. Clique em "Ver resposta" depois de responder mentalmente.
+
+**1.** A vossa câmara tem **180 trabalhadores** no quadro de pessoal e opera SMAS de águas com 60 trabalhadores. Quantos registos no MyCiber e em que regime?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Dois registos**, em regimes diferentes:
+- **Câmara** = Grupo B (75-249 trab.) → *art. 33.º RJC* + Anexo IV.
+- **SMAS** = entidade essencial (sector águas, Anexo I) → *arts. 26.º-32.º RJC* + Anexo III.
+
+Ressalva: depende da forma de organização do SMAS (autónomo vs unidade orgânica) — ver [Roteiro essencial — dupla qualificação]({% link roteiro-essencial/dupla-qualificacao.md %}).
+</details>
+
+**2.** A "amnistia" do *art. 65.º RJC* — verdadeiro ou falso: "até Abril de 2027 não há risco de coima para autarquias".
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Falso.** O *art. 65.º* prevê **dispensa discricionária** de coima para infracções dos arts. 61.º e 62.º, **mediante pedido fundamentado** e demonstração de **procedimento interno de adaptação activa**. Não é automática nem cobre infracções leves, sanções acessórias ou compulsórias. Ver [A.4 Prazos, sanções e amnistia]({% link 00-enquadramento/a4-prazos-sancoes.md %}).
+</details>
+
+**3.** Quais os **dois meios de autenticação** aceites no MyCiber?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Cartão de Cidadão (CC)** e **Chave Móvel Digital (CMD)**. Sem login local. Mesma autenticação electrónica usada noutras plataformas da AP (Portal das Finanças, ePortugal). Ver [A.3 Plataforma MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
+</details>
+
+**4.** O prazo de **60 dias** para auto-identificação começa a contar a partir de **quando**?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+A partir da **disponibilização do registo formal no MyCiber** comunicada pelo CNCS. **Não** a partir da entrada em vigor do DL (3 de Abril de 2026) nem da abertura do Simulador. Atenção: à data de 15 de Junho de 2026, o registo formal ainda não está aberto — só o Simulador funciona.
+</details>

@@ -9,6 +9,13 @@ nav_order: 4
 
 Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ordenados alfabeticamente. Para os códigos de medidas do Anexo IV (O.IAC, T.AM, H.PF, etc.), consulte [Anexo IV — medidas O/T/H]({% link recursos/anexo-iv-aviso-5146.md %}).
 
+**Convenção tipográfica:**
+
+- *Termos em itálico* — anglicismos técnicos sem tradução estabelecida em pt-pt (*backup*, *log*, *firewall*, *workflow*, *air-gap*, *playbook*).
+- `Termos em monospace` — nomes de ficheiros, comandos e códigos do Anexo IV (ex.: `notificacao-24h-nis2.docx`, `T.AM`, `O.IAC`).
+- [*Texto em itálico com fundo cinzento*]({% link recursos/legislacao.md %}) — referências legais clicáveis que ligam à página de Legislação (*art. 27.º RJC*, *Aviso 5146/2026/2*).
+- **Termos em negrito** — destaque dentro do parágrafo para uma noção ou decisão importante.
+
 ## A
 
 **AIRC** — Associação de Informática da Região Centro. Fornecedor frequente de software de gestão municipal em câmaras portuguesas (contabilidade, recursos humanos, gestão documental).

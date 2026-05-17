@@ -45,3 +45,37 @@ Saem com **três decisões tomadas mentalmente**: que fornecedores entram primei
 ## Roteiro paralelo
 
 Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): o regime das essenciais e importantes é mais exigente em todas as quatro medidas — sobretudo na cadeia de fornecimento (art. 28.º aplica-se directamente, com mecanismos de aceitação e monitorização contínua) e no controlo de acessos OT (segregação rigorosa entre redes TIC e OT). Cada sub-página tem uma sidebar específica. Ver também [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
+
+## Auto-avaliação
+
+**1.** Em qual destes pontos é que se deve activar MFA com prioridade máxima numa autarquia?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Em todos, sem excepção** — Microsoft 365, VPN, acessos administrativos a servidores/firewall, AD, aplicações financeiras. MFA bloqueia 99% dos ataques baseados em credenciais. A pergunta correcta não é "onde activar primeiro" mas "porque é que ainda não está activo em todos". Ver [D.3 Acessos, MFA e palavras-passe]({% link 03-outras-medidas/d3-acessos-mfa.md %}).
+</details>
+
+**2.** A câmara tem *backups* diários para uma pasta partilhada na rede. Isto é suficiente?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Não.** Dois problemas: (1) **não há registo de testes** — *backups* existentes mas nunca testados frequentemente não funcionam quando precisam; (2) **estão na rede acessível** — ransomware moderno procura *backups* primeiro e encripta-os. Precisam de pelo menos uma cópia ***air-gapped*** (offline). Ver [D.2 Continuidade, backups e recuperação]({% link 03-outras-medidas/d2-continuidade-backups.md %}).
+</details>
+
+**3.** A câmara contrata um fornecedor de gestão documental. O incidente é deles. A notificação ao CNCS é deles?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Não. A notificação é da câmara.** O fornecedor é responsável pelo facto técnico, mas a entidade qualificada perante o CNCS (entidade pública relevante) é a **câmara**. O contrato com o fornecedor **tem de exigir comunicação atempada** (24-72h) para a câmara poder cumprir o prazo de 24h do *art. 42.º RJC*. Ver [D.1 Cadeia de fornecimento]({% link 03-outras-medidas/d1-cadeia-fornecimento.md %}).
+</details>
+
+**4.** Política de palavras-passe moderna (NIST 2017): quanto tempo deve durar uma palavra-passe antes de ser obrigatória rotação?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+**Não há rotação obrigatória** — excepto após suspeita de compromisso. Rotações forçadas levam os utilizadores a padrões previsíveis (`Verao2025!` → `Verao2026!`). Foco actual: **comprimento ≥ 12 caracteres**, validação contra listas de senhas vazadas, gestores de palavras-passe institucionais. Ver [D.3]({% link 03-outras-medidas/d3-acessos-mfa.md %}).
+</details>
