@@ -51,7 +51,7 @@ Em sessão, o formador atribui uma ficha por sorteio a cada formando (ou a um su
 
 Cada formando termina com **um rascunho de notificação inicial** parcialmente preenchido no seu computador. Não tem de estar completo — o que importa é que **as decisões fundamentais estejam tomadas**. O documento sai convosco como ponto de partida do **registo interno de incidentes** da entidade.
 
-## Validação rápida (formador) — armadilhas comuns
+## Validação rápida — armadilhas comuns
 
 | Armadilha | Correcção |
 |---|---|

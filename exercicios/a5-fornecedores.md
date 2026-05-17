@@ -42,7 +42,7 @@ Mapear os 5 fornecedores TIC mais críticos da autarquia e classificá-los por *
 
 Pelo menos um deverá ter **"Contrato formal? = Não"** — verificar e remediar.
 
-## Validação rápida (formador) — armadilhas comuns
+## Validação rápida — armadilhas comuns
 
 | Armadilha | Correcção |
 |---|---|

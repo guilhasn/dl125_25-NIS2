@@ -42,7 +42,7 @@ Não procuramos exaustividade. Procuramos **três decisões fundamentadas**. A v
 - 1 risco "humano" (phishing, erro de configuração, fuga interna).
 - 1 risco "estrutural" (fornecedor único, dependência tecnológica, fim de vida útil de equipamento crítico).
 
-## Validação rápida (formador)
+## Validação rápida
 
 A maior parte das equipas tende a:
 

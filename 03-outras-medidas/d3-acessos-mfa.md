@@ -103,8 +103,6 @@ Antes de avançar para D.4, momento curto de revisão. Em quantas das suas **con
 - 🟡 **3 ou mais (mas não todas)** — bem; falta finalizar. Identifique as que faltam.
 - 🟢 **Todas** — postura defensável neste ponto. Validar trimestralmente.
 
-O formador pode usar a função de **sondagem** (poll) do Zoom/Teams para recolher anonimamente. O resultado costuma surpreender — mesmo entre dirigentes informados.
-
 ## Templates aplicáveis
 
 | Template | Grupo / Etiqueta | Notas |

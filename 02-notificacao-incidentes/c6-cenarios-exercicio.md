@@ -65,7 +65,7 @@ Esta página apresenta os cenários e as instruções. As 4 fichas em PDF A5 est
 
 **Pistas para análise**: incidente significativo (sim — compromisso de identidade institucional, tentativa de fraude, dimensão financeira). Canais: CNCS (24h), CNPD (72h — caixa de e-mail do vereador contém dados pessoais de munícipes em correspondência), MP (Lei 109/2009 — falsificação informática), comunicação aos fornecedores potencialmente afectados (todos os 200 destinos do *spear-phishing* têm de ser avisados — art. 48.º aplicado em sentido lato). Acção imediata: bloquear conta, reset de credenciais, MFA obrigatório, análise forense da caixa (o que esteve acessível ao atacante?).
 
-## Critérios de avaliação dos outputs (uso do formador)
+## Critérios de avaliação dos outputs
 
 Não há classificação numérica. Os critérios qualitativos para *feedback* na apresentação:
 

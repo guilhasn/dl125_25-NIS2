@@ -46,7 +46,7 @@ Folha Excel com 1–4 linhas preenchidas (média típica: câmara + SMAS = 2 lin
 
 Se houver linhas marcadas como **"Em dúvida"**, traga-as à discussão em plenária e verifique adicionalmente com o resultado do [Simulador do MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}#o-simulador--primeira-funcionalidade-já-disponível).
 
-## Validação rápida (formador)
+## Validação rápida
 
 - Câmaras médias (típicamente entre 75 e 249) → Grupo B.
 - Câmaras grandes (Porto, Lisboa, Coimbra, Cascais, Sintra, Loures, Braga…) → Grupo A.

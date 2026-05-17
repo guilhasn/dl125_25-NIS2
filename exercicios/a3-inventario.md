@@ -39,7 +39,7 @@ Este exercício também serve para **identificar candidatos à lista do art. 32.
 
 5 linhas preenchidas. Idealmente, pelo menos **2 marcados como "Acessível pela Internet"** — esses passam para a lista do art. 32.º, com prazo de 20 dias úteis após qualificação.
 
-## Validação rápida (formador)
+## Validação rápida
 
 Padrões frequentes a corrigir:
 
