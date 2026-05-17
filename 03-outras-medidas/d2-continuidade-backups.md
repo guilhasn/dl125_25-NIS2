@@ -53,6 +53,15 @@ O ransomware moderno **procura os *backups* primeiro**. Encripta os ficheiros, e
 
 Para o Grupo A é **expectativa**; para Grupo B é **fortemente recomendado** — e a primeira pergunta que o CNCS vai fazer numa auditoria pós-incidente.
 
+{: .caso-pratico }
+> **Caso prático 6 — Backups na mesma rede**
+>
+> Câmara fazia *backups* diários para uma NAS interna alojada no mesmo armário do servidor de produção. Durante um ataque de *ransomware* em Março, os dados de produção e a NAS foram cifrados em simultâneo — o atacante movimentou-se lateralmente com credenciais administrativas válidas em ambos os sistemas. O último *backup* verdadeiramente isolado era de Novembro do ano anterior, em fita armazenada num armário desorganizado, sem garantia de integridade. A equipa fazia *backups* todos os dias durante quatro meses — e perdeu na mesma quatro meses de dados.
+>
+> **Lição:** *backup* acessível ao atacante é apenas mais um ficheiro para cifrar.
+>
+> **Como deveria ter sido feito:** manter pelo menos uma cópia isolada (offline, imutável ou em rede segregada com credenciais distintas das de produção). Testar o restauro pelo menos trimestralmente, com restauro real de um sistema completo. Registar cada teste com data, sistema e responsável — sem registo, o teste não conta.
+
 ## Plano de Continuidade de Negócio (PCN) e Plano de Recuperação de Desastres (DRP)
 
 Os dois não são a mesma coisa, e a confusão entre eles é frequente:
