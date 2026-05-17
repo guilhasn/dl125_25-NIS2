@@ -116,6 +116,15 @@ A leitura corrente — "**até Abril de 2027 não há risco de coima**" — est�
 
 Na ausência destes elementos, qualquer infracção cometida no período transitório fica **plenamente sancionável**.
 
+{: .caso-pratico }
+> **Caso prático 2 — Dispensa de coima não é amnistia**
+>
+> Câmara com cerca de 220 trabalhadores sofreu incidente de cibersegurança em 2026. Após relatório do CNCS, a entidade invocou a dispensa do art. 65.º, apresentando a violação como facto isolado e a câmara como vítima. Em audição, o CNCS pediu evidência do processo de adaptação em curso à data do incidente. Não havia despacho de início, nem cronograma, nem actas, nem responsável nomeado. A fragilidade não estava no incidente em si — estava na incapacidade de demonstrar que a entidade já estava em processo sério de adaptação ao regime.
+>
+> **Lição:** a dispensa do art. 65.º não é amnistia automática — é mérito demonstrado.
+>
+> **Como deveria ter sido feito:** antes de qualquer incidente, aprovar plano de adaptação por despacho, nomear responsável interno, calendarizar medidas e manter actas das decisões. A dispensa exige evidência de processo em curso à data dos factos, não declaração tardia em audição.
+
 ### Modelo de pedido de dispensa
 
 Está prevista a publicação no manual digital de um modelo de pedido de dispensa fundamentado — ver [recursos / templates]({% link recursos/templates.md %}). Download disponível a partir de 8 de Junho.
