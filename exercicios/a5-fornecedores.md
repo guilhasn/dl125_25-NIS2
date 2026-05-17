@@ -1,7 +1,7 @@
 ---
 title: "A5 — Top 5 fornecedores"
 layout: default
-parent: "Exercícios A1–A5"
+parent: "Worksheets dos exercícios"
 nav_order: 5
 ---
 

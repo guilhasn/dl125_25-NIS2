@@ -7,6 +7,8 @@ has_children: true
 
 # A. Enquadramento legal
 
+> *Antes de fazer, qualifica-te.*
+
 {: .note }
 > **Grupo A** = autarquia com ≥ 250 trabalhadores  
 > **Grupo B** = autarquia com 75-249 trabalhadores  

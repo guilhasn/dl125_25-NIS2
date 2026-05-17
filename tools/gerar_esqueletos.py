@@ -63,7 +63,7 @@ ESTRUTURA = {
         ],
     ),
     "exercicios": (
-        "Exercícios A1–A5",
+        "Worksheets dos exercícios",
         7,
         [
             ("a1-classificacao", "A1. Classificação da autarquia"),

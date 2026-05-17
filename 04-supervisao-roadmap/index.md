@@ -12,6 +12,8 @@ has_children: true
 > **Grupo B** = autarquia com 75-249 trabalhadores  
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
+> *Documentar é metade do trabalho.*
+
 **Duração**: 15 minutos · **3 sub-páginas**
 
 O Bloco E é o **fecho operacional do dia**. Quinze minutos curtos para responder a três perguntas finais: **como sou inspeccionado, o que tenho de mostrar, e por onde começo amanhã**. Não é exposição de matéria nova — é **síntese accionável** das obrigações apresentadas ao longo do dia.

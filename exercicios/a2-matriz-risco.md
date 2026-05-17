@@ -1,7 +1,7 @@
 ---
 title: "A2 — Matriz de risco"
 layout: default
-parent: "Exercícios A1–A5"
+parent: "Worksheets dos exercícios"
 nav_order: 2
 ---
 

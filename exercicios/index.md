@@ -1,14 +1,16 @@
 ---
-title: "Exercícios A1–A5"
+title: "Worksheets dos exercícios"
 layout: default
 nav_order: 7
 has_children: true
 permalink: /exercicios/
 ---
 
-# Exercícios A1–A5
+# Worksheets dos exercícios (A1–A5)
 
-Cinco exercícios práticos curtos (10–25 minutos cada) distribuídos pelos blocos da formação. Cada exercício produz uma **peça concreta** que cada formando termina e leva consigo para a entidade real — o **embrião** da matriz de risco, do inventário, da lista de fornecedores e do plano de notificação.
+> *Índice das peças que se constroem em sessão. Cada uma vive dentro do bloco a que pertence.*
+
+Cinco exercícios práticos curtos (10–25 minutos cada) **embebidos nos blocos da formação** — não correm em slot separado. Esta página é um **índice de consulta**: link rápido para cada *worksheet*, com indicação do bloco onde está e do output esperado. Cada exercício produz uma **peça concreta** sobre a entidade real do formando.
 
 ## Formato — sessão online
 

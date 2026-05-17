@@ -1,7 +1,7 @@
 ---
 title: "A1 — Classificação"
 layout: default
-parent: "Exercícios A1–A5"
+parent: "Worksheets dos exercícios"
 nav_order: 1
 ---
 

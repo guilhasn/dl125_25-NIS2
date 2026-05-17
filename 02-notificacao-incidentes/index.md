@@ -7,6 +7,8 @@ has_children: true
 
 # C. Notificação de incidentes
 
+> *24h após verificação, não após detecção.*
+
 **Duração**: 90 minutos · **6 sub-páginas**
 
 Este é **o maior bloco do dia** — e o bloco onde, na prática, mais erros são cometidos. Os capítulos sobre notificação de incidentes do DL 125/2025 (arts. 38.º a 51.º) e do Aviso 5146/2026/2 (arts. 20.º a 22.º) são curtos, mas escondem um regime que **difere materialmente** da Directiva NIS2 original. Quem trouxer da memória os prazos «24h + 72h + 1 mês» da Directiva irá perder pelo menos um prazo. Atenção redobrada nas próximas seis páginas.

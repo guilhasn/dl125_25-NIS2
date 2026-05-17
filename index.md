@@ -15,6 +15,18 @@ Roteiro prático de implementação do **Decreto-Lei 125/2025** (regime jurídic
 **Formato**: online (Zoom/Teams), com partilha de ecrã do formador e trabalho individual dos formandos no respectivo computador
 **Público**: dirigentes e técnicos superiores de autarquias locais
 
+## O que vão levar daqui
+
+Ao final desta formação, cada participante termina com **5 peças concretas** sobre a sua entidade real, prontas a continuar na câmara na semana seguinte:
+
+1. **Classificação correcta** da autarquia (Grupo A / Grupo B / fora do regime), com eventual dupla qualificação identificada (SMAS, empresa municipal).
+2. **Embrião de matriz de risco** com 3 riscos identificados, classificados (P × I) e com tratamento decidido.
+3. **Top 5 de activos críticos** da câmara, com responsável funcional e dependência principal.
+4. **Rascunho de notificação 24h** preenchido sobre um cenário de incidente sorteado em sessão.
+5. **Roadmap de 6 meses** para conformidade demonstrável, com peças a produzir em cada mês.
+
+Tudo isto fica no computador do formando + acessível no hub para revisitar. O hub continua disponível em `guilhasn.github.io/dl125_25-NIS2/` depois da sessão.
+
 ## Estrutura
 
 | Bloco | Duração | Conteúdo |

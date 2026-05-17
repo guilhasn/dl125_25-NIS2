@@ -1,7 +1,7 @@
 ---
 title: "A3 — Inventário top 5"
 layout: default
-parent: "Exercícios A1–A5"
+parent: "Worksheets dos exercícios"
 nav_order: 3
 ---
 
