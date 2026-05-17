@@ -11,7 +11,7 @@ nav_order: 1
 
 **Entrada em vigor:** 3 de Abril de 2026 (*art. 11.º do articulado preambular*{:.legal} — 120 dias após publicação).
 
-**Texto integral:** [DRE — PDF oficial](https://files.dre.pt/1s/2025/12/23400/0000200110.pdf){:target="_blank"} (este link aponta directamente para o PDF do diploma no DRE).
+**Texto integral:** [DRE — página oficial do diploma](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401){:target="_blank"} (página detalhe no Diário da República Electrónico, com PDF descarregável).
 
 **Estrutura:** o DL tem 11 artigos preambulares + **anexo** que contém o **Regime Jurídico da Ciberseguranca (RJC)** propriamente dito, com 87 artigos repartidos por 9 capítulos + 3 anexos.
 
