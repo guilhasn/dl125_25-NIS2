@@ -101,6 +101,15 @@ Esta autarquia tem **três qualificações distintas** e três cadernos de encar
 
 As obrigações **acumulam**: a câmara é entidade pública relevante **e** dona/tutela da entidade essencial. As notificações de incidentes, os pedidos de qualificação, as auditorias, são feitos **por cada entidade operacional** distinta, ainda que na mesma plataforma electrónica do CNCS.
 
+{: .caso-pratico }
+> **Caso prático 1 — Águas em unidade orgânica integrada**
+>
+> Uma câmara média do interior, com cerca de 180 trabalhadores, geria o serviço de águas através de uma unidade orgânica municipal integrada — sem SMAS autónomos nem empresa municipal. Ao preparar o registo NIS2, a equipa assumiu que a entidade seria apenas pública relevante do Grupo B, por ter menos de 250 trabalhadores. Só ao rever a actividade efectivamente prestada percebeu que a água potável é sector Anexo I e que a prestação integrada não isenta automaticamente a câmara das obrigações da entidade essencial.
+>
+> **Lição:** a forma como o serviço está organizado pode alterar a qualificação da entidade — não basta olhar para o organograma; é necessário olhar para a actividade efectivamente prestada.
+>
+> **Como deveria ter sido feito:** recolher informação sobre o modelo de prestação do serviço de águas (responsabilidade operacional, sistemas usados, criticidade) e avaliar enquadramento sectorial Anexo I antes do registo. Em caso de dúvida, documentar a análise e pedir orientação ao CNCS no acto de registo.
+
 ### Excepção qualificadora rara (art. 6.º, n.º 1, al. d) do RJC)
 
 Há ainda uma porta aberta para que o CNCS qualifique uma autarquia como **entidade essencial**, mesmo sem operar sector Anexo I, se prestar "serviços nas áreas do desenvolvimento, manutenção e gestão de infraestruturas de TIC ou apresentar um grau particularmente elevado de integração digital na prestação dos seus serviços". Caso raro, decisão fundamentada do CNCS (art. 8.º, n.os 3-4). Sinalizar, mas não dimensionar a estratégia em função desta hipótese improvável.
