@@ -136,13 +136,113 @@ def aba_instrucoes(wb: Workbook) -> None:
 
         linha_actual += 2
 
+def aba_objectivo(wb: Workbook, titulo: str, controlos: list) -> None:
+    """Cria uma aba com a lista de controlos de um objectivo."""
+    sigla = titulo.split(" — ")[0]
+    ws = wb.create_sheet(title=sigla)
+
+    # Larguras
+    ws.column_dimensions["A"].width = 12  # Código
+    ws.column_dimensions["B"].width = 60  # Descrição
+    ws.column_dimensions["C"].width = 14  # Estado
+    ws.column_dimensions["D"].width = 18  # Nível atingido
+    ws.column_dimensions["E"].width = 30  # Mapeamento
+    ws.column_dimensions["F"].width = 22  # Aplicável Grupo B
+    ws.column_dimensions["G"].width = 40  # Evidência
+    ws.column_dimensions["H"].width = 30  # Notas
+
+    # Faixa de título
+    ws.merge_cells("A1:H1")
+    ws["A1"] = f"Objectivo {titulo}"
+    ws["A1"].font = TITULO
+    ws["A1"].fill = AZUL
+    ws["A1"].alignment = CENTRO
+    ws.row_dimensions[1].height = 28
+
+    # Cabeçalhos
+    cabecalhos = [
+        "Código",
+        "Descrição do controlo",
+        "Estado actual",
+        "Nível atingido",
+        "Mapeamento Anexo IV",
+        "Aplicável Grupo B?",
+        "Evidência existente",
+        "Notas",
+    ]
+    for col, texto in enumerate(cabecalhos, start=1):
+        c = ws.cell(row=2, column=col, value=texto)
+        c.font = CAB
+        c.fill = AZUL
+        c.alignment = CENTRO
+        c.border = CAIXA
+    ws.row_dimensions[2].height = 35
+
+    # Linhas de controlos
+    primeira_linha_dados = 3
+    for i, (codigo, descricao, mapeamento, aplicavel) in enumerate(controlos, start=primeira_linha_dados):
+        ws.cell(row=i, column=1, value=codigo).font = TXT_NEGRITO
+        ws.cell(row=i, column=2, value=descricao).font = TXT
+        ws.cell(row=i, column=3, value="")  # Estado (utilizador preenche)
+        ws.cell(row=i, column=4, value="")  # Nível atingido (utilizador preenche)
+        ws.cell(row=i, column=5, value=mapeamento).font = TXT
+        ws.cell(row=i, column=6, value=aplicavel).font = TXT
+        ws.cell(row=i, column=7, value="")  # Evidência (utilizador preenche)
+        ws.cell(row=i, column=8, value="")  # Notas
+
+        for col in range(1, 9):
+            ws.cell(row=i, column=col).border = CAIXA
+            ws.cell(row=i, column=col).alignment = TOPO if col in (2, 5, 7, 8) else CENTRO
+
+        ws.row_dimensions[i].height = 50
+
+    ultima_linha_dados = primeira_linha_dados + len(controlos) - 1
+
+    # Data validation — Estado (coluna C)
+    dv_estado = DataValidation(
+        type="list", formula1='"Não,Parcial,Sim"', allow_blank=True
+    )
+    dv_estado.add(f"C{primeira_linha_dados}:C{ultima_linha_dados}")
+    ws.add_data_validation(dv_estado)
+
+    # Data validation — Nível atingido (coluna D)
+    dv_nivel = DataValidation(
+        type="list",
+        formula1='"Não cumpre,Básico,Substancial,Elevado"',
+        allow_blank=True,
+    )
+    dv_nivel.add(f"D{primeira_linha_dados}:D{ultima_linha_dados}")
+    ws.add_data_validation(dv_nivel)
+
+    # Formatação condicional — Nível atingido
+    intervalo_nivel = f"D{primeira_linha_dados}:D{ultima_linha_dados}"
+    ws.conditional_formatting.add(
+        intervalo_nivel,
+        CellIsRule(operator="equal", formula=['"Não cumpre"'], fill=VERMELHO_CLARO),
+    )
+    ws.conditional_formatting.add(
+        intervalo_nivel,
+        CellIsRule(operator="equal", formula=['"Básico"'], fill=AMARELO_CLARO),
+    )
+    ws.conditional_formatting.add(
+        intervalo_nivel,
+        CellIsRule(operator="equal", formula=['"Substancial"'], fill=VERDE_CLARO),
+    )
+    ws.conditional_formatting.add(
+        intervalo_nivel,
+        CellIsRule(operator="equal", formula=['"Elevado"'], fill=VERDE_CLARO),
+    )
+
+
 # --- main ---------------------------------------------------------------
 
 def main() -> None:
     DEST.mkdir(parents=True, exist_ok=True)
     wb = Workbook()
     aba_instrucoes(wb)
-    # tasks 3-4 acrescentam mais abas aqui
+    for titulo, controlos in OBJECTIVOS:
+        aba_objectivo(wb, titulo, controlos)
+    # task 4 acrescenta o dashboard aqui
 
     destino = DEST / "avaliacao-maturidade-qnrcs.xlsx"
     wb.save(destino)
