@@ -234,6 +234,130 @@ def aba_objectivo(wb: Workbook, titulo: str, controlos: list) -> None:
     )
 
 
+def aba_dashboard(wb: Workbook) -> None:
+    """Cria a aba Dashboard com resumo, % maturidade e gráfico radar."""
+    ws = wb.create_sheet(title="Dashboard")
+
+    # Larguras
+    ws.column_dimensions["A"].width = 22
+    ws.column_dimensions["B"].width = 12
+    ws.column_dimensions["C"].width = 12
+    ws.column_dimensions["D"].width = 12
+    ws.column_dimensions["E"].width = 12
+    ws.column_dimensions["F"].width = 18
+
+    # Título
+    ws.merge_cells("A1:F1")
+    ws["A1"] = "Dashboard — Perfil de maturidade QNRCS v2"
+    ws["A1"].font = TITULO
+    ws["A1"].fill = AZUL
+    ws["A1"].alignment = CENTRO
+    ws.row_dimensions[1].height = 28
+
+    # Cabeçalhos
+    cabecalhos = ["Objectivo", "Total", "Sim", "Parcial", "Não", "% Maturidade"]
+    for col, texto in enumerate(cabecalhos, start=1):
+        c = ws.cell(row=3, column=col, value=texto)
+        c.font = CAB
+        c.fill = AZUL
+        c.alignment = CENTRO
+        c.border = CAIXA
+    ws.row_dimensions[3].height = 30
+
+    nomes_completos = {
+        "GR": "Gerir",
+        "ID": "Identificar",
+        "PR": "Proteger",
+        "DE": "Detectar",
+        "RS": "Responder",
+        "RC": "Recuperar",
+    }
+
+    primeira_linha_resumo = 4
+    for i, (titulo, controlos) in enumerate(OBJECTIVOS, start=primeira_linha_resumo):
+        sigla = titulo.split(" — ")[0]
+        nome_completo = nomes_completos[sigla]
+        primeira_linha_dados = 3
+        ultima_linha_dados = primeira_linha_dados + len(controlos) - 1
+        intervalo = f"'{sigla}'!C{primeira_linha_dados}:C{ultima_linha_dados}"
+
+        ws.cell(row=i, column=1, value=nome_completo).font = TXT_NEGRITO
+        ws.cell(row=i, column=2, value=len(controlos))
+        ws.cell(row=i, column=3, value=f'=COUNTIF({intervalo},"Sim")')
+        ws.cell(row=i, column=4, value=f'=COUNTIF({intervalo},"Parcial")')
+        ws.cell(row=i, column=5, value=f'=COUNTIF({intervalo},"Não")')
+        ws.cell(row=i, column=6, value=f"=(C{i}*1+D{i}*0.5)/B{i}")
+        ws.cell(row=i, column=6).number_format = "0%"
+
+        for col in range(1, 7):
+            ws.cell(row=i, column=col).border = CAIXA
+            ws.cell(row=i, column=col).alignment = CENTRO
+
+        ws.row_dimensions[i].height = 22
+
+    ultima_linha_resumo = primeira_linha_resumo + len(OBJECTIVOS) - 1
+
+    # Linha total
+    linha_total = ultima_linha_resumo + 1
+    ws.cell(row=linha_total, column=1, value="Total").font = TXT_NEGRITO
+    ws.cell(row=linha_total, column=2, value=f"=SUM(B{primeira_linha_resumo}:B{ultima_linha_resumo})")
+    ws.cell(row=linha_total, column=3, value=f"=SUM(C{primeira_linha_resumo}:C{ultima_linha_resumo})")
+    ws.cell(row=linha_total, column=4, value=f"=SUM(D{primeira_linha_resumo}:D{ultima_linha_resumo})")
+    ws.cell(row=linha_total, column=5, value=f"=SUM(E{primeira_linha_resumo}:E{ultima_linha_resumo})")
+    ws.cell(row=linha_total, column=6, value=f"=(C{linha_total}*1+D{linha_total}*0.5)/B{linha_total}")
+    ws.cell(row=linha_total, column=6).number_format = "0%"
+    for col in range(1, 7):
+        ws.cell(row=linha_total, column=col).fill = AZUL_CLARO
+        ws.cell(row=linha_total, column=col).border = CAIXA
+        ws.cell(row=linha_total, column=col).alignment = CENTRO
+        ws.cell(row=linha_total, column=col).font = TXT_NEGRITO
+
+    # Gráfico radar
+    chart = RadarChart()
+    chart.type = "filled"
+    chart.style = 26
+    chart.title = "Perfil de maturidade por objectivo"
+
+    dados = Reference(
+        ws,
+        min_col=6,
+        min_row=3,
+        max_row=ultima_linha_resumo,
+        max_col=6,
+    )
+    categorias = Reference(
+        ws,
+        min_col=1,
+        min_row=primeira_linha_resumo,
+        max_row=ultima_linha_resumo,
+    )
+    chart.add_data(dados, titles_from_data=True)
+    chart.set_categories(categorias)
+    chart.height = 12
+    chart.width = 16
+
+    ws.add_chart(chart, f"A{linha_total + 3}")
+
+    # Recomendação
+    linha_rec = linha_total + 23
+    ws.merge_cells(start_row=linha_rec, start_column=1, end_row=linha_rec, end_column=6)
+    ws.cell(
+        row=linha_rec,
+        column=1,
+        value=(
+            "Os objectivos com pontuação mais baixa são candidatos prioritários "
+            "para o roadmap E.3 dos próximos 6 meses. Reveja em cada aba os "
+            "controlos marcados como 'Não' ou 'Parcial' e priorize os com "
+            "Mapeamento Anexo IV (coluna E)."
+        ),
+    )
+    ws.cell(row=linha_rec, column=1).font = TXT
+    ws.cell(row=linha_rec, column=1).alignment = TOPO
+    ws.cell(row=linha_rec, column=1).fill = AMARELO_CLARO
+    ws.cell(row=linha_rec, column=1).border = CAIXA
+    ws.row_dimensions[linha_rec].height = 60
+
+
 # --- main ---------------------------------------------------------------
 
 def main() -> None:
@@ -242,7 +366,7 @@ def main() -> None:
     aba_instrucoes(wb)
     for titulo, controlos in OBJECTIVOS:
         aba_objectivo(wb, titulo, controlos)
-    # task 4 acrescenta o dashboard aqui
+    aba_dashboard(wb)
 
     destino = DEST / "avaliacao-maturidade-qnrcs.xlsx"
     wb.save(destino)
