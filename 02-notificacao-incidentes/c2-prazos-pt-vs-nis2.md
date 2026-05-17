@@ -70,7 +70,9 @@ Para autarquias com **SMAS ou empresa municipal essencial**, os prazos são **ex
 
 ## Folha-resumo dos prazos (PDF imprimível)
 
-A folha-resumo "Prazos PT vs NIS2" será disponibilizada como **PDF descarregável** antes do bloco C (formato A4 colorido, pronto a imprimir). Contém esta tabela em formato compacto, mais o telefone e o e-mail de emergência do CNCS. **Recomenda-se imprimir e afixar no gabinete TIC** — é a peça que mais difícil é ler de cabeça quando o incidente está em curso.
+📄 **[Folha-resumo Prazos PT vs NIS2 (PDF, A4)]({{ '/templates/folha-resumo-prazos-pt-vs-nis2.pdf' | relative_url }})**
+
+A4 colorido, pronto a imprimir. Contém esta tabela em formato compacto, mais o telefone e o e-mail de emergência do CNCS e a regra do *art. 17.º Aviso* (falência da plataforma). **Recomenda-se imprimir e afixar no gabinete TIC** — é a peça mais difícil de ler de cabeça quando o incidente está em curso.
 
 ## Templates aplicáveis
 

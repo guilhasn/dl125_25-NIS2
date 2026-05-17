@@ -108,7 +108,9 @@ Cada mês tem **um objectivo principal** e **3-5 entregáveis concretos**. O mê
 
 ## Versão imprimível
 
-Esta página está pensada para ser **impressa e afixada** no gabinete TIC ou nas instalações da Câmara. **Imprimir em A4 paisagem** com a tabela de síntese visível, para servir de referência diária ao ponto de contacto NIS2.
+📄 **[Roadmap 6 meses (PDF, A4 paisagem)]({{ '/templates/roadmap-6-meses.pdf' | relative_url }})**
+
+Tabela em A4 paisagem com os 6 meses lado-a-lado, entregáveis-chave por mês, e a peça que sai no fim de cada um. Pronto a imprimir e afixar no gabinete TIC ou na sala da equipa de informática — referência diária do ponto de contacto NIS2.
 
 ## E depois?
 

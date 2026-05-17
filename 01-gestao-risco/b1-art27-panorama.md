@@ -57,6 +57,8 @@ A consequência é decisiva: **não copiem o art. 27.º para o vosso caderno de 
 
 Esta é a tabela mais importante do bloco. Ela diz, para cada alínea do art. 27.º, **qual a medida equivalente que recai sobre a vossa câmara** no Anexo IV — e qual a medida equivalente que recairia se fossem entidade essencial (útil para quem tem dupla qualificação, ver sidebar).
 
+📄 **[Mapa art. 27.º → Anexo IV (PDF, A4 paisagem)]({{ '/templates/mapa-art27-anexo-iv.pdf' | relative_url }})** — versão imprimível desta tabela para afixar no gabinete TIC.
+
 | Alínea art. 27.º | Tema | Anexo III (essencial, níveis B/S/E) | Anexo IV Grupo B | Anexo IV Grupo A (cumulativo) |
 |---|---|---|---|---|
 | a) Tratamento de incidentes | Plano de resposta | medidas O e T dedicadas | [<abbr title="Comunicação e Resposta a Incidentes">**O.CRI**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-cri) (ponto de contacto para incidentes) | adiciona políticas formais |
