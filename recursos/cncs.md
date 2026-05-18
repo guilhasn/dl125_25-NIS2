@@ -57,7 +57,7 @@ Todos os recursos abaixo são **gratuitos e de acesso público**. Não substitue
 >
 > **Onde aplicar no manual digital**: [B.1 Panorama do art. 27.º]({% link 01-gestao-risco/b1-art27-panorama.md %}) · [E.2.1 Auto-avaliação QNRCS]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}) · [Anexo IV]({% link recursos/anexo-iv-aviso-5146.md %})
 >
-> **Documento oficial**: [Anexo I do Aviso (DRE)](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-2){:target="_blank"} (páginas 17-85). QNRCS 2019 (versão anterior, desactualizada): [PDF CNCS](https://www.cncs.gov.pt/docs/cncs-qnrcs-2019.pdf){:target="_blank"}.
+> **Documento oficial**: [Anexo I do Aviso (DRE)](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-1069935643){:target="_blank"} (páginas 17-85). QNRCS 2019 (versão anterior, desactualizada): [PDF CNCS](https://www.cncs.gov.pt/docs/cncs-qnrcs-2019.pdf){:target="_blank"}.
 
 ### 🎓 Sensibilização e formação
 

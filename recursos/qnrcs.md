@@ -89,7 +89,7 @@ Recomendação: **começar pela reduzida** (cobre o essencial e dá perfil de ma
 
 ## Documento integral
 
-- **Anexo I do Aviso (texto integral):** [DRE](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-2){:target="_blank"} — 85 páginas no total, Anexo I cobre páginas 17-85.
+- **Anexo I do Aviso (texto integral):** [DRE](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-1069935643){:target="_blank"} — 85 páginas no total, Anexo I cobre páginas 17-85.
 - **QNRCS 2019 (versão anterior, desactualizada):** [PDF CNCS](https://www.cncs.gov.pt/docs/cncs-qnrcs-2019.pdf){:target="_blank"} — referência histórica apenas.
 - **NIST CSF 2.0:** [nist.gov/cyberframework](https://www.nist.gov/cyberframework){:target="_blank"}
 - **ISO/IEC 27001:2022:** [iso.org/standard/27001](https://www.iso.org/standard/27001){:target="_blank"}

@@ -13,7 +13,7 @@ nav_order: 2
 
 **Entrada em vigor:** 5 dias após a publicação da versão final no DR (art. 35.º do Aviso).
 
-**Texto integral (versão de projecto):** [DRE](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-2){:target="_blank"}.
+**Texto integral (versão de projecto):** [DRE](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-1069935643){:target="_blank"}.
 
 **Estrutura:** 5 capítulos, 35 artigos, 4 anexos.
 

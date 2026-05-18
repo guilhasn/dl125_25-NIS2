@@ -77,7 +77,7 @@ Ao longo dos cinco blocos voltaremos a estes artigos. Quando uma página citar u
 ## Links externos
 
 - [Decreto-Lei n.º 125/2025 — texto integral (DRE)](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401){:target="_blank"}
-- [Aviso n.º 5146/2026/2 (DRE)](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-2){:target="_blank"}
+- [Aviso n.º 5146/2026/2 (DRE)](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-1069935643){:target="_blank"}
 - [Directiva (UE) 2022/2555 — texto integral (EUR-Lex)](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022L2555){:target="_blank"}
 - [CNCS — página do regime jurídico](https://www.cncs.gov.pt/pt/regime-juridico/){:target="_blank"}
 

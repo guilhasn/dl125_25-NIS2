@@ -27,7 +27,7 @@ Esta secção reúne **todos os diplomas** invocados ao longo do manual digital,
 | Diploma | Publicação | Entrada em vigor | Texto integral |
 |---|---|---|---|
 | **DL 125/2025** | 4 Dez 2025 (DR I, n.º 234) | 3 Abr 2026 | [DRE — detalhe](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401){:target="_blank"} |
-| **Aviso n.º 5146/2026/2** | 10 Mar 2026 (DR II) | (após publicação da versão final) | [DRE](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-2){:target="_blank"} |
+| **Aviso n.º 5146/2026/2** | 10 Mar 2026 (DR II) | (após publicação da versão final) | [DRE](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-1069935643){:target="_blank"} |
 | **Directiva (UE) 2022/2555 (NIS2)** | 14 Dez 2022 (JOUE) | já em vigor; PT transpôs com atraso | [EUR-Lex](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022L2555){:target="_blank"} |
 
 ## Diplomas conexos relevantes
