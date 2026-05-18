@@ -44,6 +44,9 @@ A meta-ironia: estamos numa formação a discutir a obrigação de fazer formaç
 >
 > **Como deveria ter sido feito:** definir plano anual com 3-4 acções segmentadas por perfil (utilizadores gerais, atendimento, TIC, dirigentes). Manter registos de presença, avaliação simples e calendarização. A medida H.PF (formação periódica) do Anexo IV exige programa estruturado, não boa intenção.
 
+{: .important }
+> **Formação dos órgãos máximos de gestão — obrigação legal, não opcional.** O *art. 27.º, al. f) RJC*{:.legal} — alinhado com o art. 20.º, n.º 2 da Directiva NIS2 — exige expressamente formação em cibersegurança "**incluindo os titulares de órgãos máximos de gestão e trabalhadores**". Para autarquias, a medida `H.PF` do Anexo IV deriva desta alínea: a formação do presidente, vereadores e dirigentes máximos do serviço **não é boa prática facultativa, é exigência regulamentar**. A ausência de evidência documentada da formação destes titulares é uma das principais fragilidades em supervisão *ex post* (art. 55.º) — agrava a responsabilidade pessoal prevista nos arts. 61.º e 62.º (ver [A.4 Prazos e sanções]({% link 00-enquadramento/a4-prazos-sancoes.md %})).
+
 ## Conteúdos mínimos por perfil
 
 Não basta convocar para uma sessão genérica. **Conteúdos diferenciados** por perfil aumentam a relevância e a retenção:
