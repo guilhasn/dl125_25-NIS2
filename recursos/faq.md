@@ -75,7 +75,7 @@ Sim, em casos excepcionais. O art. 6.º, n.º 1, al. d) do RJC permite ao CNCS q
 
 ### 2.2 Já posso registar-me?
 
-**Ainda não.** À data de 15 de Junho de 2026, o MyCiber tem **só o Simulador** disponível — uma ferramenta indicativa, não vinculativa, para testar a categoria aplicável. As funcionalidades de **auto-identificação formal, qualificação, designação de pontos de contacto, comunicações e notificações** aguardam a publicação da versão final do Aviso 5146/2026/2 — a **consulta pública terminou em 22 de Abril de 2026** e o CNCS está em fase de redação da versão final, sem data anunciada. O prazo de 60 dias só começa a contar **depois** da abertura formal do registo, anunciada pelo CNCS.
+**Ainda não.** Em meados de 2026, o MyCiber tem **só o Simulador** disponível — uma ferramenta indicativa, não vinculativa, para testar a categoria aplicável. As funcionalidades de **auto-identificação formal, qualificação, designação de pontos de contacto, comunicações e notificações** aguardam a publicação da versão final do Aviso 5146/2026/2 — a **consulta pública terminou em 22 de Abril de 2026** e o CNCS está em fase de redação da versão final, sem data anunciada. O prazo de 60 dias só começa a contar **depois** da abertura formal do registo, anunciada pelo CNCS.
 
 ### 2.3 O resultado do Simulador é vinculativo?
 
@@ -105,8 +105,8 @@ O art. 17.º do Aviso prevê esta situação: comunicação por **e-mail** ou **
 
 Para uma autarquia (entidade pública relevante), aplicam-se as medidas do [*art. 33.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-33) + **Anexo IV do Aviso 5146/2026/2** — **não** os arts. 26.º a 32.º + Anexo III, que se aplicam apenas a essenciais e importantes. O Anexo IV tem:
 
-- **14 medidas** para Grupo B (75–249 trabalhadores).
-- **~24 medidas** para Grupo A (≥ 250).
+- **17 medidas** para Grupo B (75–249 trabalhadores) — 6 O + 9 T + 2 H.
+- **22 medidas** para Grupo A (≥ 250) — 10 O + 9 T + 3 H.
 
 Distribuídas em três famílias: **O**rganizacionais, **T**écnicas, **H**umanas. Ver [B.1 Panorama do art. 27.º]({% link 01-gestao-risco/b1-art27-panorama.md %}) e [B.2 Análise e gestão de risco]({% link 01-gestao-risco/b2-analise-risco.md %}).
 

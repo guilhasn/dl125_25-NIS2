@@ -4,7 +4,6 @@ Repositório do manual digital público da formação sobre o **Decreto-Lei 125/
 
 - **Manual digital**: https://guilhasn.github.io/dl125_25-NIS2/
 - **Formador**: Nuno Salvador
-- **Data**: 15 de Junho de 2026
 - **Duração**: 6h (09:30–12:30 + 14:00–17:00)
 - **Público**: dirigentes e técnicos superiores de autarquias locais
 

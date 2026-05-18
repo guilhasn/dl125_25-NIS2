@@ -139,7 +139,7 @@ Ver: [D.3 Acessos, MFA e palavras-passe]({% link 03-outras-medidas/d3-acessos-mf
 
 VPN com MFA, cifragem de canal, terminação numa zona controlada. Sem acessos diretos administrativos pela Internet.
 
-### `T.AS` — Actualizações de Segurança {#t-as}
+### `T.AS` — Atualizações de Segurança {#t-as}
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. d) RJC
 
@@ -163,7 +163,7 @@ Mecanismos técnicos para forçar a política de palavras-passe definida em `O.P
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. d) RJC
 
-Processo de identificação, teste e instalação de actualizações de segurança em servidores, aplicações e equipamentos. Distinto de `T.AS` (aplicação rotineira); este é o **processo** documentado.
+Processo de identificação, teste e instalação de atualizações de segurança em servidores, aplicações e equipamentos. Distinto de `T.AS` (aplicação rotineira); este é o **processo** documentado.
 
 ### `T.MA` — Monitorização e Alertas {#t-ma}
 

@@ -95,7 +95,7 @@ Esta autarquia tem **três qualificações distintas** e três cadernos de encar
 
 | Entidade operacional | Categoria | Regime | Regulamento técnico |
 |---|---|---|---|
-| Câmara Municipal | Pública relevante Grupo B | art. 33.º | Anexo IV — 14 medidas Grupo B |
+| Câmara Municipal | Pública relevante Grupo B | art. 33.º | Anexo IV — 17 medidas Grupo B |
 | SMAS | Essencial | arts. 26.º–32.º | Anexo III, nível B/S/E |
 | EM Resíduos | Importante | arts. 26.º–32.º (regime aliviado) | Anexo III |
 

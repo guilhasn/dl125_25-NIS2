@@ -12,7 +12,7 @@ nav_order: 6
 
 O **Quadro Nacional de Referência para a Cibersegurança (QNRCS)** é o referencial nacional de controlos e medidas de cibersegurança publicado pelo CNCS. A versão atualmente em vigor é a **versão 2 (QNRCS v2)**, constante do **Anexo I do Aviso n.º 5146/2026/2** que regulamenta o Decreto-Lei n.º 125/2025.
 
-A versão anterior (QNRCS 2019, ainda disponível em PDF público no sítio do CNCS) está desactualizada. **Toda a referência a "QNRCS" no presente manual respeita à v2**, salvo indicação em contrário.
+A versão anterior (QNRCS 2019, ainda disponível em PDF público no sítio do CNCS) está desatualizada. **Toda a referência a "QNRCS" no presente manual respeita à v2**, salvo indicação em contrário.
 
 ## O que mudou da versão 2019 para a v2
 
@@ -90,7 +90,7 @@ Recomendação: **começar pela reduzida** (cobre o essencial e dá perfil de ma
 ## Documento integral
 
 - **Anexo I do Aviso (texto integral):** [DRE](https://diariodarepublica.pt/dr/detalhe/aviso/5146-2026-1069935643){:target="_blank"} — 85 páginas no total, Anexo I cobre páginas 17-85.
-- **QNRCS 2019 (versão anterior, desactualizada):** [PDF CNCS](https://www.cncs.gov.pt/docs/cncs-qnrcs-2019.pdf){:target="_blank"} — referência histórica apenas.
+- **QNRCS 2019 (versão anterior, desatualizada):** [PDF CNCS](https://www.cncs.gov.pt/docs/cncs-qnrcs-2019.pdf){:target="_blank"} — referência histórica apenas.
 - **NIST CSF 2.0:** [nist.gov/cyberframework](https://www.nist.gov/cyberframework){:target="_blank"}
 - **ISO/IEC 27001:2022:** [iso.org/standard/27001](https://www.iso.org/standard/27001){:target="_blank"}
 

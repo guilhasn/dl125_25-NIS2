@@ -91,7 +91,7 @@ Antes mesmo da abertura do registo formal, o CNCS disponibilizou em **Abril de 2
 
 ## Status à data desta formação
 
-> **Nota prática (15 de Junho de 2026):** o MyCiber **já está disponível com o Simulador**, mas as funcionalidades de **registo formal, qualificação, notificação de incidentes e comunicações** **ainda não estão operacionais** — aguardam a publicação da versão final do Aviso n.º 5146/2026/2. A **consulta pública terminou em 22 de Abril de 2026** e o CNCS está em fase de análise dos contributos e redação da versão final. Enquanto isso, podem usar o Simulador e preparar a documentação. O prazo de 60 dias do art. 8.º **só começa a correr quando o CNCS comunicar a disponibilização do registo formal**.
+> **Nota prática (estado em meados de 2026):** o MyCiber **já está disponível com o Simulador**, mas as funcionalidades de **registo formal, qualificação, notificação de incidentes e comunicações** **ainda não estão operacionais** — aguardam a publicação da versão final do Aviso n.º 5146/2026/2. A **consulta pública terminou em 22 de Abril de 2026** e o CNCS está em fase de análise dos contributos e redação da versão final. Enquanto isso, podem usar o Simulador e preparar a documentação. O prazo de 60 dias do art. 8.º **só começa a correr quando o CNCS comunicar a disponibilização do registo formal**.
 
 ## Demo durante a formação
 

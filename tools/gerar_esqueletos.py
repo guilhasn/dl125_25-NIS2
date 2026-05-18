@@ -109,7 +109,7 @@ has_children: {has_children}
 
 # {titulo}
 
-> ⏳ Em construção — conteúdo a publicar até 8 de Junho de 2026.
+> ⏳ Em construção.
 """
 
 SUB_TEMPLATE = """---
@@ -121,7 +121,7 @@ nav_order: {nav_order}
 
 # {titulo}
 
-> ⏳ Em construção — conteúdo a publicar até 8 de Junho de 2026.
+> ⏳ Em construção.
 """
 
 

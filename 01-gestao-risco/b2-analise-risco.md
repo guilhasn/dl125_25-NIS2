@@ -84,7 +84,7 @@ Para cada ativo do passo 1, percorrer as cinco categorias de ameaça (tabela aci
 
 ### Passo 3 — Avaliar probabilidade × impacto
 
-Para cada linha, atribuir P (1–5) e I (1–5) — usando, sempre que possível, **dois avaliadores independentes** que depois concertam diferenças. A primeira iteração é a mais difícil; iterações subsequentes apenas actualizam. **Documentar a justificação** sumária de cada nota (uma frase basta). Sem justificação, números arbitrários.
+Para cada linha, atribuir P (1–5) e I (1–5) — usando, sempre que possível, **dois avaliadores independentes** que depois concertam diferenças. A primeira iteração é a mais difícil; iterações subsequentes apenas atualizam. **Documentar a justificação** sumária de cada nota (uma frase basta). Sem justificação, números arbitrários.
 
 ### Passo 4 — Decidir tratamento
 

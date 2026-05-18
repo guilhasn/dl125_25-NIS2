@@ -183,7 +183,7 @@ Ressalva: depende da forma de organização do SMAS (autónomo vs unidade orgân
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-A partir da **disponibilização do registo formal no MyCiber** comunicada pelo CNCS. **Não** a partir da entrada em vigor do DL (3 de Abril de 2026) nem da abertura do Simulador. À data de 15 de Junho de 2026, o registo formal ainda não está aberto — só o Simulador funciona.
+A partir da **disponibilização do registo formal no MyCiber** comunicada pelo CNCS. **Não** a partir da entrada em vigor do DL (3 de Abril de 2026) nem da abertura do Simulador. Em meados de 2026, o registo formal ainda não está aberto — só o Simulador funciona.
 </details>
 
 **5.** Qual o **limite máximo de coima** para uma infracção **muito grave** numa autarquia de **Grupo B**?

@@ -46,7 +46,7 @@ O ransomware moderno **procura os *backups* primeiro**. Encripta os ficheiros, e
 
 **Solução conceptual**: pelo menos **uma cópia *air-gapped*** — armazenamento fisicamente desconectado da rede, ligado apenas durante o intervalo de cópia. Para uma câmara:
 
-- **Tape** (cassete) — desactualizado mas funcional, custo baixo, *air-gap* natural.
+- **Tape** (cassete) — desatualizado mas funcional, custo baixo, *air-gap* natural.
 - **Disco externo rotativo** — três discos, um por semana, dois em cofre.
 - **Cloud com *immutability*** (Azure, AWS, etc.) — *backups* imutáveis com retenção mínima legal.
 - **Repositório dedicado em rede isolada** — VLAN separada, sem rota direta, credenciais distintas.

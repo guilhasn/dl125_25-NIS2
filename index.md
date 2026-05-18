@@ -8,14 +8,11 @@ nav_order: 1
 
 Roteiro prático de implementação do **Decreto-Lei 125/2025** (regime jurídico da cibersegurança, em vigor desde 3 de Abril de 2026) e do [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) (regulamentação do CNCS) aplicado a **autarquias locais portuguesas**.
 
-> ⏳ Manual digital em construção — conteúdo a publicar até 8 de Junho de 2026.
-
 **Formador**: Nuno Salvador
-**Data**: 15 de Junho de 2026
 **Formato**: online (Zoom/Teams), com partilha de ecrã do formador e trabalho individual dos formandos no respetivo computador
 **Público**: dirigentes e técnicos superiores de autarquias locais
 
-## O que vão levar daqui
+## Objetivos
 
 Ao final desta formação, cada participante termina com **5 peças concretas** sobre a sua entidade real, prontas a continuar na câmara na semana seguinte:
 

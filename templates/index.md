@@ -13,7 +13,7 @@ Esta secção contém os **76 ficheiros de template** distribuídos com a forma�
 
 Cada template é descarregado individualmente clicando no respetivo link no [índice]({% link recursos/templates.md %}). Os ficheiros estão **protegidos por palavra-passe de abertura**:
 
-- **Password**: comunicada por e-mail aos formandos inscritos na formação de 15 de Junho de 2026.
+- **Password**: comunicada por e-mail aos formandos inscritos na formação.
 - Ao abrir no Word/Excel, surge caixa de diálogo a pedir a palavra-passe.
 - Após adaptar, recomenda-se **«Guardar como»** com novo nome e — se desejado — remover a password em `Ficheiro → Informações → Proteger documento → Encriptar com palavra-passe → apagar campo → OK`.
 

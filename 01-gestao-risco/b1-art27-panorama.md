@@ -117,7 +117,7 @@ O Anexo IV organiza as medidas em três famílias, identificadas por prefixo:
 - **T — Tecnológico**: configurações, controlos técnicos, antivírus, MFA, atualizações, cópias de segurança, hardening, proteção perimetral. É a **camada técnica** — as evidências são tipicamente prints de configuração, relatórios de ferramentas, logs.
 - **H — Humano**: formação, sensibilização, exercícios de phishing, canais de informação sobre ameaças. As evidências são planos de formação, registos de presença, relatórios de exercícios.
 
-Para o **Grupo B**, o Anexo IV define **5 medidas O + 11 medidas T + 2 medidas H** (16 medidas no total). Para o **Grupo A**, acumulam-se mais medidas O (9 medidas O adicionais), T adicionais e H adicionais. A página [B.3]({% link 01-gestao-risco/b3-inventario-ativos.md %}) trabalha a primeira medida O concreta — o inventário de ativos.
+Para o **Grupo B**, o Anexo IV define **6 medidas O + 9 medidas T + 2 medidas H** (17 medidas no total). Para o **Grupo A** são **10 O + 9 T + 3 H** (22 medidas) — algumas medidas Grupo B (`O.GAP`, `O.GMO`) são substituídas em Grupo A por versões mais granulares (`O.PAP`, `O.PUA`, `O.PP`), e acrescem medidas avançadas (`O.GEC`, `O.ID`, `O.PSI`, `T.GP`, `T.PAD`, `T.SC`, `H.EC`). A página [B.3]({% link 01-gestao-risco/b3-inventario-ativos.md %}) trabalha a primeira medida O concreta — o inventário de ativos.
 
 ## Em dupla qualificação
 
