@@ -76,14 +76,16 @@ Cada controlo do QNRCS v2 indica explicitamente, no texto do Anexo I, os control
 - Câmaras com pessoal técnico certificado em NIST/ISO que prefere navegar por esses códigos.
 - Auditorias cruzadas com normas internacionais.
 
-## Auto-avaliação de maturidade — instrumento prático
+## Auto-avaliação de maturidade — dois instrumentos
 
-Para usar o QNRCS v2 como ferramenta activa de auto-avaliação na vossa câmara, ver:
+Para usar o QNRCS v2 como ferramenta activa de auto-avaliação na vossa câmara, ver [**E.2.1 — Auto-avaliação de maturidade QNRCS**]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}). Existem **duas versões** do Excel:
 
-- 📊 [**E.2.1 — Auto-avaliação de maturidade QNRCS**]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}) — guia de uso do instrumento.
-- 📥 [`avaliacao-maturidade-qnrcs.xlsx`]({{ '/templates/avaliacao-maturidade-qnrcs.xlsx' | relative_url }}) — Excel com 26 controlos seleccionados e dashboard automático.
+| Versão | Ficheiro | Controlos | Tempo de preenchimento | Para quem |
+|---|---|---|---|---|
+| **Reduzida** *(recomendada)* | [`avaliacao-maturidade-qnrcs.xlsx`]({{ '/templates/avaliacao-maturidade-qnrcs.xlsx' | relative_url }}) | **26** seleccionados dos ~107 | ~2h em equipa | Todas as câmaras Grupo A/B — ponto de partida. Alinhada com Anexo IV. |
+| **Completa** *(opcional)* | [`avaliacao-maturidade-qnrcs-completa.xlsx`]({{ '/templates/avaliacao-maturidade-qnrcs-completa.xlsx' | relative_url }}) | **107** integrais | ~6-8h em equipa | Câmaras Grupo A · Câmaras com SMAS qualificado como essencial · Grupo B com maturidade já consolidada que queira aprofundar. |
 
-A auto-avaliação cobre uma **versão reduzida** (26 controlos seleccionados dos ~107 totais), alinhada com o Anexo IV. Câmaras com maturidade alta podem complementar com controlos adicionais do Anexo I completo.
+Recomendação: **começar pela reduzida** (cobre o essencial e dá perfil de maturidade utilizável). A completa é o passo seguinte para câmaras que já têm os 26 mapeados e querem cobrir o referencial inteiro. Não é necessário fazer as duas em paralelo.
 
 ## Documento integral
 

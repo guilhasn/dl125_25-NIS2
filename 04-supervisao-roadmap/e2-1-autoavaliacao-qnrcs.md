@@ -100,11 +100,20 @@ Exemplo — se a câmara marcar `GR.PP-1` (políticas) como "Não" e `ID.GA-1` (
 
 A auto-avaliação **repete-se anualmente**, em paralelo com a revisão do [dossier mínimo de conformidade]({% link 04-supervisao-roadmap/e2-documentacao-minima.md %}). Guardar a fotografia de cada ano dá uma curva de progressão — útil internamente para a câmara e como evidência defensável em supervisão *ex post*.
 
+## Versão completa (opcional, 107 controlos)
+
+Para câmaras com maturidade alta, Grupo A, ou com SMAS qualificado como entidade essencial, existe uma **versão completa** do instrumento que cobre os 107 controlos do QNRCS v2 (em vez dos 26 seleccionados):
+
+📥 **[`avaliacao-maturidade-qnrcs-completa.xlsx`]({{ '/templates/avaliacao-maturidade-qnrcs-completa.xlsx' | relative_url }})** — versão integral, mesma estrutura (6 abas + dashboard), com coluna "Estado" a aceitar também `N/A` (não aplicável) para controlos fora do escopo Grupo B. Mapeamento Anexo IV é explícito nos 26 controlos do Excel reduzido e heurístico (por categoria) nos restantes 81. Tempo de preenchimento estimado: **6-8h em equipa** (vs. ~2h da versão reduzida).
+
+**Recomendação:** começar pela versão reduzida. Avançar para a completa apenas depois de ter os 26 controlos mapeados e querer aprofundar.
+
 ## Templates aplicáveis
 
 | Template | Etiqueta | Notas |
 |---|---|---|
-| [`avaliacao-maturidade-qnrcs.xlsx`]({{ '/templates/avaliacao-maturidade-qnrcs.xlsx' | relative_url }}) | **Aplicar — Grupo B e A** | Instrumento de auto-avaliação. Password comunicada em sessão. |
+| [`avaliacao-maturidade-qnrcs.xlsx`]({{ '/templates/avaliacao-maturidade-qnrcs.xlsx' | relative_url }}) | **Aplicar — Grupo B e A** | Instrumento de auto-avaliação reduzido (26 controlos). Password comunicada em sessão. |
+| [`avaliacao-maturidade-qnrcs-completa.xlsx`]({{ '/templates/avaliacao-maturidade-qnrcs-completa.xlsx' | relative_url }}) | Referência — Grupo A · SMAS | Versão completa (107 controlos). Opcional. |
 
 ## Ver também
 
