@@ -14,11 +14,11 @@ nav_order: 1
 
 **Duração**: 20 min · **Base legal**: art. 27.º al. c) RJC + art. 28.º RJC + Anexo IV [<abbr title="Política de Segurança da cadeia de Fornecimento">**O.PSF**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-psf) (Política de Segurança da cadeia de Fornecimento).
 
-Esta é a medida que mais directamente toca a realidade quotidiana de qualquer câmara portuguesa: uma autarquia média **não opera os seus próprios sistemas**. Opera-os através de **fornecedores** — Medidata, AIRC, Glintt, Visionware, AMA, Microsoft, ISP, alojamento, fornecedor de segurança de rede. Quando um deles é comprometido, o problema é vosso. Quando um deles altera silenciosamente uma cláusula contratual, o risco vem para o vosso colo. O Anexo IV exige que a câmara **conheça**, **classifique** e **monitorize** esta dependência — não que a elimine (seria irrealista), mas que a torne **gerível**.
+Esta é a medida que mais diretamente toca a realidade quotidiana de qualquer câmara portuguesa: uma autarquia média **não opera os seus próprios sistemas**. Opera-os através de **fornecedores** — Medidata, AIRC, Glintt, Visionware, AMA, Microsoft, ISP, alojamento, fornecedor de segurança de rede. Quando um deles é comprometido, o problema é vosso. Quando um deles altera silenciosamente uma cláusula contratual, o risco vem para o vosso colo. O Anexo IV exige que a câmara **conheça**, **classifique** e **monitorize** esta dependência — não que a elimine (seria irrealista), mas que a torne **gerível**.
 
 ## O que a lei diz
 
-> «As entidades essenciais e importantes (...) gerem os riscos de ciberseguranca que se colocam na cadeia de abastecimento, incluindo dos aspetos relacionados com a segurança dos fornecedores diretos.» — art. 28.º, n.º 1 RJC (paráfrase)
+> «As entidades essenciais e importantes (...) gerem os riscos de cibersegurança que se colocam na cadeia de abastecimento, incluindo dos aspetos relacionados com a segurança dos fornecedores diretos.» — art. 28.º, n.º 1 RJC (paráfrase)
 
 > «As entidades públicas relevantes asseguram a segurança das relações com os fornecedores, exigindo-lhes o cumprimento de requisitos de segurança proporcionais ao risco.» — Anexo IV, medida **O.PSF** (paráfrase aplicável a Grupos A e B)
 
@@ -50,7 +50,7 @@ Para uma autarquia de Grupo B, a medida O.PSF concretiza-se em **dois entregáve
    - Contrato em vigor (referência, validade).
    - **Ponto de contacto** designado pelo fornecedor para **comunicação de incidentes** (esta é a obrigação operacional mais importante).
 
-2. **Comunicação de incidentes** — exigência contratual de que o fornecedor notifique a câmara em **prazo curto** (24-72h) qualquer incidente que possa afectar a sua entidade. Sem esta exigência contratual, o cumprimento do prazo de 24h do art. 42.º RJC pelo fornecedor é fortuito — e o relógio NIS2 começa quando vocês souberem, o que pode ser tarde demais.
+2. **Comunicação de incidentes** — exigência contratual de que o fornecedor notifique a câmara em **prazo curto** (24-72h) qualquer incidente que possa afetar a sua entidade. Sem esta exigência contratual, o cumprimento do prazo de 24h do art. 42.º RJC pelo fornecedor é fortuito — e o relógio NIS2 começa quando vocês souberem, o que pode ser tarde demais.
 
 Saída do **[Exercício A5]({% link exercicios/a5-fornecedores.md %})**: top 5 desta lista, classificada por criticidade. Em câmara, alargar para todos os fornecedores TIC.
 
@@ -59,13 +59,13 @@ Saída do **[Exercício A5]({% link exercicios/a5-fornecedores.md %})**: top 5 d
 Grupos A acrescentam três peças:
 
 - **Scorecard de avaliação periódica** de cada fornecedor crítico (anual mínimo): cumprimento contratual, incidentes notificados, evolução do risco. Template [`scorecard-fornecedor-nis2.xlsx`]({{ '/templates/scorecard-fornecedor-nis2.xlsx' | relative_url }}).
-- **Cláusulas contratuais de ciberseguranca** alinhadas com o Anexo IV — para inserção em novos cadernos de encargos ou adendas voluntárias a contratos em vigor. Template [`clausulas-seguranca-fornecedores-nis2.docx`]({{ '/templates/clausulas-seguranca-fornecedores-nis2.docx' | relative_url }}).
+- **Cláusulas contratuais de cibersegurança** alinhadas com o Anexo IV — para inserção em novos cadernos de encargos ou adendas voluntárias a contratos em vigor. Template [`clausulas-seguranca-fornecedores-nis2.docx`]({{ '/templates/clausulas-seguranca-fornecedores-nis2.docx' | relative_url }}).
 - **Due diligence pré-contratual** — questionário a enviar ao fornecedor antes de adjudicar um novo contrato. Template [`questionario-due-diligence-fornecedor-nis2.docx`]({{ '/templates/questionario-due-diligence-fornecedor-nis2.docx' | relative_url }}).
 - **Política formal** de gestão da cadeia de fornecimento aprovada por despacho do presidente. Template [`politica-cadeia-fornecimento-nis2.docx`]({{ '/templates/politica-cadeia-fornecimento-nis2.docx' | relative_url }}).
 
 ## Em dupla qualificação
 
-Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, o **art. 28.º RJC aplica-se directamente** — não a versão atenuada do Anexo IV. Implicação: gestão activa de risco da cadeia, não apenas inventário. Para fornecedores SCADA do SMAS (telemetria de redes de água, sistemas de bombagem), a obrigação é particularmente rigorosa e pode envolver auditoria pelos serviços, certificação obrigatória do fornecedor, e ligações contínuas de monitorização.
+Para o **SMAS** ou empresa municipal qualificada como **entidade essencial**, o **art. 28.º RJC aplica-se diretamente** — não a versão atenuada do Anexo IV. Implicação: gestão ativa de risco da cadeia, não apenas inventário. Para fornecedores SCADA do SMAS (telemetria de redes de água, sistemas de bombagem), a obrigação é particularmente rigorosa e pode envolver auditoria pelos serviços, certificação obrigatória do fornecedor, e ligações contínuas de monitorização.
 
 ## Articulação com RGPD
 
@@ -82,7 +82,7 @@ A coluna "Acesso a dados pessoais?" do inventário é a primeira triagem; todos 
 | Template | Grupo / Etiqueta | Notas |
 |---|---|---|
 | [`inventario-fornecedores-nis2.xlsx`]({{ '/templates/inventario-fornecedores-nis2.xlsx' | relative_url }}) | **Aplicar — Grupo B e A** | Inventário operacional dos fornecedores TIC. Saída do Exercício A5 alargada. |
-| [`clausulas-seguranca-fornecedores-nis2.docx`]({{ '/templates/clausulas-seguranca-fornecedores-nis2.docx' | relative_url }}) | **Adaptar — Grupo B e A** | Cláusulas-tipo de ciberseguranca para inserir em cadernos de encargos. |
+| [`clausulas-seguranca-fornecedores-nis2.docx`]({{ '/templates/clausulas-seguranca-fornecedores-nis2.docx' | relative_url }}) | **Adaptar — Grupo B e A** | Cláusulas-tipo de cibersegurança para inserir em cadernos de encargos. |
 | [`questionario-due-diligence-fornecedor-nis2.docx`]({{ '/templates/questionario-due-diligence-fornecedor-nis2.docx' | relative_url }}) | Referência — Grupo A | Questionário pré-contratual. |
 | [`scorecard-fornecedor-nis2.xlsx`]({{ '/templates/scorecard-fornecedor-nis2.xlsx' | relative_url }}) | Grupo A | Scorecard de avaliação periódica. |
 | [`politica-cadeia-fornecimento-nis2.docx`]({{ '/templates/politica-cadeia-fornecimento-nis2.docx' | relative_url }}) | **Adaptar — Grupo A** | Política formal. Boa prática para Grupo B mesmo sem ser obrigatória. |

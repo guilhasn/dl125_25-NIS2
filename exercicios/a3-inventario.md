@@ -5,7 +5,7 @@ parent: "Worksheets dos exercícios"
 nav_order: 3
 ---
 
-# A3. Top 5 activos críticos
+# A3. Top 5 ativos críticos
 
 {: .note }
 > **Grupo A** = autarquia com ≥ 250 trabalhadores  
@@ -14,25 +14,25 @@ nav_order: 3
 
 **Duração**: 10 min · **Bloco**: B.3 · **Materiais**: [`a3-inventario-top5.xlsx`]({{ '/templates/a3-inventario-top5.xlsx' | relative_url }})
 
-## Objectivo
+## Objetivo
 
-Construir o **núcleo** do inventário de activos críticos exigido pela medida [<abbr title="Inventariação de Activos Críticos">**O.IAC**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac) do Anexo IV (Grupo B e A). Cinco linhas — não cinquenta — é o mínimo viável para começar. A versão completa exige 20-40 activos numa câmara média e constrói-se em workshop dedicado, depois.
+Construir o **núcleo** do inventário de ativos críticos exigido pela medida [<abbr title="Inventariação de Ativos Críticos">**O.IAC**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac) do Anexo IV (Grupo B e A). Cinco linhas — não cinquenta — é o mínimo viável para começar. A versão completa exige 20-40 ativos numa câmara média e constrói-se em workshop dedicado, depois.
 
-Este exercício também serve para **identificar candidatos à lista do art. 32.º** (activos publicamente acessíveis) — coluna específica no worksheet.
+Este exercício também serve para **identificar candidatos à lista do art. 32.º** (ativos publicamente acessíveis) — coluna específica no worksheet.
 
 ## Instruções (individual, 10 minutos)
 
 1. Abra [`a3-inventario-top5.xlsx`]({{ '/templates/a3-inventario-top5.xlsx' | relative_url }}) (password da formação).
 2. Apague a linha de exemplo.
-3. Identifique os **5 activos críticos** da sua autarquia: sistemas, aplicações, equipamentos sem os quais a câmara deixa de cumprir a sua missão de serviço público.
+3. Identifique os **5 ativos críticos** da sua autarquia: sistemas, aplicações, equipamentos sem os quais a câmara deixa de cumprir a sua missão de serviço público.
    - Exemplos típicos: Portal do Munícipe, Balcão Único on-line, sistema de contabilidade, GED, SIG cadastral, e-mail institucional, controlador de domínio, servidor de ficheiros, sistemas SCADA do SMAS.
    - **Não confunda com "tudo o que tem importância"**. Crítico = compromete serviço público obrigatório se cair.
-4. Para cada activo, indique:
+4. Para cada ativo, indique:
    - **Tipo** (Servidor / Aplicação web / Base de dados / Equipamento de rede / Serviço cloud / Equipamento OT/SCADA).
    - **Serviço público** que suporta — descrição concreta ("emissão de certidões on-line", "pagamento de água").
-   - **Responsável funcional interno** — pessoa da câmara que responde por esse activo (não o fornecedor!).
+   - **Responsável funcional interno** — pessoa da câmara que responde por esse ativo (não o fornecedor!).
    - **Fornecedor** principal (Medidata, AIRC, Glintt, Microsoft, AMA, etc.).
-   - **Dependência principal** — outro activo de que este depende (base de dados, autenticação, servidor de aplicação).
+   - **Dependência principal** — outro ativo de que este depende (base de dados, autenticação, servidor de aplicação).
    - **Acessível pela Internet?** (Sim/Não). Se Sim, é candidato à **lista do art. 32.º**.
 
 ## Output esperado
@@ -46,15 +46,15 @@ Padrões frequentes a corrigir:
 - "Servidor de e-mail" → na maioria das câmaras é **Microsoft 365**, um **serviço cloud**, não servidor próprio. Reclassificar.
 - "Portal do Munícipe" sem identificar a base de dados associada → falha de dependência. A dependência **é o ponto de falha real**.
 - Responsável funcional preenchido com o nome do **fornecedor** → erro. O responsável é interno; o fornecedor está na coluna a seguir.
-- Esquecer **controlador de domínio / Active Directory** → é o activo mais central de qualquer câmara que use Windows; a sua queda paralisa tudo.
+- Esquecer **controlador de domínio / Active Directory** → é o ativo mais central de qualquer câmara que use Windows; a sua queda paralisa tudo.
 
 ## Como continuar este trabalho na câmara
 
-1. **Alargar para 20-40 activos** num workshop de 2-3 horas com a equipa de informática.
-2. **Cruzar com a matriz de risco** (Exercício A2) — cada activo crítico deve ter pelo menos um risco identificado.
+1. **Alargar para 20-40 ativos** num workshop de 2-3 horas com a equipa de informática.
+2. **Cruzar com a matriz de risco** (Exercício A2) — cada ativo crítico deve ter pelo menos um risco identificado.
 3. **Validar dependências** percorrendo cada linha e perguntando "se isto cair, o que mais cai?".
 4. **Extrair a lista do art. 32.º**: filtrar pelos "Acessíveis pela Internet" e completar com IP, FQDN, modelo/versão, fabricante. Submeter ao CNCS no prazo legal.
-5. **Atribuir data de revisão** a cada activo (anual mínimo).
+5. **Atribuir data de revisão** a cada ativo (anual mínimo).
 
 ## Templates relacionados
 

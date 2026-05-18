@@ -13,7 +13,7 @@ nav_order: 4
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
 {: .highlight }
-> 📚 **Recursos CNCS complementares — reutilização directa:**
+> 📚 **Recursos CNCS complementares — reutilização direta:**
 > - [**Guia para campanha de sensibilização em 5 passos**](https://www.cncs.gov.pt/pt/guia-para-realizar-uma-campanha-de-sensibilizacao/){:target="_blank"} — roteiro para preparar uma campanha interna.
 > - [**Recursos para Sensibilização**](http://www.cncs.gov.pt/pt/recursos-para-sensibilizacao/){:target="_blank"} — **slides, vídeos e conteúdos prontos** para reutilizar no plano anual de formação da câmara.
 >
@@ -25,9 +25,9 @@ A meta-ironia: estamos numa formação a discutir a obrigação de fazer formaç
 
 ## O que a lei diz
 
-> «As entidades essenciais e importantes (...) adoptam medidas relativas à formação e sensibilização em matéria de ciberseguranca de todos os colaboradores.» — art. 27.º, n.º 1, al. g) RJC (paráfrase)
+> «As entidades essenciais e importantes (...) adoptam medidas relativas à formação e sensibilização em matéria de cibersegurança de todos os colaboradores.» — art. 27.º, n.º 1, al. g) RJC (paráfrase)
 
-> «A entidade assegura a formação periódica em ciberseguranca de todos os trabalhadores, dirigentes e prestadores de serviços, com registo documentado da participação e da avaliação.» — Anexo IV, medida **H.PF** (paráfrase aplicável a Grupos A e B)
+> «A entidade assegura a formação periódica em cibersegurança de todos os trabalhadores, dirigentes e prestadores de serviços, com registo documentado da participação e da avaliação.» — Anexo IV, medida **H.PF** (paráfrase aplicável a Grupos A e B)
 
 ## Os 3 entregáveis mínimos
 
@@ -38,14 +38,14 @@ A meta-ironia: estamos numa formação a discutir a obrigação de fazer formaç
 {: .caso-pratico }
 > **Caso prático 7 — Palestra anual não é programa de formação**
 >
-> Câmara cumpria a "formação anual de cibersegurança" com uma palestra de 30 minutos no início de Janeiro, a cargo do responsável de TIC, com slides preparados na véspera. Os trabalhadores assistiam, faziam algumas perguntas e regressavam aos postos. Não havia programa pedagógico anual, registo formal de presenças, segmentação por perfis de risco, avaliação de aprendizagem nem qualquer campanha durante o ano. Numa auditoria interna, a medida foi considerada frágil: havia uma acção pontual, não um programa de sensibilização sustentado.
+> Câmara cumpria a "formação anual de cibersegurança" com uma palestra de 30 minutos no início de Janeiro, a cargo do responsável de TIC, com slides preparados na véspera. Os trabalhadores assistiam, faziam algumas perguntas e regressavam aos postos. Não havia programa pedagógico anual, registo formal de presenças, segmentação por perfis de risco, avaliação de aprendizagem nem qualquer campanha durante o ano. Numa auditoria interna, a medida foi considerada frágil: havia uma ação pontual, não um programa de sensibilização sustentado.
 >
 > **Lição:** sensibilização não é uma palestra anual — é um plano com registos, recorrência e adaptação aos perfis de risco.
 >
-> **Como deveria ter sido feito:** definir plano anual com 3-4 acções segmentadas por perfil (utilizadores gerais, atendimento, TIC, dirigentes). Manter registos de presença, avaliação simples e calendarização. A medida H.PF (formação periódica) do Anexo IV exige programa estruturado, não boa intenção.
+> **Como deveria ter sido feito:** definir plano anual com 3-4 ações segmentadas por perfil (utilizadores gerais, atendimento, TIC, dirigentes). Manter registos de presença, avaliação simples e calendarização. A medida H.PF (formação periódica) do Anexo IV exige programa estruturado, não boa intenção.
 
 {: .important }
-> **Formação dos órgãos máximos de gestão — obrigação legal, não opcional.** O *art. 27.º, al. f) RJC*{:.legal} — alinhado com o art. 20.º, n.º 2 da Directiva NIS2 — exige expressamente formação em cibersegurança "**incluindo os titulares de órgãos máximos de gestão e trabalhadores**". Para autarquias, a medida `H.PF` do Anexo IV deriva desta alínea: a formação do presidente, vereadores e dirigentes máximos do serviço **não é boa prática facultativa, é exigência regulamentar**. A ausência de evidência documentada da formação destes titulares é uma das principais fragilidades em supervisão *ex post* (art. 55.º) — agrava a responsabilidade pessoal prevista nos arts. 61.º e 62.º (ver [A.4 Prazos e sanções]({% link 00-enquadramento/a4-prazos-sancoes.md %})).
+> **Formação dos órgãos máximos de gestão — obrigação legal, não opcional.** O *art. 27.º, al. f) RJC*{:.legal} — alinhado com o art. 20.º, n.º 2 da Diretiva NIS2 — exige expressamente formação em cibersegurança "**incluindo os titulares de órgãos máximos de gestão e trabalhadores**". Para autarquias, a medida `H.PF` do Anexo IV deriva desta alínea: a formação do presidente, vereadores e dirigentes máximos do serviço **não é boa prática facultativa, é exigência regulamentar**. A ausência de evidência documentada da formação destes titulares é uma das principais fragilidades em supervisão *ex post* (art. 55.º) — agrava a responsabilidade pessoal prevista nos arts. 61.º e 62.º (ver [A.4 Prazos e sanções]({% link 00-enquadramento/a4-prazos-sancoes.md %})).
 
 ## Conteúdos mínimos por perfil
 
@@ -64,7 +64,7 @@ Não basta convocar para uma sessão genérica. **Conteúdos diferenciados** por
 ## Periodicidade
 
 - **Geral**: **anual** mínimo, com registo.
-- **Dirigentes**: mais frequente em momentos de actualização legal ou após incidente.
+- **Dirigentes**: mais frequente em momentos de atualização legal ou após incidente.
 - ***Refresher* curto** (15-30 min) trimestral ou semestral via vídeo gravado ou e-mail temático — manter o tema vivo entre as sessões anuais.
 
 ## Para Grupo A — exercícios de phishing (H.EC)
@@ -75,12 +75,12 @@ Para o Grupo A, o Anexo IV introduz a medida [<abbr title="Exercícios Controlad
 
 1. **Trimestralmente** — campanha de simulação a uma amostra ou universo de trabalhadores.
 2. **Não punitiva** — quem clica recebe automaticamente uma página de aprendizagem (não denúncia interna, não advertência formal).
-3. **Métrica acompanhada**: taxa de cliques ao longo do tempo. Objectivo é descer a curva, não punir.
+3. **Métrica acompanhada**: taxa de cliques ao longo do tempo. Objetivo é descer a curva, não punir.
 4. **Conteúdos crescentemente sofisticados** — começar com phishing simples, evoluir para *spear phishing* dirigido a dirigentes (com cuidado).
 
 Ferramentas: Microsoft Attack Simulator (incluído no M365 Business Premium), KnowBe4, Proofpoint, GoPhish (*open source*).
 
-Para Grupo B é boa prática mas não exigência directa do Anexo IV.
+Para Grupo B é boa prática mas não exigência direta do Anexo IV.
 
 ## Em dupla qualificação
 
@@ -125,7 +125,7 @@ Não é exercício formal — é **um arranque** para o plano anual. O que sair 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Em todos, sem excepção** — Microsoft 365, VPN, acessos administrativos a servidores/firewall, AD, aplicações financeiras. MFA bloqueia 99% dos ataques baseados em credenciais. A pergunta correcta não é "onde activar primeiro" mas "porque é que ainda não está activo em todos". Ver [D.3 Acessos, MFA e palavras-passe]({% link 03-outras-medidas/d3-acessos-mfa.md %}).
+**Em todos, sem exceção** — Microsoft 365, VPN, acessos administrativos a servidores/firewall, AD, aplicações financeiras. MFA bloqueia 99% dos ataques baseados em credenciais. A pergunta correta não é "onde activar primeiro" mas "porque é que ainda não está ativo em todos". Ver [D.3 Acessos, MFA e palavras-passe]({% link 03-outras-medidas/d3-acessos-mfa.md %}).
 </details>
 
 **2.** A câmara tem *backups* diários para uma pasta partilhada na rede. Isto é suficiente?
@@ -149,7 +149,7 @@ Não é exercício formal — é **um arranque** para o plano anual. O que sair 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Não há rotação obrigatória** — excepto após suspeita de compromisso. Rotações forçadas levam os utilizadores a padrões previsíveis (`Verao2025!` → `Verao2026!`). Foco actual: **comprimento ≥ 12 caracteres**, validação contra listas de senhas vazadas, gestores de palavras-passe institucionais. Ver [D.3]({% link 03-outras-medidas/d3-acessos-mfa.md %}).
+**Não há rotação obrigatória** — exceto após suspeita de compromisso. Rotações forçadas levam os utilizadores a padrões previsíveis (`Verao2025!` → `Verao2026!`). Foco atual: **comprimento ≥ 12 caracteres**, validação contra listas de senhas vazadas, gestores de palavras-passe institucionais. Ver [D.3]({% link 03-outras-medidas/d3-acessos-mfa.md %}).
 </details>
 
 **5.** Um fornecedor TIC acede a dados pessoais de munícipes. Que cláusula contratual mínima é obrigatória?
@@ -183,7 +183,7 @@ Para Grupo B podem fundir num documento único; para Grupo A separam-se. Ver [D.
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Não.** É obrigatória para **Grupo A** (e essenciais/importantes). Para **Grupo B** é boa prática recomendada mas não exigência directa do Anexo IV. Independentemente do grupo, vale a pena fazer **trimestralmente** uma campanha não-punitiva, com página de aprendizagem para quem clica e métrica de taxa de cliques ao longo do tempo. Ferramenta gratuita do M365: Attack Simulator. Ver [D.4 Formação e sensibilização]({% link 03-outras-medidas/d4-formacao.md %}).
+**Não.** É obrigatória para **Grupo A** (e essenciais/importantes). Para **Grupo B** é boa prática recomendada mas não exigência direta do Anexo IV. Independentemente do grupo, vale a pena fazer **trimestralmente** uma campanha não-punitiva, com página de aprendizagem para quem clica e métrica de taxa de cliques ao longo do tempo. Ferramenta gratuita do M365: Attack Simulator. Ver [D.4 Formação e sensibilização]({% link 03-outras-medidas/d4-formacao.md %}).
 </details>
 
 ## Próximo passo

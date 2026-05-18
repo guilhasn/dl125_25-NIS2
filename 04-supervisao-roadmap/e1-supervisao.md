@@ -23,11 +23,11 @@ Uma autarquia não é supervisionada como uma entidade essencial. Não há audit
 >
 > **Lição:** em cibersegurança regulada, o que não está documentado pode não existir.
 >
-> **Como deveria ter sido feito:** antes de qualquer pedido de supervisão, manter dossier mínimo de conformidade actualizado — qualificação da entidade, inventário de activos, matriz de risco, plano de resposta, registos de incidentes, registos de formação, testes de restauro, contratos críticos. Evidência é parte da própria conformidade.
+> **Como deveria ter sido feito:** antes de qualquer pedido de supervisão, manter dossier mínimo de conformidade atualizado — qualificação da entidade, inventário de ativos, matriz de risco, plano de resposta, registos de incidentes, registos de formação, testes de restauro, contratos críticos. Evidência é parte da própria conformidade.
 
 ## O que a lei diz
 
-> «O Centro Nacional de Cibersegurança exerce a supervisão das entidades públicas relevantes em momento posterior ao da prática dos actos ou da ocorrência dos factos, podendo aceder, designadamente: a) Aos sistemas, redes, instalações e equipamentos; b) Aos registos, documentos e demais informação considerada relevante; c) Às pessoas com funções na entidade.» — paráfrase do [*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)
+> «O Centro Nacional de Cibersegurança exerce a supervisão das entidades públicas relevantes em momento posterior ao da prática dos atos ou da ocorrência dos factos, podendo aceder, designadamente: a) Aos sistemas, redes, instalações e equipamentos; b) Aos registos, documentos e demais informação considerada relevante; c) Às pessoas com funções na entidade.» — paráfrase do [*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)
 
 A figura distingue-se da **supervisão *ex ante*** (aplicável a essenciais — art. 53.º) em três pontos:
 
@@ -46,17 +46,17 @@ Três cenários típicos:
 
 2. **Sequência de queixa, denúncia ou processo judicial** — um munícipe que sofreu prejuízo, um trabalhador que reportou má prática interna, ou um processo no Ministério Público envolvendo crimes informáticos contra a câmara.
 
-3. **Por amostragem ou intuição da autoridade** — o CNCS pode escolher por amostra estatística ou por sinal indirecto (ex.: divulgação pública de vulnerabilidade conhecida; *posts* em fóruns *underground* a vender dados de autarquias). Raro mas possível.
+3. **Por amostragem ou intuição da autoridade** — o CNCS pode escolher por amostra estatística ou por sinal indireto (ex.: divulgação pública de vulnerabilidade conhecida; *posts* em fóruns *underground* a vender dados de autarquias). Raro mas possível.
 
-Em qualquer dos três casos, o pedido inicial chega tipicamente por **comunicação electrónica** através do MyCiber, com prazo de resposta entre 5 e 30 dias úteis, conforme a urgência.
+Em qualquer dos três casos, o pedido inicial chega tipicamente por **comunicação eletrónica** através do MyCiber, com prazo de resposta entre 5 e 30 dias úteis, conforme a urgência.
 
 ## O que o CNCS pode pedir
 
 O *art. 55.º, n.º 1 do RJC*{:.legal} é abrangente. Em concreto, espere-se um pedido de:
 
 - **Cópia das políticas em vigor** — segurança da informação, *backups*, controlo de acessos, formação. Quem não tem documento escrito, falha aqui.
-- **Inventário de activos** e lista de activos publicamente acessíveis ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)).
-- **Matriz de risco** actualizada (ver [B.2]({% link 01-gestao-risco/b2-analise-risco.md %})).
+- **Inventário de ativos** e lista de ativos publicamente acessíveis ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)).
+- **Matriz de risco** atualizada (ver [B.2]({% link 01-gestao-risco/b2-analise-risco.md %})).
 - **Registo do(s) incidente(s)** ocorrido(s), incluindo decisões tomadas, horas, responsáveis, comunicações externas.
 - **Registo de presenças em formação** dos últimos 12 meses.
 - **Comprovativos técnicos** — capturas de configurações de MFA, política de palavras-passe, *logs* de eventos relevantes.
@@ -67,11 +67,11 @@ A norma habilita também o CNCS a deslocar-se às instalações e a falar com tr
 
 ## A postura defensável
 
-Não é viável manter uma postura de "estaminé permanente" como entidade essencial. Mas é **viável e desejável** manter uma postura **defensável**: documentos prontos, decisões justificadas, evidência de **adaptação activa** ao regime. Três princípios:
+Não é viável manter uma postura de "estaminé permanente" como entidade essencial. Mas é **viável e desejável** manter uma postura **defensável**: documentos prontos, decisões justificadas, evidência de **adaptação ativa** ao regime. Três princípios:
 
 1. **Cada decisão importante deixa rasto** — política aprovada por despacho, acta da reunião de gestão, e-mail interno que confirma o argumentário.
 2. **Cada incidente significativo tem registo** — registo cronológico completo, mesmo para incidentes sem necessidade de notificação. O CNCS pode pedir mais tarde.
-3. **Cada ano produz evidência** — acta da revisão anual pela gestão, relatório de auditoria interna (mesmo informal), actualização da matriz de risco. Sem evidência anual, três anos sem incidentes parecem **inacção**.
+3. **Cada ano produz evidência** — acta da revisão anual pela gestão, relatório de auditoria interna (mesmo informal), atualização da matriz de risco. Sem evidência anual, três anos sem incidentes parecem **inacção**.
 
 ## Sanções aplicáveis no contexto de supervisão
 
@@ -81,7 +81,7 @@ A própria supervisão não aplica sanções; aplica-se **a seguir** ao apuramen
 - Para autarquia **Grupo A**: **16.000 € a 4.000.000 €**.
 - **Dispensa de coima** transitória até ~3 de Abril de 2027 — [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65).
 
-A dispensa do [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) é **discricionária** e pressupõe que a entidade tem **plano de adaptação em curso documentado**. Sem evidência de actividade, a dispensa é indeferida.
+A dispensa do [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) é **discricionária** e pressupõe que a entidade tem **plano de adaptação em curso documentado**. Sem evidência de atividade, a dispensa é indeferida.
 
 ## Em dupla qualificação
 

@@ -9,14 +9,14 @@ search_exclude: false
 # Anexo IV do Aviso 5146/2026/2 — Medidas O / T / H
 
 {: .warning }
-> **Preliminar.** A **consulta pública** do Aviso 5146/2026/2 **terminou em 22 de Abril de 2026**. O CNCS está agora na **fase de análise dos contributos e redacção da versão final**, que será publicada no Diário da República em data ainda não anunciada. Os códigos e nomes apresentados aqui reflectem o **projecto** posto a consulta — podem sofrer alterações terminológicas na versão final. Esta página será actualizada quando o diploma for publicado em definitivo.
+> **Preliminar.** A **consulta pública** do Aviso 5146/2026/2 **terminou em 22 de Abril de 2026**. O CNCS está agora na **fase de análise dos contributos e redação da versão final**, que será publicada no Diário da República em data ainda não anunciada. Os códigos e nomes apresentados aqui reflectem o **projecto** posto a consulta — podem sofrer alterações terminológicas na versão final. Esta página será atualizada quando o diploma for publicado em definitivo.
 
 {: .highlight }
 > 📚 **Recurso CNCS complementar:** o **QNRCS** (Quadro Nacional de Referência para a Cibersegurança) é aprovado pelo Anexo I do Aviso 5146/2026/2 e enquadra as medidas O/T/H aqui descritas. Para perfis de função associados às medidas, consultar o [**Referencial de Competências em Cibersegurança**](https://www.cncs.gov.pt/pt/referencial-de-competencias/){:target="_blank"}. Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
 
 O Anexo IV organiza as medidas obrigatórias em **três famílias**, identificadas pela primeira letra do código:
 
-- **O — Organizacionais** — políticas, processos, decisões de gestão. Não são tecnologia; são *como a câmara se organiza* para enfrentar a ciberseguranca.
+- **O — Organizacionais** — políticas, processos, decisões de gestão. Não são tecnologia; são *como a câmara se organiza* para enfrentar a cibersegurança.
 - **T — Técnicas** — controlos tecnológicos concretos. Configurações, *software*, *hardware* específicos.
 - **H — Humanas** — formação, sensibilização, exercícios. Pessoas.
 
@@ -39,7 +39,7 @@ Cada código tem o formato **`X.YY`** ou **`X.YYY`**. Sempre que um destes códi
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. a) RJC
 
-Designação de **ponto de contacto** para comunicação com o CNCS e estrutura mínima de resposta a incidentes. Para Grupo B, basta o ponto de contacto; Grupo A adiciona políticas formais. Para entidades essenciais (SMAS), aplicam-se os papéis formais de **RC** (Responsável de Ciberseguranca — art. 31.º) e **PCP** (Ponto de Contacto Permanente — art. 32.º).
+Designação de **ponto de contacto** para comunicação com o CNCS e estrutura mínima de resposta a incidentes. Para Grupo B, basta o ponto de contacto; Grupo A adiciona políticas formais. Para entidades essenciais (SMAS), aplicam-se os papéis formais de **RC** (Responsável de Cibersegurança — art. 31.º) e **PCP** (Ponto de Contacto Permanente — art. 32.º).
 
 Ver: [C.1 Plano de resposta a incidentes]({% link 02-notificacao-incidentes/c1-plano-resposta.md %}).
 
@@ -71,33 +71,33 @@ Procedimentos mínimos de gestão de contas e privilégios. Para Grupo A é expa
 
 Controlo de alterações em configurações, sistemas e equipamentos. Inclui o registo das mudanças e a aprovação prévia.
 
-### `O.GEC` — Gestão de Eventos de Ciberseguranca {#o-gec}
+### `O.GEC` — Gestão de Eventos de Cibersegurança {#o-gec}
 
 **Aplicabilidade**: A · **Base**: art. 27.º al. h) RJC
 
-Procedimento estruturado de recolha, triagem e análise de eventos de segurança. Liga-se directamente ao `T.MA` (monitorização técnica).
+Procedimento estruturado de recolha, triagem e análise de eventos de segurança. Liga-se diretamente ao `T.MA` (monitorização técnica).
 
-### `O.IAC` — Inventariação de Activos Críticos {#o-iac}
+### `O.IAC` — Inventariação de Ativos Críticos {#o-iac}
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. h) RJC
 
-Inventário dos sistemas, equipamentos e aplicações sem os quais a câmara deixa de prestar serviço público. Para Grupo B, foca em activos críticos (tipicamente 20-40); para Grupo A, inventário completo.
+Inventário dos sistemas, equipamentos e aplicações sem os quais a câmara deixa de prestar serviço público. Para Grupo B, foca em ativos críticos (tipicamente 20-40); para Grupo A, inventário completo.
 
-Ver: [B.3 Inventário e classificação de activos]({% link 01-gestao-risco/b3-inventario-ativos.md %}) · [Exercício A3]({% link exercicios/a3-inventario.md %}).
+Ver: [B.3 Inventário e classificação de ativos]({% link 01-gestao-risco/b3-inventario-ativos.md %}) · [Exercício A3]({% link exercicios/a3-inventario.md %}).
 
-### `O.ID` — Identificação de funções e activos críticos {#o-id}
+### `O.ID` — Identificação de funções e ativos críticos {#o-id}
 
 **Aplicabilidade**: A · **Base**: art. 27.º al. h) RJC
 
-Cruza o inventário com as **funções/actividades críticas** da câmara — matriz funções × activos com dependências. Base da BIA e do plano de continuidade.
+Cruza o inventário com as **funções/atividades críticas** da câmara — matriz funções × ativos com dependências. Base da BIA e do plano de continuidade.
 
-Ver: [B.3 Inventário e classificação de activos]({% link 01-gestao-risco/b3-inventario-ativos.md %}).
+Ver: [B.3 Inventário e classificação de ativos]({% link 01-gestao-risco/b3-inventario-ativos.md %}).
 
 ### `O.PSI` — Política de Classificação da Informação {#o-psi}
 
 **Aplicabilidade**: A · **Base**: art. 27.º al. h) RJC
 
-Define níveis de sensibilidade dos dados (público / interno / confidencial / restrito). Cada activo que armazena dados é classificado pelo nível mais elevado dos dados que contém.
+Define níveis de sensibilidade dos dados (público / interno / confidencial / restrito). Cada ativo que armazena dados é classificado pelo nível mais elevado dos dados que contém.
 
 ### `O.PAP` — Política de Acessos e Privilégios {#o-pap}
 
@@ -125,7 +125,7 @@ Ver: [D.3 Acessos, MFA e palavras-passe]({% link 03-outras-medidas/d3-acessos-mf
 
 ## T — Medidas Técnicas
 
-### `T.AM` — Autenticação Multi-factor {#t-am}
+### `T.AM` — Autenticação Multi-fator {#t-am}
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. i) RJC
 
@@ -137,7 +137,7 @@ Ver: [D.3 Acessos, MFA e palavras-passe]({% link 03-outras-medidas/d3-acessos-mf
 
 **Aplicabilidade**: B · **Base**: art. 27.º al. i) RJC
 
-VPN com MFA, cifragem de canal, terminação numa zona controlada. Sem acessos directos administrativos pela Internet.
+VPN com MFA, cifragem de canal, terminação numa zona controlada. Sem acessos diretos administrativos pela Internet.
 
 ### `T.AS` — Actualizações de Segurança {#t-as}
 
@@ -149,7 +149,7 @@ Aplicação regular de patches críticos. Inventário de sistemas com idade de p
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. b) RJC
 
-Cópias de segurança regulares, **testadas**, com pelo menos uma cópia *offline* / *air-gapped* para protecção contra ransomware. Frequência mínima recomendada: trimestral para Grupo B, mensal para Grupo A.
+Cópias de segurança regulares, **testadas**, com pelo menos uma cópia *offline* / *air-gapped* para proteção contra ransomware. Frequência mínima recomendada: trimestral para Grupo B, mensal para Grupo A.
 
 Ver: [D.2 Continuidade e backups]({% link 03-outras-medidas/d2-continuidade-backups.md %}).
 
@@ -177,13 +177,13 @@ Sistema básico de monitorização de eventos de segurança e alertas para anoma
 
 Contas administrativas **segregadas** das contas de utilizador normal. O administrador faz *login* normal com a sua conta de utilizador e **eleva** quando precisa.
 
-### `T.PAS` — Protecção de Acessos a Sistemas {#t-pas}
+### `T.PAS` — Proteção de Acessos a Sistemas {#t-pas}
 
 **Aplicabilidade**: B · **Base**: art. 27.º al. h) + i) RJC
 
 Conjunto de controlos de acesso aos sistemas: autenticação, autorização, registo de acessos.
 
-### `T.PEW` — Protecção de Correio Electrónico e Web {#t-pew}
+### `T.PEW` — Proteção de Correio Eletrónico e Web {#t-pew}
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. g) RJC
 
@@ -193,7 +193,7 @@ Para Grupo B: SPF, DKIM, DMARC no e-mail; HTTPS nos sites institucionais. Para G
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. b) + i) RJC
 
-*Logs* de eventos de segurança preservados, com retenção mínima e protecção contra alteração. Para Grupo A, recolha centralizada (SIEM) e correlação.
+*Logs* de eventos de segurança preservados, com retenção mínima e proteção contra alteração. Para Grupo A, recolha centralizada (SIEM) e correlação.
 
 ### `T.SC` — Segurança das Comunicações {#t-sc}
 
@@ -217,7 +217,7 @@ Ver: [D.4 Formação e sensibilização]({% link 03-outras-medidas/d4-formacao.m
 
 **Aplicabilidade**: A·B · **Base**: art. 27.º al. f) RJC
 
-Componente da formação para todos os trabalhadores no acto de **entrada** (*onboarding*) e em momentos de **actualização** ao longo do ciclo de vida do trabalhador.
+Componente da formação para todos os trabalhadores no ato de **entrada** (*onboarding*) e em momentos de **atualização** ao longo do ciclo de vida do trabalhador.
 
 Ver: [D.3 Acessos, MFA e palavras-passe]({% link 03-outras-medidas/d3-acessos-mfa.md %}) (secção *onboarding*).
 
@@ -242,16 +242,16 @@ Para tornar a leitura mais fluida, no resto do manual digital:
 
 | Sigla | Significado |
 |---|---|
-| *RJC*{:.legal} | Regime Jurídico da Ciberseguranca (anexo ao DL 125/2025) |
+| *RJC*{:.legal} | Regime Jurídico da Cibersegurança (anexo ao DL 125/2025) |
 | **Aviso 5146** | Aviso n.º 5146/2026/2 — regulamento de execução do RJC |
-| **CNCS** | Centro Nacional de Ciberseguranca |
-| **CNPD** | Comissão Nacional de Protecção de Dados |
-| **RC** | Responsável de Ciberseguranca (art. 31.º RJC, apenas essenciais e importantes) |
+| **CNCS** | Centro Nacional de Cibersegurança |
+| **CNPD** | Comissão Nacional de Proteção de Dados |
+| **RC** | Responsável de Cibersegurança (art. 31.º RJC, apenas essenciais e importantes) |
 | **PCP** | Ponto de Contacto Permanente (art. 32.º RJC, apenas essenciais e importantes) |
 | **BIA** | *Business Impact Analysis* — Análise de Impacto no Negócio |
 | **PCN** | Plano de Continuidade de Negócio |
 | **DRP** | *Disaster Recovery Plan* — Plano de Recuperação de Desastres |
-| **MFA** | *Multi-Factor Authentication* — Autenticação Multi-factor |
+| **MFA** | *Multi-Fator Authentication* — Autenticação Multi-fator |
 | **SCADA** | *Supervisory Control and Data Acquisition* — sistemas de controlo industrial |
 | **SMAS** | Serviços Municipalizados de Água e Saneamento |
 | **OT** | *Operational Technology* — tecnologia operacional, distinta da TI corporativa |

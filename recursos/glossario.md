@@ -26,19 +26,19 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 **Anexo III** — Anexo do Aviso 5146/2026/2 com as medidas para entidades essenciais e importantes (com níveis Básico/Substancial/Elevado). Ver [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
 
-**Anexo IV** — Anexo do Aviso 5146/2026/2 com as medidas para entidades públicas relevantes (Grupos A e B) — directamente aplicável às autarquias. Ver [Anexo IV — medidas O/T/H]({% link recursos/anexo-iv-aviso-5146.md %}).
+**Anexo IV** — Anexo do Aviso 5146/2026/2 com as medidas para entidades públicas relevantes (Grupos A e B) — diretamente aplicável às autarquias. Ver [Anexo IV — medidas O/T/H]({% link recursos/anexo-iv-aviso-5146.md %}).
 
 **Auto-identificação** — Procedimento pelo qual cada entidade se classifica formalmente na plataforma MyCiber (*art. 8.º RJC*{:.legal}). Prazo: 60 dias após disponibilização da funcionalidade.
 
-**Aviso 5146/2026/2** — Aviso do CNCS que aprova o regulamento de execução do RJC. Em fase de redacção da versão final após consulta pública. Ver [legislação completa]({% link recursos/legislacao-aviso-5146.md %}).
+**Aviso 5146/2026/2** — Aviso do CNCS que aprova o regulamento de execução do RJC. Em fase de redação da versão final após consulta pública. Ver [legislação completa]({% link recursos/legislacao-aviso-5146.md %}).
 
 ## B
 
-***Air-gap*** — Cópia de segurança fisicamente desconectada da rede. Protecção essencial contra ransomware (que procura e encripta *backups* online).
+***Air-gap*** — Cópia de segurança fisicamente desconectada da rede. Proteção essencial contra ransomware (que procura e encripta *backups* online).
 
 ***Backup*** — Cópia de segurança de dados. No NIS2, **não basta existir** — tem de ser **testado** regularmente.
 
-**BIA** (*Business Impact Analysis*) — Análise de Impacto no Negócio. Cruza activos críticos com processos da entidade para estimar o impacto de cada sistema parado durante 1h, 4h, 1 dia, 1 semana.
+**BIA** (*Business Impact Analysis*) — Análise de Impacto no Negócio. Cruza ativos críticos com processos da entidade para estimar o impacto de cada sistema parado durante 1h, 4h, 1 dia, 1 semana.
 
 **Bloco A/B/C/D/E** — Estrutura do dia da formação. A: Enquadramento legal. B: Análise de risco. C: Notificação de incidentes. D: Outras medidas. E: Supervisão e roadmap.
 
@@ -52,11 +52,11 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 ***Cheatsheet*** — Folha-resumo de bolso. Neste manual digital, refere-se sobretudo à folha-resumo de prazos PT vs NIS2 e ao roadmap de 6 meses.
 
-**CMD** — Chave Móvel Digital. Meio de autenticação electrónica via app no telemóvel, alternativo ao Cartão de Cidadão.
+**CMD** — Chave Móvel Digital. Meio de autenticação eletrónica via app no telemóvel, alternativo ao Cartão de Cidadão.
 
 **CNCS** — Centro Nacional de Cibersegurança. Autoridade nacional para a aplicação do RJC.
 
-**CNPD** — Comissão Nacional de Protecção de Dados. Autoridade nacional do RGPD. Recebe as notificações de violação de dados pessoais (72h).
+**CNPD** — Comissão Nacional de Proteção de Dados. Autoridade nacional do RGPD. Recebe as notificações de violação de dados pessoais (72h).
 
 **CSSC** — Conselho Superior de Segurança do Ciberespaço.
 
@@ -66,13 +66,13 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 **DKIM** (*DomainKeys Identified Mail*) — Mecanismo de autenticação de e-mail por assinatura digital do domínio. Recomendado como mínimo para autarquias.
 
-**DL 125/2025** — Decreto-Lei n.º 125/2025, de 4 de Dezembro. Transpõe a Directiva NIS2 para Portugal. Em vigor desde 3 de Abril de 2026. Ver [legislação completa]({% link recursos/legislacao-dl-125-2025.md %}).
+**DL 125/2025** — Decreto-Lei n.º 125/2025, de 4 de Dezembro. Transpõe a Diretiva NIS2 para Portugal. Em vigor desde 3 de Abril de 2026. Ver [legislação completa]({% link recursos/legislacao-dl-125-2025.md %}).
 
 **DMARC** (*Domain-based Message Authentication, Reporting and Conformance*) — Mecanismo de validação de e-mail que reforça SPF e DKIM. Recomendado como mínimo.
 
-**DPO** (*Data Protection Officer*) — Encarregado de Protecção de Dados, obrigatório no RGPD para entidades públicas. Articula com o ponto de contacto NIS2 na decisão de notificação cruzada CNCS+CNPD.
+**DPO** (*Data Protection Officer*) — Encarregado de Proteção de Dados, obrigatório no RGPD para entidades públicas. Articula com o ponto de contacto NIS2 na decisão de notificação cruzada CNCS+CNPD.
 
-**DRE** — Diário da República Electrónico. Fonte oficial de publicação dos diplomas.
+**DRE** — Diário da República Eletrónico. Fonte oficial de publicação dos diplomas.
 
 **DRP** (*Disaster Recovery Plan*) — Plano de Recuperação de Desastres. Componente técnico do plano de continuidade, foca-se em **como repõem os sistemas**.
 
@@ -92,13 +92,13 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 **Exfiltração** — Saída não autorizada de dados de um sistema. Frequente em ataques de ransomware modernos (*double extortion*).
 
-**Exposição** — Conjunto de activos directamente acessíveis pela Internet. Em NIS2 PT, regulado pelo *art. 32.º do Aviso*{:.legal} (lista a comunicar ao CNCS).
+**Exposição** — Conjunto de ativos diretamente acessíveis pela Internet. Em NIS2 PT, regulado pelo *art. 32.º do Aviso*{:.legal} (lista a comunicar ao CNCS).
 
 ## F
 
 **Ficha de cenário** — Folha A5 com descrição de incidente, distribuída por sorteio aos formandos no Exercício A4. As 4 fichas (ransomware, fornecedor, DDoS, phishing) estão em [exercicios/a4-notificacao]({% link exercicios/a4-notificacao.md %}).
 
-**FIDO2** — Norma de autenticação multi-factor com tokens físicos (chaves USB ou NFC). Recomendada para acesso administrativo, especialmente em sistemas OT.
+**FIDO2** — Norma de autenticação multi-fator com tokens físicos (chaves USB ou NFC). Recomendada para acesso administrativo, especialmente em sistemas OT.
 
 **Fim de impacto significativo** — Notificação específica do regime português (*art. 43.º RJC*{:.legal}). Submete-se 24h após cessação do impacto significativo do incidente.
 
@@ -106,7 +106,7 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 ***Gestor de palavras-passe*** — *Software* que armazena, gera e preenche palavras-passe únicas por serviço. Eliminação do reutilizar a mesma password.
 
-**GED** — Gestão Electrónica de Documentos. Aplicação central em câmaras portuguesas, frequentemente fornecida por Medidata, AIRC ou Glintt.
+**GED** — Gestão Eletrónica de Documentos. Aplicação central em câmaras portuguesas, frequentemente fornecida por Medidata, AIRC ou Glintt.
 
 **GNS** — Gabinete Nacional de Segurança. Autoridade responsável pela segurança da informação classificada.
 
@@ -124,7 +124,7 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 **Incidente significativo** — Critério do *art. 40.º, n.º 3 RJC*{:.legal}: incidente que cause perturbação operacional grave **ou** afecte terceiros provocando prejuízos materiais ou imateriais consideráveis. Limiar de notificação obrigatória.
 
-**Inventário de activos** — Lista dos sistemas, equipamentos e aplicações da entidade. Para Grupo B: foca-se nos **críticos** (medida [O.IAC]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac)). Para Grupo A: alargado a todos.
+**Inventário de ativos** — Lista dos sistemas, equipamentos e aplicações da entidade. Para Grupo B: foca-se nos **críticos** (medida [O.IAC]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac)). Para Grupo A: alargado a todos.
 
 **ISO/IEC 27001** — Norma internacional de sistema de gestão de segurança da informação. Não obrigatória mas serve como ponto de chegada metodológico — quem está certificado cumpre a maior parte do Anexo IV.
 
@@ -132,7 +132,7 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 ## J
 
-**JOUE** — Jornal Oficial da União Europeia. Onde foi publicada a Directiva NIS2 (2022/2555).
+**JOUE** — Jornal Oficial da União Europeia. Onde foi publicada a Diretiva NIS2 (2022/2555).
 
 ## L
 
@@ -146,19 +146,19 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 ## M
 
-**MFA** (*Multi-Factor Authentication*) — Autenticação Multi-factor. Combinação de pelo menos dois elementos: o que se sabe (palavra-passe), o que se tem (telemóvel, token) e o que se é (biometria). Medida [T.AM]({% link recursos/anexo-iv-aviso-5146.md %}#t-am).
+**MFA** (*Multi-Fator Authentication*) — Autenticação Multi-fator. Combinação de pelo menos dois elementos: o que se sabe (palavra-passe), o que se tem (telemóvel, token) e o que se é (biometria). Medida [T.AM]({% link recursos/anexo-iv-aviso-5146.md %}#t-am).
 
 **Medidata** — Fornecedor frequente de software de gestão municipal (contabilidade, RH, GED, portal do munícipe).
 
 **Município** — Sinónimo de autarquia local de primeiro nível. A entidade jurídica é a "Câmara Municipal de XPTO".
 
-**MyCiber** — Plataforma electrónica do CNCS em [myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}. Canal único e oficial. Ver [A.3]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
+**MyCiber** — Plataforma eletrónica do CNCS em [myciber.gov.pt](https://myciber.gov.pt/){:target="_blank"}. Canal único e oficial. Ver [A.3]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
 
 ## N
 
 **Negligência** — Modalidade subjectiva da infracção. *art. 64.º RJC*{:.legal}: reduz a metade os limites das coimas.
 
-**NIS2** — Directiva (UE) 2022/2555 sobre segurança das redes e da informação, 2.ª geração. Transposta para Portugal pelo DL 125/2025.
+**NIS2** — Diretiva (UE) 2022/2555 sobre segurança das redes e da informação, 2.ª geração. Transposta para Portugal pelo DL 125/2025.
 
 **NIST CSF** — *NIST Cybersecurity Framework*. Framework americano de referência. A versão 2.0 (2024) é a base do QNRCS português.
 
@@ -178,17 +178,17 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 **PCP** — Ponto de Contacto Permanente. Designação formal obrigatória para entidades essenciais e importantes (*art. 32.º RJC*{:.legal}). Disponibilidade 24/7 para comunicações urgentes.
 
-**Phishing** — Engenharia social via e-mail (ou outros canais) para obter credenciais ou induzir acções fraudulentas. Cenário 4 do Exercício A4.
+**Phishing** — Engenharia social via e-mail (ou outros canais) para obter credenciais ou induzir ações fraudulentas. Cenário 4 do Exercício A4.
 
 ***Playbook*** — Documento operacional com sequência de passos para responder a um tipo específico de incidente (ransomware, *data breach*, phishing dirigido).
 
 **Ponto de contacto** — Pessoa designada pela entidade pública relevante para comunicação com o CNCS. Não confundir com PCP (que é apenas para essenciais/importantes).
 
-**Privilégio mínimo** — Princípio segundo o qual cada utilizador tem **exactamente as permissões necessárias** para a sua função, nem mais nem menos. Medida [O.PAP]({% link recursos/anexo-iv-aviso-5146.md %}#o-pap).
+**Privilégio mínimo** — Princípio segundo o qual cada utilizador tem **exatamente as permissões necessárias** para a sua função, nem mais nem menos. Medida [O.PAP]({% link recursos/anexo-iv-aviso-5146.md %}#o-pap).
 
 ## Q
 
-**QNRCS** — Quadro Nacional de Referência para a Ciberseguranca. Aprovado pelo Anexo I do Aviso 5146/2026/2. Alinhado com NIST CSF 2.0 e ISO 27001:2022.
+**QNRCS** — Quadro Nacional de Referência para a Cibersegurança. Aprovado pelo Anexo I do Aviso 5146/2026/2. Alinhado com NIST CSF 2.0 e ISO 27001:2022.
 
 ## R
 
@@ -196,9 +196,9 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 **RC** — Responsável de Cibersegurança. Designação formal obrigatória para entidades essenciais e importantes (*art. 31.º RJC*{:.legal}). Pessoa singular com formação e independência funcional.
 
-**RGPD** — Regulamento Geral de Protecção de Dados (UE 2016/679). Articula-se com o NIS2 na notificação de incidentes que envolvam dados pessoais (ver [C.4]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %})).
+**RGPD** — Regulamento Geral de Proteção de Dados (UE 2016/679). Articula-se com o NIS2 na notificação de incidentes que envolvam dados pessoais (ver [C.4]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %})).
 
-**RJC** — Regime Jurídico da Ciberseguranca. Aprovado em anexo ao DL 125/2025. Ver [legislação completa]({% link recursos/legislacao-dl-125-2025.md %}).
+**RJC** — Regime Jurídico da Cibersegurança. Aprovado em anexo ao DL 125/2025. Ver [legislação completa]({% link recursos/legislacao-dl-125-2025.md %}).
 
 **Roteiro essencial** — Conjunto de páginas do manual digital dedicado à dupla qualificação. Ver [Roteiro essencial]({% link roteiro-essencial/index.md %}).
 
@@ -232,7 +232,7 @@ Termos técnicos, acrónimos e siglas utilizados ao longo do manual digital, ord
 
 ## V
 
-**Verificação** — Momento em que a equipa TIC **confirma** a natureza e o impacto de um incidente. Distinto da detecção (alerta inicial). Inicia o relógio dos 24h NIS2.
+**Verificação** — Momento em que a equipa TIC **confirma** a natureza e o impacto de um incidente. Distinto da deteção (alerta inicial). Inicia o relógio dos 24h NIS2.
 
 ## Referências cruzadas
 

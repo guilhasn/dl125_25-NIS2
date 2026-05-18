@@ -14,7 +14,7 @@ nav_order: 2
 
 **Duração**: 15 min · **Bloco**: B.2 · **Materiais**: [`a2-matriz-risco-simplificada.xlsx`]({{ '/templates/a2-matriz-risco-simplificada.xlsx' | relative_url }})
 
-## Objectivo
+## Objetivo
 
 Construir o **embrião** da matriz de risco da vossa entidade — 3 riscos identificados, classificados por probabilidade × impacto, com tratamento decidido. É uma das peças mais importantes da formação: tudo o que vem depois (medidas técnicas, prioridade de implementação, alocação de orçamento) decorre desta matriz.
 
@@ -27,12 +27,12 @@ Não procuramos exaustividade. Procuramos **três decisões fundamentadas**. A v
 3. Identifique **3 riscos reais** da sua autarquia. Não invente cenários — pense nas coisas que lhe tiram o sono.
    - Categorias típicas em autarquias: ransomware, indisponibilidade do portal do munícipe, exfiltração de dados de munícipes, fornecedor único comprometido, perda total do datacenter por incêndio/inundação, phishing bem-sucedido contra vereador ou tesouraria.
 4. Para cada, indique:
-   - **Activo afectado** (cruzar com [Exercício A3]({% link exercicios/a3-inventario.md %}) ou com a sua noção informal).
+   - **Ativo afetado** (cruzar com [Exercício A3]({% link exercicios/a3-inventario.md %}) ou com a sua noção informal).
    - **Probabilidade** (1=raro, 5=quase certo).
    - **Impacto** (1=irrelevante, 5=paralisação prolongada do serviço público).
    - **Nível P × I** (calculado automaticamente — 1-6 baixo, 8-12 médio, 15-25 alto).
    - **Tratamento**: Mitigar, Transferir, Aceitar ou Evitar.
-   - **Acção concreta**: uma frase que descreva o que vai fazer. Sem isto, a decisão fica em papel.
+   - **Ação concreta**: uma frase que descreva o que vai fazer. Sem isto, a decisão fica em papel.
 
 ## Output esperado
 
@@ -60,7 +60,7 @@ A maior parte das equipas tende a:
 ## Templates relacionados
 
 - [`matriz-risco-nis2.xlsx`]({{ '/templates/matriz-risco-nis2.xlsx' | relative_url }}) — versão completa (folha-mestra a usar em câmara).
-- [`plano-tratamento-riscos-nis2.docx`]({{ '/templates/plano-tratamento-riscos-nis2.docx' | relative_url }}) — formaliza acções decididas.
+- [`plano-tratamento-riscos-nis2.docx`]({{ '/templates/plano-tratamento-riscos-nis2.docx' | relative_url }}) — formaliza ações decididas.
 - [`matriz-risco-setor-agua-potavel-nis2.xlsx`]({{ '/templates/matriz-risco-setor-agua-potavel-nis2.xlsx' | relative_url }}) — para SMAS com dupla qualificação.
 
 ## Recurso externo opcional

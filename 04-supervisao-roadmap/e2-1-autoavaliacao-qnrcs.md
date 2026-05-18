@@ -16,7 +16,7 @@ nav_order: 2.5
 
 O QNRCS v2 (ver [Recursos / QNRCS v2]({% link recursos/qnrcs.md %})) é o referencial obrigatório aprovado pelo Anexo I do Aviso. Mas para uma câmara, ler o referencial não basta — é preciso **medir onde se está**. Esta sub-página apresenta um instrumento prático de auto-avaliação que cobre **26 controlos seleccionados** dos ~107 totais do QNRCS v2, alinhados com as medidas do Anexo IV para Grupo A/B.
 
-O instrumento produz, em ~2 horas de trabalho em equipa, um **perfil de maturidade da câmara** com gráfico radar nos 6 objectivos do QNRCS v2 e uma lista de controlos em défice que alimenta directamente o roadmap dos 6 meses ([E.3]({% link 04-supervisao-roadmap/e3-roadmap-6-meses.md %})).
+O instrumento produz, em ~2 horas de trabalho em equipa, um **perfil de maturidade da câmara** com gráfico radar nos 6 objetivos do QNRCS v2 e uma lista de controlos em défice que alimenta diretamente o roadmap dos 6 meses ([E.3]({% link 04-supervisao-roadmap/e3-roadmap-6-meses.md %})).
 
 ## Porquê auto-avaliar
 
@@ -35,9 +35,9 @@ O instrumento produz, em ~2 horas de trabalho em equipa, um **perfil de maturida
 |---|---|
 | **Instruções** | Guia de preenchimento (~1 página A4) |
 | **GR** — Gerir | 6 controlos · contexto, estratégia, funções, políticas, supervisão, cadeia |
-| **ID** — Identificar | 4 controlos · activos + risco + melhoria contínua |
+| **ID** — Identificar | 4 controlos · ativos + risco + melhoria contínua |
 | **PR** — Proteger | 7 controlos · identidades, formação, dados, plataformas, infra |
-| **DE** — Detectar | 3 controlos · monitorização + anomalias |
+| **DE** — Detetar | 3 controlos · monitorização + anomalias |
 | **RS** — Responder | 4 controlos · gestão, análise, notificação, mitigação |
 | **RC** — Recuperar | 2 controlos · plano + comunicação |
 | **Dashboard** | Resumo tabular + gráfico radar + recomendações |
@@ -50,7 +50,7 @@ O instrumento produz, em ~2 horas de trabalho em equipa, um **perfil de maturida
 
 - **00:00-00:15** — Kick-off. Apresentar instrumento à equipa, ler aba "Instruções", esclarecer dúvidas.
 - **00:15-00:55** — Preenchimento conjunto das 6 abas. Para cada controlo, decidir em equipa:
-  - **Coluna C — Estado actual**: Não / Parcial / Sim.
+  - **Coluna C — Estado atual**: Não / Parcial / Sim.
   - **Coluna D — Nível atingido**: Não cumpre / Básico / Substancial / Elevado (cumulativo).
   - **Coluna G — Evidência existente**: documento, template, registo. Obrigatório se C=Sim.
 - **00:55-01:00** — Sair com 5-10 evidências em falta para procurar/produzir antes da sessão 2.
@@ -63,38 +63,38 @@ O instrumento produz, em ~2 horas de trabalho em equipa, um **perfil de maturida
 **Sessão 2 (45 min, em câmara, mesma equipa):**
 
 - **00:00-00:30** — Consolidar respostas, fechar evidências, refinar coluna D (níveis B/S/E).
-- **00:30-00:40** — Ir à aba Dashboard. Ler o gráfico radar. Identificar os 2-3 objectivos com maturidade mais baixa.
-- **00:40-00:45** — Listar os controlos individuais marcados como "Não" — são candidatos directos ao roadmap E.3.
+- **00:30-00:40** — Ir à aba Dashboard. Ler o gráfico radar. Identificar os 2-3 objetivos com maturidade mais baixa.
+- **00:40-00:45** — Listar os controlos individuais marcados como "Não" — são candidatos diretos ao roadmap E.3.
 
 ## Interpretação do dashboard
 
 O dashboard mostra:
 
-- **Tabela resumo** — 6 linhas, uma por objectivo, com totais Sim/Parcial/Não + % maturidade calculada.
-- **% Maturidade** — fórmula `(Sim × 1.0 + Parcial × 0.5) / Total`. Varia entre 0% (nada cumprido) e 100% (todos os controlos do objectivo cumpridos).
-- **Gráfico radar** — visualização dos 6 objectivos. Áreas "afundadas" são as prioridades.
+- **Tabela resumo** — 6 linhas, uma por objetivo, com totais Sim/Parcial/Não + % maturidade calculada.
+- **% Maturidade** — fórmula `(Sim × 1.0 + Parcial × 0.5) / Total`. Varia entre 0% (nada cumprido) e 100% (todos os controlos do objetivo cumpridos).
+- **Gráfico radar** — visualização dos 6 objetivos. Áreas "afundadas" são as prioridades.
 - **Recomendação** — caixa amarela com a regra geral: priorizar para o roadmap os controlos "Não" com mapeamento Anexo IV.
 
 **Leitura típica de uma câmara em fase inicial:**
 
 - **Proteger** tende a estar mais alto (MFA, antivirus, backups existem, ainda que parcialmente).
 - **Gerir** tende a estar mais baixo (faltam políticas escritas, actas, supervisão formal).
-- **Detectar / Responder / Recuperar** dependem muito de existir plano de resposta documentado.
+- **Detetar / Responder / Recuperar** dependem muito de existir plano de resposta documentado.
 
-A leitura mais útil **não é a média global** — é o **objectivo mais baixo**. Esse é o que entra primeiro no roadmap.
+A leitura mais útil **não é a média global** — é o **objetivo mais baixo**. Esse é o que entra primeiro no roadmap.
 
 ## Como alimenta o roadmap E.3
 
 Os controlos marcados como **"Não"** com **Mapeamento Anexo IV não-vazio** são candidatos imediatos a entradas do roadmap dos 6 meses ([E.3]({% link 04-supervisao-roadmap/e3-roadmap-6-meses.md %})). Regra prática:
 
 1. **Listar os "Nãos"** com Mapeamento Anexo IV (campo E do Excel).
-2. **Ordenar por prioridade** — controlos do objectivo Gerir (políticas, funções) e do objectivo Identificar (inventário, risco) costumam vir antes, porque servem de base aos restantes.
+2. **Ordenar por prioridade** — controlos do objetivo Gerir (políticas, funções) e do objetivo Identificar (inventário, risco) costumam vir antes, porque servem de base aos restantes.
 3. **Cada controlo torna-se uma entrada do roadmap** com responsável, prazo (mês 1 / 2 / 3 / 4 / 5 / 6) e output esperado (documento, registo, configuração).
 
 Exemplo — se a câmara marcar `GR.PP-1` (políticas) como "Não" e `ID.GA-1` (inventário) como "Parcial":
 
 - Mês 1: aprovar despacho com política de cibersegurança (`GR.PP-1`).
-- Mês 2: completar inventário de activos críticos (`ID.GA-1` → "Sim"), usando o template adequado da página [Templates]({% link recursos/templates.md %}).
+- Mês 2: completar inventário de ativos críticos (`ID.GA-1` → "Sim"), usando o template adequado da página [Templates]({% link recursos/templates.md %}).
 
 ## Periodicidade
 

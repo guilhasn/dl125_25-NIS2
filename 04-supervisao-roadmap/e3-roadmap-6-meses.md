@@ -14,27 +14,27 @@ nav_order: 3
 
 **Duração**: 5 min · **Forma**: *cheatsheet* para imprimir e afixar — uma só página, com a sequência dos primeiros 6 meses
 
-Ao fim deste dia de formação, vocês têm uma matriz de risco em embrião, um *top 5* de activos, um *top 5* de fornecedores e o esboço de uma notificação 24h. **Não chega**, mas é o ponto de partida certo. Este roadmap traduz o resto — o caminho mês-a-mês para chegar a uma **postura defensável** em **6 meses**. Não é o caminho para a perfeição (que demora anos); é o caminho para o **mínimo demonstrável** que se invocará perante o [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) (dispensa de coimas).
+Ao fim deste dia de formação, vocês têm uma matriz de risco em embrião, um *top 5* de ativos, um *top 5* de fornecedores e o esboço de uma notificação 24h. **Não chega**, mas é o ponto de partida certo. Este roadmap traduz o resto — o caminho mês-a-mês para chegar a uma **postura defensável** em **6 meses**. Não é o caminho para a perfeição (que demora anos); é o caminho para o **mínimo demonstrável** que se invocará perante o [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) (dispensa de coimas).
 
 ## A sequência
 
-Cada mês tem **um objectivo principal** e **3-5 entregáveis concretos**. O mês 6 fecha o ciclo com uma revisão pela gestão que produz a primeira **acta de revisão anual**.
+Cada mês tem **um objetivo principal** e **3-5 entregáveis concretos**. O mês 6 fecha o ciclo com uma revisão pela gestão que produz a primeira **acta de revisão anual**.
 
 ### Mês 1 — Qualificação e identificação
 
-**Objectivo**: estar **registado no MyCiber** e ter **classificação correcta** comunicada e aceite.
+**Objetivo**: estar **registado no MyCiber** e ter **classificação correta** comunicada e aceite.
 
 - ☐ Auto-identificação no MyCiber (logo após o registo abrir).
 - ☐ Despacho de designação do **ponto de contacto** (com substituto).
 - ☐ Lista das **entidades operacionais** da autarquia (câmara + SMAS + empresas + fundações) classificadas — usar saída do **Exercício A1**.
 - ☐ Para entidades em dupla qualificação: registo **separado** SMAS / empresa municipal como entidade essencial (se aplicável).
-- ☐ **Lista de activos publicamente acessíveis** ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)) — submeter no prazo de **20 dias úteis** após qualificação.
+- ☐ **Lista de ativos publicamente acessíveis** ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)) — submeter no prazo de **20 dias úteis** após qualificação.
 
 **Templates a aplicar**: [`formulario-registo-cncs-nis2.docx`]({{ '/templates/formulario-registo-cncs-nis2.docx' | relative_url }}).
 
 ### Mês 2 — Políticas-base
 
-**Objectivo**: ter **5 políticas escritas e aprovadas** que sustentam tudo o que se segue.
+**Objetivo**: ter **5 políticas escritas e aprovadas** que sustentam tudo o que se segue.
 
 - ☐ **Política de segurança da informação** (política-mãe) — apoia-se na ISO 27001 se existir.
 - ☐ **Política de palavras-passe** alinhada com NIST 2017.
@@ -48,24 +48,24 @@ Cada mês tem **um objectivo principal** e **3-5 entregáveis concretos**. O mê
 
 ### Mês 3 — Inventário e matriz de risco
 
-**Objectivo**: ter o **inventário de activos críticos completo** e a **matriz de risco** com pelo menos 15-25 entradas (não só os 3 e 5 do dia da formação).
+**Objetivo**: ter o **inventário de ativos críticos completo** e a **matriz de risco** com pelo menos 15-25 entradas (não só os 3 e 5 do dia da formação).
 
-- ☐ **Inventário de activos críticos** alargado de 5 (Exercício A3) para 20-40 entradas.
+- ☐ **Inventário de ativos críticos** alargado de 5 (Exercício A3) para 20-40 entradas.
 - ☐ **Inventário de fornecedores TIC críticos** alargado de 5 (Exercício A5) para 15-25.
 - ☐ **Matriz de risco** alargada de 3 (Exercício A2) para 15-25 entradas com tratamento decidido.
-- ☐ **Mapeamento entre activos críticos e fornecedores** — para cada activo crítico, qual o fornecedor que o sustenta.
+- ☐ **Mapeamento entre ativos críticos e fornecedores** — para cada ativo crítico, qual o fornecedor que o sustenta.
 - ☐ **(A)** Identificação de **funções críticas** ([O.ID]({% link recursos/anexo-iv-aviso-5146.md %}#o-id)) e classificação de informação ([O.PSI]({% link recursos/anexo-iv-aviso-5146.md %}#o-psi)).
 
 **Workshops internos** — duas tardes de 3h com informática, DPO e gabinete chegam para fechar este mês.
 
 ### Mês 4 — Medidas técnicas
 
-**Objectivo**: implementar tecnicamente **as medidas T mais críticas**.
+**Objetivo**: implementar tecnicamente **as medidas T mais críticas**.
 
-- ☐ **MFA activo** em Microsoft 365, VPN, administração de servidores, *firewall* — para **todos** os utilizadores privilegiados; idealmente para todos os utilizadores.
+- ☐ **MFA ativo** em Microsoft 365, VPN, administração de servidores, *firewall* — para **todos** os utilizadores privilegiados; idealmente para todos os utilizadores.
 - ☐ **Backups testados** — execução do procedimento de teste; primeiro teste documentado.
 - ☐ **Backup *air-gapped*** ou *immutability* — uma cópia fora do alcance do ransomware.
-- ☐ **Patches em dia** — actualização do parque informático para versões suportadas.
+- ☐ **Patches em dia** — atualização do parque informático para versões suportadas.
 - ☐ **SPF + DKIM + DMARC** no *e-mail* institucional (mínimo).
 - ☐ **HTTPS** em todos os sites institucionais com certificados válidos.
 
@@ -73,11 +73,11 @@ Cada mês tem **um objectivo principal** e **3-5 entregáveis concretos**. O mê
 
 ### Mês 5 — *Playbooks* e simulação
 
-**Objectivo**: ter **planos de resposta operacionais** e **fazer uma simulação** interna.
+**Objetivo**: ter **planos de resposta operacionais** e **fazer uma simulação** interna.
 
 - ☐ **Plano de Continuidade de Negócio (PCN)** finalizado, com pelo menos 3 cenários (portal parado, ransomware, indisponibilidade do SIG).
 - ☐ ***Playbooks*** específicos para ransomware e *data breach*.
-- ☐ **Matriz de escalação** afixada no gabinete TIC + na recepção.
+- ☐ **Matriz de escalação** afixada no gabinete TIC + na receção.
 - ☐ **Folha-resumo dos prazos PT vs NIS2** afixada (imprimível a partir do manual digital).
 - ☐ ***Tabletop exercise*** interno — 30-60 minutos com gabinete + informática + DPO, usando uma das 4 fichas de cenário do exercício A4.
 
@@ -85,10 +85,10 @@ Cada mês tem **um objectivo principal** e **3-5 entregáveis concretos**. O mê
 
 ### Mês 6 — Auditoria interna e revisão pela gestão
 
-**Objectivo**: **fechar o ciclo** com auditoria interna (mesmo informal) e **acta de revisão pela gestão** — a peça que demonstra ciclo de melhoria activo.
+**Objetivo**: **fechar o ciclo** com auditoria interna (mesmo informal) e **acta de revisão pela gestão** — a peça que demonstra ciclo de melhoria ativo.
 
 - ☐ **Auditoria interna**: percorrer a checklist de [E.2 Documentação mínima]({% link 04-supervisao-roadmap/e2-documentacao-minima.md %}) e identificar lacunas. Pode ser feita pela própria equipa de informática + DPO.
-- ☐ **Plano de acções correctivas** para as lacunas identificadas — 3-6 meses para fechar.
+- ☐ **Plano de ações correctivas** para as lacunas identificadas — 3-6 meses para fechar.
 - ☐ **1.ª sessão de formação anual** aos trabalhadores (mínimo: ciber-higiene + phishing + comunicação de incidentes).
 - ☐ **Registo de presenças** arquivado.
 - ☐ **Acta de revisão pela gestão** — assinada pelo presidente — formaliza o estado da postura e o plano para o ano seguinte.
@@ -116,8 +116,8 @@ Tabela em A4 paisagem com os 6 meses lado-a-lado, entregáveis-chave por mês, e
 
 Após o mês 6, o ciclo entra em **manutenção anual**:
 
-- **Anual**: revisão pela gestão, actualização do plano de formação, actualização da lista do [*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32).
-- **Semestral**: revisão das matrizes (risco, activos, fornecedores), teste do PCN.
+- **Anual**: revisão pela gestão, atualização do plano de formação, atualização da lista do [*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32).
+- **Semestral**: revisão das matrizes (risco, ativos, fornecedores), teste do PCN.
 - **Trimestral**: teste de *backup*, revisão de contas, *refresher* de formação.
 - **Mensal** (informática): patches, monitorização, *logs*.
 - **Ao incidente**: o ritmo é o ritmo do CNCS — não o ritmo administrativo habitual.

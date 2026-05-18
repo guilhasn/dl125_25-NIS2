@@ -13,7 +13,7 @@ nav_order: 2
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
 {: .highlight }
-> 📚 **Recurso CNCS complementar:** o CNCS publica o [**Quadro de Avaliação de Capacidades de Cibersegurança**](https://www.cncs.gov.pt/docs/cncs-quadrodeavaliacao.pdf){:target="_blank"} — ferramenta de auto-avaliação alinhada com o QNRCS, para a câmara medir a sua maturidade nas 5 funções (Identificar · Proteger · Detectar · Responder · Recuperar). Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
+> 📚 **Recurso CNCS complementar:** o CNCS publica o [**Quadro de Avaliação de Capacidades de Cibersegurança**](https://www.cncs.gov.pt/docs/cncs-quadrodeavaliacao.pdf){:target="_blank"} — ferramenta de auto-avaliação alinhada com o QNRCS, para a câmara medir a sua maturidade nas 5 funções (Identificar · Proteger · Detetar · Responder · Recuperar). Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
 
 **Duração**: 5 min · **Base**: Anexo IV do [*Aviso 5146/2026/2*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}) + síntese das obrigações documentais
 
@@ -34,10 +34,10 @@ Esta página responde a uma pergunta única e prática: **"se o CNCS me pedir tu
 | ☐ **Matriz de risco** | Folha Excel | Informática + DPO |
 | ☐ **(A) Metodologia da análise de risco documentada** | Documento aprovado | Executivo |
 | ☐ **(A) Acta de aceitação dos riscos residuais** | Documento aprovado por presidente | Secretaria-geral |
-| ☐ **Inventário de activos críticos** ([<abbr title="Inventariação de Activos Críticos">O.IAC</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac)) | Folha Excel | Informática |
-| ☐ **Lista de activos publicamente acessíveis** ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)) | Lista submetida no MyCiber | Informática + DPO |
+| ☐ **Inventário de ativos críticos** ([<abbr title="Inventariação de Ativos Críticos">O.IAC</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac)) | Folha Excel | Informática |
+| ☐ **Lista de ativos publicamente acessíveis** ([*art. 32.º do Aviso*{:.legal}]({% link recursos/legislacao-aviso-5146.md %}#art-32)) | Lista submetida no MyCiber | Informática + DPO |
 | ☐ **(A) Política de classificação da informação** ([O.PSI]({% link recursos/anexo-iv-aviso-5146.md %}#o-psi)) | Documento aprovado | Executivo |
-| ☐ **(A) Política de gestão de activos** | Documento aprovado | Informática |
+| ☐ **(A) Política de gestão de ativos** | Documento aprovado | Informática |
 
 ## Notificação de incidentes
 
@@ -54,7 +54,7 @@ Esta página responde a uma pergunta única e prática: **"se o CNCS me pedir tu
 | Peça | Forma | Quem mantém |
 |---|---|---|
 | ☐ **Inventário de fornecedores TIC críticos** ([O.PSF]({% link recursos/anexo-iv-aviso-5146.md %}#o-psf)) | Folha Excel | Informática + contratação |
-| ☐ **Cláusulas de ciberseguranca** em cadernos de encargos novos | Texto-padrão | Contratação pública |
+| ☐ **Cláusulas de cibersegurança** em cadernos de encargos novos | Texto-padrão | Contratação pública |
 | ☐ **(A) Scorecard de avaliação** dos fornecedores críticos | Folha Excel anual | Informática |
 | ☐ **(A) Política formal de gestão da cadeia de fornecimento** | Documento aprovado | Executivo |
 
@@ -73,7 +73,7 @@ Esta página responde a uma pergunta única e prática: **"se o CNCS me pedir tu
 |---|---|---|
 | ☐ **Política de controlo de acessos** | Documento aprovado | Informática + RH |
 | ☐ **Política de palavras-passe** | Documento aprovado | Informática |
-| ☐ **Configuração de MFA** activa em todos os pontos críticos (M365, VPN, admin) | Capturas de ecrã + acta interna | Informática |
+| ☐ **Configuração de MFA** ativa em todos os pontos críticos (M365, VPN, admin) | Capturas de ecrã + acta interna | Informática |
 | ☐ **Checklists de *onboarding*/*offboarding*** | Documentos padrão | RH + Informática |
 | ☐ **Termos de confidencialidade** assinados por trabalhadores e prestadores externos | Arquivo de pessoal | RH |
 | ☐ **Inventário de contas** com revisão semestral | Folha de registo datada | Informática |
@@ -95,7 +95,7 @@ Esta página responde a uma pergunta única e prática: **"se o CNCS me pedir tu
 | ☐ **Acta da revisão anual pela gestão** | Documento assinado | Executivo |
 | ☐ **(A) Plano de auditoria interna** anual | Documento aprovado | Auditoria interna |
 | ☐ **(A) Relatório da auditoria interna** | Documento assinado | Auditoria interna |
-| ☐ **Registo de não-conformidades** identificadas e plano de acção correctiva | Folha Excel | Gestão + Informática |
+| ☐ **Registo de não-conformidades** identificadas e plano de ação correctiva | Folha Excel | Gestão + Informática |
 | ☐ **(A) Mapeamento NIS2 ↔ ISO 27001** (se aplicável) | Folha de cálculo | Informática |
 
 ## Síntese — o mínimo defensável Grupo B
@@ -103,7 +103,7 @@ Esta página responde a uma pergunta única e prática: **"se o CNCS me pedir tu
 Numa câmara de 75-249 trabalhadores, sem pretensões de Grupo A, o que **tem mesmo de existir** é:
 
 1. **3 evidências do registo** (no MyCiber + cópia interna + despacho).
-2. **3 inventários** (activos, fornecedores, contas).
+2. **3 inventários** (ativos, fornecedores, contas).
 3. **5 políticas escritas** (segurança da informação, *backups*, palavras-passe, controlo de acessos, formação).
 4. **2 planos** (resposta a incidentes + continuidade de negócio).
 5. **1 matriz** (risco).

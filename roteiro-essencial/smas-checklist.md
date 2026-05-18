@@ -37,19 +37,19 @@ Use em conjunto com a checklist principal. As peças aqui marcadas com **(SMAS)*
 
 **Template específico**: [`matriz-risco-setor-agua-potavel-nis2.xlsx`]({{ '/templates/matriz-risco-setor-agua-potavel-nis2.xlsx' | relative_url }}).
 
-## Inventário de activos com componente OT
+## Inventário de ativos com componente OT
 
 | Peça | Forma | Notas |
 |---|---|---|
-| ☐ **(SMAS) Inventário separado de activos OT** | Folha Excel | SCADA, PLCs, sensores telemetria, equipamentos de bombagem, válvulas controladas, contadores inteligentes |
+| ☐ **(SMAS) Inventário separado de ativos OT** | Folha Excel | SCADA, PLCs, sensores telemetria, equipamentos de bombagem, válvulas controladas, contadores inteligentes |
 | ☐ **(SMAS) Mapa de dependências OT ↔ TIC corporativa** | Diagrama | Identificar onde as duas redes se tocam (estação de gestão SCADA, exportação para tarifário, etc.) |
 | ☐ **(SMAS) Lista de fornecedores OT** | Folha Excel | Distinto da lista de fornecedores TIC. Fornecedores SCADA são tipicamente especializados (Schneider, Siemens, ABB, Endress+Hauser) |
 
-## Arquitectura de rede
+## Arquitetura de rede
 
 | Peça | Forma | Critério |
 |---|---|---|
-| ☐ **(SMAS) Diagrama de segregação rede TIC ↔ rede OT** | Diagrama de rede | Sem rota directa entre TIC corporativa e OT. Ponte unidireccional (data diode) ou firewall industrial dedicado |
+| ☐ **(SMAS) Diagrama de segregação rede TIC ↔ rede OT** | Diagrama de rede | Sem rota direta entre TIC corporativa e OT. Ponte unidireccional (data diode) ou firewall industrial dedicado |
 | ☐ **(SMAS) Política de acessos a OT** | Documento | FIDO2 obrigatório, sem acessos remotos não-controlados, jump host obrigatório |
 | ☐ **(SMAS) Auditoria semestral das permissões OT** | Relatório | Para Grupo A e SMAS Substancial+ |
 

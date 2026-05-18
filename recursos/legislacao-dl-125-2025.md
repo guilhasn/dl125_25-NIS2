@@ -5,15 +5,15 @@ parent: "Legislação"
 nav_order: 1
 ---
 
-# DL 125/2025 — Regime Jurídico da Ciberseguranca
+# DL 125/2025 — Regime Jurídico da Cibersegurança
 
 **Publicação:** Diário da República, 1.ª série, n.º 234, de **4 de Dezembro de 2025** (decreto-lei aprovado pelo Conselho de Ministros, sancionado pelo Presidente da República e referendado pelo Primeiro-Ministro).
 
 **Entrada em vigor:** 3 de Abril de 2026 (*art. 11.º do articulado preambular*{:.legal} — 120 dias após publicação).
 
-**Texto integral:** [DRE — página oficial do diploma](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401){:target="_blank"} (página detalhe no Diário da República Electrónico, com PDF descarregável).
+**Texto integral:** [DRE — página oficial do diploma](https://diariodarepublica.pt/dr/detalhe/decreto-lei/125-2025-962603401){:target="_blank"} (página detalhe no Diário da República Eletrónico, com PDF descarregável).
 
-**Estrutura:** o DL tem 11 artigos preambulares + **anexo** que contém o **Regime Jurídico da Ciberseguranca (RJC)** propriamente dito, com 87 artigos repartidos por 9 capítulos + 3 anexos.
+**Estrutura:** o DL tem 11 artigos preambulares + **anexo** que contém o **Regime Jurídico da Cibersegurança (RJC)** propriamente dito, com 87 artigos repartidos por 9 capítulos + 3 anexos.
 
 ## Articulado preambular (11 artigos) {#articulado-preambular}
 
@@ -28,7 +28,7 @@ nav_order: 1
 
 ### `art. 1.º` Objecto {#art-1}
 
-Define que o RJC estabelece o regime jurídico da ciberseguranca, transpondo a Directiva (UE) 2022/2555.
+Define que o RJC estabelece o regime jurídico da cibersegurança, transpondo a Diretiva (UE) 2022/2555.
 
 ### `art. 3.º` Âmbito subjectivo {#art-3}
 
@@ -54,7 +54,7 @@ Aplicação: [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-ab
 
 ### `art. 8.º` Procedimento de qualificação {#art-8}
 
-> «As entidades referidas no artigo anterior são qualificadas após procedimento de auto-identificação na plataforma electrónica disponibilizada pelo CNCS, no prazo de **60 dias** após a sua disponibilização.»
+> «As entidades referidas no artigo anterior são qualificadas após procedimento de auto-identificação na plataforma eletrónica disponibilizada pelo CNCS, no prazo de **60 dias** após a sua disponibilização.»
 
 O CNCS pode também qualificar oficiosamente (n.os 3 e 4).
 
@@ -62,7 +62,7 @@ Aplicação: [A.3 Plataforma MyCiber]({% link 00-enquadramento/a3-plataforma-cnc
 
 ## RJC — Capítulo II: Instrumentos estruturantes (arts. 11.º a 14.º) {#cap-2}
 
-Trata da Estratégia Nacional de Cibersegurança (ENSC), do plano de resposta a crises e do Quadro Nacional de Referência (QNRCS). Não cria obrigações directas a autarquias mas estabelece o vocabulário de referência.
+Trata da Estratégia Nacional de Cibersegurança (ENSC), do plano de resposta a crises e do Quadro Nacional de Referência (QNRCS). Não cria obrigações diretas a autarquias mas estabelece o vocabulário de referência.
 
 ## RJC — Capítulo III: Quadro institucional (arts. 15.º a 24.º) {#cap-3}
 
@@ -74,7 +74,7 @@ Conselho Superior de Segurança do Ciberespaço (CSSC), Comissão de Acompanhame
 
 ### `art. 25.º` Obrigações dos órgãos de gestão {#art-25}
 
-Para essenciais e importantes. **Não se aplica directamente à parte câmara** das autarquias; **aplica-se ao conselho de administração do SMAS** ou da empresa municipal em dupla qualificação.
+Para essenciais e importantes. **Não se aplica diretamente à parte câmara** das autarquias; **aplica-se ao conselho de administração do SMAS** ou da empresa municipal em dupla qualificação.
 
 ### `art. 26.º` Sistema de gestão de riscos {#art-26}
 
@@ -82,15 +82,15 @@ Para essenciais e importantes. **Não se aplica directamente à parte câmara** 
 
 Apenas para essenciais e importantes. Para autarquias, a obrigação equivalente está no *art. 33.º do RJC*{:.legal}, com regulamentação no Anexo IV do Aviso.
 
-### `art. 27.º` Medidas de ciberseguranca — 9 áreas {#art-27}
+### `art. 27.º` Medidas de cibersegurança — 9 áreas {#art-27}
 
-Enumera **9 alíneas** de medidas: a) tratamento de incidentes; b) continuidade, *backups*, recuperação; c) cadeia de fornecimento; d) aquisição/desenvolvimento/vulnerabilidades; e) avaliação de eficácia; f) ciber-higiene e formação; g) criptografia; h) segurança RH + acessos + activos; i) MFA + comunicações seguras.
+Enumera **9 alíneas** de medidas: a) tratamento de incidentes; b) continuidade, *backups*, recuperação; c) cadeia de fornecimento; d) aquisição/desenvolvimento/vulnerabilidades; e) avaliação de eficácia; f) ciber-higiene e formação; g) criptografia; h) segurança RH + acessos + ativos; i) MFA + comunicações seguras.
 
 Apenas para essenciais e importantes; para autarquias, traduz-se em medidas do **Anexo IV do Aviso 5146/2026/2** (ver [B.1 — mapa de correspondência]({% link 01-gestao-risco/b1-art27-panorama.md %})).
 
 ### `art. 28.º` Cadeia de abastecimento {#art-28}
 
-> «As entidades essenciais e importantes (...) gerem os riscos de ciberseguranca que se colocam na cadeia de abastecimento (...).»
+> «As entidades essenciais e importantes (...) gerem os riscos de cibersegurança que se colocam na cadeia de abastecimento (...).»
 
 Para essenciais e importantes. Para autarquias, equivalente atenuado: medida [O.PSF]({% link recursos/anexo-iv-aviso-5146.md %}#o-psf) do Anexo IV. Ver [D.1]({% link 03-outras-medidas/d1-cadeia-fornecimento.md %}).
 
@@ -104,23 +104,23 @@ Para essenciais e importantes. **Não se aplica à parte câmara** das autarquia
 
 ### `art. 32.º` Ponto de Contacto Permanente (PCP) {#art-32-rjc}
 
-> Para essenciais e importantes — distinto do art. 32.º do Aviso (lista de activos públicos), que se aplica a todas as entidades.
+> Para essenciais e importantes — distinto do art. 32.º do Aviso (lista de ativos públicos), que se aplica a todas as entidades.
 
 ### `art. 33.º` Medidas para entidades públicas relevantes — artigo-chave para autarquias {#art-33}
 
 **O artigo mais importante para autarquias.**
 
-> «As entidades públicas relevantes adoptam as medidas de ciberseguranca adequadas e proporcionais ao risco a que estão sujeitas, com base em regulamentação a aprovar pelo CNCS.»
+> «As entidades públicas relevantes adoptam as medidas de cibersegurança adequadas e proporcionais ao risco a que estão sujeitas, com base em regulamentação a aprovar pelo CNCS.»
 
 A regulamentação concreta está no **Anexo IV do Aviso 5146/2026/2** — não nos arts. 26.º a 32.º. Aplicação detalhada: [B.1 Panorama do art. 27.º]({% link 01-gestao-risco/b1-art27-panorama.md %}).
 
 ### `art. 34.º` Certificação {#art-34}
 
-Certificação voluntária. Sem aplicação directa a autarquias.
+Certificação voluntária. Sem aplicação direta a autarquias.
 
 ### `art. 35.º` Dever de registo {#art-35}
 
-Registo na plataforma electrónica (ver *art. 8.º do RJC*{:.legal}).
+Registo na plataforma eletrónica (ver *art. 8.º do RJC*{:.legal}).
 
 ## RJC — Capítulo V: Prevenção e tratamento de incidentes (arts. 38.º a 51.º) {#cap-5}
 
@@ -142,7 +142,7 @@ Define o que se notifica e a quem. **N.º 3 fixa o critério de "incidente signi
 
 ### `art. 41.º` Tipos de notificação {#art-41}
 
-Define os tipos: inicial, actualização facultativa, fim de impacto, relatório final e intercalar.
+Define os tipos: inicial, atualização facultativa, fim de impacto, relatório final e intercalar.
 
 **Importante**: incidente resolvido em 2 horas dispensa notificação inicial.
 
@@ -152,7 +152,7 @@ Define os tipos: inicial, actualização facultativa, fim de impacto, relatório
 
 **N.º 2** fixa os campos obrigatórios: identificação, hora de verificação, descrição sumária, estimativa de impacto, outras informações relevantes.
 
-**N.º 3** permite actualização facultativa (72h).
+**N.º 3** permite atualização facultativa (72h).
 
 Aplicação: [C.3 Conteúdo de cada notificação]({% link 02-notificacao-incidentes/c3-conteudo-notificacao.md %}).
 
@@ -160,7 +160,7 @@ Aplicação: [C.3 Conteúdo de cada notificação]({% link 02-notificacao-incide
 
 > «As entidades efectuam a notificação de fim de impacto significativo nas 24 horas seguintes à cessação do impacto.»
 
-Específica do regime português (não existe na directiva NIS2).
+Específica do regime português (não existe na diretiva NIS2).
 
 ### `art. 44.º` Relatório final {#art-44}
 
@@ -168,9 +168,9 @@ Específica do regime português (não existe na directiva NIS2).
 
 ### `art. 48.º` Comunicação aos destinatários {#art-48}
 
-> «O CNCS pode determinar que a entidade afectada informe os destinatários dos serviços (...) ou fazê-lo directamente.»
+> «O CNCS pode determinar que a entidade afetada informe os destinatários dos serviços (...) ou fazê-lo diretamente.»
 
-Distinto do dever do RGPD de comunicar a titulares afectados em violação de dados (art. 34.º RGPD). Pode acumular.
+Distinto do dever do RGPD de comunicar a titulares afetados em violação de dados (art. 34.º RGPD). Pode acumular.
 
 ## RJC — Capítulo VI: Supervisão (arts. 52.º a 60.º) {#cap-6}
 
@@ -182,7 +182,7 @@ Para essenciais. Inspecções programadas, relatório anual, acesso facilitado.
 
 **Regime aplicável a autarquias.**
 
-> «O Centro Nacional de Cibersegurança exerce a supervisão das entidades públicas relevantes em momento posterior ao da prática dos actos ou da ocorrência dos factos, podendo aceder (...).»
+> «O Centro Nacional de Cibersegurança exerce a supervisão das entidades públicas relevantes em momento posterior ao da prática dos atos ou da ocorrência dos factos, podendo aceder (...).»
 
 Aplicação: [E.1 Supervisão ex post]({% link 04-supervisao-roadmap/e1-supervisao.md %}).
 
@@ -216,7 +216,7 @@ Aplicação: [A.4 Prazos, sanções e amnistia]({% link 00-enquadramento/a4-praz
 
 ### `art. 67.º` Sanções acessórias {#art-67}
 
-Para além da coima, possíveis: proibição de actividade, privação de subsídios, **privação do direito de participar em concursos públicos** (até 3 anos), suspensão de licenças, **interdição temporária do exercício de cargos** (relevante para titulares municipais), publicidade da decisão condenatória.
+Para além da coima, possíveis: proibição de atividade, privação de subsídios, **privação do direito de participar em concursos públicos** (até 3 anos), suspensão de licenças, **interdição temporária do exercício de cargos** (relevante para titulares municipais), publicidade da decisão condenatória.
 
 ### `art. 68.º` Sanção pecuniária compulsória {#art-68}
 

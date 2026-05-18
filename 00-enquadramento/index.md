@@ -21,20 +21,20 @@ has_children: true
 
 Este é o primeiro bloco da formação. Antes de discutir qualquer obrigação técnica concreta, fixamos a base: **de onde vem a lei**, **a quem se aplica**, **como se comunica com o CNCS**, e **o que custa não cumprir**. Sem este enquadramento, qualquer leitura posterior do regime corre o risco de ser feita à letra errada — aplicar a uma autarquia obrigações pensadas para entidades essenciais, ou ignorar prazos que já estão a correr.
 
-## Objectivos do bloco
+## Objetivos do bloco
 
 Ao final do bloco, cada formando deve ser capaz de:
 
 1. Identificar a **fonte legal** de qualquer obrigação NIS2 invocada num documento (DL ou Aviso, capítulo e artigo).
-2. **Classificar a sua autarquia** correctamente: Grupo A, Grupo B, ou fora do regime obrigatório — e detectar **dupla qualificação** quando exista (SMAS de água, empresa municipal de resíduos, etc.).
-3. Explicar **para que serve** a plataforma electrónica do CNCS e **que prazos** começam a correr a partir dela.
+2. **Classificar a sua autarquia** corretamente: Grupo A, Grupo B, ou fora do regime obrigatório — e detetar **dupla qualificação** quando exista (SMAS de água, empresa municipal de resíduos, etc.).
+3. Explicar **para que serve** a plataforma eletrónica do CNCS e **que prazos** começam a correr a partir dela.
 4. Quantificar o **risco sancionatório** próprio (coimas Grupo A vs Grupo B) e perceber por que razão a "amnistia" do art. 65.º **não é automática**.
 
 ## Sub-páginas
 
 1. [A.1 Origem e estrutura dos diplomas]({% link 00-enquadramento/a1-origem-diplomas.md %}) (15 min) — A cadeia UE → DL 125/2025 → Aviso 5146/2026, mapa visual dos capítulos, o que importa para autarquias.
 2. [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}) (30 min, com exercício) — "Administração autónoma" desambiguada, árvore de decisão Grupo A/B, dupla qualificação. **Exercício A1**.
-3. [A.3 Plataforma electrónica do CNCS]({% link 00-enquadramento/a3-plataforma-cncs.md %}) (20 min, com demo) — Funcionalidades, autenticação por CC/CMD, prazos críticos, falência do sistema.
+3. [A.3 Plataforma eletrónica do CNCS]({% link 00-enquadramento/a3-plataforma-cncs.md %}) (20 min, com demo) — Funcionalidades, autenticação por CC/CMD, prazos críticos, falência do sistema.
 4. [A.4 Prazos, sanções e amnistia]({% link 00-enquadramento/a4-prazos-sancoes.md %}) (10 min) — Linha do tempo até Abril 2027, tabela de coimas por grupo, sanções acessórias, leitura cuidadosa do art. 65.º.
 
 ## Após este bloco

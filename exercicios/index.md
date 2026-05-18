@@ -34,7 +34,7 @@ Não há *breakout rooms* nem trabalho em grupos pequenos — a dinâmica é **e
 |---|---|---|---|---|
 | [A1]({% link exercicios/a1-classificacao.md %}) | **Classificação da autarquia** | 10 min | A.2 | Lista das entidades operacionais com Grupo A/B/fora ou essencial |
 | [A2]({% link exercicios/a2-matriz-risco.md %}) | **Matriz de risco** | 15 min | B.2 | 3 riscos identificados com P × I e tratamento decidido |
-| [A3]({% link exercicios/a3-inventario.md %}) | **Top 5 activos críticos** | 10 min | B.3 | 5 activos com responsável e dependência principal |
+| [A3]({% link exercicios/a3-inventario.md %}) | **Top 5 ativos críticos** | 10 min | B.3 | 5 ativos com responsável e dependência principal |
 | [A4]({% link exercicios/a4-notificacao.md %}) | **Simulação de notificação 24h** | 25 min | C.6 | Notificação inicial preenchida para um cenário sorteado |
 | [A5]({% link exercicios/a5-fornecedores.md %}) | **Top 5 fornecedores TIC** | 10 min | D.1 | 5 fornecedores classificados por criticidade |
 

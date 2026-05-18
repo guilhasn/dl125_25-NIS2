@@ -15,7 +15,7 @@ Para cada ficha apresentam-se: **decisão de notificação + cronograma + canais
 
 ## Ficha 1 — Ransomware
 
-**Detecção 15:32 · Verificação 15:48 · ~40.000 ficheiros · Indícios de exfiltração**
+**Deteção 15:32 · Verificação 15:48 · ~40.000 ficheiros · Indícios de exfiltração**
 
 ### Decisão de notificação
 
@@ -23,9 +23,9 @@ Para cada ficha apresentam-se: **decisão de notificação + cronograma + canais
 
 ### Cronograma decisivo
 
-| Tempo | Acção |
+| Tempo | Ação |
 |---|---|
-| T0 = 15:32 | Detecção (alerta da equipa TIC) |
+| T0 = 15:32 | Deteção (alerta da equipa TIC) |
 | T1 = 15:48 | **Verificação** — relógio NIS2 (24h) e RGPD (72h) iniciam |
 | T1 + 1h | Activação do plano de resposta: isolar servidores, notificar DPO e gabinete, contactar fornecedor de M365 e backup, abrir registo cronológico |
 | T1 + 6h | Confirmação de impacto e início do rascunho da notificação 24h |
@@ -53,26 +53,26 @@ Para cada ficha apresentam-se: **decisão de notificação + cronograma + canais
 
 2. HORA DE VERIFICAÇÃO DO INCIDENTE
    15:48 do dia [data]
-   (T0 = 15:32 detecção; T1 = 15:48 verificação técnica pela equipa TIC)
+   (T0 = 15:32 deteção; T1 = 15:48 verificação técnica pela equipa TIC)
 
 3. DESCRIÇÃO SUMÁRIA
    Ataque de ransomware contra três servidores internos da Câmara, incluindo
    o servidor que aloja a aplicação de registo civil e a aplicação de
    aprovisionamento. Bloqueio observável dos ficheiros com mensagem de
    pedido de resgate em criptomoeda. Aproximadamente 40.000 ficheiros
-   afectados em volumes partilhados. Indícios fortes de exfiltração prévia
+   afetados em volumes partilhados. Indícios fortes de exfiltração prévia
    de pastas contendo dados pessoais de munícipes.
 
 4. ESTIMATIVA DE IMPACTO
-   - Serviços afectados: registo civil (atendimento on-line e presencial),
+   - Serviços afetados: registo civil (atendimento on-line e presencial),
      aprovisionamento, partilha de ficheiros internos.
    - Duração estimada: indeterminada à data — investigação em curso, com
      activação do plano de recuperação a partir de backups offline.
-   - Munícipes potencialmente afectados: pendente de análise forense da
+   - Munícipes potencialmente afetados: pendente de análise forense da
      exfiltração; estimativa preliminar até [N] titulares (processos de
      [áreas]).
    - Dimensão dos dados: indícios de exfiltração de [tipos de dados,
-     ex.: dados de identificação civil, processos de acção social].
+     ex.: dados de identificação civil, processos de ação social].
 
 5. OUTRAS INFORMAÇÕES RELEVANTES
    - Suspeita fundada de crime informático — será efectuada participação ao
@@ -80,7 +80,7 @@ Para cada ficha apresentam-se: **decisão de notificação + cronograma + canais
    - Será efectuada notificação paralela à CNPD nos termos do art. 33.º RGPD
      no prazo das 72h.
    - Cópias de segurança offline disponíveis (validação técnica em curso).
-   - Sistemas afectados isolados da rede.
+   - Sistemas afetados isolados da rede.
 ```
 
 ### Comunicação externa
@@ -101,18 +101,18 @@ A pressão do Vereador para comunicar à imprensa em 30 minutos. **Não ceder**.
 
 ### Decisão de notificação
 
-**Sim, notificar** ao CNCS em **24h após verificação (T1 = 09:15 da recepção do comunicado → T2 ≤ 09:15 do dia seguinte)**. O art. 42.º, n.º 1 do RJC exige notificação quando «possa vir a existir um incidente significativo» — não obriga a aguardar confirmação. Atinge o limiar por **dois parâmetros**: (1) potencial violação de dados pessoais de munícipes em volume relevante (5.000 processos sensíveis), (2) impossibilidade de excluir impacto operacional até confirmação do fornecedor.
+**Sim, notificar** ao CNCS em **24h após verificação (T1 = 09:15 da receção do comunicado → T2 ≤ 09:15 do dia seguinte)**. O art. 42.º, n.º 1 do RJC exige notificação quando «possa vir a existir um incidente significativo» — não obriga a aguardar confirmação. Atinge o limiar por **dois parâmetros**: (1) potencial violação de dados pessoais de munícipes em volume relevante (5.000 processos sensíveis), (2) impossibilidade de excluir impacto operacional até confirmação do fornecedor.
 
 ### Cronograma decisivo
 
-| Tempo | Acção |
+| Tempo | Ação |
 |---|---|
-| T0 = 09:15 | Recepção do comunicado do fornecedor |
+| T0 = 09:15 | Receção do comunicado do fornecedor |
 | T0 = T1 | **Verificação** acontece simultaneamente — a entidade não tem visibilidade própria, depende do fornecedor; o relógio começa **agora** |
 | T1 + 1h | Activação interna: DPO + jurídico + chefia TIC. Activação da **cláusula contratual** com o fornecedor (informação detalhada em 24-48h, evidência preservada, plano de mitigação) |
-| T1 + 6h | Comunicação ao fornecedor exigindo: lista exacta dos vossos dados afectados, vector de compromisso, IoCs, plano de remediação. **Em formal**, não verbal |
+| T1 + 6h | Comunicação ao fornecedor exigindo: lista exata dos vossos dados afetados, vector de compromisso, IoCs, plano de remediação. **Em formal**, não verbal |
 | T1 + 24h | **Submissão da notificação inicial CNCS** mesmo sem confirmação completa do fornecedor — usar campos com «pendente de investigação do fornecedor» |
-| T1 + 72h | Notificação RGPD à CNPD (em paralelo) — mesmo princípio: notificar com informação parcial e actualizar |
+| T1 + 72h | Notificação RGPD à CNPD (em paralelo) — mesmo princípio: notificar com informação parcial e atualizar |
 | T1 + 30 dias | Relatório final, em articulação com o fornecedor |
 
 ### Canais accionados (matriz)
@@ -121,56 +121,56 @@ A pressão do Vereador para comunicar à imprensa em 30 minutos. **Não ceder**.
 |---|---|---|
 | **CNCS** (NIS2) | ✅ Sim | A entidade pública relevante é a **vossa câmara** — não o fornecedor. Vocês têm de notificar. |
 | **CNPD** (RGPD) | ✅ Sim | Vocês são o responsável pelo tratamento, o fornecedor é subcontratante. A notificação cabe ao responsável. |
-| **MP / Lei 109/2009** | ⚠️ Provável | Acto doloso provável (acesso não autorizado a servidores). Participação ao MP — geralmente o fornecedor já o fez, mas é prudente confirmar e referenciar |
+| **MP / Lei 109/2009** | ⚠️ Provável | Ato doloso provável (acesso não autorizado a servidores). Participação ao MP — geralmente o fornecedor já o fez, mas é prudente confirmar e referenciar |
 | **Comunicação a munícipes** (art. 48.º) | ⏳ Aguardar | Sem confirmação de exfiltração, prematuro. Decidir após resposta detalhada do fornecedor (T1 + 24-72h) |
 
 ### Notificação 24h modelo (resumo)
 
 ```
 2. HORA DE VERIFICAÇÃO
-   09:15 do dia [data] — momento da recepção do comunicado do fornecedor
+   09:15 do dia [data] — momento da receção do comunicado do fornecedor
    (não momento em que o fornecedor detectou).
 
 3. DESCRIÇÃO SUMÁRIA
    Comunicado recebido do fornecedor da aplicação de Gestão Documental
-   ([nome do fornecedor]) informando da detecção de acessos não autorizados
+   ([nome do fornecedor]) informando da deteção de acessos não autorizados
    a servidores partilhados na semana de [datas]. O fornecedor não confirma,
    à data, se dados da Câmara foram acedidos. A Câmara mantém ~5.000
    processos com dados pessoais de munícipes na referida plataforma.
 
 4. ESTIMATIVA DE IMPACTO
    - Confirmação de exfiltração: pendente. Estimativa máxima ~5.000
-     titulares com dados em [áreas: urbanismo, acção social, etc.].
-   - Serviços afectados pela aplicação: gestão documental interna. Sem
-     impacto directo no atendimento.
+     titulares com dados em [áreas: urbanismo, ação social, etc.].
+   - Serviços afetados pela aplicação: gestão documental interna. Sem
+     impacto direto no atendimento.
 
 5. OUTRAS INFORMAÇÕES RELEVANTES
    - Cláusulas contratuais de notificação activadas; investigação coordenada
      com o fornecedor.
    - Notificação à CNPD em paralelo (no prazo das 72h).
-   - Actualização será submetida ao CNCS quando o fornecedor confirmar o
+   - Atualização será submetida ao CNCS quando o fornecedor confirmar o
      âmbito (estimativa: T+48-72h).
 ```
 
 ### Ponto sensível
 
-A **distinção entre causa próxima e responsabilidade legal**. O incidente é do fornecedor — mas a entidade legalmente responsável perante o CNCS e a CNPD é a câmara. **Não esperar pelo fornecedor** para notificar; notificar com informação parcial e actualizar. O contrato com o fornecedor deve já prever esta cooperação; se não prevê, **isto é a lição mais importante** deste cenário: rever as cláusulas contratuais de todos os fornecedores TIC críticos. Ver [D.1 — Cadeia de fornecimento]({% link 03-outras-medidas/d1-cadeia-fornecimento.md %}).
+A **distinção entre causa próxima e responsabilidade legal**. O incidente é do fornecedor — mas a entidade legalmente responsável perante o CNCS e a CNPD é a câmara. **Não esperar pelo fornecedor** para notificar; notificar com informação parcial e atualizar. O contrato com o fornecedor deve já prever esta cooperação; se não prevê, **isto é a lição mais importante** deste cenário: rever as cláusulas contratuais de todos os fornecedores TIC críticos. Ver [D.1 — Cadeia de fornecimento]({% link 03-outras-medidas/d1-cadeia-fornecimento.md %}).
 
 ---
 
 ## Ficha 3 — DDoS contra o Portal do Munícipe
 
-**Detecção 09:30 · Verificação 09:45 · 90 minutos sem serviço · IPs estrangeiros · Prazos legais a expirar**
+**Deteção 09:30 · Verificação 09:45 · 90 minutos sem serviço · IPs estrangeiros · Prazos legais a expirar**
 
 ### Decisão de notificação
 
-**Sim, notificar** ao CNCS — mas com **timing cuidado**. Aos 90 minutos não atinge ainda claramente o limiar de «significativo» (não há violação de dados; não há paragem catastrófica). **Monitorizar 30-60 min adicionais**: se persistir aos 2-4h **e** afectar prazos legais materiais para munícipes, atinge claramente o limiar. Critério prático: 4 horas de indisponibilidade contínua é o marco operacional informal.
+**Sim, notificar** ao CNCS — mas com **timing cuidado**. Aos 90 minutos não atinge ainda claramente o limiar de «significativo» (não há violação de dados; não há paragem catastrófica). **Monitorizar 30-60 min adicionais**: se persistir aos 2-4h **e** afetar prazos legais materiais para munícipes, atinge claramente o limiar. Critério prático: 4 horas de indisponibilidade contínua é o marco operacional informal.
 
 ### Cronograma decisivo
 
-| Tempo | Acção |
+| Tempo | Ação |
 |---|---|
-| T0 = 09:30 | Detecção do tráfego anómalo |
+| T0 = 09:30 | Deteção do tráfego anómalo |
 | T1 = 09:45 | **Verificação** de DDoS volumétrico em curso — relógio inicia condicional |
 | T1 + 30 min | Activação plano de continuidade: comunicação a munícipes pela página alternativa + redes sociais, canal de e-mail dedicado para requerimentos urgentes |
 | T1 + 2h | Re-avaliação: se persistir, **notificação CNCS torna-se claramente obrigatória** |
@@ -181,8 +181,8 @@ A **distinção entre causa próxima e responsabilidade legal**. O incidente é 
 
 | Canal | Sim/Não | Justificação |
 |---|---|---|
-| **CNCS** (NIS2) | ✅ Sim, condicional ao tempo | Se persistir > 4h ou afectar prazos legais materiais |
-| **CNPD** (RGPD) | ❌ Provavelmente não | DDoS é negação de serviço, não acesso a dados. **Excepção**: se houver indícios de DDoS como diversão para ataque paralelo a dados — escalar |
+| **CNCS** (NIS2) | ✅ Sim, condicional ao tempo | Se persistir > 4h ou afetar prazos legais materiais |
+| **CNPD** (RGPD) | ❌ Provavelmente não | DDoS é negação de serviço, não acesso a dados. **Exceção**: se houver indícios de DDoS como diversão para ataque paralelo a dados — escalar |
 | **MP** | ⚠️ Possível | Se houver pedido de resgate ou motivação criminal identificada |
 | **Comunicação a munícipes** | ✅ **Sim, na 1.ª hora** | Não é art. 48.º (ainda) — é boa prática de transparência. Página alternativa + redes sociais + e-mail dedicado para requerimentos urgentes |
 
@@ -201,11 +201,11 @@ A **distinção entre causa próxima e responsabilidade legal**. O incidente é 
    violação de confidencialidade.
 
 4. ESTIMATIVA DE IMPACTO
-   - Serviços afectados: Portal do Munícipe, formulários on-line de
+   - Serviços afetados: Portal do Munícipe, formulários on-line de
      [tipos].
-   - Munícipes afectados: estimados [N] tentativas de acesso falhadas;
+   - Munícipes afetados: estimados [N] tentativas de acesso falhadas;
      prazos legais para [N] requerimentos administrativos potencialmente
-     comprometidos — comunicação proactiva efectuada.
+     comprometidos — comunicação proativa efectuada.
    - Sem comprometimento de dados pessoais conhecido.
 
 5. OUTRAS INFORMAÇÕES RELEVANTES
@@ -219,18 +219,18 @@ A **distinção entre causa próxima e responsabilidade legal**. O incidente é 
 ### Comunicação a munícipes (não é art. 48.º, é boa prática)
 
 - **T1 + 30 min**: aviso na rede social institucional + página alternativa estática (se existir) com mensagem-tipo: «Portal temporariamente indisponível por questão técnica. Requerimentos urgentes: [e-mail dedicado]. Atendimento presencial inalterado. Actualizaremos esta página quando o serviço regressar.»
-- **T1 + 4h**: actualização se ainda em curso.
+- **T1 + 4h**: atualização se ainda em curso.
 - **Após fim**: comunicado de fim, sem detalhes técnicos do ataque.
 
 ### Ponto sensível
 
-A **decisão temporal** sobre o limiar. Notificar com 30 minutos é precipitado e gera ruído ao CNCS. Não notificar com 6 horas é arriscado. A regra prática: **monitorizar activamente, notificar quando o impacto cumulado ultrapassar 4 horas ou quando se materializar prejuízo concreto a munícipes** (prazo legal perdido). Documentar a decisão e o raciocínio.
+A **decisão temporal** sobre o limiar. Notificar com 30 minutos é precipitado e gera ruído ao CNCS. Não notificar com 6 horas é arriscado. A regra prática: **monitorizar ativamente, notificar quando o impacto cumulado ultrapassar 4 horas ou quando se materializar prejuízo concreto a munícipes** (prazo legal perdido). Documentar a decisão e o raciocínio.
 
 ---
 
 ## Ficha 4 — Phishing com fraude ao Vereador
 
-**Detecção 13:42 · Verificação 13:55 · 200 e-mails fraudulentos · Bancos suspenderam · MFA inactivo**
+**Deteção 13:42 · Verificação 13:55 · 200 e-mails fraudulentos · Bancos suspenderam · MFA inactivo**
 
 ### Decisão de notificação
 
@@ -238,12 +238,12 @@ A **decisão temporal** sobre o limiar. Notificar com 30 minutos é precipitado 
 
 ### Cronograma decisivo
 
-| Tempo | Acção |
+| Tempo | Ação |
 |---|---|
-| T0 = 13:42 | Alerta automático do Microsoft 365 (detecção comportamental) |
+| T0 = 13:42 | Alerta automático do Microsoft 365 (deteção comportamental) |
 | T1 = 13:55 | **Verificação** — confirmação de envios não autorizados |
 | T1 + 5 min | Bloqueio imediato da conta + revogação de tokens + reset forçado de credenciais |
-| T1 + 30 min | Activação MFA obrigatório para todos os Vereadores e cargos de chefia (não estava activo!) |
+| T1 + 30 min | Activação MFA obrigatório para todos os Vereadores e cargos de chefia (não estava ativo!) |
 | T1 + 1h | Comunicação aos 200 fornecedores destinatários do *spear-phishing* — informar da fraude, alertar para potenciais e-mails subsequentes |
 | T1 + 6h | Análise forense da caixa — o que esteve acessível ao atacante durante [N] horas? |
 | T1 + 24h | **Submissão notificação CNCS** |
@@ -257,7 +257,7 @@ A **decisão temporal** sobre o limiar. Notificar com 30 minutos é precipitado 
 | **CNCS** (NIS2) | ✅ Sim | Limiar claramente ultrapassado |
 | **CNPD** (RGPD) | ✅ Sim | A caixa de e-mail do Vereador contém correspondência com dados de munícipes — violação de confidencialidade |
 | **MP / Lei 109/2009** | ✅ Sim | Falsificação informática + tentativa de fraude — crimes públicos |
-| **Comunicação a destinatários afectados** | ✅ Sim — aos 200 fornecedores | Não é estritamente o art. 48.º (não são todos munícipes), mas comunicação devida e urgente para prevenir consumação da fraude |
+| **Comunicação a destinatários afetados** | ✅ Sim — aos 200 fornecedores | Não é estritamente o art. 48.º (não são todos munícipes), mas comunicação devida e urgente para prevenir consumação da fraude |
 | **Bancos** | ✅ Sim — confirmação formal | Confirmar a paragem das transferências, registar IDs das tentativas para inquérito criminal |
 
 ### Notificação 24h modelo (resumo)
@@ -271,10 +271,10 @@ A **decisão temporal** sobre o limiar. Notificar com 30 minutos é precipitado 
    Compromisso da caixa de e-mail institucional de um Vereador
    ([cargo, sem nome se possível por segurança da investigação]) com envio
    de 200 e-mails fraudulentos a fornecedores municipais, contendo pedidos
-   de transferência bancária com falsificação de assinatura electrónica.
+   de transferência bancária com falsificação de assinatura eletrónica.
    Dois fornecedores tentaram efectuar as transferências; ambos os bancos
    suspenderam as operações em tempo. Vector inicial provável: phishing
-   dirigido ao Vereador, sem MFA activo na sua conta à data do incidente.
+   dirigido ao Vereador, sem MFA ativo na sua conta à data do incidente.
 
 4. ESTIMATIVA DE IMPACTO
    - Impacto financeiro materializado: nulo (bancos suspenderam).
@@ -285,7 +285,7 @@ A **decisão temporal** sobre o limiar. Notificar com 30 minutos é precipitado 
      ainda em curso.
 
 5. OUTRAS INFORMAÇÕES RELEVANTES
-   - MFA não estava activo na conta afectada à data do incidente; activação
+   - MFA não estava ativo na conta afetada à data do incidente; activação
      forçada para todas as contas privilegiadas como medida correctiva
      imediata.
    - Análise forense em curso para apurar o âmbito de exposição.
@@ -296,7 +296,7 @@ A **decisão temporal** sobre o limiar. Notificar com 30 minutos é precipitado 
 
 ### Ponto sensível
 
-O **factor humano + organizacional**. A conta tinha privilégios de Vereador, **sem MFA** — falha estrutural identificada no incidente. A acção correctiva imediata (activar MFA para todas as contas privilegiadas) deve ficar **documentada na notificação** como medida pós-incidente — demonstra postura activa, fundamenta argumentação para dispensa de coimas (art. 65.º), e fecha a vulnerabilidade explorada. Atenção também ao **discurso interno**: o Vereador pode resistir («mas eu não cliquei em nada»). Não é matéria de culpabilização individual — é de política institucional. Activar MFA para todos, incluindo o próprio executivo.
+O **fator humano + organizacional**. A conta tinha privilégios de Vereador, **sem MFA** — falha estrutural identificada no incidente. A ação correctiva imediata (activar MFA para todas as contas privilegiadas) deve ficar **documentada na notificação** como medida pós-incidente — demonstra postura ativa, fundamenta argumentação para dispensa de coimas (art. 65.º), e fecha a vulnerabilidade explorada. Atenção também ao **discurso interno**: o Vereador pode resistir («mas eu não cliquei em nada»). Não é matéria de culpabilização individual — é de política institucional. Activar MFA para todos, incluindo o próprio executivo.
 
 ---
 
@@ -311,11 +311,11 @@ O **factor humano + organizacional**. A conta tinha privilégios de Vereador, **
 
 ## O que estes 4 cenários ensinam ao plano de resposta
 
-1. **A hora de verificação não é a hora de detecção** — define-se com timestamps registados, não memória.
+1. **A hora de verificação não é a hora de deteção** — define-se com timestamps registados, não memória.
 2. **Notificar com informação parcial é melhor que esperar pela completa** — art. 42.º permite, e o atraso é mais grave.
 3. **CNCS, CNPD e MP são canais paralelos** — não substitutos. Triângulo.
 4. **A pressão política para comunicar à imprensa é gerida pelo gabinete, não pelo técnico** — não responder em 30 minutos.
-5. **As medidas correctivas pós-incidente fazem parte da notificação** — demonstram postura activa, são argumento de dispensa de coimas.
+5. **As medidas correctivas pós-incidente fazem parte da notificação** — demonstram postura ativa, são argumento de dispensa de coimas.
 6. **Cada incidente revela uma falha estrutural** — MFA, contrato com fornecedor, plano de continuidade, formação. O *post-mortem* (template [`template-post-incident-review-nis2.docx`]({{ '/templates/template-post-incident-review-nis2.docx' | relative_url }})) é onde se aprende.
 
 ## Próximo passo

@@ -135,7 +135,7 @@ def construir_ficha(numero: int, titulo: str, hora: str, narrativa: str,
     story.append(Spacer(1, 4 * mm))
     story.append(Paragraph(
         '<font size="7">'
-        'Formação NIS2 — A ciberseguranca nas autarquias locais · '
+        'Formação NIS2 — A cibersegurança nas autarquias locais · '
         'guilhasn.github.io/dl125_25-NIS2/'
         '</font>',
         estilo("rodape", fontSize=7, leading=9, textColor=HexColor("#808080"),

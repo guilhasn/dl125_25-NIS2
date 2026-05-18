@@ -22,7 +22,7 @@ A qualificação faz-se **por entidade jurídica autónoma**, não pelo conjunto
 
 Para isso convergem dois critérios:
 
-1. **Sector de actividade** — está no Anexo I (essenciais) ou Anexo II (importantes) do DL?
+1. **Sector de atividade** — está no Anexo I (essenciais) ou Anexo II (importantes) do DL?
 2. **Dimensão** — excede os limiares de **média empresa** do Anexo III do DL (≥ 50 trabalhadores **ou** ≥ 10 M€ de volume de negócios)?
 
 Se **sim a ambos**, a entidade qualifica como **essencial** (Anexo I) ou **importante** (Anexo II), independentemente da categoria-mãe da câmara.
@@ -52,10 +52,10 @@ O SMAS é constituído por **regulamento próprio aprovado pela assembleia munic
 A leitura mais defensável (ainda sem orientação oficial específica do CNCS):
 
 - A **câmara** continua a qualificar como entidade pública relevante (Grupo A/B).
-- **A actividade de águas**, por estar no Anexo I, pode levar o CNCS a **qualificar a câmara como entidade essencial** pelo *art. 6.º, n.º 1, al. d) RJC*{:.legal} — «integração digital elevada na prestação de serviços».
+- **A atividade de águas**, por estar no Anexo I, pode levar o CNCS a **qualificar a câmara como entidade essencial** pelo *art. 6.º, n.º 1, al. d) RJC*{:.legal} — «integração digital elevada na prestação de serviços».
 - Alternativamente, a câmara cumpre o regime do Anexo IV (pública relevante) e **acumula obrigações específicas** para a unidade de águas (matriz de risco sectorial do Anexo II do Aviso, plano sectorial, comunicação à ERSAR, etc.).
 
-Posição prática recomendada: **comunicar a situação ao CNCS no acto de auto-identificação** e pedir orientação. Documentar a estrutura organizacional e seguir, entretanto, o regime mais exigente como precaução.
+Posição prática recomendada: **comunicar a situação ao CNCS no ato de auto-identificação** e pedir orientação. Documentar a estrutura organizacional e seguir, entretanto, o regime mais exigente como precaução.
 
 ### Modelo 3 — Empresa municipal (EM) ou intermunicipal (EIM)
 
@@ -65,7 +65,7 @@ Posição prática recomendada: **comunicar a situação ao CNCS no acto de auto
 
 ### Modelo 4 — Adesão a operador multimunicipal
 
-**Caso típico**: câmaras que cederam o serviço de águas a operadores como Águas do Norte, Águas Públicas do Alentejo, Empresa Portuguesa das Águas Livres. A câmara delega a actividade no operador.
+**Caso típico**: câmaras que cederam o serviço de águas a operadores como Águas do Norte, Águas Públicas do Alentejo, Empresa Portuguesa das Águas Livres. A câmara delega a atividade no operador.
 
 **Consequência NIS2**: a entidade essencial é o **operador multimunicipal**. A câmara é só utente/contraente. Obrigação NIS2 da câmara cinge-se à **parte câmara**, sem componente água-essencial.
 
@@ -154,7 +154,7 @@ Câmaras grandes (Lisboa, Porto, Cascais, Sintra) podem ter **três entidades di
 
 **Implicações**: **4 registos** no MyCiber, **4 regimes** paralelos. A coordenação interna torna-se essencial — tipicamente faz-se via gabinete do executivo ou através de uma comissão intermunicipal.
 
-## A excepção do *art. 6.º, n.º 1, al. d) RJC*{:.legal}
+## A exceção do *art. 6.º, n.º 1, al. d) RJC*{:.legal}
 
 > O CNCS pode qualificar uma autarquia como **entidade essencial** mesmo sem operar sector Anexo I, se prestar «serviços nas áreas do desenvolvimento, manutenção e gestão de infraestruturas de TIC ou apresentar um grau particularmente elevado de integração digital na prestação dos seus serviços».
 
@@ -181,7 +181,7 @@ Para a **parte câmara**, basta um **ponto de contacto leve** (sem o formalismo 
 
 ### Notificação de incidentes
 
-| Incidente afecta... | Notificações |
+| Incidente afeta... | Notificações |
 |---|---|
 | Só sistema da câmara | 1 (em nome da câmara) |
 | Só sistema do SMAS/EM | 1 (em nome dessa entidade) |

@@ -10,37 +10,37 @@ nav_order: 6
 {: .highlight }
 > 📋 **Base legal:** art. 23.º + Anexo I do Aviso n.º 5146/2026/2. Aprovado como **instrumento estruturante** da segurança do ciberespaço (art. 22.º do RJC).
 
-O **Quadro Nacional de Referência para a Cibersegurança (QNRCS)** é o referencial nacional de controlos e medidas de cibersegurança publicado pelo CNCS. A versão actualmente em vigor é a **versão 2 (QNRCS v2)**, constante do **Anexo I do Aviso n.º 5146/2026/2** que regulamenta o Decreto-Lei n.º 125/2025.
+O **Quadro Nacional de Referência para a Cibersegurança (QNRCS)** é o referencial nacional de controlos e medidas de cibersegurança publicado pelo CNCS. A versão atualmente em vigor é a **versão 2 (QNRCS v2)**, constante do **Anexo I do Aviso n.º 5146/2026/2** que regulamenta o Decreto-Lei n.º 125/2025.
 
 A versão anterior (QNRCS 2019, ainda disponível em PDF público no sítio do CNCS) está desactualizada. **Toda a referência a "QNRCS" no presente manual respeita à v2**, salvo indicação em contrário.
 
 ## O que mudou da versão 2019 para a v2
 
-| Aspecto | QNRCS 2019 | QNRCS v2 (Anexo I) |
+| Aspeto | QNRCS 2019 | QNRCS v2 (Anexo I) |
 |---|---|---|
-| **Objectivos** | 5 (Identificar · Proteger · Detectar · Responder · Recuperar) | **6** — acrescenta **Gerir** |
+| **Objetivos** | 5 (Identificar · Proteger · Detetar · Responder · Recuperar) | **6** — acrescenta **Gerir** |
 | **Níveis** | 3 (Inicial · Intermédio · Avançado) | **3 cumulativos**: Básico ⊂ Substancial ⊂ Elevado |
 | **Alinhamento internacional** | NIST CSF 1.x · ISO 27001:2013 | NIST CSF 2.0 · ISO 27001/27002:2022 · CIS v8.1 · NIST SP 800-53 Rev.5 · CyberFundamentals |
 
-## Os 6 objectivos do QNRCS v2
+## Os 6 objetivos do QNRCS v2
 
-| Objectivo | Sigla | Propósito |
+| Objetivo | Sigla | Propósito |
 |---|---|---|
 | **Gerir** *(novo)* | GR | Condições transversais de governação: contexto, estratégia, funções, políticas, supervisão, cadeia de abastecimento. |
-| **Identificar** | ID | Conhecimento da entidade: activos, riscos, melhoria contínua. |
+| **Identificar** | ID | Conhecimento da entidade: ativos, riscos, melhoria contínua. |
 | **Proteger** | PR | Salvaguardas operacionais: identidades/acessos, formação, dados, plataformas, infraestrutura. |
-| **Detectar** | DE | Capacidade de identificar eventos e incidentes: monitorização, anomalias. |
-| **Responder** | RS | Acção perante incidente: gestão, análise, notificação, mitigação. |
+| **Detetar** | DE | Capacidade de identificar eventos e incidentes: monitorização, anomalias. |
+| **Responder** | RS | Ação perante incidente: gestão, análise, notificação, mitigação. |
 | **Recuperar** | RC | Restabelecimento pós-incidente: plano de recuperação e comunicação. |
 
 ## As 22 categorias
 
-| Objectivo | Categorias |
+| Objetivo | Categorias |
 |---|---|
 | GR — Gerir | GR.CO Contexto · GR.GR Estratégia de Risco · GR.FR Funções/Responsabilidades · GR.PP Políticas · GR.SP Supervisão · GR.CA Cadeia de Abastecimento |
-| ID — Identificar | ID.GA Gestão de Activos · ID.AR Avaliação do Risco · ID.MC Melhoria Contínua |
+| ID — Identificar | ID.GA Gestão de Ativos · ID.AR Avaliação do Risco · ID.MC Melhoria Contínua |
 | PR — Proteger | PR.GA Identidades/Acessos · PR.FC Formação · PR.SD Dados · PR.SP Plataformas · PR.RI Resiliência Infra |
-| DE — Detectar | DE.MC Monitorização Contínua · DE.AE Anomalias e Eventos |
+| DE — Detetar | DE.MC Monitorização Contínua · DE.AE Anomalias e Eventos |
 | RS — Responder | RS.GI Gestão · RS.AI Análise · RS.NC Notificação · RS.MI Mitigação |
 | RC — Recuperar | RC.PR Plano de Recuperação · RC.CO Comunicação |
 
@@ -54,7 +54,7 @@ O QNRCS v2 define para cada controlo medidas em **três níveis cumulativos**:
 - **Substancial** — pressupõe o Básico cumprido + medidas adicionais.
 - **Elevado** — pressupõe o Substancial cumprido + medidas avançadas.
 
-Para **autarquias** (entidades públicas relevantes, Grupo A/B), o objectivo realista é **Básico em todos os controlos relevantes** do Anexo IV. Substancial e Elevado são patamares aspiracionais — ou aplicáveis à parte SMAS/empresa municipal qualificada como entidade essencial (que segue o Anexo III com os mesmos níveis B/S/E).
+Para **autarquias** (entidades públicas relevantes, Grupo A/B), o objetivo realista é **Básico em todos os controlos relevantes** do Anexo IV. Substancial e Elevado são patamares aspiracionais — ou aplicáveis à parte SMAS/empresa municipal qualificada como entidade essencial (que segue o Anexo III com os mesmos níveis B/S/E).
 
 ## QNRCS vs Anexo IV — qual usar?
 
@@ -62,7 +62,7 @@ Para **autarquias** (entidades públicas relevantes, Grupo A/B), o objectivo rea
 |---|---|---|
 | **Natureza** | Referencial nacional completo de cibersegurança | Catálogo de medidas mínimas para autarquias |
 | **Universo** | Todas as entidades (essenciais, importantes, públicas relevantes) | Apenas entidades públicas relevantes Grupo A/B |
-| **Estrutura** | 6 objectivos · 22 categorias · ~107 controlos · 3 níveis | 27 medidas O/T/H, por Grupo |
+| **Estrutura** | 6 objetivos · 22 categorias · ~107 controlos · 3 níveis | 27 medidas O/T/H, por Grupo |
 | **Origem** | Derivado de NIST CSF 2.0, ISO 27001:2022, etc. | Derivado do QNRCS, adaptado a autarquias |
 | **Função pedagógica** | Mapa completo, referencial de maturidade | "Currículo mínimo" obrigatório |
 
@@ -78,7 +78,7 @@ Cada controlo do QNRCS v2 indica explicitamente, no texto do Anexo I, os control
 
 ## Auto-avaliação de maturidade — dois instrumentos
 
-Para usar o QNRCS v2 como ferramenta activa de auto-avaliação na vossa câmara, ver [**E.2.1 — Auto-avaliação de maturidade QNRCS**]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}). Existem **duas versões** do Excel:
+Para usar o QNRCS v2 como ferramenta ativa de auto-avaliação na vossa câmara, ver [**E.2.1 — Auto-avaliação de maturidade QNRCS**]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}). Existem **duas versões** do Excel:
 
 | Versão | Ficheiro | Controlos | Tempo de preenchimento | Para quem |
 |---|---|---|---|---|

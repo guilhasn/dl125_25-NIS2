@@ -9,7 +9,7 @@ nav_order: 2
 
 **Publicação:** Diário da República, 2.ª série, **10 de Março de 2026**.
 
-**Estado actual:** **versão de projecto** posta à consulta pública. A consulta terminou a **22 de Abril de 2026**. O CNCS está em fase de **análise dos contributos e redacção da versão final**, sem data anunciada para a publicação no Diário da República.
+**Estado atual:** **versão de projecto** posta à consulta pública. A consulta terminou a **22 de Abril de 2026**. O CNCS está em fase de **análise dos contributos e redação da versão final**, sem data anunciada para a publicação no Diário da República.
 
 **Entrada em vigor:** 5 dias após a publicação da versão final no DR (art. 35.º do Aviso).
 
@@ -17,7 +17,7 @@ nav_order: 2
 
 **Estrutura:** 5 capítulos, 35 artigos, 4 anexos.
 
-> ⚠️ Atenção: por o Aviso estar em fase de redacção da versão final, as referências de artigos abaixo podem sofrer reordenação ou ajustes terminológicos. Esta página será actualizada quando a versão final for publicada.
+> ⚠️ Atenção: por o Aviso estar em fase de redação da versão final, as referências de artigos abaixo podem sofrer reordenação ou ajustes terminológicos. Esta página será atualizada quando a versão final for publicada.
 
 ## Aviso — Capítulo I: Disposições gerais (arts. 1.º a 3.º) {#cap-1}
 
@@ -27,19 +27,19 @@ Aprovação do regulamento de execução do RJC.
 
 ### `art. 2.º` Definições {#art-2}
 
-Termos técnicos: incidente, vulnerabilidade, activo crítico, ponto de contacto, etc.
+Termos técnicos: incidente, vulnerabilidade, ativo crítico, ponto de contacto, etc.
 
 ### `art. 3.º` Níveis de conformidade {#art-3}
 
-Define os níveis **Básico / Substancial / Elevado** aplicáveis a entidades essenciais e importantes (Anexo III). **Não se aplica directamente à parte câmara** das autarquias (entidade pública relevante, Grupo A/B — segue o Anexo IV, sem níveis B/S/E). **Aplica-se, contudo, à parte SMAS ou empresa municipal** em dupla qualificação como entidade essencial/importante.
+Define os níveis **Básico / Substancial / Elevado** aplicáveis a entidades essenciais e importantes (Anexo III). **Não se aplica diretamente à parte câmara** das autarquias (entidade pública relevante, Grupo A/B — segue o Anexo IV, sem níveis B/S/E). **Aplica-se, contudo, à parte SMAS ou empresa municipal** em dupla qualificação como entidade essencial/importante.
 
-## Aviso — Capítulo II: Plataforma electrónica MyCiber (arts. 4.º a 19.º) {#cap-2}
+## Aviso — Capítulo II: Plataforma eletrónica MyCiber (arts. 4.º a 19.º) {#cap-2}
 
 **Capítulo central** para autarquias — define a plataforma única de comunicação com o CNCS.
 
 ### `art. 4.º` MyCiber {#art-4}
 
-> «O CNCS disponibiliza uma plataforma electrónica designada por MyCiber, que constitui o canal único e oficial de comunicação entre as entidades abrangidas e a autoridade.»
+> «O CNCS disponibiliza uma plataforma eletrónica designada por MyCiber, que constitui o canal único e oficial de comunicação entre as entidades abrangidas e a autoridade.»
 
 URL: [https://myciber.gov.pt/](https://myciber.gov.pt/){:target="_blank"}.
 
@@ -71,7 +71,7 @@ Para entidades essenciais e importantes. **Não se aplica à parte câmara**; **
 
 **Artigo crítico para o dia do incidente.**
 
-> «Nos casos em que ocorra uma situação de falência do funcionamento da plataforma eletrónica e as entidades não possam aguardar pela disponibilidade da mesma para prática de determinados actos ou submissão de informações, poderão remeter as mesmas para o correio eletrónico da autoridade de ciberseguranca competente ou contacto telefónico (...). Os actos praticados ou a informação submetida pelo endereço de correio electrónico (...) considera-se validamente submetida no momento da recepção da comunicação, para todos os efeitos.»
+> «Nos casos em que ocorra uma situação de falência do funcionamento da plataforma eletrónica e as entidades não possam aguardar pela disponibilidade da mesma para prática de determinados atos ou submissão de informações, poderão remeter as mesmas para o correio eletrónico da autoridade de cibersegurança competente ou contacto telefónico (...). Os atos praticados ou a informação submetida pelo endereço de correio eletrónico (...) considera-se validamente submetida no momento da receção da comunicação, para todos os efeitos.»
 
 Aplicação: [A.3 Plataforma]({% link 00-enquadramento/a3-plataforma-cncs.md %}) e [C.5 Demo: plataforma]({% link 02-notificacao-incidentes/c5-demos.md %}).
 
@@ -85,7 +85,7 @@ Detalha o fluxo: login → área reservada → módulo «Notificação de incide
 
 ### `art. 21.º` Formulários {#art-21}
 
-Estrutura dos formulários por tipo (inicial 24h, actualização 72h, fim de impacto, relatório final, intercalar).
+Estrutura dos formulários por tipo (inicial 24h, atualização 72h, fim de impacto, relatório final, intercalar).
 
 ### `art. 22.º` Associação de notificações {#art-22}
 
@@ -99,17 +99,17 @@ Aplicação: [C.3 Conteúdo de cada notificação]({% link 02-notificacao-incide
 
 ### `art. 23.º` QNRCS {#art-23}
 
-Aprovação formal do **Quadro Nacional de Referência para a Ciberseguranca** (Anexo I do Aviso). Alinhado com NIST CSF 2.0 e ISO 27001:2022.
+Aprovação formal do **Quadro Nacional de Referência para a Cibersegurança** (Anexo I do Aviso). Alinhado com NIST CSF 2.0 e ISO 27001:2022.
 
 ### `art. 24.º` Certificação voluntária {#art-24}
 
-Esquema de certificação voluntária baseado no QNRCS. Sem aplicação directa a autarquias.
+Esquema de certificação voluntária baseado no QNRCS. Sem aplicação direta a autarquias.
 
 ### `art. 28.º` Matriz de risco — entidades essenciais e importantes {#art-28-aviso}
 
 > «A matriz de risco, aprovada no presente regulamento e constante do Anexo II, é o quadro referencial que estabelece os valores de risco para o conjunto de cenários de risco (...). A matriz de risco é aplicável às entidades essenciais e importantes.»
 
-**Não se aplica directamente a autarquias** — para Grupo A/B, a gestão de risco emerge transversalmente das medidas O do Anexo IV. Ver [B.2]({% link 01-gestao-risco/b2-analise-risco.md %}).
+**Não se aplica diretamente a autarquias** — para Grupo A/B, a gestão de risco emerge transversalmente das medidas O do Anexo IV. Ver [B.2]({% link 01-gestao-risco/b2-analise-risco.md %}).
 
 ### `art. 29.º` Cenários do Anexo II {#art-29-aviso}
 
@@ -121,19 +121,19 @@ Detalha os cenários da matriz para essenciais/importantes.
 
 Para essenciais. Para autarquias, recomendação análoga: revisão semestral mínima.
 
-### `art. 32.º` Lista de activos publicamente acessíveis — **transversal a todas as entidades** {#art-32}
+### `art. 32.º` Lista de ativos publicamente acessíveis — **transversal a todas as entidades** {#art-32}
 
 **Artigo crítico para autarquias.** É **a única obrigação verdadeiramente transversal** do regime entre essenciais, importantes e públicas relevantes.
 
-> «As entidades essenciais, importantes e públicas relevantes, devem elaborar, manter atualizado e comunicar à autoridade de ciberseguranca competente uma lista de todos os ativos essenciais para a prestação dos respetivos serviços, com base no seu inventário de ativos, que estejam diretamente acessíveis publicamente através da Internet.»
+> «As entidades essenciais, importantes e públicas relevantes, devem elaborar, manter atualizado e comunicar à autoridade de cibersegurança competente uma lista de todos os ativos essenciais para a prestação dos respetivos serviços, com base no seu inventário de ativos, que estejam diretamente acessíveis publicamente através da Internet.»
 
 **N.º 2** define os campos: serviço, equipamento/software, modelo/versão, IP, FQDN, fabricante, dependências.
 
-**N.º 4** fixa prazos: **20 dias úteis** após qualificação (versão inicial); **anual** (actualização).
+**N.º 4** fixa prazos: **20 dias úteis** após qualificação (versão inicial); **anual** (atualização).
 
 **N.º 5** prevê a publicação de instrução técnica do CNCS sobre o formato — ainda não publicada.
 
-Aplicação: [B.3 Inventário e activos]({% link 01-gestao-risco/b3-inventario-ativos.md %}).
+Aplicação: [B.3 Inventário e ativos]({% link 01-gestao-risco/b3-inventario-ativos.md %}).
 
 ### `art. 33.º` Medidas mínimas para entidades públicas relevantes {#art-33-aviso}
 
@@ -153,11 +153,11 @@ Disposições para a adaptação.
 
 ### Anexo I — QNRCS {#anexo-i-aviso}
 
-Quadro Nacional de Referência para a Ciberseguranca v2, alinhado com NIST CSF 2.0 e ISO 27001:2022.
+Quadro Nacional de Referência para a Cibersegurança v2, alinhado com NIST CSF 2.0 e ISO 27001:2022.
 
 ### Anexo II — Matriz de risco {#anexo-ii-aviso}
 
-Matriz de cenários de risco para entidades essenciais e importantes. **Não se aplica directamente à parte câmara** (entidade pública relevante, Grupo A/B — essa segue o Anexo IV). **Aplica-se, contudo, à parte SMAS** quando qualificada como entidade essencial por força do sector águas (Anexo I) — e a empresas municipais qualificadas como essenciais ou importantes. Em **dupla qualificação**, a autarquia tem de preencher a matriz do Anexo II para a parte essencial — ver [Roteiro essencial — Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
+Matriz de cenários de risco para entidades essenciais e importantes. **Não se aplica diretamente à parte câmara** (entidade pública relevante, Grupo A/B — essa segue o Anexo IV). **Aplica-se, contudo, à parte SMAS** quando qualificada como entidade essencial por força do sector águas (Anexo I) — e a empresas municipais qualificadas como essenciais ou importantes. Em **dupla qualificação**, a autarquia tem de preencher a matriz do Anexo II para a parte essencial — ver [Roteiro essencial — Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
 
 ### Anexo III — Medidas para essenciais e importantes (níveis B/S/E) {#anexo-iii-aviso}
 
@@ -173,6 +173,6 @@ Medidas detalhadas com níveis Básico, Substancial e Elevado. Aplica-se a SMAS 
 |---|---|
 | [A.1]({% link 00-enquadramento/a1-origem-diplomas.md %}) | Estrutura do Aviso, Cap. II–V |
 | [A.3]({% link 00-enquadramento/a3-plataforma-cncs.md %}) | Cap. II completo — em particular *art. 4.º do Aviso*{:.legal}, *art. 8.º do Aviso*{:.legal}, *art. 17.º do Aviso*{:.legal} |
-| [B.3]({% link 01-gestao-risco/b3-inventario-ativos.md %}) | *art. 32.º do Aviso*{:.legal} (lista de activos publicamente acessíveis) |
+| [B.3]({% link 01-gestao-risco/b3-inventario-ativos.md %}) | *art. 32.º do Aviso*{:.legal} (lista de ativos publicamente acessíveis) |
 | [C.5]({% link 02-notificacao-incidentes/c5-demos.md %}) | *art. 17.º do Aviso*{:.legal} (falência da plataforma) + Cap. III |
 | Bloco D | Anexo IV completo |

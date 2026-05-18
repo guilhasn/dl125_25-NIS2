@@ -54,11 +54,11 @@ A tabela seguinte mostra, para cada medida do Anexo IV (regime câmara), **o que
 | [O.CRI]({% link recursos/anexo-iv-aviso-5146.md %}#o-cri) — Ponto de contacto leve | RC formal designado (*art. 31.º RJC*{:.legal}) + PCP 24/7 (*art. 32.º RJC*{:.legal}) | **+ Formalização** |
 | [O.PCN]({% link recursos/anexo-iv-aviso-5146.md %}#o-pcn) — PCN | PCN sectorial específico + BCP testado anualmente | **+ Periodicidade** |
 | [O.PSF]({% link recursos/anexo-iv-aviso-5146.md %}#o-psf) — Inventário + contactos fornecedores | *art. 28.º RJC*{:.legal} integral — critérios de aceitação + monitorização contínua | **+ Cadeia** |
-| [O.IAC]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac) — Inventário activos críticos | Inventário **completo** incluindo OT (SCADA, telemetria) | **+ OT** |
+| [O.IAC]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac) — Inventário ativos críticos | Inventário **completo** incluindo OT (SCADA, telemetria) | **+ OT** |
 | O.ID (só Grupo A no IV) | Identificação funções críticas — sempre obrigatória | **Sempre** |
 | O.PSI (só Grupo A no IV) | Política classificação informação — sempre obrigatória | **Sempre** |
-| (sem equivalente directo) | Política de gestão de crises (separada do plano de incidentes) | **Nova** |
-| (sem equivalente directo) | Política de continuidade da actividade (BCM) | **Nova** |
+| (sem equivalente direto) | Política de gestão de crises (separada do plano de incidentes) | **Nova** |
+| (sem equivalente direto) | Política de continuidade da atividade (BCM) | **Nova** |
 
 ### T — Técnicas
 
@@ -66,11 +66,11 @@ A tabela seguinte mostra, para cada medida do Anexo IV (regime câmara), **o que
 |---|---|---|
 | [T.AM]({% link recursos/anexo-iv-aviso-5146.md %}#t-am) — MFA acessos administrativos | MFA para **todos** os utilizadores; FIDO2 para SCADA | **+ Universalidade** |
 | [T.CS]({% link recursos/anexo-iv-aviso-5146.md %}#t-cs) — Cópias de segurança | Backups mensais (B) → semanais (S) → diários (E); teste mensal; air-gap obrigatório | **+ Frequência** |
-| [T.AR]({% link recursos/anexo-iv-aviso-5146.md %}#t-ar) — Acesso remoto seguro | Bastion host + zero trust para acesso a OT | **+ Arquitectura** |
+| [T.AR]({% link recursos/anexo-iv-aviso-5146.md %}#t-ar) — Acesso remoto seguro | Bastion host + zero trust para acesso a OT | **+ Arquitetura** |
 | T.PEW — SPF/DKIM/DMARC | + DNSSEC + DANE + cabeçalhos HTTP de segurança completos | **+ Profundidade** |
-| (sem equivalente directo no IV) | **Segregação rede TIC ↔ rede OT** — exigência arquitectural específica para água/SCADA | **Nova** |
-| (sem equivalente directo no IV) | **Recolha centralizada de logs** (SIEM) com correlação | **Nova** |
-| (sem equivalente directo no IV) | **Threat Intelligence** sectorial (subscrição feeds CNCS + sectoriais) | **Nova** |
+| (sem equivalente direto no IV) | **Segregação rede TIC ↔ rede OT** — exigência arquitectural específica para água/SCADA | **Nova** |
+| (sem equivalente direto no IV) | **Recolha centralizada de logs** (SIEM) com correlação | **Nova** |
+| (sem equivalente direto no IV) | **Threat Intelligence** sectorial (subscrição feeds CNCS + sectoriais) | **Nova** |
 
 ### H — Humanas
 
@@ -87,14 +87,14 @@ Quando uma autarquia tem dupla qualificação (câmara Grupo B + SMAS essencial)
 ### Peças que se partilham (com adaptação)
 
 - **Política de segurança da informação** — comum, com secções específicas para parte SMAS.
-- **Política de palavras-passe** — comum, com excepções para SCADA (geralmente mais restritiva).
+- **Política de palavras-passe** — comum, com exceções para SCADA (geralmente mais restritiva).
 - **Plano de formação anual** — comum, com módulos específicos para operadores OT.
 - **Inventário de fornecedores TIC** — pode ser conjunto, marcando quais fornecedores servem cada entidade.
 - **DPO** — pode ser o mesmo para câmara e SMAS, com mandato distinto formalizado.
 
 ### Peças que **não** se partilham
 
-- **Inventário de activos** — separado: parte câmara (TIC corporativa) e parte SMAS (TIC + OT).
+- **Inventário de ativos** — separado: parte câmara (TIC corporativa) e parte SMAS (TIC + OT).
 - **Matriz de risco** — separadas (a parte SMAS usa a matriz do Anexo II do Aviso, sectorial).
 - **Plano de resposta a incidentes** — separados, com matrizes de escalação próprias.
 - **Plano de continuidade** — separados, com cenários próprios (parte SMAS inclui falha de bombagem, contaminação da rede de águas, falha de telemetria).

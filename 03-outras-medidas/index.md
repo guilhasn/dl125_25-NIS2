@@ -16,9 +16,9 @@ has_children: true
 
 **Duração**: 60 minutos · **4 sub-páginas**
 
-Depois dos Blocos B (risco e activos) e C (notificação de incidentes), entramos na **operacionalização das restantes medidas** do art. 27.º RJC e do Anexo IV do Aviso 5146/2026/2. Quatro temas, escolhidos por **maior retorno relativo** em câmara: cadeia de fornecimento, continuidade, controlo de acessos e formação. Não é exaustivo do Anexo IV — privilegiamos o que **resolve mais com menos esforço** numa autarquia média.
+Depois dos Blocos B (risco e ativos) e C (notificação de incidentes), entramos na **operacionalização das restantes medidas** do art. 27.º RJC e do Anexo IV do Aviso 5146/2026/2. Quatro temas, escolhidos por **maior retorno relativo** em câmara: cadeia de fornecimento, continuidade, controlo de acessos e formação. Não é exaustivo do Anexo IV — privilegiamos o que **resolve mais com menos esforço** numa autarquia média.
 
-## Objectivos do bloco
+## Objetivos do bloco
 
 Ao final do bloco, cada formando deve ser capaz de:
 
@@ -44,5 +44,5 @@ Saem com **três decisões tomadas mentalmente**: que fornecedores entram primei
 
 ## Roteiro paralelo
 
-Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): o regime das essenciais e importantes é mais exigente em todas as quatro medidas — sobretudo na cadeia de fornecimento (art. 28.º aplica-se directamente, com mecanismos de aceitação e monitorização contínua) e no controlo de acessos OT (segregação rigorosa entre redes TIC e OT). Cada sub-página tem uma secção "Em dupla qualificação" específica. Ver também [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
+Para autarquias com **dupla qualificação** (SMAS, empresa municipal em sector Anexo I/II): o regime das essenciais e importantes é mais exigente em todas as quatro medidas — sobretudo na cadeia de fornecimento (art. 28.º aplica-se diretamente, com mecanismos de aceitação e monitorização contínua) e no controlo de acessos OT (segregação rigorosa entre redes TIC e OT). Cada sub-página tem uma secção "Em dupla qualificação" específica. Ver também [Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
 

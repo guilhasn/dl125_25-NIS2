@@ -14,11 +14,11 @@ nav_order: 1
 
 **Duração**: 10 min · **Bloco**: A.2 · **Materiais**: [`a1-classificacao-autarquia.xlsx`]({{ '/templates/a1-classificacao-autarquia.xlsx' | relative_url }})
 
-## Objectivo
+## Objetivo
 
 Identificar **todas as entidades operacionais** que dependem da câmara e classificar cada uma face ao DL 125/2025. O resultado é a **base material da auto-identificação** que cada autarquia terá de fazer no [MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
 
-Não é exercício teórico. O conteúdo que produzirem aqui é o que **levam de volta** para a câmara e usam, sem alterações de fundo, no acto formal de registo quando a funcionalidade estiver aberta.
+Não é exercício teórico. O conteúdo que produzirem aqui é o que **levam de volta** para a câmara e usam, sem alterações de fundo, no ato formal de registo quando a funcionalidade estiver aberta.
 
 ## Instruções (individual, 10 minutos)
 
@@ -32,8 +32,8 @@ Não é exercício teórico. O conteúdo que produzirem aqui é o que **levam de
    - Agências regionais com participação.
 4. Para cada entidade, preencha:
    - Tipo (Câmara / SMAS / Empresa municipal / Fundação / Agência).
-   - **Número actual de trabalhadores** no quadro de pessoal.
-   - Sector de actividade — em especial, verificar se opera serviço listado no Anexo I (energia, transportes, banca, infraestruturas digitais, água potável, águas residuais, etc.) ou Anexo II.
+   - **Número atual de trabalhadores** no quadro de pessoal.
+   - Sector de atividade — em especial, verificar se opera serviço listado no Anexo I (energia, transportes, banca, infraestruturas digitais, água potável, águas residuais, etc.) ou Anexo II.
 5. Aplique o critério do [*art. 7.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-7):
    - **≥ 250 trabalhadores** → Grupo A (entidade pública relevante).
    - **75 a 249** → Grupo B (entidade pública relevante).
@@ -55,8 +55,8 @@ Se houver linhas marcadas como **"Em dúvida"**, traga-as à discussão em plen�
 
 ## Como continuar este trabalho na câmara
 
-1. Confirmar o **número exacto de trabalhadores** com o Mapa de Pessoal a 31 de Dezembro do ano anterior.
-2. Documentar internamente a classificação proposta com **acto formal** assinado pelo presidente.
+1. Confirmar o **número exato de trabalhadores** com o Mapa de Pessoal a 31 de Dezembro do ano anterior.
+2. Documentar internamente a classificação proposta com **ato formal** assinado pelo presidente.
 3. Quando o MyCiber abrir o registo formal, submeter esta classificação como auto-identificação.
 4. Para entidades em dupla qualificação (câmara + SMAS), submeter **dois registos separados**.
 

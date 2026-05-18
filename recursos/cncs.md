@@ -37,7 +37,7 @@ Todos os recursos abaixo são **gratuitos e de acesso público**. Não substitue
 
 > 📚 [**Coordenação da Resposta a Incidentes**](http://www.cncs.gov.pt/pt/certpt/coordenacao-da-resposta-a-incidentes/){:target="_blank"}
 >
-> Explica como o CNCS / CERT.PT coordena a resposta a incidentes. Em incidente de grande escala, o CNCS pode iniciar a coordenação; ou pode ser pedido pela entidade afectada através de canais designados. Útil para perceber a articulação no dia do incidente.
+> Explica como o CNCS / CERT.PT coordena a resposta a incidentes. Em incidente de grande escala, o CNCS pode iniciar a coordenação; ou pode ser pedido pela entidade afetada através de canais designados. Útil para perceber a articulação no dia do incidente.
 >
 > **Onde aplicar no manual digital**: [C.5 Demo: plataforma CNCS]({% link 02-notificacao-incidentes/c5-demos.md %})
 
@@ -53,7 +53,7 @@ Todos os recursos abaixo são **gratuitos e de acesso público**. Não substitue
 
 > 📚 **[QNRCS v2]({% link recursos/qnrcs.md %})** — referencial nacional aprovado pelo Anexo I do Aviso n.º 5146/2026/2.
 >
-> Estrutura em **6 objectivos** (Gerir · Identificar · Proteger · Detectar · Responder · Recuperar) e **3 níveis cumulativos** (Básico ⊂ Substancial ⊂ Elevado). Alinhado com NIST CSF 2.0, ISO/IEC 27001/27002:2022, CIS v8.1, NIST SP 800-53 Rev.5 e CyberFundamentals.
+> Estrutura em **6 objetivos** (Gerir · Identificar · Proteger · Detetar · Responder · Recuperar) e **3 níveis cumulativos** (Básico ⊂ Substancial ⊂ Elevado). Alinhado com NIST CSF 2.0, ISO/IEC 27001/27002:2022, CIS v8.1, NIST SP 800-53 Rev.5 e CyberFundamentals.
 >
 > **Onde aplicar no manual digital**: [B.1 Panorama do art. 27.º]({% link 01-gestao-risco/b1-art27-panorama.md %}) · [E.2.1 Auto-avaliação QNRCS]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}) · [Anexo IV]({% link recursos/anexo-iv-aviso-5146.md %})
 >
@@ -71,9 +71,9 @@ Todos os recursos abaixo são **gratuitos e de acesso público**. Não substitue
 >
 > Portal com **slides, vídeos e conteúdos prontos** para sessões de sensibilização. Inclui dois módulos principais:
 > - **Ciber(in)segurança** — identificação de riscos e ameaças digitais.
-> - **Ciber-higiene e Boas Práticas** — medidas de protecção e práticas seguras.
+> - **Ciber-higiene e Boas Práticas** — medidas de proteção e práticas seguras.
 >
-> Pode ser **reutilizado directamente** para o plano anual de formação da câmara (exigência da medida [H.PF]({% link recursos/anexo-iv-aviso-5146.md %}#h-pf)).
+> Pode ser **reutilizado diretamente** para o plano anual de formação da câmara (exigência da medida [H.PF]({% link recursos/anexo-iv-aviso-5146.md %}#h-pf)).
 >
 > **Onde aplicar no manual digital**: [D.4 Formação e sensibilização]({% link 03-outras-medidas/d4-formacao.md %})
 
@@ -132,14 +132,14 @@ Esta é a fase em que o catálogo é mais útil:
 - **Vai preparar plano de comunicação de crise?** → Referencial de Comunicação
 - **Vai montar plano anual de formação?** → Guia 5 Passos + Recursos para Sensibilização
 - **Vai avaliar a maturidade da câmara?** → Quadro de Avaliação de Capacidades QNRCS
-- **Câmara pequena (< 75 trab.) sem obrigação directa?** → C-Network
+- **Câmara pequena (< 75 trab.) sem obrigação direta?** → C-Network
 
 ## Por bloco do manual digital
 
 | Bloco | Recursos CNCS relacionados |
 |---|---|
 | **A. Enquadramento** | Portal Administração Pública · C-Network |
-| **B. Risco e activos** | Guia de Gestão de Riscos · QNRCS · GTDC |
+| **B. Risco e ativos** | Guia de Gestão de Riscos · QNRCS · GTDC |
 | **C. Notificação de incidentes** | Referencial de Comunicação de Crise · Coordenação Resposta CERT.PT · Capacidades Mínimas |
 | **D. Outras medidas** | GTDC · Guia 5 Passos · Recursos para Sensibilização · Referencial de Competências |
 | **E. Supervisão e roadmap** | Quadro de Avaliação QNRCS · C-Network |
@@ -151,4 +151,4 @@ Para completar — sites externos ao CNCS que complementam:
 - [**ENISA** — *European Union Agency for Cybersecurity*](https://www.enisa.europa.eu/){:target="_blank"} — directrizes europeias, em especial para administração pública e PME.
 - [**NIST Cybersecurity Framework 2.0**](https://www.nist.gov/cyberframework){:target="_blank"} — base do QNRCS português.
 - [**ISO/IEC 27001:2022**](https://www.iso.org/standard/27001){:target="_blank"} — norma internacional do sistema de gestão.
-- [**EUR-Lex — Directiva (UE) 2022/2555**](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022L2555){:target="_blank"} — Directiva NIS2 original.
+- [**EUR-Lex — Diretiva (UE) 2022/2555**](https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A32022L2555){:target="_blank"} — Diretiva NIS2 original.

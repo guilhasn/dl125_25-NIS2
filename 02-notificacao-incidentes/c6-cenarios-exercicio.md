@@ -43,13 +43,13 @@ Esta página apresenta os cenários e as instruções. As 4 fichas em PDF A5 est
 
 ## Ficha 1 — Ransomware
 
-> **Hoje, 15h32.** O técnico de informática reporta que três servidores (incluindo o que aloja o registo civil e o aprovisionamento) estão a apresentar mensagem de bloqueio com pedido de resgate em criptomoeda. Cópias de segurança são *offline* mas ainda não testadas. Aproximadamente 40.000 ficheiros afectados. Vereador exige saber em 30 min se notifica imprensa local.
+> **Hoje, 15h32.** O técnico de informática reporta que três servidores (incluindo o que aloja o registo civil e o aprovisionamento) estão a apresentar mensagem de bloqueio com pedido de resgate em criptomoeda. Cópias de segurança são *offline* mas ainda não testadas. Aproximadamente 40.000 ficheiros afetados. Vereador exige saber em 30 min se notifica imprensa local.
 
-**Pistas para análise**: impacto significativo (sim — vários servidores críticos, dados pessoais provavelmente afectados, paragem de serviços). Canais: CNCS (24h), CNPD (72h — suspeita forte de violação de dados pessoais), MP (Lei 109/2009 — crime informático), comunicação a munícipes (art. 48.º — quando se confirmar âmbito). Decisão sobre imprensa: gestão de comunicação distinta da obrigação legal — coordenar com comunicação interna; **prematuro** ao fim de minutos da detecção.
+**Pistas para análise**: impacto significativo (sim — vários servidores críticos, dados pessoais provavelmente afetados, paragem de serviços). Canais: CNCS (24h), CNPD (72h — suspeita forte de violação de dados pessoais), MP (Lei 109/2009 — crime informático), comunicação a munícipes (art. 48.º — quando se confirmar âmbito). Decisão sobre imprensa: gestão de comunicação distinta da obrigação legal — coordenar com comunicação interna; **prematuro** ao fim de minutos da deteção.
 
 ## Ficha 2 — Fornecedor comprometido
 
-> **Hoje, 09h15.** O fornecedor da aplicação de Gestão Documental envia comunicado a todos os clientes: foram detectados acessos não autorizados a servidores partilhados na semana passada. Não confirma se dados dos vossos munícipes foram acedidos. A empresa investiga.
+> **Hoje, 09h15.** O fornecedor da aplicação de Gestão Documental envia comunicado a todos os clientes: foram detetados acessos não autorizados a servidores partilhados na semana passada. Não confirma se dados dos vossos munícipes foram acedidos. A empresa investiga.
 
 **Pistas para análise**: o incidente é do fornecedor — mas a entidade pública relevante é **a vossa câmara**, e o responsável pelo tratamento dos dados é a vossa câmara. **Hora de verificação**: a partir do momento em que recebem o comunicado — relógio dos 24h CNCS começa agora. Notificar mesmo sem confirmação de exfiltração («possa vir a existir um incidente significativo» — art. 42.º, n.º 1). RGPD pode aguardar confirmação, mas iniciar análise de impacto desde já. Activar cláusula contratual com o fornecedor (informação detalhada, evidência preservada). Distinção causa próxima (fornecedor) vs responsabilidade legal (a câmara é quem notifica).
 
@@ -61,9 +61,9 @@ Esta página apresenta os cenários e as instruções. As 4 fichas em PDF A5 est
 
 ## Ficha 4 — Phishing com fraude ao vereador
 
-> **Hoje, 14h00.** Detectado movimento anómalo na caixa de e-mail de um Vereador: 200 e-mails enviados com pedidos de transferência bancária para fornecedores municipais, falsificando assinatura. Já se sabe que dois fornecedores tentaram efectuar transferências; bancos suspenderam.
+> **Hoje, 14h00.** Detetado movimento anómalo na caixa de e-mail de um Vereador: 200 e-mails enviados com pedidos de transferência bancária para fornecedores municipais, falsificando assinatura. Já se sabe que dois fornecedores tentaram efectuar transferências; bancos suspenderam.
 
-**Pistas para análise**: incidente significativo (sim — compromisso de identidade institucional, tentativa de fraude, dimensão financeira). Canais: CNCS (24h), CNPD (72h — caixa de e-mail do vereador contém dados pessoais de munícipes em correspondência), MP (Lei 109/2009 — falsificação informática), comunicação aos fornecedores potencialmente afectados (todos os 200 destinos do *spear-phishing* têm de ser avisados — art. 48.º aplicado em sentido lato). Acção imediata: bloquear conta, reset de credenciais, MFA obrigatório, análise forense da caixa (o que esteve acessível ao atacante?).
+**Pistas para análise**: incidente significativo (sim — compromisso de identidade institucional, tentativa de fraude, dimensão financeira). Canais: CNCS (24h), CNPD (72h — caixa de e-mail do vereador contém dados pessoais de munícipes em correspondência), MP (Lei 109/2009 — falsificação informática), comunicação aos fornecedores potencialmente afetados (todos os 200 destinos do *spear-phishing* têm de ser avisados — art. 48.º aplicado em sentido lato). Ação imediata: bloquear conta, reset de credenciais, MFA obrigatório, análise forense da caixa (o que esteve acessível ao atacante?).
 
 ## Critérios de avaliação dos outputs
 
@@ -82,15 +82,15 @@ Não há classificação numérica. Os critérios qualitativos para *feedback* n
 
 ## Revisão do Bloco C — 8 perguntas
 
-**1.** Um incidente foi **detectado às 14:00** e **verificado como significativo às 16:30**. Até quando tem de submeter a notificação inicial ao CNCS?
+**1.** Um incidente foi **detetado às 14:00** e **verificado como significativo às 16:30**. Até quando tem de submeter a notificação inicial ao CNCS?
 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Até às 16:30 do dia seguinte.** O relógio das 24h conta a partir da **verificação** (T1 = 16:30), não da detecção (T0 = 14:00). É a distinção mais importante de todo o regime português. Ver [C.2 Prazos PT vs NIS2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
+**Até às 16:30 do dia seguinte.** O relógio das 24h conta a partir da **verificação** (T1 = 16:30), não da deteção (T0 = 14:00). É a distinção mais importante de todo o regime português. Ver [C.2 Prazos PT vs NIS2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
 </details>
 
-**2.** Um ransomware afecta a câmara com indícios de exfiltração de dados de munícipes. Quantos canais de notificação se acumulam?
+**2.** Um ransomware afeta a câmara com indícios de exfiltração de dados de munícipes. Quantos canais de notificação se acumulam?
 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
@@ -111,12 +111,12 @@ Não são alternativos — acumulam-se com referência cruzada. Ver [C.4 Cruzame
 **Falso.** Só os **incidentes significativos** (*art. 40.º, n.º 3 RJC*) — aqueles que (a) causem perturbação operacional grave dos serviços ou perdas financeiras consideráveis; ou (b) afectem terceiros provocando prejuízos materiais ou imateriais consideráveis. Incidentes resolvidos em **menos de 2 horas dispensam notificação inicial** (*art. 41.º*).
 </details>
 
-**4.** O DL português introduz uma figura adicional face à Directiva NIS2. Qual?
+**4.** O DL português introduz uma figura adicional face à Diretiva NIS2. Qual?
 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-A **notificação de fim de impacto significativo** (*art. 43.º RJC*) — submetida nas 24h seguintes à **cessação** do impacto. Distinta da actualização opcional de 72h (NIS2) e do relatório final (30 dias úteis em PT, 1 mês em NIS2). Ver [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
+A **notificação de fim de impacto significativo** (*art. 43.º RJC*) — submetida nas 24h seguintes à **cessação** do impacto. Distinta da atualização opcional de 72h (NIS2) e do relatório final (30 dias úteis em PT, 1 mês em NIS2). Ver [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
 </details>
 
 **5.** Submetida uma notificação ao CNCS sobre incidente com dados pessoais, isso dispensa a notificação à CNPD?
@@ -140,15 +140,15 @@ A **equipa de resposta a incidentes da autarquia**, em articulação com o **pon
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Dispensa-se a notificação inicial dos 24h** (*art. 41.º RJC* — resolução em ≤ 2 horas). **Mantém-se** o registo interno cronológico do incidente, que o CNCS pode pedir em supervisão posterior. Boa prática: documentar T0, T1, acções, T-final, lições aprendidas — mesmo sem submeter ao CNCS.
+**Dispensa-se a notificação inicial dos 24h** (*art. 41.º RJC* — resolução em ≤ 2 horas). **Mantém-se** o registo interno cronológico do incidente, que o CNCS pode pedir em supervisão posterior. Boa prática: documentar T0, T1, ações, T-final, lições aprendidas — mesmo sem submeter ao CNCS.
 </details>
 
-**8.** A **comunicação aos destinatários** afectados (art. 48.º) é automática quando há incidente significativo?
+**8.** A **comunicação aos destinatários** afetados (art. 48.º) é automática quando há incidente significativo?
 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Não automática.** O *art. 48.º RJC* prevê que o CNCS **pode determinar** que a entidade informe destinatários, ou fazê-lo directamente. Não é obrigatória por defeito. **Excepção**: quando há violação de dados pessoais com **risco elevado** para os titulares, o *art. 34.º RGPD* obriga a comunicação aos titulares — esse sim, directamente exigível. Cenário típico (ransomware com exfiltração): ambas se aplicam. Ver [C.4 Cruzamento RGPD]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}).
+**Não automática.** O *art. 48.º RJC* prevê que o CNCS **pode determinar** que a entidade informe destinatários, ou fazê-lo diretamente. Não é obrigatória por defeito. **Exceção**: quando há violação de dados pessoais com **risco elevado** para os titulares, o *art. 34.º RGPD* obriga a comunicação aos titulares — esse sim, diretamente exigível. Cenário típico (ransomware com exfiltração): ambas se aplicam. Ver [C.4 Cruzamento RGPD]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}).
 </details>
 
 ## Próximo passo

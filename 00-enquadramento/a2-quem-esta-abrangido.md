@@ -60,10 +60,10 @@ Número de trabalhadores no quadro de pessoal?
 └── < 75
     └── FORA DO REGIME OBRIGATÓRIO
         (muitas câmaras pequenas, juntas de freguesia)
-        Recomendação CNCS: adoptar o QNRCS de forma voluntária.
+        Recomendação CNCS: adotar o QNRCS de forma voluntária.
 ```
 
-**Nota sobre "fora do regime obrigatório"**: não é sinónimo de "não tem de fazer nada". O CNCS pode, por decisão fundamentada, qualificar uma entidade abaixo do limiar (art. 8.º, n.º 3 do RJC). Além disso, uma autarquia pequena que opere serviços críticos (ver dupla qualificação abaixo) cai nas exigências dessa actividade, independentemente do seu próprio Grupo.
+**Nota sobre "fora do regime obrigatório"**: não é sinónimo de "não tem de fazer nada". O CNCS pode, por decisão fundamentada, qualificar uma entidade abaixo do limiar (art. 8.º, n.º 3 do RJC). Além disso, uma autarquia pequena que opere serviços críticos (ver dupla qualificação abaixo) cai nas exigências dessa atividade, independentemente do seu próprio Grupo.
 
 ## Dupla qualificação — quando uma autarquia tem dois chapéus
 
@@ -99,18 +99,18 @@ Esta autarquia tem **três qualificações distintas** e três cadernos de encar
 | SMAS | Essencial | arts. 26.º–32.º | Anexo III, nível B/S/E |
 | EM Resíduos | Importante | arts. 26.º–32.º (regime aliviado) | Anexo III |
 
-As obrigações **acumulam**: a câmara é entidade pública relevante **e** dona/tutela da entidade essencial. As notificações de incidentes, os pedidos de qualificação, as auditorias, são feitos **por cada entidade operacional** distinta, ainda que na mesma plataforma electrónica do CNCS.
+As obrigações **acumulam**: a câmara é entidade pública relevante **e** dona/tutela da entidade essencial. As notificações de incidentes, os pedidos de qualificação, as auditorias, são feitos **por cada entidade operacional** distinta, ainda que na mesma plataforma eletrónica do CNCS.
 
 {: .caso-pratico }
 > **Caso prático 1 — Águas em unidade orgânica integrada**
 >
-> Uma câmara média do interior, com cerca de 180 trabalhadores, geria o serviço de águas através de uma unidade orgânica municipal integrada — sem SMAS autónomos nem empresa municipal. Ao preparar o registo NIS2, a equipa assumiu que a entidade seria apenas pública relevante do Grupo B, por ter menos de 250 trabalhadores. Só ao rever a actividade efectivamente prestada percebeu que a água potável é sector Anexo I e que a prestação integrada não isenta automaticamente a câmara das obrigações da entidade essencial.
+> Uma câmara média do interior, com cerca de 180 trabalhadores, geria o serviço de águas através de uma unidade orgânica municipal integrada — sem SMAS autónomos nem empresa municipal. Ao preparar o registo NIS2, a equipa assumiu que a entidade seria apenas pública relevante do Grupo B, por ter menos de 250 trabalhadores. Só ao rever a atividade efectivamente prestada percebeu que a água potável é sector Anexo I e que a prestação integrada não isenta automaticamente a câmara das obrigações da entidade essencial.
 >
-> **Lição:** a forma como o serviço está organizado pode alterar a qualificação da entidade — não basta olhar para o organograma; é necessário olhar para a actividade efectivamente prestada.
+> **Lição:** a forma como o serviço está organizado pode alterar a qualificação da entidade — não basta olhar para o organograma; é necessário olhar para a atividade efectivamente prestada.
 >
-> **Como deveria ter sido feito:** recolher informação sobre o modelo de prestação do serviço de águas (responsabilidade operacional, sistemas usados, criticidade) e avaliar enquadramento sectorial Anexo I antes do registo. Em caso de dúvida, documentar a análise e pedir orientação ao CNCS no acto de registo.
+> **Como deveria ter sido feito:** recolher informação sobre o modelo de prestação do serviço de águas (responsabilidade operacional, sistemas usados, criticidade) e avaliar enquadramento sectorial Anexo I antes do registo. Em caso de dúvida, documentar a análise e pedir orientação ao CNCS no ato de registo.
 
-### Excepção qualificadora rara (art. 6.º, n.º 1, al. d) do RJC)
+### Exceção qualificadora rara (art. 6.º, n.º 1, al. d) do RJC)
 
 Há ainda uma porta aberta para que o CNCS qualifique uma autarquia como **entidade essencial**, mesmo sem operar sector Anexo I, se prestar "serviços nas áreas do desenvolvimento, manutenção e gestão de infraestruturas de TIC ou apresentar um grau particularmente elevado de integração digital na prestação dos seus serviços". Caso raro, decisão fundamentada do CNCS (art. 8.º, n.os 3-4). Sinalizar, mas não dimensionar a estratégia em função desta hipótese improvável.
 
@@ -121,7 +121,7 @@ Para fazer o Exercício A1 com proveito, cada formando precisa de ter à mão:
 1. **Número de trabalhadores actuais do quadro de pessoal** da câmara (recursos humanos sabe).
 2. **Lista completa das entidades operacionais autónomas** dependentes ou tuteladas pela câmara: SMAS, empresas municipais (EM, EIM), fundações municipais, agrupamentos.
 3. **Número de trabalhadores de cada uma dessas entidades**.
-4. **Sectores de actividade** dessas entidades (água, resíduos, transportes, cultura, desporto, etc.).
+4. **Sectores de atividade** dessas entidades (água, resíduos, transportes, cultura, desporto, etc.).
 
 Se não trouxeram estes dados, façam o exercício com aproximações e completem na semana seguinte. **O importante é sair daqui com um inventário de qualificações e o caminho de obrigações claro para cada uma.**
 
@@ -131,10 +131,10 @@ Se não trouxeram estes dados, façam o exercício com aproximações e complete
 |---|---|---|
 | `WS1_v2_Classificacao_Obrigacoes_H1_ComLegislacao.docx` | Aplicar tal-qual | Worksheet do exercício A1. Download disponível a partir de 8 Junho. |
 | [`avaliacao-maturidade-nis2.xlsx`]({{ '/templates/avaliacao-maturidade-nis2.xlsx' | relative_url }}) | Adaptar Grupo A/B | Autodiagnóstico inicial. Download disponível a partir de 8 Junho. |
-| [`gap-analysis-nis2.xlsx`]({{ '/templates/gap-analysis-nis2.xlsx' | relative_url }}) | Adaptar Grupo A/B | Comparação entre estado actual e Anexo IV. Download disponível a partir de 8 Junho. |
+| [`gap-analysis-nis2.xlsx`]({{ '/templates/gap-analysis-nis2.xlsx' | relative_url }}) | Adaptar Grupo A/B | Comparação entre estado atual e Anexo IV. Download disponível a partir de 8 Junho. |
 
 ## Próximo passo
 
 - [Exercício A1 — Classificação da vossa autarquia →]({% link exercicios/a1-classificacao.md %})
 - Para quem identificou dupla qualificação: [Roteiro essencial →]({% link roteiro-essencial/index.md %})
-- [A.3 Plataforma electrónica do CNCS →]({% link 00-enquadramento/a3-plataforma-cncs.md %})
+- [A.3 Plataforma eletrónica do CNCS →]({% link 00-enquadramento/a3-plataforma-cncs.md %})

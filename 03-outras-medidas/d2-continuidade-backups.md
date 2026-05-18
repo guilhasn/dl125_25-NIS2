@@ -14,7 +14,7 @@ nav_order: 2
 
 **Duração**: 15 min · **Base legal**: art. 27.º al. b) RJC + Anexo IV [<abbr title="Cópias de Segurança">**T.CS**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#t-cs) (Continuidade e Salvaguarda).
 
-A maior parte dos incidentes que afectam uma autarquia não é exfiltração espectacular de dados — é **indisponibilidade**: o portal cai, a base de dados fica encriptada, o servidor de e-mail bloqueia. Quando isso acontece, a diferença entre **6 horas paradas** e **6 semanas paradas** está em **duas coisas**: ter *backups* que **funcionam** e ter um **plano de continuidade** que toda a gente saiba executar. Nenhuma destas duas é técnica — são organizacionais. O Anexo IV exige ambas.
+A maior parte dos incidentes que afectam uma autarquia não é exfiltração espetacular de dados — é **indisponibilidade**: o portal cai, a base de dados fica encriptada, o servidor de e-mail bloqueia. Quando isso acontece, a diferença entre **6 horas paradas** e **6 semanas paradas** está em **duas coisas**: ter *backups* que **funcionam** e ter um **plano de continuidade** que toda a gente saiba executar. Nenhuma destas duas é técnica — são organizacionais. O Anexo IV exige ambas.
 
 ## O que a lei diz
 
@@ -40,7 +40,7 @@ Esta é a frase mais importante de toda esta página. Em auditoria, a primeira p
 
 Template aplicável: [`procedimento-testes-pcn-nis2.docx`]({{ '/templates/procedimento-testes-pcn-nis2.docx' | relative_url }}).
 
-## *Backups* offline (*air-gapped*) — protecção contra ransomware
+## *Backups* offline (*air-gapped*) — proteção contra ransomware
 
 O ransomware moderno **procura os *backups* primeiro**. Encripta os ficheiros, encripta os *snapshots* online, encripta os *backups* na rede. Se os *backups* estiverem na **mesma rede acessível**, são igualmente vítimas — e a câmara fica sem saída, a não ser pagar o resgate ou perder tudo.
 
@@ -49,7 +49,7 @@ O ransomware moderno **procura os *backups* primeiro**. Encripta os ficheiros, e
 - **Tape** (cassete) — desactualizado mas funcional, custo baixo, *air-gap* natural.
 - **Disco externo rotativo** — três discos, um por semana, dois em cofre.
 - **Cloud com *immutability*** (Azure, AWS, etc.) — *backups* imutáveis com retenção mínima legal.
-- **Repositório dedicado em rede isolada** — VLAN separada, sem rota directa, credenciais distintas.
+- **Repositório dedicado em rede isolada** — VLAN separada, sem rota direta, credenciais distintas.
 
 Para o Grupo A é **expectativa**; para Grupo B é **fortemente recomendado** — e a primeira pergunta que o CNCS vai fazer numa auditoria pós-incidente.
 
@@ -78,21 +78,21 @@ Para uma câmara de Grupo B, é razoável **um documento único** com as duas co
 
 ## Análise de Impacto no Negócio (BIA) — opcional para Grupo A
 
-Para definir RTO/RPO de forma fundamentada, faz-se uma **Análise de Impacto no Negócio** (Business Impact Analysis): cruzar os activos críticos (do Exercício A3 / inventário O.IAC) com os processos da câmara (atendimento, urbanismo, fiscalidade, acção social, tesouraria) e estimar o impacto financeiro/reputacional/legal de cada sistema parado durante 1h, 4h, 1 dia, 1 semana.
+Para definir RTO/RPO de forma fundamentada, faz-se uma **Análise de Impacto no Negócio** (Business Impact Analysis): cruzar os ativos críticos (do Exercício A3 / inventário O.IAC) com os processos da câmara (atendimento, urbanismo, fiscalidade, ação social, tesouraria) e estimar o impacto financeiro/reputacional/legal de cada sistema parado durante 1h, 4h, 1 dia, 1 semana.
 
 Template [`analise-impacto-negocio-nis2.xlsx`]({{ '/templates/analise-impacto-negocio-nis2.xlsx' | relative_url }}) — folha de cálculo a preencher por sistema.
 
-Para Grupo B, é **boa prática** mas não obrigatório. Para Grupo A, é o **input correcto** para escrever um PCN que reflicta as prioridades reais.
+Para Grupo B, é **boa prática** mas não obrigatório. Para Grupo A, é o **input correto** para escrever um PCN que reflicta as prioridades reais.
 
 ## Cenários típicos a contemplar (autarquia)
 
 O plano de continuidade tem de cobrir, no mínimo, estes três cenários — que são os que mais frequentemente afectam câmaras portuguesas:
 
 1. **Portal do munícipe parado por 24-72h** — Plano B: aceitar requerimentos por e-mail dedicado, página estática alternativa com instruções, comunicação aos munícipes.
-2. **Encriptação do servidor de ficheiros (ransomware)** — Plano B: activação do *backup* *air-gapped*, isolamento da rede afectada, comunicação interna sobre uso de dados antigos pré-incidente, notificação CNCS+CNPD.
+2. **Encriptação do servidor de ficheiros (ransomware)** — Plano B: activação do *backup* *air-gapped*, isolamento da rede afetada, comunicação interna sobre uso de dados antigos pré-incidente, notificação CNCS+CNPD.
 3. **Indisponibilidade prolongada do SIG cadastral** — Plano B: certidões emitidas em formato manual com base em cópias *pdf* recentes, urbanismo em pausa funcional, comunicação aos balcões e munícipes.
 
-Cada cenário tem **decisões pré-tomadas**: quem chama a quem, em que ordem, qual o discurso de comunicação, quem aprova as decisões. Sem decisões pré-tomadas, o dia do incidente faz-se a improvisar — exactamente o que não se quer.
+Cada cenário tem **decisões pré-tomadas**: quem chama a quem, em que ordem, qual o discurso de comunicação, quem aprova as decisões. Sem decisões pré-tomadas, o dia do incidente faz-se a improvisar — exatamente o que não se quer.
 
 ## Em dupla qualificação
 

@@ -20,7 +20,7 @@ O conteúdo principal do manual digital (Blocos A a E) é desenhado para a **par
 
 Verifique se a sua entidade tem **qualquer uma destas características**:
 
-- ☐ A câmara opera **abastecimento de água potável** ou **águas residuais** (via SMAS, EM ou directamente).
+- ☐ A câmara opera **abastecimento de água potável** ou **águas residuais** (via SMAS, EM ou diretamente).
 - ☐ A câmara opera **gestão de resíduos** via empresa municipal (Anexo II).
 - ☐ A câmara opera **transportes urbanos** via empresa municipal.
 - ☐ A câmara tem empresa municipal de **infraestruturas TIC** prestando serviços a outras entidades.
@@ -52,7 +52,7 @@ Município de XPTO (entidade jurídica única)
     └── RC + PCP designados formalmente (arts. 31.º e 32.º RJC)
 ```
 
-As duas qualificações geram **dois processos administrativos paralelos** na plataforma do CNCS, com obrigações distintas. Notificação de incidentes faz-se **por entidade afectada**: se o incidente atinge só o SMAS, notifica-se em nome do SMAS; se atinge só a câmara, idem; se atinge as duas, notificam-se **duas vezes**.
+As duas qualificações geram **dois processos administrativos paralelos** na plataforma do CNCS, com obrigações distintas. Notificação de incidentes faz-se **por entidade afetada**: se o incidente atinge só o SMAS, notifica-se em nome do SMAS; se atinge só a câmara, idem; se atinge as duas, notificam-se **duas vezes**.
 
 ## Calendário de leitura
 

@@ -47,7 +47,7 @@ Conta-se o **quadro de pessoal efectivo da câmara em sentido próprio** à data
 Depende da **forma de organização** do serviço — há **4 modelos** com consequências diferentes:
 
 - **SMAS autónomo** (com regulamento próprio aprovado pela assembleia, AD próprio, contabilidade separada) → entidade jurídica autónoma, qualifica **separadamente** como essencial. Dois registos no MyCiber. *Caso típico: Leiria.*
-- **Unidade Orgânica integrada na câmara** (divisão/departamento, AD partilhado, mapa de pessoal único) → não há entidade autónoma; a câmara como um todo pode ser qualificada como essencial pelo *art. 6.º, n.º 1, al. d) RJC*{:.legal}. **A confirmar com o CNCS no acto de auto-identificação.** *Caso típico: Pombal.*
+- **Unidade Orgânica integrada na câmara** (divisão/departamento, AD partilhado, mapa de pessoal único) → não há entidade autónoma; a câmara como um todo pode ser qualificada como essencial pelo *art. 6.º, n.º 1, al. d) RJC*{:.legal}. **A confirmar com o CNCS no ato de auto-identificação.** *Caso típico: Pombal.*
 - **Empresa municipal (EM ou EIM)** → entidade jurídica autónoma, qualifica separadamente. Dois registos.
 - **Adesão a operador multimunicipal** (Águas do Norte, Águas Públicas do Alentejo, etc.) → a entidade essencial é o **operador**; a câmara cinge-se ao seu próprio regime.
 
@@ -71,11 +71,11 @@ Sim, em casos excepcionais. O art. 6.º, n.º 1, al. d) do RJC permite ao CNCS q
 
 ### 2.1 Qual é o endereço da plataforma?
 
-**[myciber.gov.pt](https://myciber.gov.pt/)** — plataforma electrónica do CNCS prevista no art. 8.º do RJC e no Cap. II do Aviso n.º 5146/2026/2 (arts. 4.º a 19.º). É o **canal único** de comunicação com a autoridade. Ver [A.3 Plataforma electrónica do CNCS]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
+**[myciber.gov.pt](https://myciber.gov.pt/)** — plataforma eletrónica do CNCS prevista no art. 8.º do RJC e no Cap. II do Aviso n.º 5146/2026/2 (arts. 4.º a 19.º). É o **canal único** de comunicação com a autoridade. Ver [A.3 Plataforma eletrónica do CNCS]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
 
 ### 2.2 Já posso registar-me?
 
-**Ainda não.** À data de 15 de Junho de 2026, o MyCiber tem **só o Simulador** disponível — uma ferramenta indicativa, não vinculativa, para testar a categoria aplicável. As funcionalidades de **auto-identificação formal, qualificação, designação de pontos de contacto, comunicações e notificações** aguardam a publicação da versão final do Aviso 5146/2026/2 — a **consulta pública terminou em 22 de Abril de 2026** e o CNCS está em fase de redacção da versão final, sem data anunciada. O prazo de 60 dias só começa a contar **depois** da abertura formal do registo, anunciada pelo CNCS.
+**Ainda não.** À data de 15 de Junho de 2026, o MyCiber tem **só o Simulador** disponível — uma ferramenta indicativa, não vinculativa, para testar a categoria aplicável. As funcionalidades de **auto-identificação formal, qualificação, designação de pontos de contacto, comunicações e notificações** aguardam a publicação da versão final do Aviso 5146/2026/2 — a **consulta pública terminou em 22 de Abril de 2026** e o CNCS está em fase de redação da versão final, sem data anunciada. O prazo de 60 dias só começa a contar **depois** da abertura formal do registo, anunciada pelo CNCS.
 
 ### 2.3 O resultado do Simulador é vinculativo?
 
@@ -83,7 +83,7 @@ Sim, em casos excepcionais. O art. 6.º, n.º 1, al. d) do RJC permite ao CNCS q
 
 ### 2.4 Que autenticação preciso para a plataforma?
 
-**Cartão de Cidadão (CC)** ou **Chave Móvel Digital (CMD)** do(s) trabalhador(es) designado(s) para operar a plataforma. Os mesmos mecanismos do Portal das Finanças, ePortugal ou BUE. Sem login local — sempre identidade electrónica do Estado.
+**Cartão de Cidadão (CC)** ou **Chave Móvel Digital (CMD)** do(s) trabalhador(es) designado(s) para operar a plataforma. Os mesmos mecanismos do Portal das Finanças, ePortugal ou BUE. Sem login local — sempre identidade eletrónica do Estado.
 
 ### 2.5 Posso designar várias pessoas para aceder à plataforma?
 
@@ -114,8 +114,8 @@ Distribuídas em três famílias: **O**rganizacionais, **T**écnicas, **H**umana
 
 **Não explicitamente.** Ao contrário do regime das essenciais/importantes (arts. 26.º e 27.º + Anexo II do Aviso), o Anexo IV **não enumera literalmente** uma medida «análise de risco». Mas:
 
-- A medida [<abbr title="Inventariação de Activos Críticos">**O.IAC**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac) (Inventariação de Activos Críticos) pressupõe identificação de dependências.
-- A medida [<abbr title="Identificação de funções e activos críticos">**O.ID**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-id) (Identificação de funções e activos críticos, Grupo A) implica análise sistémica.
+- A medida [<abbr title="Inventariação de Ativos Críticos">**O.IAC**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-iac) (Inventariação de Ativos Críticos) pressupõe identificação de dependências.
+- A medida [<abbr title="Identificação de funções e ativos críticos">**O.ID**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-id) (Identificação de funções e ativos críticos, Grupo A) implica análise sistémica.
 - **Sem análise de risco** é metodologicamente impossível justificar as restantes medidas.
 
 Recomendação: **tratar como se fosse exigida** e produzir uma matriz simples documentada. Ver [B.2]({% link 01-gestao-risco/b2-analise-risco.md %}).
@@ -133,7 +133,7 @@ Recomendação: **tratar como se fosse exigida** e produzir uma matriz simples d
 **Ajuda muito, mas não dispensa cumprimento formal.** A ISO 27001 cobre a esmagadora maioria dos controlos do Anexo IV (ver o template [`mapa-controlos-nis2-iso27001.xlsx`]({{ '/templates/mapa-controlos-nis2-iso27001.xlsx' | relative_url }}) para mapeamento). Mas:
 
 - Auto-identificação no MyCiber é **obrigatória** independentemente da ISO.
-- A **lista de activos publicamente acessíveis** do art. 32.º não está na ISO.
+- A **lista de ativos publicamente acessíveis** do art. 32.º não está na ISO.
 - **Notificação de incidentes** ao CNCS segue regime próprio.
 - Documentação tem de estar **mapeada ao Anexo IV** explicitamente — a sua ISO pode ter de ser cross-referenced.
 
@@ -142,8 +142,8 @@ Recomendação: **tratar como se fosse exigida** e produzir uma matriz simples d
 Não há um prazo único de conformidade plena. Há **prazos parciais** críticos:
 
 - **60 dias** após disponibilização do registo formal → auto-identificação no MyCiber.
-- **20 dias úteis** após qualificação → 1.ª lista de activos publicamente acessíveis (art. 32.º).
-- **Anual** → actualização da lista de activos + (essenciais) relatório anual.
+- **20 dias úteis** após qualificação → 1.ª lista de ativos publicamente acessíveis (art. 32.º).
+- **Anual** → atualização da lista de ativos + (essenciais) relatório anual.
 - **A partir de 3 de Abril de 2026** → todas as obrigações materiais já vigentes, com **período de amnistia para coimas até ~3 de Abril de 2027**.
 
 Roadmap pragmático em [E.3]({% link 04-supervisao-roadmap/e3-roadmap-6-meses.md %}) — 6 meses para estado defensável.
@@ -154,22 +154,22 @@ Roadmap pragmático em [E.3]({% link 04-supervisao-roadmap/e3-roadmap-6-meses.md
 
 ### 4.1 O que é um incidente «significativo»?
 
-Definido no art. 41.º do RJC. Sumariamente, é o que **(a)** causa **perturbação operacional grave** dos serviços ou perdas financeiras significativas; ou **(b)** afecta outras pessoas singulares ou colectivas, causando-lhes prejuízos materiais ou imateriais consideráveis. Para autarquias, casos típicos: ransomware no servidor de ficheiros, indisponibilidade prolongada do portal do munícipe, exfiltração de dados pessoais de munícipes. Ver [C.2 Prazos PT vs NIS2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
+Definido no art. 41.º do RJC. Sumariamente, é o que **(a)** causa **perturbação operacional grave** dos serviços ou perdas financeiras significativas; ou **(b)** afeta outras pessoas singulares ou colectivas, causando-lhes prejuízos materiais ou imateriais consideráveis. Para autarquias, casos típicos: ransomware no servidor de ficheiros, indisponibilidade prolongada do portal do munícipe, exfiltração de dados pessoais de munícipes. Ver [C.2 Prazos PT vs NIS2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
 
-### 4.2 Os prazos do DL português são os mesmos da Directiva NIS2?
+### 4.2 Os prazos do DL português são os mesmos da Diretiva NIS2?
 
 **Não. Há diferenças materiais importantes.** Esquema português:
 
 - **24h após verificação** → notificação inicial (art. 42.º).
-- **72h** → actualização **facultativa** (não obrigatória como na NIS2).
+- **72h** → atualização **facultativa** (não obrigatória como na NIS2).
 - **24h após cessação** do impacto significativo → notificação de fim de impacto (art. 43.º).
 - **30 dias úteis** após o incidente → relatório final (art. 44.º).
 
-NIS2 directiva: 24h alerta + 72h notificação + 1 mês relatório — **diferente**. A página [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}) é provavelmente a mais importante de todo o manual digital.
+NIS2 diretiva: 24h alerta + 72h notificação + 1 mês relatório — **diferente**. A página [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}) é provavelmente a mais importante de todo o manual digital.
 
 ### 4.3 Quando começa a contar o prazo de 24h?
 
-A partir do momento da **verificação** do incidente significativo — não da detecção genérica de um indício. A verificação acontece quando a equipa TIC confirma a natureza, escala e impacto. Boa prática: documentar T0 (detecção) e T1 (verificação) com timestamps. Em incidentes com resolução em ≤ 2h, a notificação inicial é **dispensada** (art. 41.º). Ver [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
+A partir do momento da **verificação** do incidente significativo — não da deteção genérica de um indício. A verificação acontece quando a equipa TIC confirma a natureza, escala e impacto. Boa prática: documentar T0 (deteção) e T1 (verificação) com timestamps. Em incidentes com resolução em ≤ 2h, a notificação inicial é **dispensada** (art. 41.º). Ver [C.2]({% link 02-notificacao-incidentes/c2-prazos-pt-vs-nis2.md %}).
 
 ### 4.4 Tenho de notificar a CNPD também?
 
@@ -187,7 +187,7 @@ A **equipa de resposta a incidentes** da autarquia, articulada com o ponto de co
 
 **Depende.** Dois fundamentos distintos:
 
-- **Art. 48.º do RJC**: o CNCS **pode determinar** que a entidade informe destinatários afectados, ou fazê-lo directamente. Não é automático.
+- **Art. 48.º do RJC**: o CNCS **pode determinar** que a entidade informe destinatários afetados, ou fazê-lo diretamente. Não é automático.
 - **Art. 34.º do RGPD**: comunicação **obrigatória** aos titulares de dados pessoais se a violação for susceptível de implicar **risco elevado** para os seus direitos e liberdades.
 
 Para um ransomware com exfiltração de dados de munícipes, ambas as bases costumam aplicar-se. Use o template [`notificacao-incidente-destinatarios-nis2.docx`]({{ '/templates/notificacao-incidente-destinatarios-nis2.docx' | relative_url }}).
@@ -209,15 +209,15 @@ Negligência: **limites reduzidos a metade**. Pode haver **sanções acessórias
 
 ### 5.2 Existe um período de amnistia?
 
-**Sim — art. 65.º do RJC.** Durante os primeiros **12 meses após a entrada em vigor** (até cerca de **3 de Abril de 2027**), a autarquia pode requerer **dispensa de coima** mediante apresentação de **plano fundamentado de adaptação activa** ao regime. Não é automática — tem de ser **pedida**, justificada e aceite pelo CNCS.
+**Sim — art. 65.º do RJC.** Durante os primeiros **12 meses após a entrada em vigor** (até cerca de **3 de Abril de 2027**), a autarquia pode requerer **dispensa de coima** mediante apresentação de **plano fundamentado de adaptação ativa** ao regime. Não é automática — tem de ser **pedida**, justificada e aceite pelo CNCS.
 
 ### 5.3 Quem responde por incumprimento — a câmara ou o presidente?
 
-**Em regra, a câmara** (pessoa colectiva) responde pelo cumprimento das obrigações. Mas o art. 67.º permite **sanções acessórias** ao presidente ou outros titulares — incluindo **interdição temporária** do exercício do cargo. A responsabilidade pessoal dos órgãos de gestão é mais directa em **entidades essenciais e importantes** (art. 25.º); em autarquias, é indirecta, mas existe.
+**Em regra, a câmara** (pessoa colectiva) responde pelo cumprimento das obrigações. Mas o art. 67.º permite **sanções acessórias** ao presidente ou outros titulares — incluindo **interdição temporária** do exercício do cargo. A responsabilidade pessoal dos órgãos de gestão é mais direta em **entidades essenciais e importantes** (art. 25.º); em autarquias, é indireta, mas existe.
 
 ### 5.4 O CNCS pode auditar a minha autarquia?
 
-**Sim — art. 55.º do RJC (supervisão *ex post*).** O CNCS, como Autoridade Nacional de Cibersegurança, pode realizar inspecções, pedir documentação, exigir prova de cumprimento. Para autarquias, a supervisão é menos intrusiva do que para essenciais/importantes (que estão sujeitas a supervisão *ex ante*), mas existe. Ter os documentos arrumados e o registo no MyCiber actualizado é a melhor preparação.
+**Sim — art. 55.º do RJC (supervisão *ex post*).** O CNCS, como Autoridade Nacional de Cibersegurança, pode realizar inspecções, pedir documentação, exigir prova de cumprimento. Para autarquias, a supervisão é menos intrusiva do que para essenciais/importantes (que estão sujeitas a supervisão *ex ante*), mas existe. Ter os documentos arrumados e o registo no MyCiber atualizado é a melhor preparação.
 
 ---
 
@@ -225,7 +225,7 @@ Negligência: **limites reduzidos a metade**. Pode haver **sanções acessórias
 
 ### 6.1 Como é que isto se cruza com o RGPD?
 
-Em **paralelo, não em substituição**. RGPD continua plenamente aplicável — a câmara é responsável pelo tratamento de dados pessoais dos munícipes. NIS2/DL 125 acrescenta uma camada de **ciberseguranca operacional**. Pontos de cruzamento: notificação de violações (dois canais), gestão de cadeia de fornecimento (subcontratantes RGPD ≈ fornecedores TIC NIS2), responsabilidade do DPO. Ver [C.4]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}).
+Em **paralelo, não em substituição**. RGPD continua plenamente aplicável — a câmara é responsável pelo tratamento de dados pessoais dos munícipes. NIS2/DL 125 acrescenta uma camada de **cibersegurança operacional**. Pontos de cruzamento: notificação de violações (dois canais), gestão de cadeia de fornecimento (subcontratantes RGPD ≈ fornecedores TIC NIS2), responsabilidade do DPO. Ver [C.4]({% link 02-notificacao-incidentes/c4-cruzamento-rgpd.md %}).
 
 ### 6.2 E a Lei do Cibercrime (Lei 109/2009)?
 
@@ -233,11 +233,11 @@ Continua a aplicar-se. O DL 125/2025 introduziu o art. 8.º-A para articular os 
 
 ### 6.3 E o regime da segurança da informação classificada?
 
-A **Lei do Segredo de Estado** e o **Regime Jurídico da Segurança da Informação Classificada** (RJSIC) continuam plenamente vigentes para informação classificada. Para autarquias, raro — surge quando há projectos de protecção civil sensíveis ou cooperação com FFSS. Quando aplicável, **prevalece** sobre o regime geral.
+A **Lei do Segredo de Estado** e o **Regime Jurídico da Segurança da Informação Classificada** (RJSIC) continuam plenamente vigentes para informação classificada. Para autarquias, raro — surge quando há projectos de proteção civil sensíveis ou cooperação com FFSS. Quando aplicável, **prevalece** sobre o regime geral.
 
 ### 6.4 E os contratos de serviços de TIC já em vigor?
 
-**Continuam válidos**, mas a renovação ou novos contratos a partir de Abril de 2026 devem incorporar **cláusulas de ciberseguranca** alinhadas ao Anexo IV — ver template [`clausulas-seguranca-fornecedores-nis2.docx`]({{ '/templates/clausulas-seguranca-fornecedores-nis2.docx' | relative_url }}). Para contratos críticos em vigor, considerar **adenda** voluntária.
+**Continuam válidos**, mas a renovação ou novos contratos a partir de Abril de 2026 devem incorporar **cláusulas de cibersegurança** alinhadas ao Anexo IV — ver template [`clausulas-seguranca-fornecedores-nis2.docx`]({{ '/templates/clausulas-seguranca-fornecedores-nis2.docx' | relative_url }}). Para contratos críticos em vigor, considerar **adenda** voluntária.
 
 ---
 
@@ -245,7 +245,7 @@ A **Lei do Segredo de Estado** e o **Regime Jurídico da Segurança da Informaç
 
 ### 7.1 Tenho um único técnico de informática. É suficiente?
 
-Para Grupo B, **operacionalmente sim**, com a condição de que esse técnico tenha **apoio externo qualificado** (fornecedor de serviços geridos, consultor ou colega de câmara vizinha por protocolo) para incidentes que excedam a sua capacidade. **Não é razoável** que uma só pessoa cubra simultaneamente o quotidiano IT e a resposta a um incidente significativo activo — o plano de resposta tem de prever escalação para fora.
+Para Grupo B, **operacionalmente sim**, com a condição de que esse técnico tenha **apoio externo qualificado** (fornecedor de serviços geridos, consultor ou colega de câmara vizinha por protocolo) para incidentes que excedam a sua capacidade. **Não é razoável** que uma só pessoa cubra simultaneamente o quotidiano IT e a resposta a um incidente significativo ativo — o plano de resposta tem de prever escalação para fora.
 
 ### 7.2 Quem deve ser o ponto de contacto NIS2 na câmara?
 
@@ -264,9 +264,9 @@ Tipicamente o **chefe de divisão de informática** ou cargo equivalente. Pode a
 
 Roadmap pragmático em 6 meses, detalhado em [E.3]({% link 04-supervisao-roadmap/e3-roadmap-6-meses.md %}):
 
-1. **Mês 1**: auto-identificação + qualificação. Designação de ponto de contacto. Lista de activos publicamente acessíveis (prazo apertado dos 20 dias úteis).
+1. **Mês 1**: auto-identificação + qualificação. Designação de ponto de contacto. Lista de ativos publicamente acessíveis (prazo apertado dos 20 dias úteis).
 2. **Mês 2**: políticas-base (segurança da informação, classificação, backups, palavras-passe, controlo de acessos).
-3. **Mês 3**: inventário completo de activos + matriz de risco simples.
+3. **Mês 3**: inventário completo de ativos + matriz de risco simples.
 4. **Mês 4**: medidas técnicas operacionais (MFA, backups testados, monitorização).
 5. **Mês 5**: plano de resposta a incidentes + playbooks + simulação interna.
 6. **Mês 6**: auditoria interna + revisão pela gestão + plano para o ano seguinte.
@@ -275,9 +275,9 @@ Roadmap pragmático em 6 meses, detalhado em [E.3]({% link 04-supervisao-roadmap
 
 **Cinco peças**:
 
-1. **Classificação correcta** da entidade (Grupo A/B/fora; dupla qualificação se aplicável).
+1. **Classificação correta** da entidade (Grupo A/B/fora; dupla qualificação se aplicável).
 2. **Embrião de matriz de risco** com 3 riscos identificados (Exercício A2).
-3. **Top 5 activos críticos** identificados (Exercício A3).
+3. **Top 5 ativos críticos** identificados (Exercício A3).
 4. **Top 5 fornecedores TIC críticos** mapeados (Exercício A5).
 5. **Cheatsheet roadmap 6 meses** + cartão prazos PT vs NIS2 (entregues à saída).
 
@@ -287,4 +287,4 @@ Se sair com isto, e ler o manual digital nas semanas seguintes, está na pista c
 
 ## Não encontrou a sua pergunta?
 
-Esta FAQ é actualizada com base nas perguntas recorrentes em formação. Se a sua dúvida não está aqui, escreva para o formador — a pergunta pode passar a constar de uma próxima versão.
+Esta FAQ é atualizada com base nas perguntas recorrentes em formação. Se a sua dúvida não está aqui, escreva para o formador — a pergunta pode passar a constar de uma próxima versão.

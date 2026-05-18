@@ -9,7 +9,7 @@ nav_order: 4
 
 **Duração**: 25 min · **Bloco**: C.6 · **Materiais**: 4 fichas de cenário em PDF (descarregáveis, uma sorteada por formando em sessão) + [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }})
 
-## Objectivo
+## Objetivo
 
 Exercitar **uma vez** o que deve ser automático no dia em que acontecer a sério: receber um incidente real, decidir em **minutos** se atinge o limiar de significativo do art. 40.º, n.º 3 do RJC, identificar os canais aplicáveis (CNCS, CNPD, MP, art. 48.º), e preencher a notificação inicial dos 24h. É o exercício mais consequente do dia. Quando o incidente vier, terão **15 minutos** úteis — não horas.
 
@@ -29,15 +29,15 @@ Em sessão, o formador atribui uma ficha por sorteio a cada formando (ou a um su
 **Fase 1 — Decisão (5 min).** Lendo a ficha, sozinho, responda mentalmente (ou em notas) a:
 
 1. Este incidente atinge o **limiar de significativo** (art. 40.º, n.º 3 do RJC)? Justifique com 2-3 parâmetros concretos.
-2. **Quando** começa a contar o prazo dos 24h — a hora de detecção ou a hora de verificação?
+2. **Quando** começa a contar o prazo dos 24h — a hora de deteção ou a hora de verificação?
 3. **Que canais** se accionam? CNCS sempre. CNPD se houver dados pessoais. MP se houver crime informático (Lei 109/2009). Art. 48.º (comunicação a destinatários) se aplicável.
 
 **Fase 2 — Preenchimento (10 min).** Abra [`notificacao-24h-nis2.docx`]({{ '/templates/notificacao-24h-nis2.docx' | relative_url }}) (password da formação) e preencha pelo menos:
 
 - Identificação da entidade.
-- Hora de verificação (não hora de detecção genérica).
+- Hora de verificação (não hora de deteção genérica).
 - Descrição sumária do incidente.
-- Estimativa de impacto (serviços afectados, número aproximado de munícipes).
+- Estimativa de impacto (serviços afetados, número aproximado de munícipes).
 - Outras informações relevantes (suspeita de violação de dados, crime informático, etc.).
 
 **Fase 3 — Discussão em plenária (10 min).** O formador convida **4 voluntários** — idealmente um de cada cenário — a partilhar brevemente (≈2 min cada):
@@ -53,11 +53,11 @@ Cada formando termina com **um rascunho de notificação inicial** parcialmente 
 
 ## Validação rápida — armadilhas comuns
 
-| Armadilha | Correcção |
+| Armadilha | Correção |
 |---|---|
-| Confundir hora de **detecção** com hora de **verificação** | O relógio dos 24h começa em **T1 (verificação)**, não em T0 (alerta vago). |
+| Confundir hora de **deteção** com hora de **verificação** | O relógio dos 24h começa em **T1 (verificação)**, não em T0 (alerta vago). |
 | Esquecer a CNPD em incidente com dados pessoais | NIS2 e RGPD são **paralelos**, não substitutos. 24h CNCS + 72h CNPD. |
-| Comunicar à imprensa antes de notificar o CNCS | **Ordem matters**: regulador primeiro, comunicação depois (excepto risco iminente para o público). |
+| Comunicar à imprensa antes de notificar o CNCS | **Ordem matters**: regulador primeiro, comunicação depois (exceto risco iminente para o público). |
 | Ficha 2 (fornecedor): «esperar pelo fornecedor» | A entidade responsável é a câmara. **Notificar mesmo sem confirmação** — art. 42.º permite incompletude inicial. |
 | Ficha 3 (DDoS): notificar com 30 min de indisponibilidade | Decisão deve ser proporcional. 30 min não atinge limiar; 4h+ provavelmente sim. **Monitorizar** antes de decidir. |
 | Notificação sem assinatura ou sem hora | Documento jurídico — falta um campo, falha a evidência de cumprimento. |

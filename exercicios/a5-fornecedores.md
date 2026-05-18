@@ -14,7 +14,7 @@ nav_order: 5
 
 **Duração**: 10 min · **Bloco**: D.1 · **Materiais**: [`a5-top5-fornecedores.xlsx`]({{ '/templates/a5-top5-fornecedores.xlsx' | relative_url }})
 
-## Objectivo
+## Objetivo
 
 Mapear os 5 fornecedores TIC mais críticos da autarquia e classificá-los por **criticidade** e **risco de cadeia de abastecimento** — base da medida [<abbr title="Política de Segurança da cadeia de Fornecimento">**O.PSF**</abbr>]({% link recursos/anexo-iv-aviso-5146.md %}#o-psf) do Anexo IV. Para autarquias, este é provavelmente o exercício mais útil de todos: uma câmara depende, na prática, de **uma mão-cheia de fornecedores** para tudo o que é digital. Saber quais são, saber o que falha primeiro se um deles cair, e ter cláusulas contratuais alinhadas, é metade do trabalho.
 
@@ -22,7 +22,7 @@ Mapear os 5 fornecedores TIC mais críticos da autarquia e classificá-los por *
 
 1. Abra [`a5-top5-fornecedores.xlsx`]({{ '/templates/a5-top5-fornecedores.xlsx' | relative_url }}) (password da formação).
 2. Apague a linha de exemplo.
-3. Liste os **5 fornecedores TIC mais críticos** da câmara. Critério: aquele cuja falha ou compromisso afecta **directamente** o serviço público.
+3. Liste os **5 fornecedores TIC mais críticos** da câmara. Critério: aquele cuja falha ou compromisso afeta **diretamente** o serviço público.
    - Suspeitos habituais em autarquias: Medidata, AIRC, Glintt, Visionware, Microsoft (M365), AMA, alojamento/cloud, ISP/operador de telecomunicações, fornecedor de segurança de rede, fornecedor de SIG, fornecedor de contabilidade.
 4. Para cada fornecedor, preencha:
    - **Serviço prestado** — o que faz para a câmara, em linguagem concreta.
@@ -44,7 +44,7 @@ Pelo menos um deverá ter **"Contrato formal? = Não"** — verificar e remediar
 
 ## Validação rápida — armadilhas comuns
 
-| Armadilha | Correcção |
+| Armadilha | Correção |
 |---|---|
 | Esquecer a **Microsoft 365** | É quase sempre o fornecedor mais crítico (e-mail, identidade, OneDrive, Teams). Tem de estar na lista. |
 | Confundir **fornecedor de hardware** com **fornecedor de serviço** | O exercício é sobre serviços (software, cloud, plataformas). Hardware entra noutra dimensão. |

@@ -24,12 +24,12 @@ Este é o slot que costuma despertar a sala: **quanto custa não cumprir**, **qu
 | **22 de Abril de 2026** | Fim da consulta pública do Aviso 5146/2026/2 | — |
 | (sem data anunciada) | Publicação da versão final do Aviso (após análise dos contributos) | — |
 | **60 dias após** disponibilização da plataforma | Prazo de auto-identificação obrigatória | art. 8.º, n.º 1 do RJC |
-| **20 dias úteis após** qualificação | Comunicação da 1.ª lista de activos publicamente acessíveis | art. 32.º do Aviso |
+| **20 dias úteis após** qualificação | Comunicação da 1.ª lista de ativos publicamente acessíveis | art. 32.º do Aviso |
 | **6 meses** (prorrogáveis até 1 ano) | Adaptação a nova qualificação | art. 8.º do RJC |
 | **24 meses após** regulamentação | Produção de efeitos de certas obrigações específicas (essenciais) | art. 10.º do articulado preambular |
 | **~3 de Abril de 2027** | **Fim do regime transitório de dispensa de coimas** | art. 65.º do RJC |
 
-Os três prazos a fixar na agenda da autarquia (já vimos em [A.3]({% link 00-enquadramento/a3-plataforma-cncs.md %})): **60 dias** para auto-identificação, **20 dias úteis** para a 1.ª lista de activos publicamente acessíveis, **~3-4-2027** como horizonte máximo para estar em conformidade demonstrável.
+Os três prazos a fixar na agenda da autarquia (já vimos em [A.3]({% link 00-enquadramento/a3-plataforma-cncs.md %})): **60 dias** para auto-identificação, **20 dias úteis** para a 1.ª lista de ativos publicamente acessíveis, **~3-4-2027** como horizonte máximo para estar em conformidade demonstrável.
 
 ## Sanções — quadro por grupo
 
@@ -48,7 +48,7 @@ O Capítulo VII do RJC (arts. 61.º a 81.º) estrutura as contraordenações em 
 |---|---|---|
 | Titulares (pessoa singular) | **500 € a 16.000 €** | **375 € a 10.000 €** |
 
-As coimas a pessoa singular aplicam-se a quem, por acção ou omissão pessoal, tenha contribuído para a infracção — tipicamente o membro do executivo com pelouro da matéria, o RC quando exista, ou o dirigente máximo do serviço afectado.
+As coimas a pessoa singular aplicam-se a quem, por ação ou omissão pessoal, tenha contribuído para a infracção — tipicamente o membro do executivo com pelouro da matéria, o RC quando exista, ou o dirigente máximo do serviço afetado.
 
 ### Comparação com entidades essenciais e importantes
 
@@ -70,13 +70,13 @@ O *art. 64.º*{:.legal} do RJC reduz a metade os limites mínimos e máximos qua
 Esta cláusula importa em dois sentidos:
 
 1. **Defesa**: numa infracção típica de incumprimento (atraso na notificação, ausência de medida documentada), a entidade deve sempre invocar a negligência se não houve intenção, porque divide o valor potencial.
-2. **Distinção entre dolo e negligência**: "esquecer de notificar" um incidente é negligência; "decidir não notificar para evitar exposição" é dolo. A diferença interna entre estes dois cenários costuma cair em e-mails internos, actas de reunião, decisões escritas. Há aqui um aviso indirecto: **documentem** as decisões tomadas em torno de incidentes.
+2. **Distinção entre dolo e negligência**: "esquecer de notificar" um incidente é negligência; "decidir não notificar para evitar exposição" é dolo. A diferença interna entre estes dois cenários costuma cair em e-mails internos, actas de reunião, decisões escritas. Há aqui um aviso indireto: **documentem** as decisões tomadas em torno de incidentes.
 
 ## Sanções acessórias (art. 67.º)
 
 Para além da coima, o art. 67.º do RJC permite a aplicação de **sanções acessórias** com efeito potencialmente mais oneroso do que a própria coima:
 
-- **Proibição do exercício da actividade** que envolva os sistemas de informação visados pela infracção, por período até **3 anos**.
+- **Proibição do exercício da atividade** que envolva os sistemas de informação visados pela infracção, por período até **3 anos**.
 - **Privação do direito a subsídio ou benefício** outorgado por entidade pública, por período até **3 anos** — atenção: muitos investimentos municipais dependem de financiamento europeu ou nacional.
 - **Privação do direito de participar em arrematações ou concursos públicos** que tenham por objecto serviços ou bens fornecidos pela autarquia, por até **3 anos**.
 - **Suspensão de autorizações, licenças ou alvarás**.
@@ -167,7 +167,7 @@ Ressalva: depende da forma de organização do SMAS (autónomo vs unidade orgân
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Falso.** O *art. 65.º* prevê **dispensa discricionária** de coima para infracções dos arts. 61.º e 62.º, **mediante pedido fundamentado** e demonstração de **procedimento interno de adaptação activa**. Não é automática nem cobre infracções leves, sanções acessórias ou compulsórias.
+**Falso.** O *art. 65.º* prevê **dispensa discricionária** de coima para infracções dos arts. 61.º e 62.º, **mediante pedido fundamentado** e demonstração de **procedimento interno de adaptação ativa**. Não é automática nem cobre infracções leves, sanções acessórias ou compulsórias.
 </details>
 
 **3.** Quais os **dois meios de autenticação** aceites no MyCiber?
@@ -175,7 +175,7 @@ Ressalva: depende da forma de organização do SMAS (autónomo vs unidade orgân
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Cartão de Cidadão (CC)** e **Chave Móvel Digital (CMD)**. Sem login local. Mesma autenticação electrónica usada noutras plataformas da AP (Portal das Finanças, ePortugal). Ver [A.3 Plataforma MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
+**Cartão de Cidadão (CC)** e **Chave Móvel Digital (CMD)**. Sem login local. Mesma autenticação eletrónica usada noutras plataformas da AP (Portal das Finanças, ePortugal). Ver [A.3 Plataforma MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
 </details>
 
 **4.** O prazo de **60 dias** para auto-identificação começa a contar a partir de **quando**?
@@ -207,7 +207,7 @@ A partir da **disponibilização do registo formal no MyCiber** comunicada pelo 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Privação do direito de participar em concursos públicos** (até 3 anos) e **publicidade da decisão condenatória**. As duas que mais pesam politicamente — frequentemente mais do que o valor da coima em si. Outras: proibição de actividade, suspensão de licenças, interdição temporária de cargos, perda de subsídios.
+**Privação do direito de participar em concursos públicos** (até 3 anos) e **publicidade da decisão condenatória**. As duas que mais pesam politicamente — frequentemente mais do que o valor da coima em si. Outras: proibição de atividade, suspensão de licenças, interdição temporária de cargos, perda de subsídios.
 </details>
 
 **8.** A cadeia de origem do regime português é:
@@ -215,7 +215,7 @@ A partir da **disponibilização do registo formal no MyCiber** comunicada pelo 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Directiva (UE) 2022/2555 (NIS2)** → **Decreto-Lei n.º 125/2025** (transposição PT, aprova o RJC em anexo) → **Aviso n.º 5146/2026/2** (regulamento de execução do CNCS, em fase de redacção da versão final após consulta pública). Ver [A.1 Origem e estrutura dos diplomas]({% link 00-enquadramento/a1-origem-diplomas.md %}).
+**Diretiva (UE) 2022/2555 (NIS2)** → **Decreto-Lei n.º 125/2025** (transposição PT, aprova o RJC em anexo) → **Aviso n.º 5146/2026/2** (regulamento de execução do CNCS, em fase de redação da versão final após consulta pública). Ver [A.1 Origem e estrutura dos diplomas]({% link 00-enquadramento/a1-origem-diplomas.md %}).
 </details>
 
 ## Próximo passo
