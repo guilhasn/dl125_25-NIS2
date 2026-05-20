@@ -19,7 +19,7 @@ Ao final desta formação, cada participante termina com **5 peças concretas** 
 1. **Classificação correta** da autarquia (Grupo A / Grupo B / fora do regime), com eventual dupla qualificação identificada (SMAS, empresa municipal).
 2. **Embrião de matriz de risco** com 3 riscos identificados, classificados (P × I) e com tratamento decidido.
 3. **Top 5 de ativos críticos** da câmara, com responsável funcional e dependência principal.
-4. **Rascunho de notificação 24h** preenchido sobre um cenário de incidente sorteado em sessão.
+4. **Rascunho de notificação 24h** preenchido sobre um cenário de incidente.
 5. **Roadmap de 6 meses** para conformidade demonstrável, com peças a produzir em cada mês.
 
 Tudo isto fica no computador do formando + acessível no manual digital para revisitar. O manual digital continua disponível em `guilhasn.github.io/dl125_25-NIS2/` depois da sessão.
