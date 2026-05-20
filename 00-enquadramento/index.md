@@ -7,8 +7,6 @@ has_children: true
 
 # A. Enquadramento legal
 
-> *Antes de fazer, qualifica-te.*
-
 {: .highlight }
 > 📚 **Recursos CNCS para autarquias:** o CNCS tem [**portal dedicado à Administração Pública**](http://www.cncs.gov.pt/pt/administracao-publica/){:target="_blank"} e o programa [**C-Network**](http://www.cncs.gov.pt/pt/c-network/){:target="_blank"} para apoiar PME e AP local/regional até Março de 2026. Ver catálogo completo em [Recursos do CNCS]({% link recursos/cncs.md %}).
 
