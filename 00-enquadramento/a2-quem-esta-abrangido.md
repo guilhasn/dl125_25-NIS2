@@ -118,7 +118,7 @@ Não basta. A água potável é sector do Anexo I do DL 125/2025 e a forma de pr
 
 Há ainda uma porta aberta para que o CNCS qualifique uma autarquia como **entidade essencial**, mesmo sem operar sector Anexo I, se prestar "serviços nas áreas do desenvolvimento, manutenção e gestão de infraestruturas de TIC ou apresentar um grau particularmente elevado de integração digital na prestação dos seus serviços". Caso raro, decisão fundamentada do CNCS (art. 8.º, n.os 3-4). Sinalizar, mas não dimensionar a estratégia em função desta hipótese improvável.
 
-## Pré-trabalho — informação que deveriam ter convosco
+## Pré-trabalho
 
 Para fazer o Exercício A1 com proveito, cada formando precisa de ter à mão:
 
