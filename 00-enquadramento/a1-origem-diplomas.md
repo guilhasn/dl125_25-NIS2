@@ -7,11 +7,6 @@ nav_order: 1
 
 # A.1 Origem e estrutura dos diplomas
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 Antes de discutir o que cumprir, vale a pena saber **de onde vem a obrigação** e **onde a encontrar**. As autarquias portuguesas vivem agora sob duas peças jurídicas articuladas — uma lei nacional e um regulamento técnico do CNCS — que, por sua vez, transpõem uma diretiva da União Europeia.
 
 ## A cadeia: UE → DL → Aviso
