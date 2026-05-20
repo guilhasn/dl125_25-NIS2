@@ -33,5 +33,3 @@ Tudo isto fica no computador do formando + acessível no manual digital para rev
 | **C. Notificação de incidentes** | 90 min | Prazos PT (24h + 24h + 30 dias úteis), plataforma CNCS, articulação RGPD |
 | **D. Outras medidas** | 60 min | Cadeia de fornecimento, continuidade, acessos/MFA, formação |
 | **E. Supervisão e roadmap** | 20 min | Supervisão *ex post*, sanções, roadmap de 6 meses, compromisso pessoal |
-
-**Pausas**: o formador faz pausas curtas entre blocos conforme o ritmo da sessão.
