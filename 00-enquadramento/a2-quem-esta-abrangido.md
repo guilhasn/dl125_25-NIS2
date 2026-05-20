@@ -127,7 +127,7 @@ Para fazer o Exercício A1 com proveito, cada formando precisa de ter à mão:
 3. **Número de trabalhadores de cada uma dessas entidades**.
 4. **Sectores de atividade** dessas entidades (água, resíduos, transportes, cultura, desporto, etc.).
 
-Se não trouxeram estes dados, façam o exercício com aproximações e completem na semana seguinte. **O importante é sair daqui com um inventário de qualificações e o caminho de obrigações claro para cada uma.**
+**O importante é sair daqui com um inventário de qualificações e o caminho de obrigações claro para cada uma.**
 
 ## Templates aplicáveis
 
