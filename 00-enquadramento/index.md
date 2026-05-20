@@ -32,11 +32,7 @@ Ao final do bloco, cada formando deve ser capaz de:
 
 Saberão identificar a vossa qualificação, os artigos que vos aplicam, os prazos críticos para cumprir e o ordem de grandeza das coimas. **Não saberão ainda** quais as medidas técnicas concretas a implementar — isso é o Bloco B em diante.
 
-## Exercício associado
-
-[Exercício A1 — Classificação da vossa autarquia]({% link exercicios/a1-classificacao.md %}) (10 min, individual) — cada formando lista as entidades operacionais da sua autarquia e classifica-as.
-
 ## Roteiro paralelo
 
-Se durante o Exercício A1 identificaram **dupla qualificação** (SMAS, empresas municipais em sectores Anexo I/II), sigam também o [roteiro essencial]({% link roteiro-essencial/index.md %}) — em particular a [comparação Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
+Se ao classificar a vossa autarquia em A.2 identificarem **dupla qualificação** (SMAS, empresas municipais em sectores Anexo I/II), sigam também o [roteiro essencial]({% link roteiro-essencial/index.md %}) — em particular a [comparação Anexo III vs Anexo IV]({% link roteiro-essencial/anexo-iii-vs-anexo-iv.md %}).
 
