@@ -108,7 +108,7 @@ Antes do procedimento de contratação, fazer **análise de risco sumária** do 
 
 ## Mapa de correspondência — art. 27.º DL → Anexo III (essencial) → Anexo IV (autarquia)
 
-Esta é a tabela mais importante do bloco. Ela diz, para cada alínea do art. 27.º, **qual a medida equivalente que recai sobre a vossa câmara** no Anexo IV — e qual a medida equivalente que recairia se fossem entidade essencial (útil para quem tem dupla qualificação, ver 'Em dupla qualificação').
+Esta tabela é uma peça-chave do bloco. Para cada alínea do art. 27.º, diz **qual a medida equivalente no Anexo IV** aplicável à pública relevante — e a medida correspondente no Anexo III aplicável a quem é entidade essencial (útil para quem tem dupla qualificação; ver 'Em dupla qualificação').
 
 📄 **[Mapa art. 27.º → Anexo IV (PDF, A4 paisagem)]({{ '/templates/mapa-art27-anexo-iv.pdf' | relative_url }})** — versão imprimível desta tabela para afixar no gabinete TIC.
 
