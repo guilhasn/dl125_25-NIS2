@@ -15,7 +15,7 @@ nav_order: 1
 {: .highlight }
 > 📚 **QNRCS v2 — referencial nacional:** Anexo I do Aviso 5146/2026/2 (art. 23.º). Estrutura em **6 objetivos** (Gerir · Identificar · Proteger · Detetar · Responder · Recuperar) e **3 níveis cumulativos** (Básico ⊂ Substancial ⊂ Elevado). É o referencial de onde o Anexo IV foi derivado para autarquias. Ver [Recursos / QNRCS v2]({% link recursos/qnrcs.md %}) e [auto-avaliação E.2.1]({% link 04-supervisao-roadmap/e2-1-autoavaliacao-qnrcs.md %}).
 
-O art. 27.º do RJC é o **catálogo nuclear das medidas de gestão de riscos de cibersegurança** previstas pela transposição portuguesa da NIS2. É também a origem de uma confusão recorrente: lê-se na lei, copia-se para o caderno de encargos da câmara, e em poucas semanas os fornecedores estão a propor implementações desenhadas para entidades essenciais a uma autarquia que **não está obrigada a aplicá-lo diretamente**. Esta página resolve essa confusão e prepara o terreno para os 90 minutos do bloco: o que o art. 27.º exige, **a quem**, e **como se traduz** no Anexo IV do Aviso — o regulamento que efectivamente vincula as autarquias.
+O art. 27.º do RJC é o **catálogo nuclear das medidas de gestão de riscos de cibersegurança** previstas pela transposição portuguesa da NIS2. É também a origem de uma confusão recorrente: lê-se na lei, copia-se para o caderno de encargos da câmara, e em poucas semanas os fornecedores estão a propor implementações desenhadas para entidades essenciais a uma autarquia que **não está obrigada a aplicá-lo diretamente**. Esta página resolve essa confusão e fixa três coisas: **o que** o art. 27.º exige, **a quem** se aplica, e **como se traduz** no Anexo IV do Aviso — o regulamento que efectivamente vincula as autarquias.
 
 ## O que a lei diz
 
