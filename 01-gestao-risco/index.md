@@ -14,8 +14,6 @@ has_children: true
 
 > *Sem matriz e sem inventário, tudo o resto é arbitrário.*
 
-**Duração**: 90 minutos · **4 sub-páginas**
-
 Este é o **núcleo técnico** do dia. Depois de fixarmos no Bloco A quem está abrangido e o que custa não cumprir, abrimos agora o catálogo nuclear das medidas técnicas — o art. 27.º do RJC — e traduzimo-lo no instrumento que vos vincula diretamente: o **Anexo IV do Aviso 5146/2026/2**. A meio do bloco constrói-se aquela que é talvez a peça documental mais importante de toda a vossa estratégia de conformidade: a **matriz de risco** da entidade. E fixa-se o inventário de ativos críticos — a peça base sem a qual o resto é arbitrário.
 
 ## Objetivos do bloco
