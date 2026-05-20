@@ -7,11 +7,6 @@ nav_order: 3
 
 # Checklist específica SMAS — entidade essencial
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 Esta checklist é a **versão SMAS** da [E.2 Documentação mínima]({% link 04-supervisao-roadmap/e2-documentacao-minima.md %}). Acrescenta as peças que decorrem da qualificação como **entidade essencial** (Anexo I — água potável / águas residuais) e que **não estão** na checklist da câmara.
 
 Use em conjunto com a checklist principal. As peças aqui marcadas com **(SMAS)** **não substituem** as da câmara — **acumulam-se**.
