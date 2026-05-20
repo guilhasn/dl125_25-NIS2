@@ -42,7 +42,7 @@ No Bloco D vamos trabalhar **cadeia de fornecimento**. Quem tiver à mão dados 
 
 ## Revisão do Bloco B — 8 perguntas
 
-**1.** O *art. 27.º RJC* aplica-se diretamente à minha câmara (Grupo B)?
+**1.** O *art. 27.º RJC* aplica-se diretamente a uma entidade pública relevante (autarquia Grupo A ou B)?
 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
