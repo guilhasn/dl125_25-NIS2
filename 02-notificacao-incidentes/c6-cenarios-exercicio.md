@@ -75,11 +75,6 @@ Não há classificação numérica. Os critérios qualitativos para *feedback* n
 - A notificação inicial preenchida tem os 4 grupos de campos do art. 42.º, n.º 2?
 - A decisão de comunicação externa foi **proporcional** ao momento (1 hora vs 1 dia vs 1 semana)?
 
-## Resoluções modelo
-
-{: .warning }
-> **Spoiler — só APÓS o exercício.** Resoluções completas das 4 fichas (decisões, cronograma, notificação 24h preenchida, canais, pontos sensíveis) disponíveis em [**C.7 Resoluções modelo**]({% link 02-notificacao-incidentes/c7-resolucoes.md %}). Não consulte antes de tentar — o valor do exercício está no raciocínio, não na resposta. (Página excluída do menu lateral; só acessível por este *link*.)
-
 ## Revisão do Bloco C — 8 perguntas
 
 **1.** Um incidente foi **detetado às 14:00** e **verificado como significativo às 16:30**. Até quando tem de submeter a notificação inicial ao CNCS?
