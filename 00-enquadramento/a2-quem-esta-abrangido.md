@@ -111,7 +111,16 @@ As obrigações **acumulam**: a câmara é entidade pública relevante **e** don
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-Não basta. A água potável é sector do Anexo I do DL 125/2025 e a forma de prestação (integrada, externalizada, em SMAS, em empresa municipal) **não muda o facto de a atividade ser prestada** — só muda *quem* a presta. A câmara deve declarar-se como **pública relevante Grupo B** *e* como **entidade essencial** pelo sector águas — dupla qualificação intra-orgânica, com dois cadernos de encargos cumuláveis. A análise deve olhar para a atividade efectivamente prestada, **não para o organograma**. Em caso de dúvida, documentar a análise e pedir orientação ao CNCS no ato de registo.
+Não basta. A água potável é sector do Anexo I do DL 125/2025 e a forma de prestação (integrada, externalizada, em SMAS, em empresa municipal) **não muda o facto de a atividade ser prestada** — só muda *quem* a presta.
+
+Como o serviço de águas é **unidade orgânica integrada sem personalidade jurídica autónoma**, há **um único registo** — o do Município — em que se declaram **as duas qualificações cumuladas**:
+
+- **Pública relevante Grupo B** (regime do *art. 33.º RJC* + Anexo IV do Aviso).
+- **Entidade essencial** pelo sector Anexo I (regime dos *arts. 26.º-32.º RJC* + Anexo III).
+
+No formulário do *art. 35.º do Aviso* assinala-se o sector/subsector aplicável (água potável e/ou águas residuais) — é nesse campo que a segunda qualificação se materializa. As obrigações são cumuláveis; a evidência documental (matriz de risco, plano de resposta, registos de incidentes) tem de cobrir ambos os regimes.
+
+A análise deve olhar para a atividade efectivamente prestada, **não para o organograma**. Em caso de dúvida, documentar a análise e pedir orientação ao CNCS no ato de registo.
 </details>
 
 ### Exceção qualificadora rara (art. 6.º, n.º 1, al. d) do RJC)
