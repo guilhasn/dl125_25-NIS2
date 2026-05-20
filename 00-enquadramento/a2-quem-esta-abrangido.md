@@ -133,7 +133,7 @@ Para fazer o Exercício A1 com proveito, cada formando precisa de ter à mão:
 
 | Template | Etiqueta | Notas |
 |---|---|---|
-| `WS1_v2_Classificacao_Obrigacoes_H1_ComLegislacao.docx` | Aplicar tal-qual | Worksheet do exercício A1. |
+| [`a1-classificacao-autarquia.xlsx`]({{ '/templates/a1-classificacao-autarquia.xlsx' | relative_url }}) | Aplicar tal-qual | Worksheet do exercício A1. |
 | [`avaliacao-maturidade-nis2.xlsx`]({{ '/templates/avaliacao-maturidade-nis2.xlsx' | relative_url }}) | Adaptar Grupo A/B | Autodiagnóstico inicial. |
 | [`gap-analysis-nis2.xlsx`]({{ '/templates/gap-analysis-nis2.xlsx' | relative_url }}) | Adaptar Grupo A/B | Comparação entre estado atual e Anexo IV. |
 
