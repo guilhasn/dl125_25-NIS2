@@ -7,11 +7,6 @@ nav_order: 2
 
 # E.2 Documentação mínima — checklist final
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 {: .highlight }
 > 📚 **Recurso CNCS complementar:** o CNCS publica o [**Quadro de Avaliação de Capacidades de Cibersegurança**](https://www.cncs.gov.pt/docs/cncs-quadrodeavaliacao.pdf){:target="_blank"} — ferramenta de auto-avaliação alinhada com o QNRCS, para a câmara medir a sua maturidade nas 5 funções (Identificar · Proteger · Detetar · Responder · Recuperar). Ver [Recursos do CNCS]({% link recursos/cncs.md %}).
 

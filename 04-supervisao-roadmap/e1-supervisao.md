@@ -7,12 +7,7 @@ nav_order: 1
 
 # E.1 Supervisão *ex post*
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
-**Duração**: 5 min · **Base legal**: [*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)
+**Base legal**: [*art. 55.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-55)
 
 Uma autarquia não é supervisionada como uma entidade essencial. Não há auditoria periódica programada, não há obrigação de relatórios anuais ao CNCS, não há *peer review* sectorial. O que existe é **supervisão *ex post*** — o CNCS pode pedir contas **quando houver motivo**: a seguir a um incidente, perante uma denúncia, ou por amostragem aleatória. Esta página explica em que consiste e como se preparar.
 

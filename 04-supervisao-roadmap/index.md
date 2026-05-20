@@ -7,11 +7,6 @@ has_children: true
 
 # E. Supervisão e roadmap
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 > *Documentar é metade do trabalho.*
 
 **Duração**: 20 minutos · **4 sub-páginas**

@@ -7,11 +7,6 @@ nav_order: 2.7
 
 # E.2.2 Avaliação final
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 **Duração**: ~15 min · **Base**: síntese transversal dos blocos A-E.
 
 Esta é a peça que fecha o ciclo conceptual da formação. Cada bloco já tem a sua revisão de 8 questões (A.4, B.4, C.6, D.4, E.4). Aqui o objetivo é diferente — **transversalidade**: situações típicas que cruzam dois ou mais blocos, exatamente como acontecem na vida real de uma câmara.

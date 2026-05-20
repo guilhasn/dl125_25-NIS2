@@ -7,11 +7,6 @@ nav_order: 3
 
 # E.3 Roadmap 6 meses — *cheatsheet* operacional
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 **Duração**: 5 min · **Forma**: *cheatsheet* para imprimir e afixar — uma só página, com a sequência dos primeiros 6 meses
 
 Ao fim deste dia de formação, vocês têm uma matriz de risco em embrião, um *top 5* de ativos, um *top 5* de fornecedores e o esboço de uma notificação 24h. **Não chega**, mas é o ponto de partida certo. Este roadmap traduz o resto — o caminho mês-a-mês para chegar a uma **postura defensável** em **6 meses**. Não é o caminho para a perfeição (que demora anos); é o caminho para o **mínimo demonstrável** que se invocará perante o [*art. 65.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-65) (dispensa de coimas).

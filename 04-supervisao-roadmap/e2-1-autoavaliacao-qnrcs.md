@@ -7,11 +7,6 @@ nav_order: 2.5
 
 # E.2.1 Auto-avaliação de maturidade QNRCS v2
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 **Duração**: ~10 min na sessão · ~2h em câmara (em equipa) · **Base legal**: art. 23.º + Anexo I do Aviso 5146/2026/2.
 
 O QNRCS v2 (ver [Recursos / QNRCS v2]({% link recursos/qnrcs.md %})) é o referencial obrigatório aprovado pelo Anexo I do Aviso. Mas para uma câmara, ler o referencial não basta — é preciso **medir onde se está**. Esta sub-página apresenta um instrumento prático de auto-avaliação que cobre **26 controlos seleccionados** dos ~107 totais do QNRCS v2, alinhados com as medidas do Anexo IV para Grupo A/B.

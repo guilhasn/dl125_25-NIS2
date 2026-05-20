@@ -7,11 +7,6 @@ nav_order: 4
 
 # E.4 Compromisso para a próxima semana
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 **Duração**: 5 min · **Forma**: exercício individual de fecho
 
 Os 5 minutos finais da formação não são para mais matéria — são para **converter conhecimento em ação**. Acabaram de receber 6 horas de informação densa. Sem um compromisso concreto, daqui a três semanas pouco fica.
