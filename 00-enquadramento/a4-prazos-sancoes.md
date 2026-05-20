@@ -180,12 +180,12 @@ Ver [Roteiro essencial — dupla qualificação]({% link roteiro-essencial/dupla
 **Falso.** O *art. 65.º* prevê **dispensa discricionária** de coima para infracções dos arts. 61.º e 62.º, **mediante pedido fundamentado** e demonstração de **procedimento interno de adaptação ativa**. Não é automática nem cobre infracções leves, sanções acessórias ou compulsórias.
 </details>
 
-**3.** Quais os **dois meios de autenticação** aceites no MyCiber?
+**3.** Em que **Anexo do Aviso 5146/2026/2** estão as medidas mínimas aplicáveis a uma autarquia — Anexo III ou Anexo IV?
 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Cartão de Cidadão (CC)** e **Chave Móvel Digital (CMD)**. Sem login local. Mesma autenticação eletrónica usada noutras plataformas da AP (Portal das Finanças, ePortugal). Ver [A.3 Plataforma MyCiber]({% link 00-enquadramento/a3-plataforma-cncs.md %}).
+**Anexo IV** — para entidades públicas relevantes, com listas distintas por Grupo A e Grupo B. O **Anexo III** destina-se a entidades **essenciais** e **importantes** (sectores Anexo I e II do DL) e organiza as medidas por níveis Básico/Substancial/Elevado. Confundir os dois é o erro mais frequente: aplicar Anexo III a uma autarquia gera **sobre-conformidade** (medidas que a lei não exige), aplicar Anexo IV a uma entidade essencial gera **sub-conformidade**. Ver [A.1 Origem e estrutura dos diplomas]({% link 00-enquadramento/a1-origem-diplomas.md %}) e [B.1 Panorama do art. 27.º]({% link 01-gestao-risco/b1-art27-panorama.md %}).
 </details>
 
 **4.** O prazo de **60 dias** para auto-identificação começa a contar a partir de **quando**?
