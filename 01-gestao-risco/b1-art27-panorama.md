@@ -60,21 +60,36 @@ O art. 27.º do RJC é o **catálogo nuclear das medidas de gestão de riscos de
 
 A fusão na al. h) é uma decisão portuguesa: politicamente faz sentido tratar pessoas, acessos e ativos como uma só área governativa; operacionalmente significa que três conjuntos de controlos coexistem dentro do mesmo "guarda-chuva" jurídico.
 
-## A questão central: o art. 27.º **não é o vosso artigo**
+## A quem se aplica o art. 27.º — e a quem não
 
-Esta é a leitura crítica de todo o bloco B, e é a leitura que distingue o dirigente que **sabe** o regime do dirigente que **copiou** o regime.
+Esta é a leitura crítica de todo o bloco B, e é a que distingue o dirigente que **sabe** o regime do dirigente que **copiou** o regime.
 
 > «As medidas de cibersegurança a adotar pelas entidades **essenciais e importantes** (...)» — art. 27.º, n.º 1, alínea de abertura
 
-O art. 27.º **dirige-se exclusivamente a entidades essenciais e importantes**. Para as autarquias, que (como vimos em [A.2]({% link 00-enquadramento/a2-quem-esta-abrangido.md %})) são **entidades públicas relevantes**, a norma aplicável é o [*art. 33.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-33):
+O art. 27.º **dirige-se a entidades essenciais e importantes** — tipicamente operadores de sectores do Anexo I (água potável, águas residuais, energia, transportes…) ou do Anexo II (resíduos, alimentar, prestadores digitais, …). Para quem represente, por exemplo, **um SMAS de águas** ou uma **empresa municipal num sector do Anexo I/II**, este **é o vosso artigo** e o regime aplicável é o do Capítulo IV completo (arts. 26.º a 32.º) + **Anexo III do Aviso**.
+
+Para a **câmara enquanto tal** (entidade pública relevante, *art. 3.º, n.º 3, al. e) RJC*), a norma aplicável **não é** o art. 27.º — é o [*art. 33.º RJC*{:.legal}]({% link recursos/legislacao-dl-125-2025.md %}#art-33):
 
 > «As entidades públicas relevantes devem cumprir com as medidas de cibersegurança estabelecidas pelo CNCS (...) através de regulamento, (...) em termos proporcionais e adequados ao grupo a que pertencem.» — art. 33.º, n.os 1-2 do RJC
 
-A consequência é decisiva: **não copiem o art. 27.º para o vosso caderno de encargos**. O artigo que vos diz **o que** tem de ser implementado é o **Anexo IV do Aviso 5146/2026/2**, em **medidas operacionais** já decompostas por área, e em dois grupos distintos: Grupo A (≥250 trabalhadores) e Grupo B (75–249). Aplicar o art. 27.º acriticamente cria três problemas:
+…que se concretiza no **Anexo IV do Aviso 5146/2026/2**, com medidas operacionais distintas para Grupo A (≥250 trabalhadores) e Grupo B (75–249).
 
-1. **Sobre-conformidade**: produz documentação que a lei não exige (RC formalmente designado nos termos do art. 31.º, relatório anual nos termos do art. 30.º, ponto de contacto permanente 24/7 nos termos do art. 32.º — nenhum destes obriga uma autarquia).
-2. **Erro de fonte**: o tribunal/CNCS, em fiscalização, pergunta-vos pelo Anexo IV — não pelo art. 27.º. Apresentar evidências que não mapeiam ao Anexo IV é mau sinal.
+**Em síntese — qual artigo procurar conforme a entidade:**
+
+| Entidade representada | Artigo base | Regulamento técnico |
+|---|---|---|
+| Câmara (pública relevante Grupo A ou B) | *art. 33.º RJC* | Anexo IV do Aviso (Grupo A ou B) |
+| SMAS ou EM em sector Anexo I (essencial) | *arts. 26.º-32.º RJC* | Anexo III do Aviso (níveis B/S/E) |
+| EM em sector Anexo II (importante) | *arts. 26.º-32.º RJC* (regime aliviado) | Anexo III do Aviso |
+| Câmara **com** unidade orgânica em sector Anexo I/II (dupla qualificação intra-orgânica) | art. 33.º **+** arts. 26.º-32.º | Anexo IV **+** Anexo III |
+
+A consequência prática para quem está numa **autarquia "pura"** (sem dupla qualificação e sem operação Anexo I/II): **não copiar o art. 27.º para o caderno de encargos**. Fazê-lo acriticamente gera três problemas:
+
+1. **Sobre-conformidade**: produz documentação que a lei não exige (RC formalmente designado nos termos do art. 31.º, relatório anual nos termos do art. 30.º, ponto de contacto permanente 24/7 nos termos do art. 32.º — nenhum destes obriga uma pública relevante).
+2. **Erro de fonte**: em fiscalização, o CNCS pergunta pelo Anexo IV — não pelo art. 27.º. Apresentar evidências que não mapeiam ao Anexo IV é mau sinal.
 3. **Custo desproporcional**: implementar a totalidade das medidas pensadas para essenciais multiplica o orçamento previsível.
+
+A consequência simétrica para quem representa uma **entidade essencial/importante** (SMAS, EM Anexo I/II): copiar o **Anexo IV** em vez do Anexo III gera **sub-conformidade** — fonte legal errada no sentido oposto, com risco sancionatório agravado.
 
 {: .caso-pratico }
 > **Caso prático 3 — Caderno de encargos sem análise de risco**
