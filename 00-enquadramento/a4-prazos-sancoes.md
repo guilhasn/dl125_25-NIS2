@@ -161,11 +161,15 @@ Confirme que captou o essencial do Bloco A. Clique em "Ver resposta" depois de r
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Dois registos**, em regimes diferentes:
-- **Câmara** = Grupo B (75-249 trab.) → *art. 33.º RJC* + Anexo IV.
-- **SMAS** = entidade essencial (sector águas, Anexo I) → *arts. 26.º-32.º RJC* + Anexo III.
+**Depende da forma jurídica do SMAS** — a pergunta decisiva é: *o SMAS tem NIF/NIPC próprio, autonomia funcional e personalidade jurídica distinta da do Município?*
 
-Ressalva: depende da forma de organização do SMAS (autónomo vs unidade orgânica) — ver [Roteiro essencial — dupla qualificação]({% link roteiro-essencial/dupla-qualificacao.md %}).
+**Caso A — SMAS autónomo (com NIF próprio)** → **2 registos**:
+- **Câmara** = Grupo B (75-249 trab.) → *art. 33.º RJC* + Anexo IV.
+- **SMAS** = entidade essencial (sector águas, Anexo I do DL) → *arts. 26.º-32.º RJC* + Anexo III.
+
+**Caso B — SMAS como unidade orgânica integrada no Município (sem personalidade jurídica autónoma)** → **1 registo principal** do **Município**, em que se indica que a entidade tem **atividade no sector da água potável e/ou águas residuais** (Anexo I do DL). O *art. 35.º do Aviso 5146/2026/2* exige a identificação da entidade — nome, NIF, contactos, gamas de IP, **sector/subsector aplicável** e demais elementos relevantes; o setor Anexo I é declarado nesse próprio registo.
+
+Ver [Roteiro essencial — dupla qualificação]({% link roteiro-essencial/dupla-qualificacao.md %}) para os critérios e exemplos.
 </details>
 
 **2.** A "amnistia" do *art. 65.º RJC* — verdadeiro ou falso: "até Abril de 2027 não há risco de coima para autarquias".
