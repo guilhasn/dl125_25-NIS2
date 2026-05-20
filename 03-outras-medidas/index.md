@@ -7,11 +7,6 @@ has_children: true
 
 # D. Outras medidas do art. 27.º — Anexo IV operacional
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 > ***Backups* não testados não contam.*
 
 **Duração**: 60 minutos · **4 sub-páginas**

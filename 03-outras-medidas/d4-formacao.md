@@ -7,11 +7,6 @@ nav_order: 4
 
 # D.4 Formação e sensibilização — meta-ironia
 
-{: .note }
-> **Grupo A** = autarquia com ≥ 250 trabalhadores  
-> **Grupo B** = autarquia com 75-249 trabalhadores  
-> (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
-
 {: .highlight }
 > 📚 **Recursos CNCS complementares — reutilização direta:**
 > - [**Guia para campanha de sensibilização em 5 passos**](https://www.cncs.gov.pt/pt/guia-para-realizar-uma-campanha-de-sensibilizacao/){:target="_blank"} — roteiro para preparar uma campanha interna.
