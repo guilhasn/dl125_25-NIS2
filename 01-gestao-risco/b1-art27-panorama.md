@@ -41,7 +41,7 @@ O art. 27.º do RJC é o **catálogo nuclear das medidas de gestão de riscos de
 >
 > — *art. 27.º, n.º 1 do RJC* (anexo ao DL 125/2025)
 
-Nove alíneas, da a) à i). Não dez. **Esta é a primeira diferença operacional a fixar**, porque a diretiva NIS2 (art. 21.º) enumera dez medidas — o legislador português optou por **fundir três medidas distintas da diretiva numa única alínea h)**: "segurança dos recursos humanos", "controlo do acesso" e "gestão de ativos". Quem citar "as 10 medidas do art. 27.º" está a invocar a diretiva, não o decreto-lei. Em audição com o CNCS é o art. 27.º **com 9 alíneas** que vale.
+**Nove alíneas, da a) à i)**. A al. h) é particularmente densa porque o legislador português fundiu nela três áreas que aparecem separadas na directiva NIS2 ("segurança dos recursos humanos", "controlo do acesso" e "gestão de ativos") — daí o "guarda-chuva" das pessoas, acessos e ativos viver todo na mesma alínea. Em audição com o CNCS é o art. 27.º **com 9 alíneas** que vale.
 
 ## NIS2 art. 21.º vs DL 125/2025 art. 27.º — correspondência
 
