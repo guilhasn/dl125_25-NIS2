@@ -212,12 +212,12 @@ A partir da **disponibilização do registo formal no MyCiber** comunicada pelo 
 **Reduzida a metade** nos limites mínimos e máximos (*art. 64.º RJC*). Implicação prática: em incidente típico de incumprimento (atraso, omissão), invocar sempre a negligência se não houve intenção — divide o valor potencial. A distinção dolo/negligência costuma cair em e-mails e actas — daí a importância de documentar decisões.
 </details>
 
-**7.** Das **sanções acessórias** do art. 67.º, qual é tipicamente a mais penalizante para um executivo municipal?
+**7.** Das **sanções acessórias** do *art. 67.º RJC*, qual é tipicamente a mais penalizante para um executivo municipal?
 
 <details markdown="block">
 <summary><strong>Ver resposta</strong></summary>
 
-**Privação do direito de participar em concursos públicos** (até 3 anos) e **publicidade da decisão condenatória**. As duas que mais pesam politicamente — frequentemente mais do que o valor da coima em si. Outras: proibição de atividade, suspensão de licenças, interdição temporária de cargos, perda de subsídios.
+A **interdição temporária dos titulares dos órgãos de gestão, direção e administração do exercício das respetivas funções** (*art. 67.º, al. f) RJC*). Esta atinge **pessoalmente** o titular do cargo — presidente, vereador, dirigente máximo — afastando-o da função durante o período fixado. Politicamente é a sanção mais lesiva e tem efeito imediato no exercício do mandato, diferentemente das sanções que recaem sobre o município enquanto pessoa colectiva (proibição de atividade, suspensão de licenças, privação do direito de participar em concursos públicos até 3 anos, perda de subsídios, publicidade da decisão condenatória).
 </details>
 
 **8.** A cadeia de origem do regime português é:
