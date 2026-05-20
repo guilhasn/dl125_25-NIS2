@@ -64,7 +64,7 @@ Sempre que vir uma caixa colorida, o tipo significa algo específico:
 > **Caixa verde (Estado atual)** — estado atual de algo (consulta pública, prazos, etc.).
 
 {: .caso-pratico }
-> **Caixa laranja (Caso prático)** — situação ilustrativa fictícia mas plausível em câmaras portuguesas. São 8 casos distribuídos pelos blocos A-E, cada um com narrativa curta, lição e "como deveria ter sido feito". Os casos **não correspondem a entidades reais nem a factos oficiais** — foram construídos para ser pedagogicamente representativos. Não substituem os exercícios A1-A5 nem as fichas C.6.
+> **Caixa laranja (Caso prático)** — situação ilustrativa fictícia mas plausível em câmaras portuguesas. São 8 casos distribuídos pelos blocos A-E, cada um com narrativa curta e uma **pergunta** para discussão. A resposta está logo abaixo, **escondida em "Ver resposta"** — clicar revela a análise (artigos aplicáveis e o que devia ter sido feito). Os casos **não correspondem a entidades reais nem a factos oficiais** — foram construídos para ser pedagogicamente representativos. Não substituem os exercícios A1-A5 nem as fichas C.6.
 
 ### 3. ⚖️ Referências legais clicáveis
 

@@ -38,11 +38,24 @@ A meta-ironia: estamos numa formação a discutir a obrigação de fazer formaç
 {: .caso-pratico }
 > **Caso prático 7 — Palestra anual não é programa de formação**
 >
-> Câmara cumpria a "formação anual de cibersegurança" com uma palestra de 30 minutos no início de Janeiro, a cargo do responsável de TIC, com slides preparados na véspera. Os trabalhadores assistiam, faziam algumas perguntas e regressavam aos postos. Não havia programa pedagógico anual, registo formal de presenças, segmentação por perfis de risco, avaliação de aprendizagem nem qualquer campanha durante o ano. Numa auditoria interna, a medida foi considerada frágil: havia uma ação pontual, não um programa de sensibilização sustentado.
+> Câmara cumpre a "formação anual de cibersegurança" com uma palestra de 30 minutos no início de Janeiro, a cargo do responsável de TIC, com *slides* preparados na véspera. Os trabalhadores assistem, fazem algumas perguntas e regressam aos postos. Não há programa pedagógico anual, registo formal de presenças, segmentação por perfis de risco, avaliação de aprendizagem nem qualquer campanha de reforço durante o ano.
 >
-> **Lição:** sensibilização não é uma palestra anual — é um plano com registos, recorrência e adaptação aos perfis de risco.
->
-> **Como deveria ter sido feito:** definir plano anual com 3-4 ações segmentadas por perfil (utilizadores gerais, atendimento, TIC, dirigentes). Manter registos de presença, avaliação simples e calendarização. A medida H.PF (formação periódica) do Anexo IV exige programa estruturado, não boa intenção.
+> **Pergunta:** esta prática cumpre a medida H.PF (formação periódica) do Anexo IV? O que falta para passar de "ação pontual" a "programa"?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+Não cumpre. **Sensibilização não é uma palestra anual** — é um **plano** com registos, recorrência e adaptação aos perfis de risco. A medida `H.PF` do Anexo IV exige programa estruturado, não boa intenção.
+
+O mínimo a ter:
+
+- **Plano anual** com 3–4 ações segmentadas por perfil (utilizadores gerais, atendimento, TIC, dirigentes).
+- **Registos de presença** assinados, com data, conteúdo e formador.
+- **Avaliação simples** de aprendizagem (quiz curto, exercício prático).
+- **Calendarização** que cubra o ano, não apenas Janeiro.
+
+Notar ainda: o *art. 27.º, al. f) RJC* exige expressamente formação **dos órgãos máximos de gestão** (presidente, vereadores, dirigentes). Sem evidência da formação destes titulares, a fragilidade em supervisão *ex post* é tipicamente das primeiras a aparecer.
+</details>
 
 {: .important }
 > **Formação dos órgãos máximos de gestão — obrigação legal, não opcional.** O *art. 27.º, al. f) RJC*{:.legal} — alinhado com o art. 20.º, n.º 2 da Diretiva NIS2 — exige expressamente formação em cibersegurança "**incluindo os titulares de órgãos máximos de gestão e trabalhadores**". Para autarquias, a medida `H.PF` do Anexo IV deriva desta alínea: a formação do presidente, vereadores e dirigentes máximos do serviço **não é boa prática facultativa, é exigência regulamentar**. A ausência de evidência documentada da formação destes titulares é uma das principais fragilidades em supervisão *ex post* (art. 55.º) — agrava a responsabilidade pessoal prevista nos arts. 61.º e 62.º (ver [A.4 Prazos e sanções]({% link 00-enquadramento/a4-prazos-sancoes.md %})).

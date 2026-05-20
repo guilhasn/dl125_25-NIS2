@@ -19,11 +19,27 @@ Uma autarquia não é supervisionada como uma entidade essencial. Não há audit
 {: .caso-pratico }
 > **Caso prático 8 — Práticas sem dossier**
 >
-> Após um incidente de baixa gravidade, a entidade pública relevante recebeu pedido formal de informação em sede de supervisão *ex post* (art. 55.º do RJC). A equipa explicou que fazia *backups* regulares, tinha contactos de emergência dos fornecedores, dava orientações verbais aos utilizadores e revia o portal trimestralmente. O CNCS pediu evidência. Não foi possível apresentar matriz de risco aprovada, plano de resposta documentado, registos de testes de restauro, registos de formação ou actas de decisão. O problema não era ausência de práticas — era ausência de prova organizada.
+> Após um incidente de baixa gravidade, uma entidade pública relevante recebe pedido formal de informação em sede de supervisão *ex post* (*art. 55.º RJC*). A equipa explica oralmente que faz *backups* regulares, tem contactos de emergência dos fornecedores, dá orientações verbais aos utilizadores e revê o portal trimestralmente. O CNCS pede evidência documental.
 >
-> **Lição:** em cibersegurança regulada, o que não está documentado pode não existir.
->
-> **Como deveria ter sido feito:** antes de qualquer pedido de supervisão, manter dossier mínimo de conformidade atualizado — qualificação da entidade, inventário de ativos, matriz de risco, plano de resposta, registos de incidentes, registos de formação, testes de restauro, contratos críticos. Evidência é parte da própria conformidade.
+> **Pergunta:** que vai acontecer? Onde está o problema — nas práticas ou na sua demonstração?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+O problema **não é ausência de práticas** — é **ausência de prova organizada**. Em cibersegurança regulada, **o que não está documentado pode não existir** do ponto de vista do regulador. Sem matriz de risco aprovada, plano de resposta documentado, registos de testes de restauro, registos de formação ou actas de decisão, a entidade não consegue demonstrar diligência.
+
+Antes de qualquer pedido de supervisão, manter **dossier mínimo de conformidade** sempre actualizado:
+
+- Qualificação da entidade (Grupo, dupla qualificação se aplicável).
+- Inventário de ativos críticos.
+- Matriz de risco e plano de tratamento.
+- Plano de resposta a incidentes.
+- Registos de incidentes, testes de restauro e formação.
+- Actas de decisão dos órgãos competentes.
+- Contratos críticos e cláusulas de cibersegurança.
+
+A **evidência é parte da própria conformidade**, não o relatório que se faz depois.
+</details>
 
 ## O que a lei diz
 

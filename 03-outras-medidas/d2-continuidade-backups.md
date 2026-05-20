@@ -56,11 +56,17 @@ Para o Grupo A é **expectativa**; para Grupo B é **fortemente recomendado** �
 {: .caso-pratico }
 > **Caso prático 6 — Backups na mesma rede**
 >
-> Câmara fazia *backups* diários para uma NAS interna alojada no mesmo armário do servidor de produção. Durante um ataque de *ransomware* em Março, os dados de produção e a NAS foram cifrados em simultâneo — o atacante movimentou-se lateralmente com credenciais administrativas válidas em ambos os sistemas. O último *backup* verdadeiramente isolado era de Novembro do ano anterior, em fita armazenada num armário desorganizado, sem garantia de integridade. A equipa fazia *backups* todos os dias durante quatro meses — e perdeu na mesma quatro meses de dados.
+> Câmara fazia *backups* diários para uma NAS interna alojada no mesmo armário do servidor de produção, com credenciais de administração partilhadas. Durante um ataque de *ransomware* em Março, os dados de produção e a NAS são cifrados em simultâneo — o atacante movimenta-se lateralmente com credenciais válidas em ambos os sistemas. O último *backup* verdadeiramente isolado é de Novembro do ano anterior, em fita guardada num armário desorganizado, sem garantia de integridade.
 >
-> **Lição:** *backup* acessível ao atacante é apenas mais um ficheiro para cifrar.
->
-> **Como deveria ter sido feito:** manter pelo menos uma cópia isolada (offline, imutável ou em rede segregada com credenciais distintas das de produção). Testar o restauro pelo menos trimestralmente, com restauro real de um sistema completo. Registar cada teste com data, sistema e responsável — sem registo, o teste não conta.
+> **Pergunta:** se a câmara fazia *backups* todos os dias durante quatro meses, porque perde quatro meses de dados? Que regra de *backup* foi violada?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+A regra violada é a do **isolamento** (componente da "regra 3-2-1": três cópias, em dois suportes diferentes, uma offsite/offline). **Um *backup* acessível ao atacante é apenas mais um ficheiro para cifrar** — se as credenciais de produção também abrem a NAS, o adversário trata a NAS como produção.
+
+Manter pelo menos uma cópia **isolada** — offline, imutável (*WORM*) ou em rede segregada com credenciais distintas das de produção. Testar o restauro **pelo menos trimestralmente**, com restauro real de um sistema completo. Registar cada teste com data, sistema, duração e responsável — **sem registo, o teste não conta** numa supervisão *ex post*.
+</details>
 
 ## Plano de Continuidade de Negócio (PCN) e Plano de Recuperação de Desastres (DRP)
 

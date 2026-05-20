@@ -104,11 +104,15 @@ As obrigações **acumulam**: a câmara é entidade pública relevante **e** don
 {: .caso-pratico }
 > **Caso prático 1 — Águas em unidade orgânica integrada**
 >
-> Uma câmara média do interior, com cerca de 180 trabalhadores, geria o serviço de águas através de uma unidade orgânica municipal integrada — sem SMAS autónomos nem empresa municipal. Ao preparar o registo NIS2, a equipa assumiu que a entidade seria apenas pública relevante do Grupo B, por ter menos de 250 trabalhadores. Só ao rever a atividade efectivamente prestada percebeu que a água potável é sector Anexo I e que a prestação integrada não isenta automaticamente a câmara das obrigações da entidade essencial.
+> Uma câmara média do interior, com cerca de 180 trabalhadores, gere o serviço de águas potáveis e residuais através de uma unidade orgânica municipal integrada — sem SMAS autónomos nem empresa municipal. Está a preparar o registo na plataforma do CNCS.
 >
-> **Lição:** a forma como o serviço está organizado pode alterar a qualificação da entidade — não basta olhar para o organograma; é necessário olhar para a atividade efectivamente prestada.
->
-> **Como deveria ter sido feito:** recolher informação sobre o modelo de prestação do serviço de águas (responsabilidade operacional, sistemas usados, criticidade) e avaliar enquadramento sectorial Anexo I antes do registo. Em caso de dúvida, documentar a análise e pedir orientação ao CNCS no ato de registo.
+> **Pergunta:** com que qualificação(ões) se deve registar? Basta declarar-se entidade pública relevante do Grupo B?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+Não basta. A água potável é sector do Anexo I do DL 125/2025 e a forma de prestação (integrada, externalizada, em SMAS, em empresa municipal) **não muda o facto de a atividade ser prestada** — só muda *quem* a presta. A câmara deve declarar-se como **pública relevante Grupo B** *e* como **entidade essencial** pelo sector águas — dupla qualificação intra-orgânica, com dois cadernos de encargos cumuláveis. A análise deve olhar para a atividade efectivamente prestada, **não para o organograma**. Em caso de dúvida, documentar a análise e pedir orientação ao CNCS no ato de registo.
+</details>
 
 ### Exceção qualificadora rara (art. 6.º, n.º 1, al. d) do RJC)
 

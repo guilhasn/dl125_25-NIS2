@@ -79,11 +79,17 @@ A consequência é decisiva: **não copiem o art. 27.º para o vosso caderno de 
 {: .caso-pratico }
 > **Caso prático 3 — Caderno de encargos sem análise de risco**
 >
-> Câmara lançou procedimento para nova plataforma interna de gestão documental. O caderno de encargos copiou de forma acrítica um conjunto extenso de medidas de cibersegurança, sem qualificar previamente a entidade, o sistema ou o risco do serviço. O fornecedor respondeu com proposta inflacionada — incluindo Responsável de Cibersegurança formal, Ponto de Contacto Permanente 24/7 e relatório anual de essencial — todas medidas desproporcionadas ao âmbito real. O custo final triplicou em relação ao orçamento estimado. A equipa percebeu tarde que tinha confundido boa conformidade com acumulação indiscriminada de requisitos.
+> Câmara lançou procedimento para uma nova plataforma interna de gestão documental. Para a parte de cibersegurança, o caderno de encargos copiou um conjunto extenso de medidas a partir de um modelo encontrado online, sem qualificar previamente a entidade, o sistema ou o risco do serviço. A proposta vencedora incluía Responsável de Cibersegurança formalmente designado, Ponto de Contacto Permanente 24/7 e relatório anual ao CNCS. O orçamento estimado triplicou.
 >
-> **Lição:** sem gestão de risco própria, a entidade não tem critério para distinguir requisito necessário de requisito excessivo — e fica refém do caderno-tipo ou do fornecedor.
->
-> **Como deveria ter sido feito:** antes do procedimento de contratação, fazer uma análise de risco sumária do sistema a contratar (que dados trata, que serviços suporta, que criticidade tem). Só essa análise dá à entidade base própria para triar requisitos em obrigatórios / recomendáveis / desajustados. Sem ela, o caderno só pode ser maximalista.
+> **Pergunta:** o caderno faz sentido para uma autarquia Grupo B? Onde está o erro de fonte legal e como se evita?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+Não faz sentido. As medidas exigidas no caderno (**RC formal**, **PCP 24/7**, **relatório anual**) pertencem ao regime das **entidades essenciais/importantes** (*arts. 26.º a 32.º RJC* + Anexo III do Aviso) — **não** ao das públicas relevantes (*art. 33.º* + Anexo IV). Aplicar à câmara um caderno desenhado para entidades essenciais é **sobre-conformidade**: paga-se mais e cumpre-se uma fonte legal errada.
+
+Antes do procedimento de contratação, fazer **análise de risco sumária** do sistema (que dados trata, que serviços suporta, que criticidade tem). Só essa análise dá base para triar requisitos em **obrigatórios / recomendáveis / desajustados**. Sem ela, o caderno só pode ser maximalista — e o fornecedor não tem motivo para o cortar.
+</details>
 
 ## Mapa de correspondência — art. 27.º DL → Anexo III (essencial) → Anexo IV (autarquia)
 

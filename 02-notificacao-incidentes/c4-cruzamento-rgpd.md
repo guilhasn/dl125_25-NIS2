@@ -31,11 +31,20 @@ A ideia é elegante: uma só submissão na plataforma eletrónica do CNCS encami
 {: .caso-pratico }
 > **Caso prático 5 — Incidente técnico que era violação de dados**
 >
-> Câmara sofreu indisponibilidade prolongada de um serviço online de atendimento ao munícipe. A equipa TIC tratou-o como incidente técnico clássico, notificou o CNCS no prazo das 24h e considerou o assunto encerrado. Cinco dias depois, ao reconstituir o que tinha acontecido, percebeu que entre os ficheiros expostos durante o incidente estavam anexos de pedidos administrativos com dados pessoais de munícipes — moradas, NIF, fotocópias de documentos. A entidade ficou exposta a dois regimes paralelos de responsabilidade: cibersegurança perante o CNCS e proteção de dados perante a CNPD.
+> Câmara sofre indisponibilidade prolongada de um serviço online de atendimento ao munícipe. A equipa TIC trata o evento como incidente técnico clássico, notifica o CNCS no prazo das 24h e considera o assunto encerrado. Cinco dias depois, ao reconstituir o que aconteceu, percebe que entre os ficheiros expostos durante o incidente estavam anexos de pedidos administrativos com dados pessoais de munícipes — moradas, NIF, fotocópias de documentos de identificação.
 >
-> **Lição:** notificar o CNCS não substitui avaliar obrigações perante a CNPD — incidente técnico e violação de dados pessoais podem coexistir.
->
-> **Como deveria ter sido feito:** desde o momento da deteção, envolver o Encarregado de Proteção de Dados na análise. Avaliar separadamente os dois canais (CNCS a 24h após verificação, CNPD a 72h se houver violação de dados pessoais) e manter referência cruzada nas duas comunicações.
+> **Pergunta:** ao notificar o CNCS, a câmara cumpriu todas as obrigações de comunicação? Que outra autoridade tem de ser envolvida — e em que prazo?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+Não cumpriu. **Notificar o CNCS não substitui notificar a CNPD**. O mecanismo de "uma só notificação" do *art. 40.º, n.º 7 RJC* depende de protocolo entre autoridades que **ainda não está em vigor** — até lá, os dois canais correm em paralelo:
+
+- **CNCS** — 24h após verificação do incidente significativo (art. 41.º RJC).
+- **CNPD** — 72h após conhecimento da violação de dados pessoais (art. 33.º RGPD).
+
+Desde o momento da deteção, envolver o **Encarregado de Proteção de Dados (EPD)** na análise. Avaliar separadamente os dois regimes e manter **referência cruzada** nas duas comunicações. Incidente técnico e violação de dados pessoais podem coexistir — e tipicamente coexistem.
+</details>
 
 ## Recomendação prática durante a transição
 

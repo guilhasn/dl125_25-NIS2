@@ -54,11 +54,17 @@ Em Grupo B com equipa pequena, **uma só pessoa pode acumular funções** — ma
 {: .caso-pratico }
 > **Caso prático 4 — Escalação às 17h30**
 >
-> Quinta-feira, 17h30. A equipa TIC detectou instabilidade no serviço de autenticação e sinais de credenciais comprometidas. Sabia o que fazer tecnicamente — isolar contas, rever logs, repor serviço. Mas ninguém sabia quem podia declarar incidente significativo, autorizar comunicação externa ou accionar o fornecedor de cloud com cláusula contratual de emergência. A decisão subiu de técnico para chefe de divisão TIC, depois para vereador, depois para presidente. Cada nível pediu informação adicional. Quando o presidente autorizou contenção e contacto externo, eram 23h30. Seis horas perdidas em escalação, fora do prazo administrativo normal.
+> Quinta-feira, 17h30. A equipa TIC detecta instabilidade no serviço de autenticação e sinais de credenciais comprometidas. Tecnicamente sabe o que fazer — isolar contas, rever *logs*, repor serviço. Mas ninguém sabe quem pode **declarar incidente significativo**, **autorizar comunicação externa** ou **accionar o fornecedor de *cloud*** com a cláusula contratual de emergência. A decisão sobe de técnico para chefe de divisão TIC, depois vereador, depois presidente. Cada nível pede informação adicional. Quando o presidente autoriza contenção e contacto externo, são 23h30.
 >
-> **Lição:** o plano de resposta não é burocracia — é a diferença entre agir em 30 minutos ou discutir durante seis horas quem pode decidir.
->
-> **Como deveria ter sido feito:** definir antecipadamente decisor, executor técnico e comunicador, com substitutos nomeados e contactos pessoais testados. A cadeia de decisão tem de estar escrita antes do incidente — durante o incidente já é tarde para discutir competências.
+> **Pergunta:** o que falhou? Era um problema técnico — ou um problema de plano?
+
+<details markdown="block">
+<summary><strong>Ver resposta</strong></summary>
+
+Era um problema de **plano de resposta inexistente ou não testado**. Tecnicamente a equipa sabia o que fazer; faltou a **cadeia de decisão pré-definida** — quem declara, quem autoriza, quem comunica, com substitutos para fora de horas.
+
+Definir antecipadamente, **por escrito e antes do incidente**: decisor, executor técnico, comunicador, substitutos nomeados e contactos pessoais testados. O plano não é burocracia — é a diferença entre agir em 30 minutos ou discutir durante seis horas quem tem competência para decidir. **Durante** o incidente já é tarde para esse debate.
+</details>
 
 ### 2. Critérios de activação e escalação
 
