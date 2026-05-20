@@ -27,9 +27,9 @@ Este é o conceito que desconcerta: **nenhum dos dois diplomas usa as palavras "
 
 Quando virem documentos ou notícias sobre a "administração autónoma" no contexto da NIS2, é deste grupo que se está a falar — e estão lá vocês.
 
-## A vossa autarquia é uma "entidade pública relevante"
+## A vossa autarquia é muito provavelmente uma "entidade pública relevante"
 
-Esta é a primeira conclusão importante: **as autarquias são entidades públicas relevantes** (Grupo A ou Grupo B), **não entidades essenciais nem importantes** (as duas categorias mais exigentes do regime).
+Esta é a primeira conclusão importante: **as autarquias com 75 ou mais trabalhadores são, muito provavelmente, entidades públicas relevantes** (Grupo A ou Grupo B), **não entidades essenciais nem importantes** (as duas categorias mais exigentes do regime). A confirmação faz-se com a árvore de decisão abaixo e, em algumas autarquias, complica-se com a **dupla qualificação** que vem a seguir.
 
 A consequência prática é decisiva:
 
