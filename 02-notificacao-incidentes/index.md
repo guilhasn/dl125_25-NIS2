@@ -9,9 +9,7 @@ has_children: true
 
 > *24h após verificação, não após deteção.*
 
-**Duração**: 90 minutos · **6 sub-páginas**
-
-Este é **o maior bloco do dia** — e o bloco onde, na prática, mais erros são cometidos. Os capítulos sobre notificação de incidentes do DL 125/2025 (arts. 38.º a 51.º) e do Aviso 5146/2026/2 (arts. 20.º a 22.º) são curtos, mas escondem um regime que **difere materialmente** da Diretiva NIS2 original. Quem trouxer da memória os prazos «24h + 72h + 1 mês» da Diretiva irá perder pelo menos um prazo. Atenção redobrada nas próximas seis páginas.
+É o bloco onde, na prática, mais erros são cometidos. Os capítulos sobre notificação de incidentes do DL 125/2025 (arts. 38.º a 51.º) e do Aviso 5146/2026/2 (arts. 20.º a 22.º) são curtos, mas escondem um regime que **difere materialmente** da Diretiva NIS2 original. Quem trouxer da memória os prazos «24h + 72h + 1 mês» da Diretiva irá perder pelo menos um prazo. Atenção redobrada nas próximas seis páginas.
 
 Este bloco aborda, portanto, a parte mais operacional do regime: o que fazer **antes** (plano e ponto de contacto), **no momento** (decidir, qualificar, notificar), **a seguir** (comunicar destinatários, articular com RGPD e cibercrime), e **depois** (relatório final, lições aprendidas). Fecha com 25 minutos de exercício prático individual, sobre quatro cenários realistas, seguido de discussão em plenária.
 
