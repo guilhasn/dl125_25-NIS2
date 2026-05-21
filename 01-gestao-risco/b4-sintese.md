@@ -18,7 +18,7 @@ Dez minutos a fixar o que ficou nos Blocos A e B, e a antecipar os Blocos C, D e
 
 No **Bloco A** percorremos o enquadramento legal: a vossa qualificação (Grupo A ou B, mais a eventual dupla qualificação se operam SMAS ou empresa municipal em sector Anexo I/II), a plataforma eletrónica do CNCS (MyCiber) como porta de entrada das obrigações, os prazos críticos a partir da disponibilização da plataforma, e a leitura cuidadosa do regime sancionatório — incluindo a clarificação de que a "amnistia" do art. 65.º **não é automática** e exige plano de adaptação documentado.
 
-No **Bloco B** abrimos o art. 27.º do RJC e demonstrámos a sua **não-aplicabilidade direta** às autarquias: para vocês, o regime é o art. 33.º + Anexo IV do Aviso, organizado em medidas O / T / H. Em seguida fixámos os dois pilares da gestão de risco — a **matriz probabilidade × impacto** com cinco categorias de ameaça e cinco passos metodológicos, e o **inventário de ativos críticos** com o seu prazo paralelo da lista pública (art. 32.º Aviso) que vincula transversalmente todas as entidades qualificadas, com versão inicial em 20 dias úteis.
+No **Bloco B** abrimos o art. 27.º do RJC e demonstrámos como se distribui pelos diferentes perfis: para **públicas relevantes** (autarquias Grupo A/B) o regime é o *art. 33.º* + Anexo IV do Aviso, organizado em medidas O / T / H; para **essenciais e importantes** (SMAS, empresas municipais em sector Anexo I/II) o regime é o *art. 27.º* + Anexo III, com níveis Básico / Substancial / Elevado; em **dupla qualificação**, ambos cumulam. Em seguida fixámos os dois pilares da gestão de risco — a **matriz probabilidade × impacto** com cinco categorias de ameaça e cinco passos metodológicos, e o **inventário de ativos críticos** com o seu prazo paralelo da lista pública (*art. 32.º Aviso*) que vincula transversalmente todas as entidades qualificadas, com versão inicial em 20 dias úteis.
 
 Saíram daqui dois exercícios começados: a matriz de risco com 3 linhas e o inventário com top 5 ativos críticos. **Levem esses ficheiros**.
 
@@ -28,11 +28,11 @@ Os blocos seguintes:
 
 - **Bloco C — Notificação de incidentes** (90 min): o tema mais crítico do dia. Os prazos do esquema português (24h+24h+30 dias úteis) e como evitar a confusão com os prazos da diretiva NIS2 pura. Termina com simulação de notificação 24h sobre cenário escrito (Exercício A4).
 - **Bloco D — Outras medidas + documentação** (60 min): cadeia de fornecimento (e o vosso fornecedor crítico real, Exercício A5), continuidade e *backups*, controlo de acesso, ciber-higiene e formação. É o resto do art. 27.º.
-- **Bloco E — Supervisão, sanções e roadmap** (15 min): como o CNCS supervisiona uma pública relevante (*ex post*, art. 55.º) e qual o plano dos próximos 6-12 meses para a vossa autarquia.
+- **Bloco E — Supervisão, sanções e roadmap** (15 min): como o CNCS supervisiona uma pública relevante (*ex post*, *art. 55.º*) face ao regime mais exigente das essenciais/importantes, e qual o plano dos próximos 6-12 meses para a vossa entidade.
 
 ## Três coisas a fixar antes de avançar
 
-1. **Qual o vosso grupo** — Grupo A, Grupo B ou fora; e se há dupla qualificação a tratar em paralelo. Se ainda têm dúvida, é a hora de a colocarem no chat ou de pedirem a palavra.
+1. **Qual o vosso perfil** — pública relevante (Grupo A ou B), essencial, importante, ou fora; e se há dupla qualificação a tratar em paralelo. Se ainda têm dúvida, é a hora de a colocarem no chat ou de pedirem a palavra.
 2. **Onde encontrar a matriz de risco** no manual digital e a metodologia recomendada. Vão precisar dos ficheiros para continuar o trabalho na semana seguinte.
 3. **Que ativos vão classificar**. O Exercício A3 listou 5; a versão final terá 20-40 numa câmara média. Comecem agora a mapa mental dos que faltam.
 

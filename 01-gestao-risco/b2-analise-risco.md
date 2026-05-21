@@ -15,6 +15,12 @@ nav_order: 2
 {: .highlight }
 > 📚 **Recurso CNCS complementar:** o CNCS publica o [**Guia para Gestão dos Riscos em Cibersegurança**](https://cncs.gov.pt/pt/gestao-de-risco/){:target="_blank"} — documento técnico oficial com metodologia detalhada por fases. Útil para aprofundar depois desta sessão. Ver também [Recursos do CNCS]({% link recursos/cncs.md %}).
 
+{: .important }
+> **Trilho conforme a vossa entidade:**
+> - **Pública relevante (câmara Grupo A/B)** → "Tradução para Grupo B" e "Tradução para Grupo A" abaixo.
+> - **Essencial / importante (SMAS, empresa municipal em sector Anexo I/II)** → matriz de risco *Anexo II* do Aviso + medidas Anexo III (níveis B/S/E). Ver "Em dupla qualificação" abaixo e [Roteiro essencial →]({% link roteiro-essencial/index.md %}).
+> - **Dupla qualificação (câmara + SMAS/EM)** → ambos os trilhos, regimes cumulativos.
+
 Este é **o coração do Bloco B**. Quarenta e cinco minutos de exposição porque é aqui que se decide se a vossa autarquia tem uma postura defensável perante o CNCS ou apenas uma colecção de boas intenções. A análise de risco é o instrumento que **organiza todas as outras decisões** — qual o fornecedor mais crítico, que sistema merece backup duplicado, onde aplicar MFA primeiro, que formação é prioritária. Sem análise de risco, todas as escolhas a seguir são arbitrárias.
 
 A subtileza para uma autarquia é esta: ao contrário do que acontece com entidades essenciais — que têm um artigo (o 26.º) e um anexo (o Anexo II do Aviso) integralmente dedicados ao tema —, **o Anexo IV não tem uma medida explícita "análise de risco"**. A gestão de risco para o Grupo B e Grupo A emerge **transversalmente** das medidas O, sobretudo do inventário de ativos críticos. Esta página explica como construir, mesmo sem essa medida explícita, um processo de gestão de risco proporcional, documentado e defensável.
