@@ -13,10 +13,10 @@ nav_order: 3
 > (art. 7.º RJC — ver [A.2 Quem está abrangido]({% link 00-enquadramento/a2-quem-esta-abrangido.md %}))
 
 {: .important }
-> **Trilho conforme a vossa entidade:**
+> **Caminho conforme a vossa entidade:**
 > - **Pública relevante (câmara Grupo A/B)** → "Grupo B — inventário simplificado" e "Grupo A — inventário completo" abaixo.
 > - **Essencial / importante (SMAS, empresa municipal em sector Anexo I/II)** → inventário ao abrigo do Anexo III (níveis B/S/E) com classificação de informação; ver [Roteiro essencial →]({% link roteiro-essencial/index.md %}). A medida transversal da lista pública (art. 32.º do Aviso) **aplica-se a todos**.
-> - **Dupla qualificação (câmara + SMAS/EM)** → ambos os trilhos.
+> - **Dupla qualificação (câmara + SMAS/EM)** → ambos os caminhos.
 
 O inventário de ativos é o **primeiro entregável tangível** que uma entidade qualificada (autarquia, SMAS ou empresa municipal) produz no caminho de conformidade — e o mais difícil de evitar. Sem inventário não há matriz de risco (vimos em [B.2]({% link 01-gestao-risco/b2-analise-risco.md %})), não há gestão de fornecedores, não há plano de continuidade, não há classificação de informação. E, peculiaridade portuguesa: existe ainda um inventário paralelo — a **lista de ativos publicamente acessíveis** — que tem prazo apertado (20 dias úteis após qualificação) e é **transversal** a essenciais, importantes e públicas relevantes. Esta página percorre as três peças: o inventário interno do Grupo B, o inventário ampliado do Grupo A, e a lista pública do art. 32.º do Aviso.
 
